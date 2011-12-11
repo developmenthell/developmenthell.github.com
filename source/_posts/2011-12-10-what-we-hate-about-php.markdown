@@ -10,7 +10,7 @@ Listen to a couple old dudes complain that they don't like PHP anymore. Yes, I k
 
 Feel free to hit [either](http://twitter.com/chartjes) of [us](http://twitter.com/funkatron) up on Twitter
 
-* [Listen now (MP3, 43MB)](http://devhell.s3.amazonaws.com/ep1-64mono.mp3)
+* <a href="http://devhell.s3.amazonaws.com/ep1-64mono.mp3" rel="enclosure">Listen now (MP3, 43MB)</a>
 
 ### Links
 
