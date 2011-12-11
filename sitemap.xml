@@ -2,14 +2,18 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://developmenthell.github.com/post/2011-12-10/just-a-test-post/</loc>
-        <lastmod>2011-12-10T20:31:49-05:00</lastmod>
+        <lastmod>2011-12-10T22:04:25-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://developmenthell.github.com/post/2011-12-10/what-we-hate-about-php/</loc>
+        <lastmod>2011-12-10T22:04:05-05:00</lastmod>
     </url>
     <url>
         <loc>http://developmenthell.github.com/blog/archives/</loc>
-        <lastmod>2011-12-10T20:31:49-05:00</lastmod>
+        <lastmod>2011-12-10T22:04:25-05:00</lastmod>
     </url>
     <url>
         <loc>http://developmenthell.github.com/</loc>
-        <lastmod>2011-12-10T20:31:49-05:00</lastmod>
+        <lastmod>2011-12-10T22:04:25-05:00</lastmod>
     </url>
 </urlset>

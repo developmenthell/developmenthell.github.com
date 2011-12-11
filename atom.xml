@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://developmenthell.github.com/atom.xml" rel="self"/>
   <link href="http://developmenthell.github.com/"/>
-  <updated>2011-12-10T21:41:06-05:00</updated>
+  <updated>2011-12-10T22:04:41-05:00</updated>
   <id>http://developmenthell.github.com/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -14,15 +14,50 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Just a test post]]></title>
+    <title type="html"><![CDATA[Episode 1: What We Hate About PHP]]></title>
+    <link href="http://developmenthell.github.com/post/2011-12-10/what-we-hate-about-php/"/>
+    <updated>2011-12-10T19:49:00-05:00</updated>
+    <id>http://developmenthell.github.com/post/2011-12-10/what-we-hate-about-php</id>
+    <content type="html"><![CDATA[<p>Listen to a couple old dudes complain that they don&#8217;t like PHP anymore. Yes, I know, this sounds pretty compelling.</p>
+
+<p>Feel free to hit <a href="http://twitter.com/chartjes">either</a> of <a href="http://twitter.com/funkatron">us</a> up on Twitter</p>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep1-64mono.mp3">Listen now (MP3, 43MB)</a></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li>Intro/outro music is <a href="http://www.amazon.com/Wolverine-Blues/dp/B000Z9AWOK">Entombed&#8217;s &#8220;Out of Hand&#8221; from <em>Wolverine Blues</em></a></li>
+<li><a href="http://php.net/manual/en/features.file-upload.put-method.php">PUT Method Support</a></li>
+<li></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 1: What We Hate About PHP]]></title>
     <link href="http://developmenthell.github.com/post/2011-12-10/just-a-test-post/"/>
     <updated>2011-12-10T19:49:00-05:00</updated>
     <id>http://developmenthell.github.com/post/2011-12-10/just-a-test-post</id>
-    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus nisl dolor, pulvinar id, pharetra a, egestas nec, ante. Duis scelerisque eleifend metus. Sed non odio id odio varius rutrum. Pellentesque congue commodo lacus. In semper pede lacinia felis. Morbi mollis molestie lorem. Morbi suscipit libero. Quisque ut erat sit amet elit aliquam nonummy. Donec tortor. Aliquam gravida ullamcorper pede. Praesent eros. Sed fringilla ligula sed odio pharetra imperdiet. Integer aliquet quam vitae nibh. Nam pretium, neque non congue vulputate, odio odio vehicula augue, sit amet gravida pede massa ac lectus. Curabitur a libero vitae dui sagittis aliquet. Ut suscipit. Curabitur accumsan sem a urna. Ut elit pede, vulputate sed, feugiat quis, congue sed, lacus.</p>
+    <content type="html"><![CDATA[<p>Listen to a couple old dudes complain that they don&#8217;t like PHP anymore. Yes, I know, this sounds pretty compelling.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus nisl dolor, pulvinar id, pharetra a, egestas nec, ante. Duis scelerisque eleifend metus. Sed non odio id odio varius rutrum. Pellentesque congue commodo lacus. In semper pede lacinia felis. Morbi mollis molestie lorem. Morbi suscipit libero. Quisque ut erat sit amet elit aliquam nonummy. Donec tortor. Aliquam gravida ullamcorper pede. Praesent eros. Sed fringilla ligula sed odio pharetra imperdiet. Integer aliquet quam vitae nibh. Nam pretium, neque non congue vulputate, odio odio vehicula augue, sit amet gravida pede massa ac lectus. Curabitur a libero vitae dui sagittis aliquet. Ut suscipit. Curabitur accumsan sem a urna. Ut elit pede, vulputate sed, feugiat quis, congue sed, lacus.</p>
+<p>Feel free to hit <a href="http://twitter.com/chartjes">either</a> of <a href="http://twitter.com/funkatron">us</a> up on Twitter</p>
 
-<p>Here&#8217;s a link to the podcast: <a href="http://devhell.s3.amazonaws.com/ep1-64mono.mp3">Episode 1</a></p>
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep1-64mono.mp3">Listen now (MP3, 43MB)</a></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li>Intro/outro music is <a href="http://www.amazon.com/Wolverine-Blues/dp/B000Z9AWOK">Entombed&#8217;s &#8220;Out of Hand&#8221; from <em>Wolverine Blues</em></a></li>
+</ul>
+
 ]]></content>
   </entry>
   
