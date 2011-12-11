@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2011-12-11T17:39:17-05:00</updated>
+  <updated>2011-12-11T17:46:39-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -23,7 +23,7 @@
 <p>Feel free to hit <a href="http://twitter.com/chartjes">either</a> of <a href="http://twitter.com/funkatron">us</a> up on Twitter</p>
 
 <ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep1-64mono.mp3">Listen now (MP3, 43MB)</a></li>
+<li><a href="http://devhell.s3.amazonaws.com/ep1-64mono.mp3" rel="enclosure">Listen now (MP3, 43MB)</a></li>
 </ul>
 
 
