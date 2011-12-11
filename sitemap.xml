@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://developmenthell.github.com/post/2011-12-10/what-we-hate-about-php/</loc>
-        <lastmod>2011-12-10T22:09:08-05:00</lastmod>
+        <loc>http://devhell.info/post/2011-12-10/what-we-hate-about-php/</loc>
+        <lastmod>2011-12-10T22:17:46-05:00</lastmod>
     </url>
     <url>
-        <loc>http://developmenthell.github.com/blog/archives/</loc>
-        <lastmod>2011-12-10T22:09:08-05:00</lastmod>
+        <loc>http://devhell.info/blog/archives/</loc>
+        <lastmod>2011-12-10T22:17:46-05:00</lastmod>
     </url>
     <url>
-        <loc>http://developmenthell.github.com/</loc>
-        <lastmod>2011-12-10T22:09:08-05:00</lastmod>
+        <loc>http://devhell.info/</loc>
+        <lastmod>2011-12-10T22:17:46-05:00</lastmod>
     </url>
 </urlset>
