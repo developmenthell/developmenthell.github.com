@@ -4,11 +4,11 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2011-12-11T17:46:39-05:00</updated>
+  <updated>2011-12-11T17:54:23-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
-    
+    <email><![CDATA[devhell@funkatron.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
