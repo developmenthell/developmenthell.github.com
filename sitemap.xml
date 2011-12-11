@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://developmenthell.github.com/post/2011-12-10/just-a-test-post/</loc>
+        <lastmod>2011-12-10T19:49:40-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://developmenthell.github.com/blog/archives/</loc>
-        <lastmod>2011-12-10T19:33:00-05:00</lastmod>
+        <lastmod>2011-12-10T19:49:40-05:00</lastmod>
     </url>
     <url>
         <loc>http://developmenthell.github.com/</loc>
-        <lastmod>2011-12-10T19:33:00-05:00</lastmod>
+        <lastmod>2011-12-10T19:49:40-05:00</lastmod>
     </url>
 </urlset>
