@@ -63,9 +63,9 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: dev_hell
 twitter_tweet_count: 4
-twitter_show_replies: false
+twitter_show_replies: true
 twitter_follow_button: true
 twitter_show_follower_count: false
 twitter_tweet_button: true
