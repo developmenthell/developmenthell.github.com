@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2011-12-19T13:31:50-05:00</updated>
+  <updated>2011-12-21T10:41:08-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 2: Talking Chris Down]]></title>
+    <link href="http://devhell.info/post/2011-12-21/talking-chris-down/"/>
+    <updated>2011-12-21T10:00:00-05:00</updated>
+    <id>http://devhell.info/post/2011-12-21/talking-chris-down</id>
+    <content type="html"><![CDATA[<p>Doing something the second time is always the toughest, but we somehow managed
+to get our act together for a second episode of &#8220;Development Hell&#8221;.</p>
+
+<p>Our hosts <a href="http://twitter.com/chartjes">Chris</a> and <a href="http://twitter.com/funkatron">Ed</a>
+got together and discussed whatever was on their minds that night. Thanks to
+Ed for doing a masterful job of editing the results of using my crappy headset
+for the conversation.</p>
+
+<p>Summary of the show:</p>
+
+<ul>
+<li>Git and git workflows</li>
+<li>Node.js vs. Twisted/Tornado</li>
+<li>How being opinionated and objective about a topic is impossible</li>
+<li><p>Building your online brand</p></li>
+<li><p><a href="http://devhell.s3.amazonaws.com/ep2-64mono.mp3" rel="enclosure">Listen now (MP3, 40MB)</a></p></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li>The <a href="http://nvie.com/posts/a-successful-git-branching-model/">Git branching workflow</a> that Chris uses at work</li>
+<li>Before the rise of Github you could <a href="http://gitorious.com/local_install">host your own Git repos</a></li>
+<li>Some <a href="http://journal.paul.querna.org/articles/2011/12/18/the-switch-python-to-node-js/">thoughts</a> on Node.js vs. Twister/Tornado</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 1: What We Hate About PHP]]></title>
