@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2011-12-21T10:41:08-05:00</updated>
+  <updated>2011-12-21T10:50:53-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -33,7 +33,8 @@ for the conversation.</p>
 <li>Node.js vs. Twisted/Tornado</li>
 <li>How being opinionated and objective about a topic is impossible</li>
 <li><p>Building your online brand</p></li>
-<li><p><a href="http://devhell.s3.amazonaws.com/ep2-64mono.mp3" rel="enclosure">Listen now (MP3, 40MB)</a></p></li>
+<li><p><a href="http://devhell.s3.amazonaws.com/ep2-64mono.mp3" rel="enclosure">Listen now (MP3, 40MB, 1:12:50)</a>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep2-64mono.mp3"></p></li>
 </ul>
 
 
