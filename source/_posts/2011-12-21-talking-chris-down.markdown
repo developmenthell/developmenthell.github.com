@@ -21,7 +21,7 @@ Summary of the show:
 * How being opinionated and objective about a topic is impossible
 * Building your online brand
 
-* <a href="http://devhell.s3.amazonaws.com/ep2-64mono.mp3" rel="enclosure">Listen now (MP3, 40MB, 1:12:50)</a>
+* <a href="http://devhell.s3.amazonaws.com/ep2-64mono.mp3" rel="enclosure">Listen now (MP3, 40MB, 1:12:50)</a>    
 	<audio controls src="http://devhell.s3.amazonaws.com/ep2-64mono.mp3">
 
 ### Links
