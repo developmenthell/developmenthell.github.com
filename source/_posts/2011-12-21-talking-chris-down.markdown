@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episode 2: Talking Chris Down"
-date: 2011-12-21 10:00 
+date: 2011-12-21 10:00
 comments: true
 categories: podcast
 ---
@@ -21,10 +21,11 @@ Summary of the show:
 * How being opinionated and objective about a topic is impossible
 * Building your online brand
 
-* <a href="http://devhell.s3.amazonaws.com/ep2-64mono.mp3" rel="enclosure">Listen now (MP3, 40MB)</a>
+* <a href="http://devhell.s3.amazonaws.com/ep2-64mono.mp3" rel="enclosure">Listen now (MP3, 40MB, 1:12:50)</a>
+	<audio controls src="http://devhell.s3.amazonaws.com/ep2-64mono.mp3">
 
 ### Links
 
 * The [Git branching workflow](http://nvie.com/posts/a-successful-git-branching-model/) that Chris uses at work
-* Before the rise of Github you could [host your own Git repos](http://gitorious.com/local_install)  
-* Some [thoughts](http://journal.paul.querna.org/articles/2011/12/18/the-switch-python-to-node-js/) on Node.js vs. Twister/Tornado 
+* Before the rise of Github you could [host your own Git repos](http://gitorious.com/local_install)
+* Some [thoughts](http://journal.paul.querna.org/articles/2011/12/18/the-switch-python-to-node-js/) on Node.js vs. Twister/Tornado
