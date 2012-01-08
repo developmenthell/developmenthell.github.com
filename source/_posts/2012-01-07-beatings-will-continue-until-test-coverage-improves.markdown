@@ -6,7 +6,7 @@ comments: true
 categories: podcast
 ---
 
-Fresh off our holiday break, we're back with our longest show yet. We talk about Chris' new book [*The Grumpy Programmer's Guide To Building Testable PHP Applications*](http://leanpub.com/grumpy-testing), including his experiences self-publiding with [Leanpub](http://leanpub.com/grumpy-testing). Chris also explpains how he fears no precipitation on his excursions to the Codemash conference in Ohio. Then Ed talks about the thought process that lead to his latest shit-stirring blog post "[The MicroPHP Manifesto](http://funkatron.com/posts/the-microphp-manifesto.html)." Ed may or may not begin crying openly. Finally, we discuss when it might be necessary to trash your existing application and rewrite it.
+Fresh off our holiday break, we're back with our longest show yet. We talk about Chris' new book [*The Grumpy Programmer's Guide To Building Testable PHP Applications*](http://leanpub.com/grumpy-testing), including his experiences self-publishing with [Leanpub](http://leanpub.com/grumpy-testing). Chris also explpains how he fears no precipitation on his excursions to the Codemash conference in Ohio. Then Ed talks about the thought process that lead to his latest shit-stirring blog post "[The MicroPHP Manifesto](http://funkatron.com/posts/the-microphp-manifesto.html)." Ed may or may not begin crying openly. Finally, we discuss when it might be necessary to trash your existing application and rewrite it.
 
 * <a href="http://devhell.s3.amazonaws.com/ep3-64mono.mp3" rel="enclosure">Listen now (MP3, 60MB, 1:40:33)</a>    
 	<audio controls src="http://devhell.s3.amazonaws.com/ep3-64mono.mp3">
