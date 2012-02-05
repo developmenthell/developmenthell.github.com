@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2012-02-03T12:34:19-05:00</updated>
+  <updated>2012-02-05T17:03:52-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -22,7 +22,7 @@
 
 <p>In this episode we talk about dealnews, how they use PHP (and how they also use it in some interesting ways), and his thoughts on issues like concurrency and evented systems. We also cover features of PHP that allowed for some major changes and approaches they used in the code base for the site.</p>
 
-<p>Feel free to hit us up on <a href="https://twitter.com/devhell">Twitter</a> or harras <a href="https://twitter.com/funkatron">Ed</a> and <a href="https://twitter.com/grmpyprogrammer">Chris</a> directly.</p>
+<p>Feel free to hit us up on <a href="https://twitter.com/dev_hell">Twitter</a> or harras <a href="https://twitter.com/funkatron">Ed</a> and <a href="https://twitter.com/grmpyprogrammer">Chris</a> directly.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep5-64mono.mp3" rel="enclosure">Listen now (MP3, 41MB, 1:14:37)</a>  <br/>
@@ -57,7 +57,7 @@
 
 <p>Oh yeah, you also find out our opinions on what constitutes a "well-written PHP application". I'm sure you will be surprised by our answers.</p>
 
-<p>As always, we welcome your feedback. You can always hit us up on <a href="https://twitter.com/devhell">Twitter</a> where we love to read what you say and promptly ignore it or privately mock it.</p>
+<p>As always, we welcome your feedback. You can always hit us up on <a href="https://twitter.com/dev_hell">Twitter</a> where we love to read what you say and promptly ignore it or privately mock it.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep4-64mono.mp3" rel="enclosure">Listen now (MP3, 51MB, 1:20:18)</a>  <br/>
