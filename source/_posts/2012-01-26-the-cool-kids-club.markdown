@@ -12,7 +12,7 @@ Our fourth episode is all ready for your listening pleasure. In this exciting ep
 
 Oh yeah, you also find out our opinions on what constitutes a "well-written PHP application". I'm sure you will be surprised by our answers.
 
-As always, we welcome your feedback. You can always hit us up on [Twitter](https://twitter.com/devhell) where we love to read what you say and promptly ignore it or privately mock it. 
+As always, we welcome your feedback. You can always hit us up on [Twitter](https://twitter.com/dev_hell) where we love to read what you say and promptly ignore it or privately mock it. 
 
 * <a href="http://devhell.s3.amazonaws.com/ep4-64mono.mp3" rel="enclosure">Listen now (MP3, 51MB, 1:20:18)</a>    
 	<audio controls src="http://devhell.s3.amazonaws.com/ep4-64mono.mp3">

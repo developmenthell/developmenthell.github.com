@@ -10,7 +10,7 @@ In our fifth episode we speak to our first ever guest [Brian Moon](https://twitt
 
 In this episode we talk about dealnews, how they use PHP (and how they also use it in some interesting ways), and his thoughts on issues like concurrency and evented systems. We also cover features of PHP that allowed for some major changes and approaches they used in the code base for the site.
 
-Feel free to hit us up on [Twitter](https://twitter.com/devhell) or harras [Ed](https://twitter.com/funkatron) and [Chris](https://twitter.com/grmpyprogrammer) directly.
+Feel free to hit us up on [Twitter](https://twitter.com/dev_hell) or harras [Ed](https://twitter.com/funkatron) and [Chris](https://twitter.com/grmpyprogrammer) directly.
 
 * <a href="http://devhell.s3.amazonaws.com/ep5-64mono.mp3" rel="enclosure">Listen now (MP3, 41MB, 1:14:37)</a>    
 	<audio controls src="http://devhell.s3.amazonaws.com/ep5-64mono.mp3">
