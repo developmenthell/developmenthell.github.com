@@ -14,7 +14,7 @@ skills, Open Source Bridge and women in open source and technology in general.
 She also proved that cheap laughs are always possible by picking on Canadians.
 Also, how awesome it is that she shares a birthday with a famous NFL player.
 
-Feel free to hit us up on [Twitter](https://twitter.com/dev_hell) or harras [Ed](https://twitter.com/funkatron) and [Chris](https://twitter.com/grmpyprogrammer) directly.
+Feel free to hit us up on [Twitter](https://twitter.com/dev_hell) or harass [Ed](https://twitter.com/funkatron) and [Chris](https://twitter.com/grmpyprogrammer) directly.
 
 * <a href="http://devhell.s3.amazonaws.com/ep6-64mono.mp3" rel="enclosure">Listen now (MP3, 65MB, 1:45)</a>    
 	<audio controls src="http://devhell.s3.amazonaws.com/ep5-64mono.mp3">
