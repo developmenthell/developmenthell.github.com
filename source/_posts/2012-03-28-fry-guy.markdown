@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fry Guy, Cleanup in Aisle App"
+title: "Episode 8: Fry Guy, Cleanup in Aisle App"
 date: 2012-03-28 09:56
 comments: true
 categories: podcast
