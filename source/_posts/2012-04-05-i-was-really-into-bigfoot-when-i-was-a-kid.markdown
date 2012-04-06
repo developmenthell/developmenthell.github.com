@@ -8,15 +8,24 @@ categories: podcast
 
 [![A Bigfoot Impression](http://farm7.staticflickr.com/6150/6033510293_1a24368cae_z.jpg)](http://www.flickr.com/photos/auvet/6033510293/ "A Bigfoot Impression by Jimmy Emerson")
 
-This episode had us diving into the real-time web with [Nathan Fritz](https://github.com/fritzy), the Chief Architect for [&yet](http://andyet.net) and the main who has foolishly
-agreed to help Chris learn the finer points of [Node.js](http://nodejs.org). You can just hear the excitement in all our voices as we discuss Web 3.14159 aka the Real Time Web.
-Nathan is one smart motherfucker so be prepared to have lots of knowledge exploded into your brain.
+This episode had us diving into the real-time web with
+[Nathan Fritz](https://github.com/fritzy), the Chief Architect for
+[&yet](http://andyet.net), and the man who has foolishly agreed to help Chris
+learn the finer points of [Node.js](http://nodejs.org). You can just hear the
+excitement in all our voices as we discuss Web 3.14159 aka the Real Time Web.
+Nathan is one smart motherfucker so be prepared to have lots of knowledge
+exploded into your brain.
 
-Nathan also discusses his previous life as a PHP guy, what XMPP is all about, and his book-in-progress on Lua scripting in Redis. 
+Nathan also discusses his previous life as a PHP guy, what XMPP is all about,
+and his book-in-progress on Lua scripting in Redis.
 
-Thanks again to our awesome sponsor for this episode [Engine Yard](http://engineyard.com). Don't worry, we'll spend your sponsorship money wisely.
+Thanks again to our awesome sponsor for this episode
+[Engine Yard](http://engineyard.com). Don't worry, we'll spend your sponsorship
+money wisely.
 
-Feel free to hit us up on Twitter at [@dev_hell](https://twitter.com/dev_hell) or harass [Ed](https://twitter.com/funkatron) and [Chris](https://twitter.com/grmpyprogrammer) directly.
+Feel free to hit us up on Twitter at [@dev_hell](https://twitter.com/dev_hell)
+or harass [Ed](https://twitter.com/funkatron) and
+[Chris](https://twitter.com/grmpyprogrammer) directly.
 
 * <a href="http://devhell.s3.amazonaws.com/ep9-64mono.mp3" rel="enclosure">Listen now (MP3, 43.2MB, 1:23)</a>    
 	<audio controls src="http://devhell.s3.amazonaws.com/ep9-64mono.mp3">
