@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2012-04-12T08:58:37-04:00</updated>
+  <updated>2012-04-26T23:41:47-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 11: From Gas Station Attendant to Java Developer]]></title>
+    <link href="http://devhell.info/post/2012-04-26/from-gas-station-attendant-to-java-developer/"/>
+    <updated>2012-04-26T22:47:00-04:00</updated>
+    <id>http://devhell.info/post/2012-04-26/from-gas-station-attendant-to-java-developer</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/powerbooktrance/500770785/" title="Empty Pockets by Terry Johnston"><img src="http://farm1.staticflickr.com/227/500770785_972d2cd223.jpg" alt="Empty Pockets by Terry Johnston" /></a></p>
+
+<p>This time out we are blessed by the presence of <a href="http://nerderati.com/me/">Joël Perras</a>, PHP developer extraordinaire and <a href="http://fictivekin.com">Fictive Kin</a> brosef of Ed. We explore Joël&#8217;s rags-to-riches story: a young academic schlepping coffee and 44oz soft drinks at a gas station, where he&#8217;s discovered by a grizzled dev team manager in need of Java skills. From there it&#8217;s been a whirlwind of web sites, programming languages, and more ops than you can shake a stick at.</p>
+
+<p>Actually I was sleepy and wasn&#8217;t really listening for the first half-hour. I bet it&#8217;s good though.</p>
+
+<p>Feel free to hit us up on Twitter at <a href="https://twitter.com/dev_hell">@dev_hell</a>
+or harass <a href="https://twitter.com/funkatron">Ed</a> and
+<a href="https://twitter.com/grmpyprogrammer">Chris</a> directly.</p>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep11-64mono.mp3" rel="enclosure">Listen now (MP3, 42.9MB, 1:31)</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep11-64mono.mp3"></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li><a href="http://twitter.com/jperras">Joël on Twitter</a></li>
+<li><a href="http://vim-adventures.com">Vim Adventures</a></li>
+<li><a href="http://www.mathworks.com/products/matlab/">MATLAB</a></li>
+<li><a href="http://flask.pocoo.org/">Flask</a></li>
+<li><a href="http://www.meetup.com/TechLife-Cincinnati/photos/7624752/">Photos from OINK-PUG Meetup on April 19, 2012</a></li>
+<li><a href="https://www.virtualbox.org/">VirtualBox</a></li>
+<li><a href="http://vagrantup.com/">Vagrant</a></li>
+<li><a href="http://www.engineyard.com/blog/2012/the-hardest-most-rewarding-job-ive-ever-had/">Engine Yard blog post on Vagrant</a></li>
+<li><a href="http://puppetlabs.com/">Puppet</a></li>
+<li><a href="http://www.sublimetext.com/2">Sublime Text 2</a></li>
+<li><a href="http://cakephp.org/">CakePHP</a></li>
+<li><a href="http://lithify.me/">Lithium</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 10: Looks Like A Lot Of White Dudes]]></title>

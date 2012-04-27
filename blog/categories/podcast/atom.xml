@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2012-04-12T08:58:37-04:00</updated>
+  <updated>2012-04-26T23:41:47-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 11: From Gas Station Attendant to Java Developer]]></title>
+    <link href="http://devhell.info/post/2012-04-26/from-gas-station-attendant-to-java-developer/"/>
+    <updated>2012-04-26T22:47:00-04:00</updated>
+    <id>http://devhell.info/post/2012-04-26/from-gas-station-attendant-to-java-developer</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/powerbooktrance/500770785/" title="Empty Pockets by Terry Johnston"><img src="http://farm1.staticflickr.com/227/500770785_972d2cd223.jpg" alt="Empty Pockets by Terry Johnston" /></a></p>
+
+<p>This time out we are blessed by the presence of <a href="http://nerderati.com/me/">Joël Perras</a>, PHP developer extraordinaire and <a href="http://fictivekin.com">Fictive Kin</a> brosef of Ed. We explore Joël's rags-to-riches story: a young academic schlepping coffee and 44oz soft drinks at a gas station, where he's discovered by a grizzled dev team manager in need of Java skills. From there it's been a whirlwind of web sites, programming languages, and more ops than you can shake a stick at.</p>
+
+<p>Actually I was sleepy and wasn't really listening for the first half-hour. I bet it's good though.</p>
+
+<p>Feel free to hit us up on Twitter at <a href="https://twitter.com/dev_hell">@dev_hell</a>
+or harass <a href="https://twitter.com/funkatron">Ed</a> and
+<a href="https://twitter.com/grmpyprogrammer">Chris</a> directly.</p>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep11-64mono.mp3" rel="enclosure">Listen now (MP3, 42.9MB, 1:31)</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep11-64mono.mp3"></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li><a href="http://twitter.com/jperras">Joël on Twitter</a></li>
+<li><a href="http://vim-adventures.com">Vim Adventures</a></li>
+<li><a href="http://www.mathworks.com/products/matlab/">MATLAB</a></li>
+<li><a href="http://flask.pocoo.org/">Flask</a></li>
+<li><a href="http://www.meetup.com/TechLife-Cincinnati/photos/7624752/">Photos from OINK-PUG Meetup on April 19, 2012</a></li>
+<li><a href="https://www.virtualbox.org/">VirtualBox</a></li>
+<li><a href="http://vagrantup.com/">Vagrant</a></li>
+<li><a href="http://www.engineyard.com/blog/2012/the-hardest-most-rewarding-job-ive-ever-had/">Engine Yard blog post on Vagrant</a></li>
+<li><a href="http://puppetlabs.com/">Puppet</a></li>
+<li><a href="http://www.sublimetext.com/2">Sublime Text 2</a></li>
+<li><a href="http://cakephp.org/">CakePHP</a></li>
+<li><a href="http://lithify.me/">Lithium</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 10: Looks Like A Lot Of White Dudes]]></title>
@@ -175,44 +216,6 @@ or harass <a href="https://twitter.com/funkatron">Ed</a> and
 <ul>
 <li><a href="http://www.kaplanprofessionalschools.com/">Kaplan Professional Schools</a></li>
 <li><a href="http://www.omgubuntu.co.uk/2011/02/self-control-ubuntu/">Self Control for Ubuntu</a> and <a href="http://visitsteve.com/made/selfcontrol/">OS X</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 6: I Do Not Code With My Vagina]]></title>
-    <link href="http://devhell.info/post/2012-02-16/i-do-not-code-with-my-vagina/"/>
-    <updated>2012-02-16T00:00:00-05:00</updated>
-    <id>http://devhell.info/post/2012-02-16/i-do-not-code-with-my-vagina</id>
-    <content type="html"><![CDATA[<p><img src="/images/posts/ickey-woods.jpeg" alt="Ickey Woods" /></p>
-
-<p>Suffragettes rejoice because we have our first female guest. <a href="https://twitter.com/selenamarie">Selena Deckelmann</a> bullied
-her way onto the show to talk with us about Postgres, her lack of real Perl
-skills, Open Source Bridge and women in open source and technology in general.
-She also proved that cheap laughs are always possible by picking on Canadians.
-Also, how awesome it is that she shares a birthday with a famous NFL player.</p>
-
-<p>Feel free to hit us up on <a href="https://twitter.com/dev_hell">Twitter</a> or harass <a href="https://twitter.com/funkatron">Ed</a> and <a href="https://twitter.com/grmpyprogrammer">Chris</a> directly.</p>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep6-64mono.mp3" rel="enclosure">Listen now (MP3, 65MB, 1:45)</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep6-64mono.mp3"></li>
-</ul>
-
-
-<h3>Links</h3>
-
-<ul>
-<li>Selena's <a href="http://primeradiant.com">company</a> is working on <a href="http://checkmarkable.com">Checkmarkable</a></li>
-<li><a href="http://postgresql.org">Postgres</a></li>
-<li><a href="http://jifty.org/view/HomePage">Jifty</a></li>
-<li><a href="http://www.catalystframework.org">Catalyst</a></li>
-<li><a href="http://batmanjs.org">Batman.js</a></li>
-<li><a href="http://opensourcebridge.org/">Open Source Bridge</a></li>
-<li><a href="http://www.chesnok.com/daily/2011/03/30/where-meritocracy-fails/">Where meritocracy fails</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Ickey_Woods">Ickey Woods</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Royal_Canadian_Mounted_Police">"What's up with the mounties"</a></li>
 </ul>
 
 ]]></content>
