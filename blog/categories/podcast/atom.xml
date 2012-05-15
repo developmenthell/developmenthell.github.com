@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2012-04-26T23:41:47-04:00</updated>
+  <updated>2012-05-15T10:12:54-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Irish Eyes Are Always Smiling]]></title>
+    <link href="http://devhell.info/post/2012-05-14/irish-eyes-are-always-smiling/"/>
+    <updated>2012-05-14T23:38:00-04:00</updated>
+    <id>http://devhell.info/post/2012-05-14/irish-eyes-are-always-smiling</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/el_ramon/422533791/" title="When Irish Eyes Are Smiling by Timothy Valentine"><img src="http://farm1.staticflickr.com/177/422533791_5427611ba5.jpg" alt="When Irish Eyes Are Smiling by Timothy Valentine" /></a></p>
+
+<p>Through a haze of jägerbombs and extreme fatigue, we were able to shovel out another pile of podcast for your listening enjoyment. This week we talk about:</p>
+
+<ul>
+<li>Apple's magical devices, and what's holding back Android from being comparable</li>
+<li>How Rackspace completely and repeatedly dropped the ball</li>
+<li>Fun times with Python, and the value of defining guiding principles in an open source project</li>
+</ul>
+
+
+<p>Here's your homework for this week:</p>
+
+<ul>
+<li>You should follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>You should rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep12-64mono.mp3" rel="enclosure">Listen now (MP3, 45.8MB, 1:31)</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep12-64mono.mp3"></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li><a href="https://twitter.com/bdeshong">Our buddy Brian Deshong</a></li>
+<li><a href="http://tek12.phparch.com/">tek12</a></li>
+<li><a href="https://devcenter.heroku.com/articles/python">Getting Started with Python on Heroku/Cedar</a></li>
+<li><a href="http://pypi.python.org/pypi/pip">pip</a></li>
+<li><a href="http://pypi.python.org/pypi/virtualenv">virtualenv</a></li>
+<li><a href="http://www.hark.com/clips/jxrlfwbzvb-im-gonna-stick-my-dick-in-the-mashed-potatoes">If it's gonna be that kinda party…</a></li>
+<li>Apps Chris uses on his iPad for code reviews: <a href="https://join.me/">Join.me</a>, <a href="http://www.teamspeak.us/">Teamspeak</a></li>
+<li><a href="https://github.com/chartjes/liesitoldmykids">Chris' Flask app on github (lies I told my kid)</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 11: From Gas Station Attendant to Java Developer]]></title>
@@ -178,44 +226,6 @@ or harass <a href="https://twitter.com/funkatron">Ed</a> and
 <li><a href="http://xbmc.org/">XBMC</a></li>
 <li><a href="http://www.raspberrypi.org/">Raspberry Pi</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Paleolithic_diet">Paleo Diet</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 7: You Have Entered A Pants-free Workzone]]></title>
-    <link href="http://devhell.info/post/2012-02-29/you-have-entered-a-pants-free-workzone/"/>
-    <updated>2012-02-29T21:50:00-05:00</updated>
-    <id>http://devhell.info/post/2012-02-29/you-have-entered-a-pants-free-workzone</id>
-    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/oskay/297852499/" title="TVBGone - 15 by oskay"><img src="http://farm1.staticflickr.com/122/297852499_06612fc6ae_z.jpg" alt="TVBGone - 15" /></a></p>
-
-<p>This week the gruesome twosome talk about working remotely:</p>
-
-<ul>
-<li>the tools you need to make it work</li>
-<li>the problems of being the Remote Guy when everyone else is local</li>
-<li>techniques for staying focused</li>
-<li>being a goddamn adult and <a href="http://www.flickr.com/photos/sizemore/453953576/">GTTFD</a></li>
-<li>why a company should invest the time in being remote-friendly</li>
-</ul>
-
-
-<p>Chris also talks a bit about his new gig at Kaplan, where he'll surely make grown men cry.</p>
-
-<p>Feel free to hit us up on Twitter at <a href="https://twitter.com/dev_hell">@dev_hell</a> or harass <a href="https://twitter.com/funkatron">Ed</a> and <a href="https://twitter.com/grmpyprogrammer">Chris</a> directly.</p>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep7-64mono.mp3" rel="enclosure">Listen now (MP3, 37.5MB, 1:13)</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep7-64mono.mp3"></li>
-</ul>
-
-
-<h3>Links</h3>
-
-<ul>
-<li><a href="http://www.kaplanprofessionalschools.com/">Kaplan Professional Schools</a></li>
-<li><a href="http://www.omgubuntu.co.uk/2011/02/self-control-ubuntu/">Self Control for Ubuntu</a> and <a href="http://visitsteve.com/made/selfcontrol/">OS X</a></li>
 </ul>
 
 ]]></content>
