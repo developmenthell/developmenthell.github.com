@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Irish Eyes Are Always Smiling"
+title: "Episode 12: Irish Eyes Are Always Smiling"
 date: 2012-05-14 23:38
 comments: true
 categories: podcast
@@ -8,7 +8,7 @@ categories: podcast
 
 [![When Irish Eyes Are Smiling by Timothy Valentine](http://farm1.staticflickr.com/177/422533791_5427611ba5.jpg)](http://www.flickr.com/photos/el_ramon/422533791/ "When Irish Eyes Are Smiling by Timothy Valentine")
 
-Through a haze of jägerbombs and extreme fatigue, we were able to shovel out another pile of podcast for your listening enjoyment. This week we talk about:
+Through a haze of jägerbombs and extreme fatigue, we were able to shovel out another pile of podcast for your listening enjoyment. Chris says it's episode 11 when it's actually episode 12, but hey! This week we talk about:
 
 * Apple's magical devices, and what's holding back Android from being comparable
 * How Rackspace completely and repeatedly dropped the ball
