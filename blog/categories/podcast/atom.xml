@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2012-06-18T19:28:19-04:00</updated>
+  <updated>2012-07-07T11:08:14-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 16: Foam Cowboy Hats]]></title>
+    <link href="http://devhell.info/post/2012-07-07/foam-cowboy-hats/"/>
+    <updated>2012-07-07T10:54:00-04:00</updated>
+    <id>http://devhell.info/post/2012-07-07/foam-cowboy-hats</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/wafer/5334008047/" title="Yeehaw by waferbaby"><img src="http://farm6.staticflickr.com/5122/5334008047_78f29768fd_z.jpg" alt="Yeehaw by waferbaby" /></a></p>
+
+<p>After a couple weeks off, we get back into the profane swing of things. We kick off with alittle followup on the <a href="/post/2012-06-18/whack-job-central/">previous episode on mental illness</a>, but decide to quit bumming everybody out by moving on to cool tech stuff. Ed talks a little about Reaper, a new digital audio workstation he's using to do production on the podcast. Then we chat about remote pair programming with browser-based editors like Cloud9. Finally we cover Chris' experiences at Lonestar PHP, and what each of us gets out of speaking at conferences.</p>
+
+<p>If you care about us, you'll do these things:</p>
+
+<ul>
+<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep16-64mono.mp3" rel="enclosure">Listen now (MP3, 26.6MB, 58:17)</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep16-64mono.mp3"></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li><a href="http://www.reaper.fm/">Reaper</a></li>
+<li><a href="http://c9.io/">Cloud9</a></li>
+<li><a href="https://github.com/enyojs/ares-project">Ares</a></li>
+<li><a href="http://www.codingmonkeys.de/subethaedit/">SubEthaEdit</a></li>
+<li><a href="http://lonestarphp.com/">Lonestar PHP</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 15: Whack Job Central]]></title>
@@ -211,47 +250,6 @@
 <li><a href="http://www.hark.com/clips/jxrlfwbzvb-im-gonna-stick-my-dick-in-the-mashed-potatoes">If it's gonna be that kinda party…</a></li>
 <li>Apps Chris uses on his iPad for code reviews: <a href="https://join.me/">Join.me</a>, <a href="http://www.teamspeak.us/">Teamspeak</a></li>
 <li><a href="https://github.com/chartjes/liesitoldmykids">Chris' Flask app on github (lies I told my kid)</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 11: From Gas Station Attendant to Java Developer]]></title>
-    <link href="http://devhell.info/post/2012-04-26/from-gas-station-attendant-to-java-developer/"/>
-    <updated>2012-04-26T22:47:00-04:00</updated>
-    <id>http://devhell.info/post/2012-04-26/from-gas-station-attendant-to-java-developer</id>
-    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/powerbooktrance/500770785/" title="Empty Pockets by Terry Johnston"><img src="http://farm1.staticflickr.com/227/500770785_972d2cd223.jpg" alt="Empty Pockets by Terry Johnston" /></a></p>
-
-<p>This time out we are blessed by the presence of <a href="http://nerderati.com/me/">Joël Perras</a>, PHP developer extraordinaire and <a href="http://fictivekin.com">Fictive Kin</a> brosef of Ed. We explore Joël's rags-to-riches story: a young academic schlepping coffee and 44oz soft drinks at a gas station, where he's discovered by a grizzled dev team manager in need of Java skills. From there it's been a whirlwind of web sites, programming languages, and more ops than you can shake a stick at.</p>
-
-<p>Actually I was sleepy and wasn't really listening for the first half-hour. I bet it's good though.</p>
-
-<p>Feel free to hit us up on Twitter at <a href="https://twitter.com/dev_hell">@dev_hell</a>
-or harass <a href="https://twitter.com/funkatron">Ed</a> and
-<a href="https://twitter.com/grmpyprogrammer">Chris</a> directly.</p>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep11-64mono.mp3" rel="enclosure">Listen now (MP3, 42.9MB, 1:31)</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep11-64mono.mp3"></li>
-</ul>
-
-
-<h3>Links</h3>
-
-<ul>
-<li><a href="http://twitter.com/jperras">Joël on Twitter</a></li>
-<li><a href="http://vim-adventures.com">Vim Adventures</a></li>
-<li><a href="http://www.mathworks.com/products/matlab/">MATLAB</a></li>
-<li><a href="http://flask.pocoo.org/">Flask</a></li>
-<li><a href="http://www.meetup.com/TechLife-Cincinnati/photos/7624752/">Photos from OINK-PUG Meetup on April 19, 2012</a></li>
-<li><a href="https://www.virtualbox.org/">VirtualBox</a></li>
-<li><a href="http://vagrantup.com/">Vagrant</a></li>
-<li><a href="http://www.engineyard.com/blog/2012/the-hardest-most-rewarding-job-ive-ever-had/">Engine Yard blog post on Vagrant</a></li>
-<li><a href="http://puppetlabs.com/">Puppet</a></li>
-<li><a href="http://www.sublimetext.com/2">Sublime Text 2</a></li>
-<li><a href="http://cakephp.org/">CakePHP</a></li>
-<li><a href="http://lithify.me/">Lithium</a></li>
 </ul>
 
 ]]></content>
