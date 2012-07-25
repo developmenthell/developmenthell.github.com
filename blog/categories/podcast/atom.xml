@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2012-07-07T11:08:14-04:00</updated>
+  <updated>2012-07-24T21:16:27-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -14,10 +14,48 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Episode 17: This Show Is Terrible]]></title>
+    <link href="http://devhell.info/post/2012-07-24/this-show-is-terrible/"/>
+    <updated>2012-07-24T20:30:00-04:00</updated>
+    <id>http://devhell.info/post/2012-07-24/this-show-is-terrible</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/thomwatson/1431647/" title="Clothes dryer by Thom Watson"><img src="http://farm1.staticflickr.com/2/1431647_d51a6dff17_o.jpg" alt="Clothes dryer by Thom Watson" /></a></p>
+
+<p>This week on /dev/hell we talk about mentoring. Chris discusses his experiences taking a young up-and-comer under his wing, and we talk about the PHP Mentoring project. Then we babble about Aspen, an interesting, non-traditional Python web framework. Good and bad stuff in PHP gets knocked around again. Finally, Ed talks about fixing his dryer and yells at the audience.</p>
+
+<p>If you love freedom, you'll do these things:</p>
+
+<ul>
+<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep17-64mono.mp3" rel="enclosure">Listen now (MP3, 31.9MB, 1:16)</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep17-64mono.mp3"></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li><a href="http://phpmentoring.org">PHP Mentoring</a></li>
+<li><a href="http://aspen.io/">Aspen.io</a></li>
+<li><a href="http://www.hermanradtke.com/blog/blog/php-the-good-parts">PHP: The Good Parts</a></li>
+<li><a href="http://www.youtube.com/watch?v=WOLs4pAGOC8&amp;feature=player_embedded">Maytag Dryer Disassembly</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Episode 16: Foam Cowboy Hats]]></title>
-    <link href="http://devhell.info/post/2012-07-07/foam-cowboy-hats/"/>
+    <link href="http://devhell.info/post/2012-07-07/foam-cowboy-hats+copy/"/>
     <updated>2012-07-07T10:54:00-04:00</updated>
-    <id>http://devhell.info/post/2012-07-07/foam-cowboy-hats</id>
+    <id>http://devhell.info/post/2012-07-07/foam-cowboy-hats copy</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/wafer/5334008047/" title="Yeehaw by waferbaby"><img src="http://farm6.staticflickr.com/5122/5334008047_78f29768fd_z.jpg" alt="Yeehaw by waferbaby" /></a></p>
 
 <p>After a couple weeks off, we get back into the profane swing of things. We kick off with alittle followup on the <a href="/post/2012-06-18/whack-job-central/">previous episode on mental illness</a>, but decide to quit bumming everybody out by moving on to cool tech stuff. Ed talks a little about Reaper, a new digital audio workstation he's using to do production on the podcast. Then we chat about remote pair programming with browser-based editors like Cloud9. Finally we cover Chris' experiences at Lonestar PHP, and what each of us gets out of speaking at conferences.</p>
@@ -202,54 +240,6 @@
 <li><a href="https://groups.google.com/forum/#!forum/php-standards">PHP-FIG discussion group</a></li>
 <li><a href="https://github.com/php-fig/fig-standards">PHP-FIG standards repo</a></li>
 <li><a href="https://wondernetwork.com">WonderNetwork</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 12: Irish Eyes Are Always Smiling]]></title>
-    <link href="http://devhell.info/post/2012-05-14/irish-eyes-are-always-smiling/"/>
-    <updated>2012-05-14T23:38:00-04:00</updated>
-    <id>http://devhell.info/post/2012-05-14/irish-eyes-are-always-smiling</id>
-    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/el_ramon/422533791/" title="When Irish Eyes Are Smiling by Timothy Valentine"><img src="http://farm1.staticflickr.com/177/422533791_5427611ba5.jpg" alt="When Irish Eyes Are Smiling by Timothy Valentine" /></a></p>
-
-<p>Through a haze of jägerbombs and extreme fatigue, we were able to shovel out another pile of podcast for your listening enjoyment. Chris says it's episode 11 when it's actually episode 12, but hey! This week we talk about:</p>
-
-<ul>
-<li>Apple's magical devices, and what's holding back Android from being comparable</li>
-<li>How Rackspace completely and repeatedly dropped the ball</li>
-<li>Fun times with Python, and the value of defining guiding principles in an open source project</li>
-</ul>
-
-
-<p>Here's your homework for this week:</p>
-
-<ul>
-<li>You should follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li>You should rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep12-64mono.mp3" rel="enclosure">Listen now (MP3, 45.8MB, 1:31)</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep12-64mono.mp3"></li>
-</ul>
-
-
-<h3>Links</h3>
-
-<ul>
-<li><a href="https://twitter.com/bdeshong">Our buddy Brian Deshong</a></li>
-<li><a href="http://tek12.phparch.com/">tek12</a></li>
-<li><a href="https://devcenter.heroku.com/articles/python">Getting Started with Python on Heroku/Cedar</a></li>
-<li><a href="http://pypi.python.org/pypi/pip">pip</a></li>
-<li><a href="http://pypi.python.org/pypi/virtualenv">virtualenv</a></li>
-<li><a href="http://www.hark.com/clips/jxrlfwbzvb-im-gonna-stick-my-dick-in-the-mashed-potatoes">If it's gonna be that kinda party…</a></li>
-<li>Apps Chris uses on his iPad for code reviews: <a href="https://join.me/">Join.me</a>, <a href="http://www.teamspeak.us/">Teamspeak</a></li>
-<li><a href="https://github.com/chartjes/liesitoldmykids">Chris' Flask app on github (lies I told my kid)</a></li>
 </ul>
 
 ]]></content>
