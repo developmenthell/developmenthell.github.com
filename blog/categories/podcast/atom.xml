@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2012-07-24T21:16:27-04:00</updated>
+  <updated>2012-07-24T21:29:11-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -53,9 +53,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 16: Foam Cowboy Hats]]></title>
-    <link href="http://devhell.info/post/2012-07-07/foam-cowboy-hats+copy/"/>
+    <link href="http://devhell.info/post/2012-07-07/foam-cowboy-hats/"/>
     <updated>2012-07-07T10:54:00-04:00</updated>
-    <id>http://devhell.info/post/2012-07-07/foam-cowboy-hats copy</id>
+    <id>http://devhell.info/post/2012-07-07/foam-cowboy-hats</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/wafer/5334008047/" title="Yeehaw by waferbaby"><img src="http://farm6.staticflickr.com/5122/5334008047_78f29768fd_z.jpg" alt="Yeehaw by waferbaby" /></a></p>
 
 <p>After a couple weeks off, we get back into the profane swing of things. We kick off with alittle followup on the <a href="/post/2012-06-18/whack-job-central/">previous episode on mental illness</a>, but decide to quit bumming everybody out by moving on to cool tech stuff. Ed talks a little about Reaper, a new digital audio workstation he's using to do production on the podcast. Then we chat about remote pair programming with browser-based editors like Cloud9. Finally we cover Chris' experiences at Lonestar PHP, and what each of us gets out of speaking at conferences.</p>
