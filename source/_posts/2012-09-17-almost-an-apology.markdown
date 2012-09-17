@@ -8,7 +8,7 @@ categories: podcast
 
 [![Apologies by Christopher Cotrell](http://farm1.staticflickr.com/21/24755466_2f135dac39_o.jpg)](http://www.flickr.com/photos/qousqous/24755466/ "Apologies by Christopher Cotrell")
 
-After some downtime spent taking mental reps, Chris and Ed are back with a vengeance for one of our best shows. Joining us is Chris Shiflett, PHP fellow and security expert. They talk about how we interact with non-techie members of dev teams, what they're doing with Node, the state of the Canadian soccer program, heavy vs lightweight frameworks, tribalism in programming communities, and the importance of balancing work with life.  We also talk to Chris Shiflett about his role as co-founder of Brooklyn Beta, and what they aree trying to do with the conference.
+After some downtime spent taking mental reps, Chris and Ed are back with a vengeance for one of our best shows. Joining us is Chris Shiflett, PHP fellow and security expert. They talk about how we interact with non-techie members of dev teams, what they're doing with Node, the state of the Canadian soccer program, heavy vs lightweight frameworks, tribalism in programming communities, and the importance of balancing work with life.  We also talk to Chris Shiflett about his role as co-founder of Brooklyn Beta, and what they're trying to accomplish with the conference.
 
 If you're more animal than man, you'll do these things:
 
