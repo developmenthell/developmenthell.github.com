@@ -10,7 +10,7 @@ categories: podcast
 
 Twenty-one. Like blackjack. Like the gun salute. [For those about to rock](http://www.youtube.com/watch?v=trVcO02nwAE).
 
-We recorded this episode just a few days after #20, because we were able to get Elizabeth Naramore as a super-special secret guest! She talks to us about Codeconnexx, an open source tech and life skills conference in Indianapolis Nov 8-9. We also talked a lot about getting women to submit talks to conferences, including the success that Jan Lenhardt has had in this area with JSConfEU. We then get into Chris's experiments with JS testing, and what we think of App.net from a developer perspective.
+We recorded this episode just a few days after #20, because we were able to get Elizabeth Naramore as a super-special secret guest! She talks to us about Codeconnexx, an open source tech and life skills conference in Indianapolis Nov 8-9. We also talked a lot about getting women to submit talks to conferences, including the success that Jan Lehnardt has had in this area with JSConfEU. We then get into Chris's experiments with JS testing, and what we think of App.net from a developer perspective.
 
 If you're support the inalienable rights of all humans, you'll do these things:
 
