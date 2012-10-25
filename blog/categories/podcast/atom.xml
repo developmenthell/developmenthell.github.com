@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2012-10-09T10:41:25-04:00</updated>
+  <updated>2012-10-25T16:30:17-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 22: Object-Oriented Home Renovation]]></title>
+    <link href="http://devhell.info/post/2012-10-25/object-oriented-home-renovation/"/>
+    <updated>2012-10-25T16:05:00-04:00</updated>
+    <id>http://devhell.info/post/2012-10-25/object-oriented-home-renovation</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/usace-kcd/5967517006" title="First FEMA modular homes arrive in Joplin. Kansas City District U.S. Army Corps of Engineers"><img src="http://farm7.staticflickr.com/6029/5967517006_fac5db6ddd_z.jpg" alt="First FEMA modular homes arrive in Joplin. Photo by Kansas City District U.S. Army Corps of Engineers" /></a></p>
+
+<p>We hit the Double Deuce this week with special guest Chris Gay. Chris is the author of Clean Ruby, the upcoming book that applies "Data, Context and Interaction" (DCI) concepts to Ruby and Rails development. Chris is clearly much smarter than us, so we took this opportunity to attack him mercilessly as a representative of the sexist Ruby community. Chris also shares his experiences as a self-published author. In addition, we talk about how True North PHP planning is going for Chris, and Ed's experiences at Brooklyn Beta.</p>
+
+<p>If you're a true believer, you'll do these things:</p>
+
+<ul>
+<li>Check out our sponsors <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep22-64mono.mp3" rel="enclosure">Listen now (MP3, 33.1MB, 1:14:41)</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep22-64mono.mp3"></li>
+</ul>
+
+
+<h3>Links and Notes</h3>
+
+<ul>
+<li><a href="http://twitter.com/saturnflyer">Chris Gay</a></li>
+<li><a href="http://www.clean-ruby.com/">Clean Ruby</a></li>
+<li><a href="http://brooklynbeta.org">Brooklyn Beta</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Cory_Booker">Cory Booker</a></li>
+<li><a href="http://truenorthphp.ca">True North PHP</a></li>
+<li><a href="http://twitter.com/pinboard">Maciej "Pinboard guy" Ceglowski</a></li>
+<li><a href="http://twitter.com/pieratt">Ben Pieratt</a></li>
+<li><a href="http://codeconnexx.com">Codeconnexx</a></li>
+<li><a href="http://unicornfree.com/30x500">30x500</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Data,_Context,_and_Interaction">DCI on Wikipedia</a></li>
+<li><a href="http://fulloo.info/">DCI web site</a></li>
+<li><a href="http://geekfeminism.wikia.com/wiki/CouchDB_talk">GeekFeminism Wiki article on CouchDB talk at the 2009 Golden Gate Ruby Conference</a></li>
+<li><a href="http://confreaks.com/videos/1089-madisonruby2012-anti-opression-101">Anti-Oppression 101</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 21: The Grace Hopper Rape Whistle]]></title>
@@ -182,44 +229,6 @@
 
 <ul>
 <li>Ed forgot to save the notes. Welp.</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 17: This Show Is Terrible]]></title>
-    <link href="http://devhell.info/post/2012-07-24/this-show-is-terrible/"/>
-    <updated>2012-07-24T20:30:00-04:00</updated>
-    <id>http://devhell.info/post/2012-07-24/this-show-is-terrible</id>
-    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/thomwatson/1431647/" title="Clothes dryer by Thom Watson"><img src="http://farm1.staticflickr.com/2/1431647_d51a6dff17_o.jpg" alt="Clothes dryer by Thom Watson" /></a></p>
-
-<p>This week on /dev/hell we talk about mentoring. Chris discusses his experiences taking a young up-and-comer under his wing, and we talk about the PHP Mentoring project. Then we babble about Aspen, an interesting, non-traditional Python web framework. Good and bad stuff in PHP gets knocked around again. Finally, Ed talks about fixing his dryer and yells at the audience.</p>
-
-<p>If you love freedom, you'll do these things:</p>
-
-<ul>
-<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep17-64mono.mp3" rel="enclosure">Listen now (MP3, 31.9MB, 1:16)</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep17-64mono.mp3"></li>
-</ul>
-
-
-<h3>Links</h3>
-
-<ul>
-<li><a href="http://phpmentoring.org">PHP Mentoring</a></li>
-<li><a href="http://aspen.io/">Aspen.io</a></li>
-<li><a href="http://www.hermanradtke.com/blog/blog/php-the-good-parts">PHP: The Good Parts</a></li>
-<li><a href="http://www.youtube.com/watch?v=WOLs4pAGOC8&amp;feature=player_embedded">Maytag Dryer Disassembly</a></li>
 </ul>
 
 ]]></content>
