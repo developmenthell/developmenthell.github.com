@@ -8,7 +8,7 @@ categories: podcast
 
 [![First FEMA modular homes arrive in Joplin. Photo by Kansas City District U.S. Army Corps of Engineers](http://farm7.staticflickr.com/6029/5967517006_fac5db6ddd_z.jpg)](http://www.flickr.com/photos/usace-kcd/5967517006 "First FEMA modular homes arrive in Joplin. Kansas City District U.S. Army Corps of Engineers")
 
-We hit the Double Deuce this week with special guest Chris Gay. Chris is the author of Clean Ruby, the upcoming book that applies "Data, Context and Interaction" (DCI) concepts to Ruby and Rails development. Chris is clearly much smarter than us, so we took this opportunity to attack him mercilessly as a representative of the sexist Ruby community. Chris also shares his experiences as a self-published author. In addition, we talk about how True North PHP planning is going for Chris, and Ed's experiences at Brooklyn Beta.
+We hit the Double Deuce this week with special guest Jim Gay. Jim is the author of Clean Ruby, the upcoming book that applies "Data, Context and Interaction" (DCI) concepts to Ruby and Rails development. Jim is clearly much smarter than us, so we took this opportunity to attack him mercilessly as a representative of the sexist Ruby community. Jim also shares his experiences as a self-published author. In addition, we talk about how True North PHP planning is going for Chris, and Ed's experiences at Brooklyn Beta.
 
 If you're a true believer, you'll do these things:
 
@@ -23,7 +23,7 @@ If you're a true believer, you'll do these things:
 
 ### Links and Notes
 
-* [Chris Gay](http://twitter.com/saturnflyer)
+* [Jim Gay](http://twitter.com/saturnflyer)
 * [Clean Ruby](http://www.clean-ruby.com/)
 * [Brooklyn Beta](http://brooklynbeta.org)
 * [Cory Booker](http://en.wikipedia.org/wiki/Cory_Booker)
