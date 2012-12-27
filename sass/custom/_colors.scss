@@ -2,17 +2,39 @@
 // To give it a try, uncomment some of the lines below rebuild your blog, and see how it works.
 // If you need a handy color picker try http://hslpicker.com
 
-//$header-bg: #263347;
-//$subtitle-color: lighten($header-bg, 58);
-//$nav-bg: desaturate(lighten(#8fc17a, 18), 5);
-//$nav-bg-front: image-url('noise.png');
-//$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11));
-//$sidebar-bg: desaturate(#eceff5, 8);
-//$sidebar-link-color: saturate(#526f9a, 10);
-//$sidebar-link-color-hover: darken(#7ab662, 9);
-//$footer-bg: #ccc !default;
-//$footer-bg-front: image-url('noise.png');
-//$footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
+$header-bg: #ffffff;
+$title-color: #222 !default;
+$title-color-2: #4a4a4a;
+$subtitle-color: #9b9b9b;
+$thick-border-color: #4a4a4a;
+$nav-bg: #e0dfe0;
+$nav-bg-front: none;
+$nav-bg-back: #e0dfe0;
+$nav-border-left: $thick-border-color;
+$sidebar-bg: #FFFFFF;
+// $footer-bg: #ccc !default;
+$footer-bg-front: none;
+$footer-bg-back: #e0dfe0;
+$search-form-border: #9b9b9b;
+
+
+$noise-bg: none;
+$img-border: inline-image('dotted-border.png');
+
+// Main Link Colors
+$link-color: #004d66 !default;
+$link-color-hover: adjust-color($link-color, $lightness: -10, $saturation: 0) !default;
+$link-color-visited: #660000 !default;
+$link-color-active: adjust-color($link-color-hover, $lightness: -15) !default;
+
+$sidebar-link-color: $link-color;
+$sidebar-link-color-hover: $link-color-hover;
+
+$main-bg: #FFFFFF !default;
+$page-bg: #252525 !default;
+$article-border: #eeeeee !default;
+
+$header-border: transparent !default;
 
 
 /* To use the light Solarized highlighting theme uncomment the following line */
