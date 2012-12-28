@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2012-12-28T14:42:40-05:00</updated>
+  <updated>2012-12-28T17:19:47-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -44,7 +44,7 @@
 
 <p>You can get better quality mics than my headset has, but it also introduces a <em>lot</em> more hassle and expense. Decent-quality USB mics are going to run you at least $60, and they tie you to a desk or mic stand. If you want to have more flexibility, you can get XLR mics (I have a Shure SM-58), but then you’ll also need an outboard audio interface and mixer – more equipment to tie you down, and now we’re getting into at least a few hundred dollars in hardware.</p>
 
-<p>If you do get a separate mic, I’d recommend a <em>dynamic</em> mic, especially if you’re only recording yourself talking on Skype. Condenser mics are great for doing in-person interviews where you just drop the mic on a table between everybody, but they pick up all the room noise, which means you’ll probably be spending time in post-production editing out squeaky chairs and keyboard typing.</p>
+<p>If you do get a separate mic, I’d recommend a <em>dynamic</em> mic, especially if you’re only recording yourself talking on Skype. Chris is currently using a <a href="http://www.amazon.com/gp/product/B002VA464S/ref=as_li_ss_tl?ie=UTF8&amp;tag=funkatroncom-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B002VA464S">Blue Yeti condenser mic</a>, and it picks up <em>tons</em> of ambient noise in the room. Condensers are great for doing in-person interviews where you just drop the mic on a table between everybody, but they&#8217;re not well-suited for for voice chat. You&#8217;ll end up muting yourself any time you&#8217;re not talking, and spending time in post-production editing out squeaky chairs and keyboard typing.</p>
 
 <h3>Software</h3>
 
