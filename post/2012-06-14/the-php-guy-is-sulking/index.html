@@ -41,10 +41,13 @@ $(document).ready(function() {
 		};
 	});
 
-	// load audiojs on audio elements
-	// audiojs.events.ready(function() {
-	// 	var as = audiojs.createAll();
-	// });
+	// load audiojs on audio.audiojs elements
+	audiojs.events.ready(function() {
+		var as = audiojs.createAll({
+			'preload': false,
+			'autoplay': false
+		}, $('audio.audiojs'));
+	});
 
 })
 </script>

@@ -9,7 +9,7 @@
   <meta name="author" content="Chris Hartjes and Ed Finkler">
 
   
-  <meta name="description" content="(function() { var $container = $('#audio-player'); var $dl_link = $('#download-link'); var file = window.location.search.slice(1) || ""; // try to &hellip;">
+  <meta name="description" content="$(document).ready(function() { var $container = $('#audio-player'); var $dl_link = $('#download-link'); var file = window.location.search.slice(1 &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -41,10 +41,13 @@ $(document).ready(function() {
 		};
 	});
 
-	// load audiojs on audio elements
-	// audiojs.events.ready(function() {
-	// 	var as = audiojs.createAll();
-	// });
+	// load audiojs on audio.audiojs elements
+	audiojs.events.ready(function() {
+		var as = audiojs.createAll({
+			'preload': false,
+			'autoplay': false
+		}, $('audio.audiojs'));
+	});
 
 })
 </script>
@@ -56,18 +59,22 @@ $(document).ready(function() {
       <div id="audio-player"></div>
 <div id="download-link"></div>
 <script>
-(function() {
+$(document).ready(function() {
   var $container = $('#audio-player');
   var $dl_link = $('#download-link');
   var file = window.location.search.slice(1) || "";
   // try to make sure nothing too nasty gets injected
   if (file.match(/[a-z\-0-9\.]+/i)) {
     $container
-      .append('<audio controls src="http://devhell.s3.amazonaws.com/'+file+'">');
+      .append('<audio class="popup-player" controls src="http://devhell.s3.amazonaws.com/'+file+'">');
     $dl_link
       .append('<a href="http://devhell.s3.amazonaws.com/'+file+'">Download</a>');
   }
-})();
+  // var as = audiojs.createAll({
+  //     'autoplay': true
+  //   }, $('audio.popup-player')
+  // );
+});
 </script>
 <noscript>This is not gonna work without JavaScript. Sorry.</noscript>
   
