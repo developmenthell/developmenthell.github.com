@@ -29,11 +29,6 @@ her way onto the show to talk with us about Postgres, her &hellip;">
   <link rel="stylesheet" href="/assets/fonts/League_Gothic-stylesheet.css" type="text/css" charset="utf-8">
 <script src="/assets/audiojs/audio.min.js"></script>
 <script>
-  audiojs.events.ready(function() {
-    var as = audiojs.createAll();
-  });
-</script>
-<script>
 var player_win = null; // used in handler below
 $(document).ready(function() {
 	$('a.audio-player-popup').on('click', function(e) {
@@ -46,6 +41,12 @@ $(document).ready(function() {
 			player_win.focus();
 		};
 	});
+
+	// load audiojs on audio elements
+	audiojs.events.ready(function() {
+		var as = audiojs.createAll();
+	});
+
 })
 </script>
   
