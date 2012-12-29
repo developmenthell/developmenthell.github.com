@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2012-12-29T14:36:20-05:00</updated>
+  <updated>2012-12-29T14:44:32-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -127,7 +127,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep25-64mono.mp3" rel="enclosure">Listen now (MP3, 34MB, 1:15:58)</a> | <a href="http://devhell.info/player.html?ep25-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep25-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep25-64mono.mp3"></li>
 </ul>
 
 
@@ -172,7 +172,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep24-64mono.mp3" rel="enclosure">Listen now (MP3, 36.4MB, 1:20:31)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep24-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep24-64mono.mp3"></li>
 </ul>
 
 
@@ -204,7 +204,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep23-64mono-fixed.mp3" rel="enclosure">Listen now (MP3, 40.1MB, 1:30:00)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep23-64mono-fixed.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep23-64mono-fixed.mp3"></li>
 </ul>
 
 ]]></content>
@@ -235,7 +235,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep23-64mono.mp3" rel="enclosure">Listen now (MP3, 40.1MB, 1:30:00)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep23-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep23-64mono.mp3"></li>
 </ul>
 
 
@@ -280,7 +280,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep22-64mono.mp3" rel="enclosure">Listen now (MP3, 33.1MB, 1:14:41)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep22-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep22-64mono.mp3"></li>
 </ul>
 
 
@@ -329,7 +329,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep21-64mono.mp3" rel="enclosure">Listen now (MP3, 28.5MB, 1:06:42)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep21-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep21-64mono.mp3"></li>
 </ul>
 
 
@@ -377,7 +377,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep20-64mono.mp3" rel="enclosure">Listen now (MP3, 35.4MB, 1:21:40)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep20-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep20-64mono.mp3"></li>
 </ul>
 
 
@@ -416,7 +416,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep19-64mono.mp3" rel="enclosure">Listen now (MP3, 42.1MB, 1:37:04)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep19-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep19-64mono.mp3"></li>
 </ul>
 
 
@@ -466,7 +466,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep18-64mono.mp3" rel="enclosure">Listen now (MP3, 25.3MB, 57:49)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep18-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep18-64mono.mp3"></li>
 </ul>
 
 
@@ -501,7 +501,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep17-64mono.mp3" rel="enclosure">Listen now (MP3, 31.9MB, 1:16)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep17-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep17-64mono.mp3"></li>
 </ul>
 
 
@@ -539,7 +539,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep16-64mono.mp3" rel="enclosure">Listen now (MP3, 26.6MB, 58:17)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep16-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep16-64mono.mp3"></li>
 </ul>
 
 
@@ -580,7 +580,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep15-64mono.mp3" rel="enclosure">Listen now (MP3, 40.5MB, 1:31)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep15-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep15-64mono.mp3"></li>
 </ul>
 
 
@@ -623,7 +623,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep14-64mono.mp3" rel="enclosure">Listen now (MP3, 33.1MB, 1:16)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep14-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep14-64mono.mp3"></li>
 </ul>
 
 
@@ -687,7 +687,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep13-64mono.mp3" rel="enclosure">Listen now (MP3, 42.4MB, 1:07)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep13-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep13-64mono.mp3"></li>
 </ul>
 
 
@@ -739,7 +739,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep12-64mono.mp3" rel="enclosure">Listen now (MP3, 45.8MB, 1:31)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep12-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep12-64mono.mp3"></li>
 </ul>
 
 
@@ -776,7 +776,7 @@ or harass <a href="https://twitter.com/funkatron">Ed</a> and
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep11-64mono.mp3" rel="enclosure">Listen now (MP3, 42.9MB, 1:31)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep11-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep11-64mono.mp3"></li>
 </ul>
 
 
@@ -818,7 +818,7 @@ or harass <a href="https://twitter.com/funkatron">Ed</a> and
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep10-64mono.mp3" rel="enclosure">Listen now (MP3, 43.2MB, 1:23)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep10-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep10-64mono.mp3"></li>
 </ul>
 
 
@@ -864,7 +864,7 @@ or harass <a href="https://twitter.com/funkatron">Ed</a> and
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep9-64mono.mp3" rel="enclosure">Listen now (MP3, 43.2MB, 1:23)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep9-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep9-64mono.mp3"></li>
 </ul>
 
 
@@ -903,7 +903,7 @@ or harass <a href="https://twitter.com/funkatron">Ed</a> and
 
 <ul>
 <li><a href="http://devhell.s3.amazonaws.com/ep8-64mono.mp3" rel="enclosure">Listen now (MP3, 38.7MB, 1:20)</a>  <br/>
-  <audio src="http://devhell.s3.amazonaws.com/ep8-64mono.mp3"></li>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep8-64mono.mp3"></li>
 </ul>
 
 
