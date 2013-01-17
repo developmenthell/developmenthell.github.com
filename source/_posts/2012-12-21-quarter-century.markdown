@@ -34,7 +34,7 @@ cashmoney and bandwidth for our live stream, respectively.
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep25-64mono.mp3" rel="enclosure">Listen now (MP3, 34MB, 1:15:58)</a>    
+* <a href="http://devhell.s3.amazonaws.com/ep25-64mono.mp3" rel="enclosure">Listen now (MP3, 34MB, 1:15:58)</a> | <a href="/player.html?ep25-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
 	<audio controls src="http://devhell.s3.amazonaws.com/ep25-64mono.mp3">
 
 ## Links and Notes

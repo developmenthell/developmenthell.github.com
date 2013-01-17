@@ -1,1 +1,26 @@
 <link rel="stylesheet" href="/assets/fonts/League_Gothic-stylesheet.css" type="text/css" charset="utf-8">
+<script src="/assets/audiojs/audio.min.js"></script>
+<script>
+var player_win = null; // used in handler below
+$(document).ready(function() {
+	$('a.audio-player-popup').on('click', function(e) {
+		$el = $(this);
+		var link = $el.attr('href');
+		if (!player_win || player_win.closed) {
+			player_win = window.open(link,
+				"player_win", "resizable=yes,scrollbars=yes,status=no,height=60,width=460");
+		} else {
+			player_win.focus();
+		};
+	});
+
+	// load audiojs on audio.audiojs elements
+	audiojs.events.ready(function() {
+		var as = audiojs.createAll({
+			'preload': false,
+			'autoplay': false
+		}, $('audio.audiojs'));
+	});
+
+})
+</script>
