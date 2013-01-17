@@ -16,8 +16,8 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: http://feeds.feedburner.com/devhell-podcast
-subscribe_email:
+subscribe_rss: http://feeds.devhell.info/devhell-podcast
+subscribe_email: http://devhell.info/subscribe-email.html
 # RSS feeds can list your email address if you like
 email: devhell@funkatron.com
 
