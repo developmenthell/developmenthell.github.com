@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2013-01-17T09:27:58-05:00</updated>
+  <updated>2013-01-23T12:48:27-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,64 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 27: Artisan Database Administration]]></title>
+    <link href="http://devhell.info/post/2013-01-23/artisan-database-administration/"/>
+    <updated>2013-01-23T12:18:00-05:00</updated>
+    <id>http://devhell.info/post/2013-01-23/artisan-database-administration</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/49333775@N00/2463025322/" title="Miniature knitted vest 2 by The Shopping Sherpa, on Flickr"><img src="http://farm4.staticflickr.com/3284/2463025322_d48a48e6fd_o.jpg" width="1000" height="750" alt="Miniature knitted vest 2"></a></p>
+
+<p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&#8217;s success.</p>
+
+<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#x69;&#108;&#x74;&#111;&#x3a;&#x74;&#105;&#108;&#108;&#43;&#x70;&#104;&#112;&#64;&#105;&#109;&#97;&#x67;&#105;&#110;&#101;&#x65;&#x61;&#x73;&#x79;&#x2e;&#x63;&#x6f;&#x6d;">&#116;&#x69;&#108;&#108;&#x2b;&#112;&#104;&#112;&#x40;&#105;&#109;&#x61;&#x67;&#105;&#x6e;&#x65;&#x65;&#x61;&#115;&#121;&#46;&#99;&#111;&#x6d;</a>.</p>
+
+<p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
+and <a href="http://wondernetworks.com">Wonder Network</a> for providing
+cashmoney and bandwidth for our live stream, respectively.</p>
+
+<ul>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Like us on Facebook <a href="https://www.facebook.com/devhellpodcast">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep27-64mono.mp3" rel="enclosure">Listen now (MP3, 33.2MB, 1:14:08)</a> | <a href="http://devhell.info/player.html?ep27-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep27-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://chesnok.com/">Selena Deckelmann</a></li>
+<li><a href="https://github.com/preinheimer/xhgui">XHGui</a></li>
+<li><a href="http://www.cerias.purdue.edu">Ed&#8217;s old gig at Purdue</a></li>
+<li><a href="http://mxcl.github.com/homebrew/">Homebrew</a></li>
+<li><a href="http://www.macports.org/">MacPorts</a></li>
+<li><a href="http://www.finkproject.org/">Fink</a></li>
+<li><a href="http://www.vagrantup.com/">Vagrant</a></li>
+<li><a href="http://www.littlehart.net/atthekeyboard/2013/01/20/standards-soapboxes-and-shamans/">Standards, Soapboxes, and Shamans</a></li>
+<li><a href="http://en.wikipedia.org/wiki/BitKeeper">Bitkeeper Wikipedia page with history of usage on Linux kernel dev</a></li>
+<li><a href="https://leanpub.com/grumpy-testing">The Grumpy Programmer&#8217;s Guide To Building Testable PHP Applications</a></li>
+<li><a href="http://www.youtube.com/watch?v=u4D3UdxM3OU">Deadwood&#8217;s Favorite Word</a></li>
+<li><a href="http://openlife.cc/blogs/2012/august/froscon-how-big-corporations-play-open-source-game">How Big Corporations Play The Open Source Game</a>
+
+<ul>
+<li><a href="https://twitter.com/h_ingo">Henrik Ingo on Twitter</a></li>
+</ul>
+</li>
+<li><a href="http://actualfacebookgraphsearches.tumblr.com/">Actual Facebook Graph Searches</a></li>
+<li><a href="http://www.yiiframework.com/">Yii Framework</a></li>
+<li><a href="http://busycooks.about.com/od/chickenrecipe1/r/thaichickenthig.htm">Selena&#8217;s curry recipe</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 26: Sassy!]]></title>
@@ -22,7 +80,7 @@
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs&#8217; suicide, both in the context of governmental power and mental illness. We also talk about Ed&#8217;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#105;&#108;&#x74;&#111;&#x3a;&#116;&#105;&#108;&#x6c;&#43;&#x70;&#x68;&#x70;&#x40;&#x69;&#x6d;&#97;&#x67;&#x69;&#110;&#101;&#101;&#97;&#x73;&#121;&#46;&#99;&#x6f;&#109;">&#116;&#x69;&#108;&#108;&#43;&#112;&#104;&#112;&#64;&#105;&#x6d;&#97;&#x67;&#105;&#x6e;&#x65;&#x65;&#97;&#x73;&#x79;&#46;&#99;&#x6f;&#109;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#x69;&#108;&#116;&#x6f;&#x3a;&#x74;&#x69;&#108;&#108;&#43;&#112;&#104;&#x70;&#x40;&#105;&#109;&#x61;&#x67;&#x69;&#110;&#x65;&#101;&#97;&#x73;&#x79;&#46;&#x63;&#x6f;&#x6d;">&#116;&#105;&#108;&#108;&#43;&#x70;&#104;&#x70;&#64;&#105;&#109;&#97;&#103;&#105;&#110;&#x65;&#x65;&#97;&#x73;&#121;&#46;&#x63;&#x6f;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -884,54 +942,6 @@ or harass <a href="https://twitter.com/funkatron">Ed</a> and
 <li><a href="http://whiskyweb.co.uk/">WhiskyWeb</a></li>
 <li><a href="http://www.meteor.com/">Meteor</a></li>
 <li><a href="http://venturebeat.com/2012/04/11/why-a-remote-workforce-is-bad-for-startups/">Herp Derp Remote Working Is Bad</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 9: I Was Really Into Bigfoot When I Was A Kid]]></title>
-    <link href="http://devhell.info/post/2012-04-05/i-was-really-into-bigfoot-when-i-was-a-kid/"/>
-    <updated>2012-04-05T19:44:00-04:00</updated>
-    <id>http://devhell.info/post/2012-04-05/i-was-really-into-bigfoot-when-i-was-a-kid</id>
-    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/auvet/6033510293/" title="A Bigfoot Impression by Jimmy Emerson"><img src="http://farm7.staticflickr.com/6150/6033510293_1a24368cae_z.jpg" alt="A Bigfoot Impression" /></a></p>
-
-<p>This episode had us diving into the real-time web with
-<a href="https://github.com/fritzy">Nathan Fritz</a>, the Chief Architect for
-<a href="http://andyet.net">&amp;yet</a>, and the man who has foolishly agreed to help Chris
-learn the finer points of <a href="http://nodejs.org">Node.js</a>. You can just hear the
-excitement in all our voices as we discuss Web 3.14159 aka the Real Time Web.
-Nathan is one smart motherfucker so be prepared to have lots of knowledge
-exploded into your brain.</p>
-
-<p>Nathan also discusses his previous life as a PHP guy, what XMPP is all about,
-and his book-in-progress on Lua scripting in Redis.</p>
-
-<p>Thanks again to our awesome sponsor for this episode
-<a href="http://engineyard.com">Engine Yard</a>. Don&#8217;t worry, we&#8217;ll spend your sponsorship
-money wisely.</p>
-
-<p>Feel free to hit us up on Twitter at <a href="https://twitter.com/dev_hell">@dev_hell</a>
-or harass <a href="https://twitter.com/funkatron">Ed</a> and
-<a href="https://twitter.com/grmpyprogrammer">Chris</a> directly.</p>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep9-64mono.mp3" rel="enclosure">Listen now (MP3, 43.2MB, 1:23)</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep9-64mono.mp3"></li>
-</ul>
-
-
-<h3>Links</h3>
-
-<ul>
-<li><a href="http://engineyard.com">Engine Yard</a> is a most-delightful PaaS company and happy sponsor of this episode</li>
-<li><a href="http://lua.org">Lua</a> is supported as a scripting language in <a href="http://redis.io">Redis</a></li>
-<li><a href="http://andyet.net/blog/2011/nov/18/realtime-web-app-architecture-with-thoonk-a-series/">Thoonk</a></li>
-<li>Nathan learned to hate a certain subset of programmers via his work on an <a href="http://xmpp.net">XMPP</a> library he wrote in PHP</li>
-<li><a href="http://www.zeromq.org">0MQ</a></li>
-<li><a href="http://tornadoweb.org">Tornado</a> and <a href="http://twistedmatrix.com">Twisted</a> are two Python event-driven networking frameworks</li>
-<li><a href="https://github.com/eventmachine/eventmachine">Eventmachine</a> is a Ruby event-driven networking frameworks</li>
-<li><a href="https://developer.mozilla.org/en-US/">Mozilla Developers Network</a> is Nathan&#8217;s go-to choice for information about JavaScript</li>
 </ul>
 
 ]]></content>
