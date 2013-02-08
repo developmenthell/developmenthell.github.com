@@ -5,6 +5,13 @@ body > header {
 	padding-top: 4em;
 	padding-bottom: 2em;
 	// border-bottom: 1px solid $nav-bg-back;
+	#sharing {
+		float:right;
+		text-align: right;
+		#fb-sharing {
+			margin-bottom:10px;
+		}
+	}
 	h1 {
 		line-height: 1em;
 		font-size:128px;
