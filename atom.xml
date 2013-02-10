@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2013-02-08T10:54:29-05:00</updated>
+  <updated>2013-02-10T12:53:09-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -22,7 +22,7 @@
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&#8217;s success.</p>
 
-<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#105;&#108;&#x74;&#111;&#58;&#x74;&#105;&#x6c;&#108;&#43;&#112;&#104;&#x70;&#64;&#x69;&#109;&#x61;&#x67;&#105;&#x6e;&#101;&#x65;&#x61;&#115;&#x79;&#x2e;&#x63;&#111;&#x6d;">&#x74;&#105;&#x6c;&#x6c;&#43;&#112;&#104;&#x70;&#64;&#x69;&#x6d;&#97;&#x67;&#105;&#x6e;&#x65;&#x65;&#97;&#115;&#121;&#46;&#x63;&#x6f;&#x6d;</a>.</p>
+<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#x69;&#108;&#x74;&#111;&#x3a;&#116;&#x69;&#108;&#108;&#43;&#x70;&#104;&#x70;&#64;&#x69;&#x6d;&#97;&#x67;&#105;&#x6e;&#101;&#x65;&#x61;&#115;&#121;&#46;&#99;&#111;&#109;">&#x74;&#105;&#x6c;&#x6c;&#43;&#112;&#104;&#112;&#x40;&#105;&#109;&#97;&#103;&#105;&#x6e;&#101;&#101;&#97;&#115;&#x79;&#46;&#x63;&#111;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -80,7 +80,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs&#8217; suicide, both in the context of governmental power and mental illness. We also talk about Ed&#8217;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#105;&#108;&#x74;&#x6f;&#58;&#x74;&#105;&#108;&#108;&#x2b;&#112;&#104;&#x70;&#64;&#105;&#109;&#x61;&#103;&#x69;&#110;&#101;&#x65;&#x61;&#115;&#x79;&#46;&#x63;&#111;&#109;">&#116;&#105;&#108;&#108;&#x2b;&#x70;&#104;&#x70;&#x40;&#105;&#x6d;&#x61;&#103;&#x69;&#110;&#x65;&#x65;&#97;&#115;&#121;&#46;&#99;&#111;&#x6d;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#x6f;&#58;&#x74;&#x69;&#108;&#108;&#x2b;&#x70;&#104;&#x70;&#x40;&#x69;&#x6d;&#97;&#x67;&#105;&#x6e;&#101;&#101;&#97;&#x73;&#121;&#x2e;&#x63;&#x6f;&#x6d;">&#116;&#x69;&#x6c;&#108;&#x2b;&#x70;&#104;&#112;&#64;&#x69;&#109;&#97;&#103;&#105;&#x6e;&#x65;&#x65;&#97;&#x73;&#121;&#46;&#99;&#111;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -942,6 +942,332 @@ or harass <a href="https://twitter.com/funkatron">Ed</a> and
 <li><a href="http://whiskyweb.co.uk/">WhiskyWeb</a></li>
 <li><a href="http://www.meteor.com/">Meteor</a></li>
 <li><a href="http://venturebeat.com/2012/04/11/why-a-remote-workforce-is-bad-for-startups/">Herp Derp Remote Working Is Bad</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 9: I Was Really Into Bigfoot When I Was A Kid]]></title>
+    <link href="http://devhell.info/post/2012-04-05/i-was-really-into-bigfoot-when-i-was-a-kid/"/>
+    <updated>2012-04-05T19:44:00-04:00</updated>
+    <id>http://devhell.info/post/2012-04-05/i-was-really-into-bigfoot-when-i-was-a-kid</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/auvet/6033510293/" title="A Bigfoot Impression by Jimmy Emerson"><img src="http://farm7.staticflickr.com/6150/6033510293_1a24368cae_z.jpg" alt="A Bigfoot Impression" /></a></p>
+
+<p>This episode had us diving into the real-time web with
+<a href="https://github.com/fritzy">Nathan Fritz</a>, the Chief Architect for
+<a href="http://andyet.net">&amp;yet</a>, and the man who has foolishly agreed to help Chris
+learn the finer points of <a href="http://nodejs.org">Node.js</a>. You can just hear the
+excitement in all our voices as we discuss Web 3.14159 aka the Real Time Web.
+Nathan is one smart motherfucker so be prepared to have lots of knowledge
+exploded into your brain.</p>
+
+<p>Nathan also discusses his previous life as a PHP guy, what XMPP is all about,
+and his book-in-progress on Lua scripting in Redis.</p>
+
+<p>Thanks again to our awesome sponsor for this episode
+<a href="http://engineyard.com">Engine Yard</a>. Don&#8217;t worry, we&#8217;ll spend your sponsorship
+money wisely.</p>
+
+<p>Feel free to hit us up on Twitter at <a href="https://twitter.com/dev_hell">@dev_hell</a>
+or harass <a href="https://twitter.com/funkatron">Ed</a> and
+<a href="https://twitter.com/grmpyprogrammer">Chris</a> directly.</p>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep9-64mono.mp3" rel="enclosure">Listen now (MP3, 43.2MB, 1:23)</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep9-64mono.mp3"></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li><a href="http://engineyard.com">Engine Yard</a> is a most-delightful PaaS company and happy sponsor of this episode</li>
+<li><a href="http://lua.org">Lua</a> is supported as a scripting language in <a href="http://redis.io">Redis</a></li>
+<li><a href="http://andyet.net/blog/2011/nov/18/realtime-web-app-architecture-with-thoonk-a-series/">Thoonk</a></li>
+<li>Nathan learned to hate a certain subset of programmers via his work on an <a href="http://xmpp.net">XMPP</a> library he wrote in PHP</li>
+<li><a href="http://www.zeromq.org">0MQ</a></li>
+<li><a href="http://tornadoweb.org">Tornado</a> and <a href="http://twistedmatrix.com">Twisted</a> are two Python event-driven networking frameworks</li>
+<li><a href="https://github.com/eventmachine/eventmachine">Eventmachine</a> is a Ruby event-driven networking frameworks</li>
+<li><a href="https://developer.mozilla.org/en-US/">Mozilla Developers Network</a> is Nathan&#8217;s go-to choice for information about JavaScript</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 8: Fry Guy, Cleanup in Aisle App]]></title>
+    <link href="http://devhell.info/post/2012-03-28/fry-guy/"/>
+    <updated>2012-03-28T09:56:00-04:00</updated>
+    <id>http://devhell.info/post/2012-03-28/fry-guy</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/softestthing/721652533/" title="fry guy 4 tutter by Bokeh Burger"><img src="http://farm2.staticflickr.com/1134/721652533_dc4b7449c5.jpg" alt="fry guy 4 tutter" /></a></p>
+
+<p>First off, we now have a sponsor for the podcast: <a href="http://engineyard.com">Engine Yard</a>. This is something they will surely regret after listening to this episode.</p>
+
+<p>We started off with the idea of talking about technologies we wish we had time to play with. Ed was talking about his attempts at exploring Clojure, and how it&#8217;s likely he&#8217;ll be using Python for work in the near future. This leads into a discussion of what attracts us to certain languages and technologies, and when to try to work a personal interest in to your day job. Then Chris talks about how he will likely mess around with evented stuff like Node.js or Twisted for his next book about HTTP APIs or whatever.</p>
+
+<p>We also go off on a discussion about HTPC stuff. I can&#8217;t really remember how we got there.</p>
+
+<p>In reality we mostly bullshitted through the whole thing, and made fun of Engine Yard a bunch. Hopefully they know that they have awesome products and don&#8217;t hate us now.</p>
+
+<p>Feel free to hit us up on Twitter at <a href="https://twitter.com/dev_hell">@dev_hell</a> or harass <a href="https://twitter.com/funkatron">Ed</a> and <a href="https://twitter.com/grmpyprogrammer">Chris</a> directly.</p>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep8-64mono.mp3" rel="enclosure">Listen now (MP3, 38.7MB, 1:20)</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep8-64mono.mp3"></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li><a href="http://vimeo.com/36928564">Engine Yard Video</a></li>
+<li><a href="http://www.engineyard.com/products/orchestra">Engine Yard&#8217;s Orchestra product</a></li>
+<li><a href="http://clojure.org/">Clojure</a></li>
+<li><a href="http://kohanaframework.org/">Kohana</a></li>
+<li><a href="http://nodejs.org/">Node.js</a></li>
+<li><a href="http://twistedmatrix.com/">Twisted</a></li>
+<li><a href="http://gunicorn.org/">Gunicorn</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Web_Server_Gateway_Interface">WSGI</a></li>
+<li><a href="http://web.mit.edu/">MIT</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Fry_Kids">Fry Guy (actually &#8220;The Fry Kids&#8221;)</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Home_theater_PC">HTPC</a></li>
+<li><a href="http://xbmc.org/">XBMC</a></li>
+<li><a href="http://www.raspberrypi.org/">Raspberry Pi</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Paleolithic_diet">Paleo Diet</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 7: You Have Entered A Pants-free Workzone]]></title>
+    <link href="http://devhell.info/post/2012-02-29/you-have-entered-a-pants-free-workzone/"/>
+    <updated>2012-02-29T21:50:00-05:00</updated>
+    <id>http://devhell.info/post/2012-02-29/you-have-entered-a-pants-free-workzone</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/oskay/297852499/" title="TVBGone - 15 by oskay"><img src="http://farm1.staticflickr.com/122/297852499_06612fc6ae_z.jpg" alt="TVBGone - 15" /></a></p>
+
+<p>This week the gruesome twosome talk about working remotely:</p>
+
+<ul>
+<li>the tools you need to make it work</li>
+<li>the problems of being the Remote Guy when everyone else is local</li>
+<li>techniques for staying focused</li>
+<li>being a goddamn adult and <a href="http://www.flickr.com/photos/sizemore/453953576/">GTTFD</a></li>
+<li>why a company should invest the time in being remote-friendly</li>
+</ul>
+
+
+<p>Chris also talks a bit about his new gig at Kaplan, where he&#8217;ll surely make grown men cry.</p>
+
+<p>Feel free to hit us up on Twitter at <a href="https://twitter.com/dev_hell">@dev_hell</a> or harass <a href="https://twitter.com/funkatron">Ed</a> and <a href="https://twitter.com/grmpyprogrammer">Chris</a> directly.</p>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep7-64mono.mp3" rel="enclosure">Listen now (MP3, 37.5MB, 1:13)</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep7-64mono.mp3"></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li><a href="http://www.kaplanprofessionalschools.com/">Kaplan Professional Schools</a></li>
+<li><a href="http://www.omgubuntu.co.uk/2011/02/self-control-ubuntu/">Self Control for Ubuntu</a> and <a href="http://visitsteve.com/made/selfcontrol/">OS X</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 6: I Do Not Code With My Vagina]]></title>
+    <link href="http://devhell.info/post/2012-02-16/i-do-not-code-with-my-vagina/"/>
+    <updated>2012-02-16T00:00:00-05:00</updated>
+    <id>http://devhell.info/post/2012-02-16/i-do-not-code-with-my-vagina</id>
+    <content type="html"><![CDATA[<p><img src="http://devhell.info/images/posts/ickey-woods.jpeg" alt="Ickey Woods" /></p>
+
+<p>Suffragettes rejoice because we have our first female guest. <a href="https://twitter.com/selenamarie">Selena Deckelmann</a> bullied
+her way onto the show to talk with us about Postgres, her lack of real Perl
+skills, Open Source Bridge and women in open source and technology in general.
+She also proved that cheap laughs are always possible by picking on Canadians.
+Also, how awesome it is that she shares a birthday with a famous NFL player.</p>
+
+<p>Feel free to hit us up on <a href="https://twitter.com/dev_hell">Twitter</a> or harass <a href="https://twitter.com/funkatron">Ed</a> and <a href="https://twitter.com/grmpyprogrammer">Chris</a> directly.</p>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep6-64mono.mp3" rel="enclosure">Listen now (MP3, 65MB, 1:45)</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep6-64mono.mp3"></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li>Selena&#8217;s <a href="http://primeradiant.com">company</a> is working on <a href="http://checkmarkable.com">Checkmarkable</a></li>
+<li><a href="http://postgresql.org">Postgres</a></li>
+<li><a href="http://jifty.org/view/HomePage">Jifty</a></li>
+<li><a href="http://www.catalystframework.org">Catalyst</a></li>
+<li><a href="http://batmanjs.org">Batman.js</a></li>
+<li><a href="http://opensourcebridge.org/">Open Source Bridge</a></li>
+<li><a href="http://www.chesnok.com/daily/2011/03/30/where-meritocracy-fails/">Where meritocracy fails</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Ickey_Woods">Ickey Woods</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Royal_Canadian_Mounted_Police">&#8220;What&#8217;s up with the mounties&#8221;</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 5: The Hammer That is PHP]]></title>
+    <link href="http://devhell.info/post/2012-02-03/the-hammer-that-is-php/"/>
+    <updated>2012-02-03T00:00:00-05:00</updated>
+    <id>http://devhell.info/post/2012-02-03/the-hammer-that-is-php</id>
+    <content type="html"><![CDATA[<p>In our fifth episode we speak to our first ever guest <a href="https://twitter.com/brianlmoon">Brian Moon</a>, ancient PHP elder of <a href="http://dealnews.com">dealnews</a> and someone who has probably forgotten more about PHP than our two hosts will ever know. Chris admires his stamina for staying with the same employer for 14 years and counting.</p>
+
+<p>In this episode we talk about dealnews, how they use PHP (and how they also use it in some interesting ways), and his thoughts on issues like concurrency and evented systems. We also cover features of PHP that allowed for some major changes and approaches they used in the code base for the site.</p>
+
+<p>Feel free to hit us up on <a href="https://twitter.com/dev_hell">Twitter</a> or harras <a href="https://twitter.com/funkatron">Ed</a> and <a href="https://twitter.com/grmpyprogrammer">Chris</a> directly.</p>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep5-64mono.mp3" rel="enclosure">Listen now (MP3, 41MB, 1:14:37)</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep5-64mono.mp3"></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li><a href="https://nodejs.org">Node.js</a></li>
+<li><a href="http://toys.lerdorf.com/archives/57-ZeroMQ-+-libevent-in-PHP.html">Evented programming in PHP</a></li>
+<li><a href="http://gearman.org/">Gearman</a></li>
+<li><a href="https://github.com/brianlmoon/net_gearman">Brian&#8217;s customized native Gearman library</a></li>
+<li><a href="https://github.com/brianlmoon/GearmanManager">Brian&#8217;s Gearman Manager</a></li>
+<li><a href="http://www.squid-cache.org/">Squid</a></li>
+<li><a href="https://www.varnish-cache.org/">Varnish</a></li>
+<li><a href="http://devzone.zend.com/303/extension-writing-part-i-introduction-to-php-and-zend/">Building PHP extension</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 4: The Cool Kids Club]]></title>
+    <link href="http://devhell.info/post/2012-01-26/the-cool-kids-club/"/>
+    <updated>2012-01-26T00:00:00-05:00</updated>
+    <id>http://devhell.info/post/2012-01-26/the-cool-kids-club</id>
+    <content type="html"><![CDATA[<p><em><strong>Update:</strong> Our first posting of this episode had a glitch in it around 14:50. It should be fixed now. If you already have the episode, you should <a href="http://devhell.s3.amazonaws.com/ep4-64mono.mp3">re-download it</a>.</em></p>
+
+<p>Our fourth episode is all ready for your listening pleasure. In this exciting episode we focus on &#8220;The Conference Experience&#8221; and discuss why programming conferences are so important to developers. Chris talks about why <a href="http://codemash.org">CodeMash</a> was so awesome and the awesome talks full of awesomeness that he attended. Ed talks about his own experiences with speaking and attending conferences, complete with a total derail by Chris on why a certain conference rubbed him the wrong way.</p>
+
+<p>Oh yeah, you also find out our opinions on what constitutes a &#8220;well-written PHP application&#8221;. I&#8217;m sure you will be surprised by our answers.</p>
+
+<p>As always, we welcome your feedback. You can always hit us up on <a href="https://twitter.com/dev_hell">Twitter</a> where we love to read what you say and promptly ignore it or privately mock it.</p>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep4-64mono.mp3" rel="enclosure">Listen now (MP3, 51MB, 1:20:18)</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep4-64mono.mp3"></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li><a href="https://github.com/capistrano/capistrano/wiki">Capistrano</a></li>
+<li><a href="http://www.phing.info/trac">Phing</a></li>
+<li><a href="https://github.com/flogic/whiskey_disk">Whiskey Disk</a></li>
+<li><a href="http://codemash.org">CodeMash</a></li>
+<li><a href="http://jsconf.us">JSConf</a></li>
+<li><a href="http://oscon.com">OSCON</a></li>
+<li><a href="http://brooklynbeta.org/">Brooklyn Beta</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 3: Beatings Will Continue Until Test Coverage Improves]]></title>
+    <link href="http://devhell.info/post/2012-01-07/beatings-will-continue-until-test-coverage-improves/"/>
+    <updated>2012-01-07T20:03:00-05:00</updated>
+    <id>http://devhell.info/post/2012-01-07/beatings-will-continue-until-test-coverage-improves</id>
+    <content type="html"><![CDATA[<p>Fresh off our holiday break, we&#8217;re back with our longest show yet. We talk about Chris&#8217; new book <a href="http://leanpub.com/grumpy-testing"><em>The Grumpy Programmer&#8217;s Guide To Building Testable PHP Applications</em></a>, including his experiences self-publishing with <a href="http://leanpub.com/grumpy-testing">Leanpub</a>. Chris also explains how he fears no precipitation on his excursions to the Codemash conference in Ohio. Then Ed talks about the thought process that lead to his latest shit-stirring blog post &#8221;<a href="http://funkatron.com/posts/the-microphp-manifesto.html">The MicroPHP Manifesto</a>.&#8221; Ed may or may not begin crying openly. Finally, we discuss when it might be necessary to trash your existing application and rewrite it.</p>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep3-64mono.mp3" rel="enclosure">Listen now (MP3, 60MB, 1:40:33)</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep3-64mono.mp3"></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li><a href="http://leanpub.com/grumpy-testing">The Grumpy Programmer&#8217;s Guide To Building Testable PHP Applications</a></li>
+<li><a href="http://www.wjgilmore.com/books/read/refactoring_legacy_applications_using_cakephp">Refactoring Legacy Applications Using CakePHP</a></li>
+<li><a href="http://www.codemash.org/">The Codemash Conference</a></li>
+<li><a href="http://www.dells.com/">Wisconsin Dells</a></li>
+<li><a href="http://funkatron.com/posts/the-microphp-manifesto.html">The MicroPHP Manifesto</a> – <a href="http://microphp.org/">web site</a></li>
+<li><a href="http://slimframework.com">Slim</a></li>
+<li><a href="http://www.moontoast.com/">Moontoast</a></li>
+<li><a href="http://fictivekin.com/">FictiveKin</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 2: Talking Chris Down]]></title>
+    <link href="http://devhell.info/post/2011-12-21/talking-chris-down/"/>
+    <updated>2011-12-21T10:00:00-05:00</updated>
+    <id>http://devhell.info/post/2011-12-21/talking-chris-down</id>
+    <content type="html"><![CDATA[<p>Doing something the second time is always the toughest, but we somehow managed
+to get our act together for a second episode of &#8220;Development Hell&#8221;.</p>
+
+<p>Our hosts <a href="http://twitter.com/chartjes">Chris</a> and <a href="http://twitter.com/funkatron">Ed</a>
+got together and discussed whatever was on their minds that night. Thanks to
+Ed for doing a masterful job of editing the results of using my crappy headset
+for the conversation.</p>
+
+<p>Summary of the show:</p>
+
+<ul>
+<li>Git and git workflows</li>
+<li>Node.js vs. Twisted/Tornado</li>
+<li>How being opinionated and objective about a topic is impossible</li>
+<li><p>Building your online brand</p></li>
+<li><p><a href="http://devhell.s3.amazonaws.com/ep2-64mono.mp3" rel="enclosure">Listen now (MP3, 40MB, 1:12:50)</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep2-64mono.mp3"></p></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li>The <a href="http://nvie.com/posts/a-successful-git-branching-model/">Git branching workflow</a> that Chris uses at work</li>
+<li>Before the rise of Github you could <a href="http://gitorious.com/local_install">host your own Git repos</a></li>
+<li>Some <a href="http://journal.paul.querna.org/articles/2011/12/18/the-switch-python-to-node-js/">thoughts</a> on Node.js vs. Twister/Tornado</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 1: What We Hate About PHP]]></title>
+    <link href="http://devhell.info/post/2011-12-10/what-we-hate-about-php/"/>
+    <updated>2011-12-10T19:49:00-05:00</updated>
+    <id>http://devhell.info/post/2011-12-10/what-we-hate-about-php</id>
+    <content type="html"><![CDATA[<p>Listen to a couple old dudes complain that they don&#8217;t like PHP anymore. Yes, I know, this sounds pretty compelling.</p>
+
+<p>Feel free to hit <a href="http://twitter.com/chartjes">either</a> of <a href="http://twitter.com/funkatron">us</a> up on Twitter</p>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep1-64mono.mp3" rel="enclosure">Download now (MP3, 43MB, 01:26:19)</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep1-64mono.mp3"></li>
+</ul>
+
+
+<h3>Links</h3>
+
+<ul>
+<li>Intro/outro music is <a href="http://www.amazon.com/Wolverine-Blues/dp/B000Z9AWOK">Entombed&#8217;s &#8220;Out of Hand&#8221; from <em>Wolverine Blues</em></a></li>
+<li><a href="http://php.net/manual/en/features.file-upload.put-method.php">PUT Method Support</a></li>
 </ul>
 
 ]]></content>
