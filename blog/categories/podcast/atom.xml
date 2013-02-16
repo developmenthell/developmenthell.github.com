@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2013-02-10T12:53:09-05:00</updated>
+  <updated>2013-02-16T14:38:58-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 28: Canadian Twinkie Smuggler]]></title>
+    <link href="http://devhell.info/post/2013-02-16/canadian-twinkie-smuggler/"/>
+    <updated>2013-02-16T13:52:00-05:00</updated>
+    <id>http://devhell.info/post/2013-02-16/canadian-twinkie-smuggler</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/turbona/5701078956/" title="Twinkie by turbona, on Flickr"><img src="http://farm3.staticflickr.com/2678/5701078956_64e8470b65_b.jpg" width="1024" height="811" alt="Twinkie"></a></p>
+
+<p>You can blame Chris's tomfoolery for how crappy he sounds, because his computer pooped all over himself and he had to call in on his iPhone. Nevertheless, we were able to discuss in detail the smuggling of mass-produced pastries of the Twinkie and Tastykake varieties. We also get framework security in the context of recent Rails vulnerabilities, and how PHP developers seem to have a heightened awareness of potential vulnerabilities. Ed's details his experiences starting a local user group, and then discusses his efforts to speak at developer/tech conferences about his struggles with mental illness.</p>
+
+<p>If you're interested in sponsoring Development Hell, <strong><a href="mailto:devhell@funkatron.com">let us know!</a></strong></p>
+
+<ul>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Like us on Facebook <a href="https://www.facebook.com/devhellpodcast">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep28-64mono.mp3" rel="enclosure">Listen now (MP3, 29.3MB, 1:03:38)</a> | <a href="http://devhell.info/player.html?ep28-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep28-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://www.geekosystem.com/canadian-twinkies/">Twinkie the Kid is Alive and Well and Living in Canada</a></li>
+<li><a href="http://www.tastykake.com/">Tastykake</a></li>
+<li><a href="http://www.metasploit.com/modules/exploit/multi/http/rails_json_yaml_code_exec">Ruby on Rails JSON Processor YAML Deserialization Code Execution</a></li>
+<li><a href="https://github.com/jsocol/bleach">Bleach</a></li>
+<li><a href="http://www.meetup.com/Greater-Lafayette-Open-Source-Symposium/">GLOSSY Meetup Site</a></li>
+<li><a href="http://funkatron.com/posts/open-sourcing-mental-illness.html">Open Sourcing Mental Illness blog post</a></li>
+<li><a href="http://opensourcebridge.org/proposals/949">Open Sourcing Depression talk proposal for Open Source Bridge</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 27: Artisan Database Administration]]></title>
@@ -22,7 +63,7 @@
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product's success.</p>
 
-<p>This episode's super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#x69;&#108;&#x74;&#111;&#x3a;&#x74;&#105;&#108;&#108;&#x2b;&#x70;&#104;&#112;&#x40;&#x69;&#109;&#97;&#x67;&#x69;&#110;&#x65;&#x65;&#x61;&#x73;&#121;&#46;&#x63;&#x6f;&#109;">&#x74;&#x69;&#x6c;&#x6c;&#43;&#112;&#x68;&#x70;&#64;&#x69;&#x6d;&#x61;&#x67;&#105;&#110;&#101;&#x65;&#97;&#115;&#x79;&#x2e;&#99;&#111;&#109;</a>.</p>
+<p>This episode's super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#x69;&#108;&#x74;&#111;&#58;&#x74;&#105;&#x6c;&#108;&#43;&#112;&#x68;&#x70;&#x40;&#x69;&#109;&#x61;&#x67;&#x69;&#110;&#x65;&#101;&#x61;&#115;&#121;&#x2e;&#x63;&#111;&#x6d;">&#x74;&#x69;&#108;&#108;&#43;&#112;&#104;&#x70;&#64;&#x69;&#x6d;&#97;&#x67;&#105;&#110;&#101;&#101;&#97;&#x73;&#x79;&#x2e;&#99;&#111;&#x6d;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -80,7 +121,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs' suicide, both in the context of governmental power and mental illness. We also talk about Ed's favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#111;&#x3a;&#x74;&#x69;&#x6c;&#x6c;&#x2b;&#x70;&#104;&#x70;&#x40;&#x69;&#109;&#97;&#103;&#105;&#110;&#101;&#101;&#x61;&#115;&#x79;&#46;&#99;&#x6f;&#x6d;">&#x74;&#105;&#108;&#108;&#43;&#112;&#104;&#x70;&#64;&#x69;&#109;&#x61;&#103;&#105;&#110;&#x65;&#101;&#x61;&#x73;&#121;&#x2e;&#99;&#x6f;&#x6d;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#105;&#108;&#x74;&#111;&#x3a;&#x74;&#x69;&#108;&#x6c;&#x2b;&#112;&#x68;&#112;&#x40;&#x69;&#109;&#x61;&#103;&#105;&#x6e;&#x65;&#101;&#x61;&#115;&#x79;&#46;&#99;&#x6f;&#109;">&#x74;&#105;&#108;&#x6c;&#x2b;&#112;&#x68;&#112;&#64;&#x69;&#x6d;&#x61;&#x67;&#x69;&#110;&#101;&#101;&#97;&#115;&#121;&#46;&#x63;&#x6f;&#x6d;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -220,23 +261,6 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 <li><a href="https://www.varnish-cache.org/">Varnish</a></li>
 <li>Fred George -- <a href="http://oredev.org/2012/sessions/micro-service-architecture">Micro Service Architecture talk</a>, <a href="http://oredev.org/2012/sessions/programmer-anarchy">Programmer Anarchy talk</a></li>
 <li><a href="http://www.slideshare.net/fehguy/scaling-with-swagger-11728693">Scaling With Swagger</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 23 redux]]></title>
-    <link href="http://devhell.info/post/2012-11-28/episode-23-redux/"/>
-    <updated>2012-11-28T09:50:00-05:00</updated>
-    <id>http://devhell.info/post/2012-11-28/episode-23-redux</id>
-    <content type="html"><![CDATA[<p>Well crap. Episode 23 had a bad edit screwup in it, and the last 30m was basically unlistenable. This has been corrected below and at the original URL. For notes and comments, <a href="/post/2012-11-25/the-bozo-brush/">see the original post</a>.</p>
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep23-64mono-fixed.mp3" rel="enclosure">Listen now (MP3, 40.1MB, 1:30:00)</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep23-64mono-fixed.mp3"></li>
 </ul>
 
 ]]></content>
