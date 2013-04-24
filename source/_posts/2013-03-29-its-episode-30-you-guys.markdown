@@ -25,7 +25,7 @@ on the conference circuit this year. Please help out by donating to the campaign
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep30-64mono.mp3" rel="enclosure">Listen now (MP3, 38.5MB, 1:25:55)</a> | <a href="/player.html?ep30-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
+* <a href="http://devhell.s3.amazonaws.com/ep30-64mono.mp3" rel="enclosure">Listen now (MP3, 25.2MB, 55:13)</a> | <a href="/player.html?ep30-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
 	<audio controls src="http://devhell.s3.amazonaws.com/ep30-64mono.mp3">
 
 ## Links and Notes
