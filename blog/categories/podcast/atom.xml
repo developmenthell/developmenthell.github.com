@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2013-06-05T12:41:00-04:00</updated>
+  <updated>2013-06-05T14:46:57-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 32: tek13]]></title>
-    <link href="http://devhell.info/post/2013-04-24/tek13/"/>
-    <updated>2013-04-24T19:05:00-04:00</updated>
-    <id>http://devhell.info/post/2013-04-24/tek13</id>
+    <link href="http://devhell.info/post/2013-06-05/tek13/"/>
+    <updated>2013-06-05T19:05:00-04:00</updated>
+    <id>http://devhell.info/post/2013-06-05/tek13</id>
     <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/14367373@N00/95447919/" title="Poor Attendance by deltablack.msb, on Flickr"><img src="http://farm1.staticflickr.com/33/95447919_d144c3aba6_o.jpg" width="670" height="498" alt="Poor Attendance"></a></p>
 
 <p>At this year's <a href="http://tek.phparch.com/">tek13</a> we did another live show. The difference this time is that we didn't have free booze, so turnout was a little low, but it was still super fun. We talked about hobbies we have outside of coding and how they impact our dev skills (hint: minimally), and what folks favorite talks at tek13 were. Probably other stuff too, but it's been a while and I forgot.</p>
