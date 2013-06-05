@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Episode 32: tek13"
+date: 2013-04-24 19:05
+comments: true
+categories: podcast
+---
+
+<a href="http://www.flickr.com/photos/14367373@N00/95447919/" title="Poor Attendance by deltablack.msb, on Flickr"><img src="http://farm1.staticflickr.com/33/95447919_d144c3aba6_o.jpg" width="670" height="498" alt="Poor Attendance"></a>
+
+At this year's [tek13](http://tek.phparch.com/) we did another live show. The difference this time is that we didn't have free booze, so turnout was a little low, but it was still super fun. We talked about hobbies we have outside of coding and how they impact our dev skills (hint: minimally), and what folks favorite talks at tek13 were. Probably other stuff too, but it's been a while and I forgot.
+
+* Check out our sponsors, [Engine Yard](http://www.engineyard.com/) and [WonderNetwork](https://wondernetwork.com/)
+* Follow us on Twitter [here](https://twitter.com/dev_hell).
+* Rate us on iTunes [here](http://itunes.apple.com/us/podcast/dev-hell/id489840699)
+
+### Listen
+
+* <a href="http://devhell.s3.amazonaws.com/ep32-64mono.mp3" rel="enclosure">Listen now (MP3, 29.5MB, 1:05:27)</a> | <a href="/player.html?ep32-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
+	<audio controls src="http://devhell.s3.amazonaws.com/ep32-64mono.mp3">
+
+## Links and Notes
+
+* [tek13](http://tek.phparch.com/)
+* [Magic The Gathering](http://www.wizards.com/Magic/)
+* [Kobe Beef](http://en.wikipedia.org/wiki/Kobe_beef)
+* [Fallout Wiki](http://fallout.gamepedia.com/Fallout_Wiki)
+* [Some music Ed wrote](http://deadagent.net/)
+* [Beer League](http://www.imdb.com/title/tt0453453/)
+* [Nike Fuelband](http://www.nike.com/us/en_us/c/nikeplus-fuelband)
+
