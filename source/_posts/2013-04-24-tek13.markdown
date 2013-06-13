@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Episode 32: tek13"
+date: 2013-04-24 19:05
+comments: true
+categories: podcast
+---
+
+<meta http-equiv="refresh" content="0; url=http://devhell.info/post/2013-06-05/tek13/">
+
+## WHOOPS! [GO HERE.](http://devhell.info/post/2013-06-05/tek13/)
