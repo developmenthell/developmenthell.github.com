@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2013-07-17T09:53:05-04:00</updated>
+  <updated>2013-07-17T09:56:15-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -32,8 +32,8 @@
 <h3>Listen</h3>
 
 <ul>
-<li><a href="http://devhell.s3.amazonaws.com/e34-64mono.mp3" rel="enclosure">Listen now (MP3, 29MB, 1:05:09)</a> | <a href="http://devhell.info/player.html?e34-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/e34-64mono.mp3"></li>
+<li><a href="http://devhell.s3.amazonaws.com/ep34-64mono.mp3" rel="enclosure">Listen now (MP3, 29MB, 1:05:09)</a> | <a href="http://devhell.info/player.html?ep34-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep34-64mono.mp3"></li>
 </ul>
 
 
