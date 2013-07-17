@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2013-06-13T10:50:23-04:00</updated>
+  <updated>2013-07-17T09:37:04-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 34: Is Sara Pissed?]]></title>
+    <link href="http://devhell.info/post/2013-07-17/is-sara-pissed/"/>
+    <updated>2013-07-17T09:28:00-04:00</updated>
+    <id>http://devhell.info/post/2013-07-17/is-sara-pissed</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/doug88888/2796304725/" title="Angry squirrel by @Doug88888, on Flickr"><img src="http://farm4.staticflickr.com/3241/2796304725_dd354ef50d_z.jpg?zz=1" width="640" height="457" alt="Angry squirrel"></a></p>
+
+<p>This time out our Very Special Guest is <a href="https://github.com/sgolemon">Sara Goleman</a>, long-time PHP core contributor, author of the only good book on <a href="http://www.amazon.com/Extending-Embedding-PHP-Sara-Golemon/dp/067232704X/ref=sr_1_1?ie=UTF8&amp;qid=1373828365&amp;sr=8-1&amp;keywords=sara+golemon">writing extensions for PHP</a> and the driving force behind that open source projects of <a href="https://github.com/facebook/hiphop-php">HipHop for PHP</a>, a virtual machine, runtime and Just-In-Time compiler for PHP that powers much of Facebook's infrastructure.</p>
+
+<p>In our usual epic-length conversation we talked about:</p>
+
+<ul>
+<li>The <a href="https://github.com/facebook/hiphop-php/">HipHop Virtual Machine</a></li>
+<li>The soul-crushing experience of the <a href="http://news.php.net/php.internals">"PHP internals"</a> mailing list</li>
+<li>Ed's <a href="http://www.indiegogo.com/projects/open-sourcing-mental-illness">Open Sourcing Mental Illness Summer Tour</a></li>
+<li>The <a href="http://cfp.truenorthphp.ca">TrueNorthPHP Call for Papers</a> opened up and the <a href="https://github.com/chartjes/opencfp">code</a> is open source</li>
+<li>Discussions about how the three of us find the energy to give a shit about everything</li>
+<li><a href="https://en.wikipedia.org/wiki/Biblical_apocrypha">Alternate books from the Bible</a></li>
+<li>Comforting sounds to work too</li>
+<li>Finally, how can we tell <a href="https://twitter.com/issarapissed">if Sara is pissed?</a></li>
+</ul>
+
+
+<p>Also, as a totally random thing from the show notes, you might want to take
+a look at <a href="http://bluehackers.org">Blue Hackers</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 33: Pol Pot-level Sucks]]></title>
@@ -146,63 +174,6 @@
 <li><a href="http://www.amazon.com/gp/product/0596517742/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0596517742&amp;linkCode=as2&amp;tag=funkatroncom-20">JavaScript: The Good Parts</a></li>
 <li><a href="http://openrecip.es">Open Recipes</a></li>
 <li><a href="http://schema.org">schema.org</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 30: It's Episode 30, you guys]]></title>
-    <link href="http://devhell.info/post/2013-03-29/its-episode-30-you-guys/"/>
-    <updated>2013-03-29T15:07:00-04:00</updated>
-    <id>http://devhell.info/post/2013-03-29/its-episode-30-you-guys</id>
-    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/rdecom/6465737909/" title="Maryland students beta test Army STEM recruiting vehicle by RDECOM, on Flickr"><img src="http://farm8.staticflickr.com/7001/6465737909_74a28baceb_b.jpg" width="1024" height="683" alt="Maryland students beta test Army STEM recruiting vehicle"></a></p>
-
-<p>In our action-packed 30th episode Ed and Chris discussed their experiences
-with JavaScript testing tools, specifically how certain tools push you towards
-specific refactoring patterns.</p>
-
-<p>Chris talked about the successful launch of his <a href="http://grumpy-phpunit.com">latest book on using PHPUnit</a>
-and got into some honest talk about revenue and how the <a href="http://unicornfree.com/30x500">product development course</a>
-helped him make this book do 4 times the launch day revenue of his previous one.</p>
-
-<p>Ed discussed his plans to <a href="http://www.indiegogo.com/projects/open-sourcing-mental-illness">talk about mental illness</a>
-on the conference circuit this year. Please help out by donating to the campaign!</p>
-
-<ul>
-<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li>Like us on Facebook <a href="https://www.facebook.com/devhellpodcast">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep30-64mono.mp3" rel="enclosure">Listen now (MP3, 25.2MB, 55:13)</a> | <a href="http://devhell.info/player.html?ep30-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep30-64mono.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="http://visionmedia.github.com/mocha/">Mocha</a></li>
-<li><a href="http://sinonjs.org">Sinon.JS</a></li>
-<li><a href="http://pivotal.github.com/jasmine/">Jasmine</a> and <a href="https://github.com/mhevery/jasmine-node">Jasmine-node</a></li>
-<li><a href="http://qunitjs.com/">QUnit</a></li>
-<li><a href="http://grumpy-phpunit.com">The Grumpy Programmer's PHPUnit Cookbook</a></li>
-<li><a href="http://unicornfree.com/30x500">30x500</a></li>
-<li><a href="http://lonestarphp.com">LoneStar PHP</a></li>
-<li><a href="http://www.indiegogo.com/projects/open-sourcing-mental-illness">Open Sourcing Mental Illness</a></li>
-<li><a href="http://requirejs.org">Require.JS</a></li>
-<li><a href="http://phantomjs.org/">PhantomJS</a></li>
-<li><a href="http://zombie.labnotes.org/">Zombie.js</a></li>
-<li><a href="http://karma-runner.github.com/0.8/index.html">Karma</a></li>
-<li><a href="http://www.olsenhome.com/gif/">"It's pronounced 'jif'"</a></li>
-<li><a href="http://en.wikipedia.org/wiki/House_%28TV_series%29">Chris' new favourite thought leader</a></li>
-<li><a href="http://pragprog.com/book/tbajs/async-javascript">Async JavaScript</a> made the jump from <a href="http://leanpub.com">Leanpub</a> to bigger publisher</li>
-<li><a href="https://twitter.com/DadBoner">DadBoner</a></li>
 </ul>
 
 ]]></content>
