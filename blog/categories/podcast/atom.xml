@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2013-07-17T09:56:15-04:00</updated>
+  <updated>2013-09-20T11:02:48-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 35: Summer of Funksanity]]></title>
+    <link href="http://devhell.info/post/2013-09-20/summer-of-funksanity/"/>
+    <updated>2013-09-20T10:41:00-04:00</updated>
+    <id>http://devhell.info/post/2013-09-20/summer-of-funksanity</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/jasonjkong/5129665077/" title="Bring back Funk by jasonjkong, on Flickr"><img src="http://farm5.staticflickr.com/4071/5129665077_6e9cf66d8f_b.jpg" width="682" height="1024" alt="Bring back Funk"></a></p>
+
+<p>FINALLY! We're back from the Summer of Funksanity hiatus with a new show. We talk about <a href="http://funkatron.com/osmi">Ed's speaking tour</a> stops at <a href="http://oscon.org">OSCON</a>, <a href="https://distill.engineyard.com/">Distill</a>, and <a href="http://madisonruby.org/">Madison Ruby</a>. We also discuss the exciting new mental illness awareness campaign Engine Yard has started, called <a href="http://prompt.engineyard.com">Prompt</a>. PHP Internals jabbering gets touched on a little, and Chris's softball league.</p>
+
+<ul>
+<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep35-64mono.mp3" rel="enclosure">Listen now (MP3, 27.3MB, 55:09)</a> | <a href="http://devhell.info/player.html?ep35-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep35-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<p>In our usual epic-length conversation we talked about:</p>
+
+<ul>
+<li><a href="http://news.php.net/php.internals">PHP internals</a></li>
+<li>Ed's <a href="http://funkatron.com/osmi">Open Sourcing Mental Illness speakibng campaing</a></li>
+<li><a href="http://prompt.engineyard.com">Prompt</a></li>
+<li><a href="http://oscon.org">OSCON</a></li>
+<li><a href="https://distill.engineyard.com/">Distill</a></li>
+<li><a href="http://madisonruby.org/">Madison Ruby</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 34: Is Sara Pissed?]]></title>
@@ -148,51 +188,6 @@ a look at <a href="http://bluehackers.org">Blue Hackers</a></p>
     <updated>2013-04-24T19:05:00-04:00</updated>
     <id>http://devhell.info/post/2013-04-24/tek13</id>
     <content type="html"><![CDATA[<h2>WHOOPS! <a href="http://devhell.info/post/2013-06-05/tek13/">GO HERE.</a></h2>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 31: Feline Tooth Extraction]]></title>
-    <link href="http://devhell.info/post/2013-04-24/feline-tooth-extraction/"/>
-    <updated>2013-04-24T19:05:00-04:00</updated>
-    <id>http://devhell.info/post/2013-04-24/feline-tooth-extraction</id>
-    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/left-hand/2289160521/" title="Pounce...! by left-hand, on Flickr"><img src="http://farm4.staticflickr.com/3066/2289160521_df59ae8ce9_z.jpg" width="640" height="436" alt="Pounce...!"></a></p>
-
-<p>Short notes time: In this episode, Chris and Ed talk about conferences we always wanted to go to, and languages &amp; tools we'd thought we'd hate and turned out to like. Then Ed waxes on the <a href="http://openrecip.es">Open Recipes</a> project.</p>
-
-<ul>
-<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li>Like us on Facebook <a href="https://www.facebook.com/devhellpodcast">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep31-64mono.mp3" rel="enclosure">Listen now (MP3, 29.5MB, 1:05:27)</a> | <a href="http://devhell.info/player.html?ep31-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep31-64mono.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="http://www.phpmatsuri.net/">PHP Matsuri</a></li>
-<li><a href="https://us.pycon.org/">PyCon</a></li>
-<li><a href="http://www.oscon.com/">OSCON</a></li>
-<li><a href="https://thestrangeloop.com/">StrangeLoop</a></li>
-<li><a href="http://www.namm.org/">NAMM</a></li>
-<li><a href="http://articles.chicagotribune.com/1991-06-21/entertainment/9102250047_1_nintendo-16-bit-machine-nec">Summer CES</a> <a href="http://www.edge-online.com/features/making-playstation/">(Nintendo JACKIN' Sony)</a></li>
-<li><a href="http://lambdajam.com/">LambdaJam</a></li>
-<li><a href="http://aspen.io/">Aspen</a> - <a href="http://devhell.info/post/2012-07-24/this-show-is-terrible/">Discussion of on Episode 17</a></li>
-<li><a href="http://toys.lerdorf.com/archives/38-The-no-framework-PHP-MVC-framework.html">No-Framework Framework by Rasmus Lerdorf</a></li>
-<li><a href="http://www.amazon.com/gp/product/1593272820/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1593272820&amp;linkCode=as2&amp;tag=funkatroncom-20">Eloquent JavaScript</a> - <a href="http://eloquentjavascript.net/">original HTML version</a></li>
-<li><a href="http://www.amazon.com/gp/product/0596517742/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0596517742&amp;linkCode=as2&amp;tag=funkatroncom-20">JavaScript: The Good Parts</a></li>
-<li><a href="http://openrecip.es">Open Recipes</a></li>
-<li><a href="http://schema.org">schema.org</a></li>
-</ul>
-
 ]]></content>
   </entry>
   
