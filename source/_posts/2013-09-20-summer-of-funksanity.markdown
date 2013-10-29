@@ -24,7 +24,7 @@ FINALLY! We're back from the Summer of Funksanity hiatus with a new show. We tal
 In our usual epic-length conversation we talked about:
 
 * [PHP internals](http://news.php.net/php.internals)
-* Ed's [Open Sourcing Mental Illness speakibng campaing](http://funkatron.com/osmi)
+* Ed's [Open Sourcing Mental Illness speaking campaign](http://funkatron.com/osmi)
 * [Prompt](http://prompt.engineyard.com)
 * [OSCON](http://oscon.org)
 * [Distill](https://distill.engineyard.com/)
