@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2013-09-20T11:05:41-04:00</updated>
+  <updated>2013-10-29T19:42:22-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 36: Maybe PHP Isn't As Lame As We Thought]]></title>
+    <link href="http://devhell.info/post/2013-10-29/maybe-php-isnt-as-lame-as-we-thought/"/>
+    <updated>2013-10-29T19:08:00-04:00</updated>
+    <id>http://devhell.info/post/2013-10-29/maybe-php-isnt-as-lame-as-we-thought</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/rbowen/2523296126/" title="PHP Rock Stars by RichardBowen, on Flickr"><img src="http://farm4.staticflickr.com/3157/2523296126_77affed9eb_b.jpg" width="1024" height="780" alt="PHP Rock Stars"></a></p>
+
+<p>So our pace is a little slower due to work crap, but DEV HELL LIVES. Episode 6d6 kicks off with us waxing about what's exciting in PHP development nowadays. We also talk about upcoming appearances at TrueNorth PHP, NomadPHP and SkiPHP. Then we get into the discussion of alcohol consumption at tech conferences, and malware on the PHP.net site.</p>
+
+<ul>
+<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep36-64mono.mp3" rel="enclosure">Listen now (MP3, 25.7MB, 55:08)</a> | <a href="http://devhell.info/player.html?ep36-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep36-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://truenorthphp.com/">TrueNorth PHP</a></li>
+<li><a href="http://nomadphp.com/">NomadPHP</a></li>
+<li><a href="https://www.skiphp.com/">SkiPHP</a></li>
+<li><a href="http://www.hhvm.com/">HHVM</a></li>
+<li><a href="http://www.slideshare.net/zerutreck/taking-php-seriously-keith-adams">Hack for HHVM presentation slides</a></li>
+<li><a href="http://getcomposer.org/">Composer</a></li>
+<li><a href="http://php.net/manual/en/features.commandline.webserver.php">Dev server in PHP 5.4</a></li>
+<li><a href="http://documentup.com/Respect/Validation/">Respect/Validation</a></li>
+<li><a href="http://idiorm.readthedocs.org/en/latest/">Idiorm</a></li>
+<li><a href="http://www.littlehart.net/atthekeyboard/2013/10/14/booze-babes-and-buttholes/">Booze, Babes and Buttholes</a></li>
+<li><a href="http://php.net/archive/2013.php#id2013-10-24-2">Blog post on malware served from PHP.net</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 35: Summer of Funksanity]]></title>
@@ -43,7 +86,7 @@
 
 <ul>
 <li><a href="http://news.php.net/php.internals">PHP internals</a></li>
-<li>Ed's <a href="http://funkatron.com/osmi">Open Sourcing Mental Illness speakibng campaing</a></li>
+<li>Ed's <a href="http://funkatron.com/osmi">Open Sourcing Mental Illness speaking campaign</a></li>
 <li><a href="http://prompt.engineyard.com">Prompt</a></li>
 <li><a href="http://oscon.org">OSCON</a></li>
 <li><a href="https://distill.engineyard.com/">Distill</a></li>
@@ -179,15 +222,6 @@ a look at <a href="http://bluehackers.org">Blue Hackers</a></p>
 <li><a href="http://www.nike.com/us/en_us/c/nikeplus-fuelband">Nike Fuelband</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 32: tek13]]></title>
-    <link href="http://devhell.info/post/2013-04-24/tek13/"/>
-    <updated>2013-04-24T19:05:00-04:00</updated>
-    <id>http://devhell.info/post/2013-04-24/tek13</id>
-    <content type="html"><![CDATA[<h2>WHOOPS! <a href="http://devhell.info/post/2013-06-05/tek13/">GO HERE.</a></h2>
 ]]></content>
   </entry>
   
