@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2013-10-29T19:42:22-04:00</updated>
+  <updated>2013-11-20T14:38:49-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 37: Jets vs Sharks]]></title>
+    <link href="http://devhell.info/post/2013-11-20/jets-vs-sharks/"/>
+    <updated>2013-11-20T14:01:00-05:00</updated>
+    <id>http://devhell.info/post/2013-11-20/jets-vs-sharks</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/x-ray_delta_one/8315974991/" title="... Jets and Sharks- in the kitchen! by x-ray delta one, on Flickr"><img src="http://farm9.staticflickr.com/8224/8315974991_5254c3c567_c.jpg" width="800" height="719" alt="... Jets and Sharks- in the kitchen!"></a></p>
+
+<p>In this podcast recorded <em>before</em> True North PHP, we talk to Paul M Jones, creator of the Solar framework and Aura component library. Lots of stuff about confusing things like dependency injection and human behavior in tribes. Probably someone will get mad about this episode.</p>
+
+<ul>
+<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep37-64mono.mp3" rel="enclosure">Listen now (MP3, 27.9MB, 1:02:24)</a> | <a href="http://devhell.info/player.html?ep37-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep37-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://auraphp.com/">Aura</a></li>
+<li><a href="http://martinfowler.com/articles/injection.html">Service Injection/DI/whatev</a></li>
+<li><a href="http://requirejs.org/">RequireJS</a></li>
+<li><a href="http://www.mwop.net/">MWOP</a></li>
+<li><a href="http://laravel.com/">Laravel</a></li>
+<li><a href="http://www.ihiphopmusic.com/category/hip-hop-beefs">RAP BEEF</a></li>
+<li><a href="http://psychology.wikia.com/wiki/Tribalism">Tribalism</a></li>
+<li><a href="https://en.wiktionary.org/wiki/temerity">Temerity</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Fog_of_War">The Fog Of War</a></li>
+<li><a href="Jets%20vs%20Sharks">Jets vs Sharks</a></li>
+<li><a href="http://paul-m-jones.com/archives/4757">Paul&#8217;s blog post where he gets yelled at a bunch</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 36: Maybe PHP Isn't As Lame As We Thought]]></title>
@@ -442,7 +485,7 @@ A: &#8220;$40k&#8221;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&#8217;s success.</p>
 
-<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#105;&#x6c;&#x74;&#x6f;&#x3a;&#x74;&#105;&#108;&#108;&#x2b;&#112;&#104;&#112;&#x40;&#105;&#x6d;&#97;&#103;&#x69;&#110;&#x65;&#101;&#97;&#x73;&#x79;&#46;&#99;&#111;&#109;">&#116;&#x69;&#108;&#x6c;&#43;&#x70;&#104;&#x70;&#x40;&#x69;&#x6d;&#97;&#x67;&#x69;&#x6e;&#101;&#x65;&#97;&#115;&#121;&#x2e;&#99;&#x6f;&#109;</a>.</p>
+<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#105;&#108;&#x74;&#111;&#x3a;&#x74;&#105;&#108;&#108;&#x2b;&#x70;&#x68;&#x70;&#64;&#105;&#109;&#97;&#x67;&#105;&#x6e;&#101;&#101;&#x61;&#115;&#x79;&#46;&#99;&#111;&#109;">&#x74;&#x69;&#108;&#108;&#43;&#112;&#x68;&#x70;&#64;&#x69;&#x6d;&#97;&#x67;&#105;&#x6e;&#x65;&#101;&#x61;&#x73;&#121;&#x2e;&#99;&#111;&#x6d;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -500,7 +543,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs&#8217; suicide, both in the context of governmental power and mental illness. We also talk about Ed&#8217;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#x69;&#x6c;&#x74;&#111;&#x3a;&#x74;&#x69;&#108;&#x6c;&#43;&#x70;&#104;&#x70;&#64;&#105;&#109;&#x61;&#x67;&#105;&#x6e;&#101;&#101;&#x61;&#115;&#121;&#46;&#99;&#x6f;&#109;">&#116;&#x69;&#x6c;&#x6c;&#43;&#x70;&#104;&#x70;&#x40;&#105;&#x6d;&#x61;&#103;&#x69;&#110;&#101;&#x65;&#97;&#115;&#121;&#46;&#x63;&#x6f;&#109;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#x6f;&#58;&#116;&#x69;&#x6c;&#108;&#x2b;&#x70;&#x68;&#x70;&#x40;&#105;&#x6d;&#97;&#x67;&#x69;&#x6e;&#101;&#x65;&#97;&#x73;&#121;&#x2e;&#99;&#x6f;&#x6d;">&#116;&#105;&#108;&#x6c;&#x2b;&#x70;&#x68;&#112;&#64;&#105;&#109;&#97;&#x67;&#105;&#x6e;&#x65;&#101;&#97;&#x73;&#x79;&#x2e;&#99;&#x6f;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
