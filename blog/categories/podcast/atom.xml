@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2014-02-20T09:14:47-05:00</updated>
+  <updated>2014-02-28T14:38:49-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,56 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 40: Poly Life Mentoring]]></title>
+    <link href="http://devhell.info/post/2014-02-28/poly-life-mentoring/"/>
+    <updated>2014-02-28T12:08:00-05:00</updated>
+    <id>http://devhell.info/post/2014-02-28/poly-life-mentoring</id>
+    <content type="html"><![CDATA[<p><a href="http://flic.kr/p/9hKcQ6" title="Mustang Mentoring by Brian Ujiie, on Flickr"><img src="http://farm5.staticflickr.com/4082/5440347689_666776290f_z.jpg" width="640" height="427" alt="Mustang Mentoring"></a></p>
+
+<p>The big four-oh hits us, this time with our special Fictive Kin friend Sean Coates. We talk lots about deploying web applications in various languages, the imapct Composer has had on PHP development, formal and informal mentoring, and how to get accepted to speak at conferences.</p>
+
+<ul>
+<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep40-64mono.mp3" rel="enclosure">Listen now (MP3, 32.1MB, 1:09:20)</a> | <a href="http://devhell.info/player.html?ep40-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep40-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://fictivekin.com">Fictive Kin</a></li>
+<li><a href="http://calvinandhobbes.wikia.com/wiki/Transmogrifier">Calvin &amp; Hobbes transmogrifier</a></li>
+<li><a href="https://rvm.io/">RVM</a> + <a href="http://bundler.io/">Bundler</a></li>
+<li><a href="http://getcomposer.org">Composer</a> + <a href="packagist.org">Packagist</a></li>
+<li><a href="http://www.pip-installer.org/">PIP</a> + <a href="http://www.virtualenv.org/">Virtualenv</a></li>
+<li><a href="http://php.net/manual/en/features.commandline.webserver.php">Built-in server in PHP 5.4+</a></li>
+<li><a href="http://flask.pocoo.org/">Flask</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Shared_nothing_architecture">Shared-nothing architectures</a></li>
+<li><a href="http://PHPMentoring.org">PHPMentoring.org</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Tug_McGraw">Tug Mcgraw</a></li>
+<li><a href="https://github.com/fictivekin/webshell">Webshell</a></li>
+<li>Variadic functions in PHP 5.6
+
+<ul>
+<li><a href="https://wiki.php.net/rfc/variadics">https://wiki.php.net/rfc/variadics</a></li>
+<li><a href="https://wiki.php.net/rfc/argument_unpacking">https://wiki.php.net/rfc/argument_unpacking</a></li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 39: Animal Style]]></title>
@@ -173,46 +223,6 @@
 <li><a href="http://idiorm.readthedocs.org/en/latest/">Idiorm</a></li>
 <li><a href="http://www.littlehart.net/atthekeyboard/2013/10/14/booze-babes-and-buttholes/">Booze, Babes and Buttholes</a></li>
 <li><a href="http://php.net/archive/2013.php#id2013-10-24-2">Blog post on malware served from PHP.net</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 35: Summer of Funksanity]]></title>
-    <link href="http://devhell.info/post/2013-09-20/summer-of-funksanity/"/>
-    <updated>2013-09-20T10:41:00-04:00</updated>
-    <id>http://devhell.info/post/2013-09-20/summer-of-funksanity</id>
-    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/jasonjkong/5129665077/" title="Bring back Funk by jasonjkong, on Flickr"><img src="http://farm5.staticflickr.com/4071/5129665077_6e9cf66d8f_b.jpg" width="682" height="1024" alt="Bring back Funk"></a></p>
-
-<p>FINALLY! We're back from the Summer of Funksanity hiatus with a new show. We talk about <a href="http://funkatron.com/osmi">Ed's speaking tour</a> stops at <a href="http://oscon.org">OSCON</a>, <a href="https://distill.engineyard.com/">Distill</a>, and <a href="http://madisonruby.org/">Madison Ruby</a>. We also discuss the exciting new mental illness awareness campaign Engine Yard has started, called <a href="http://prompt.engineyard.com">Prompt</a>. PHP Internals jabbering gets touched on a little, and Chris's softball league.</p>
-
-<ul>
-<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep35-64mono.mp3" rel="enclosure">Listen now (MP3, 27.3MB, 55:09)</a> | <a href="http://devhell.info/player.html?ep35-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep35-64mono.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<p>In our usual epic-length conversation we talked about:</p>
-
-<ul>
-<li><a href="http://news.php.net/php.internals">PHP internals</a></li>
-<li>Ed's <a href="http://funkatron.com/osmi">Open Sourcing Mental Illness speaking campaign</a></li>
-<li><a href="http://prompt.engineyard.com">Prompt</a></li>
-<li><a href="http://oscon.org">OSCON</a></li>
-<li><a href="https://distill.engineyard.com/">Distill</a></li>
-<li><a href="http://madisonruby.org/">Madison Ruby</a></li>
 </ul>
 
 ]]></content>
