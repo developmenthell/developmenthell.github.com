@@ -2,7 +2,8 @@
 // Add styles here to make changes without digging in too much
 
 table.stats {
-	font-size:11pt;
+	font-size: 11pt;
+	font-family: $sans;
 	border-top: 2px solid $thick-border-color;
 	width:100%;
 	margin-bottom: 2em;
