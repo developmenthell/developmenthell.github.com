@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2014-03-24T14:17:03-04:00</updated>
+  <updated>2014-03-24T16:03:30-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 42: Hacking Difficult People]]></title>
+    <link href="http://devhell.info/post/2014-03-24/hacking-difficult-people/"/>
+    <updated>2014-03-24T14:41:00-04:00</updated>
+    <id>http://devhell.info/post/2014-03-24/hacking-difficult-people</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/clintjcl/2806034569" title="1991ish - Clint - Wooodbridge High - Mr. Linz&#x27;s physics class - funny face - look at all the preppy people - 0454 by Rev. Xanatos Satanicos Bombasticos (ClintJCL), on Flickr"><img src="https://farm4.staticflickr.com/3296/2806034569_356e265d8d_b.jpg" width="1024" height="549" alt="1991ish - Clint - Wooodbridge High - Mr. Linz&#x27;s physics class - funny face - look at all the preppy people - 0454"></a></p>
+
+<p>For episode 42 we are blessed by the wonderful and talented <a href="http://twitter.com/lxt">Laura Thomson</a>, Senior Engineering Manager at Mozilla. Laura drops science on managing engineers, Minimum Viable Bureaucracy, HHVM and Hack, and her mid-Atlantic coast accent. <strong>This is a must-listen for folks who manage tech teams</strong>.</p>
+
+<ul>
+<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep42-64mono.mp3" rel="enclosure">Listen now (MP3, 34.5MB, 1:17:38)</a> | <a href="http://devhell.info/player.html?ep42-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep42-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="https://www.cs.purdue.edu/homes/trinkle/RCS/">RCS</a></li>
+<li><a href="http://www.amazon.com/gp/product/0321833899/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321833899&linkCode=as2&tag=funkatroncom-20">PHP and MySQL Web Development (5th Edition)</a></li>
+<li>Minimum Viable Bureaucracy: <a href="https://air.mozilla.org/minimum-viable-bureaucracy/">Video</a>, <a href="https://speakerdeck.com/lauraxt/minimum-viable-bureaucracy">Slides</a></li>
+<li><a href="http://flag.blackened.net/revolt/hist_texts/structurelessness.html">The Tyranny of Structurelessness</a></li>
+<li><a href="http://www.develop-online.net/news/valve-s-perfect-hiring-hierarchy-has-hidden-management-clique-like-high-school/0115316">Jeri Ellsworth leaving Steam</a></li>
+<li><a href="https://twitter.com/SaraMG">Sara Golemon (is awesome)</a></li>
+<li><a href="http://hhvm.com">HHVM blog</a></li>
+<li><a href="http://hacklang.org">Hack for HHVM</a></li>
+<li><a href="http://coffeescript.org/">Coffeescript</a></li>
+<li><a href="http://golang.org">Go</a></li>
+<li><a href="http://ilikekillnerds.com/2013/07/so-ellislab-is-looking-for-a-new-owner-for-codeigniter/">CodeIgniter seeking a new home</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 41: Let Me Wet My Beak]]></title>
@@ -662,7 +705,7 @@ A: &#8220;$40k&#8221;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&#8217;s success.</p>
 
-<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#116;&#x69;&#108;&#108;&#43;&#112;&#104;&#x70;&#64;&#x69;&#x6d;&#97;&#103;&#105;&#110;&#101;&#101;&#x61;&#115;&#121;&#x2e;&#99;&#x6f;&#x6d;">&#x74;&#105;&#x6c;&#108;&#x2b;&#112;&#104;&#x70;&#x40;&#x69;&#x6d;&#97;&#x67;&#x69;&#x6e;&#x65;&#101;&#97;&#115;&#x79;&#46;&#99;&#x6f;&#109;</a>.</p>
+<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#111;&#58;&#x74;&#x69;&#x6c;&#x6c;&#43;&#112;&#x68;&#x70;&#64;&#105;&#109;&#97;&#x67;&#x69;&#110;&#x65;&#x65;&#x61;&#x73;&#121;&#46;&#x63;&#x6f;&#109;">&#116;&#105;&#x6c;&#108;&#43;&#x70;&#104;&#x70;&#x40;&#x69;&#109;&#x61;&#x67;&#105;&#x6e;&#101;&#101;&#x61;&#115;&#x79;&#46;&#x63;&#x6f;&#x6d;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -720,7 +763,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs&#8217; suicide, both in the context of governmental power and mental illness. We also talk about Ed&#8217;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#105;&#108;&#116;&#111;&#58;&#x74;&#x69;&#x6c;&#x6c;&#x2b;&#x70;&#x68;&#x70;&#x40;&#x69;&#109;&#x61;&#x67;&#x69;&#110;&#101;&#101;&#x61;&#x73;&#x79;&#x2e;&#x63;&#111;&#109;">&#x74;&#x69;&#108;&#108;&#x2b;&#112;&#104;&#112;&#x40;&#x69;&#109;&#97;&#x67;&#x69;&#110;&#101;&#101;&#97;&#x73;&#x79;&#46;&#99;&#x6f;&#109;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#58;&#116;&#105;&#108;&#108;&#x2b;&#x70;&#x68;&#112;&#64;&#x69;&#x6d;&#x61;&#x67;&#x69;&#110;&#101;&#x65;&#x61;&#x73;&#x79;&#46;&#99;&#111;&#109;">&#116;&#x69;&#x6c;&#108;&#x2b;&#112;&#104;&#x70;&#64;&#x69;&#x6d;&#97;&#103;&#105;&#110;&#101;&#101;&#x61;&#115;&#x79;&#46;&#99;&#x6f;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2014-03-24T14:17:03-04:00</updated>
+  <updated>2014-03-24T16:03:30-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 42: Hacking Difficult People]]></title>
+    <link href="http://devhell.info/post/2014-03-24/hacking-difficult-people/"/>
+    <updated>2014-03-24T14:41:00-04:00</updated>
+    <id>http://devhell.info/post/2014-03-24/hacking-difficult-people</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/clintjcl/2806034569" title="1991ish - Clint - Wooodbridge High - Mr. Linz&#x27;s physics class - funny face - look at all the preppy people - 0454 by Rev. Xanatos Satanicos Bombasticos (ClintJCL), on Flickr"><img src="https://farm4.staticflickr.com/3296/2806034569_356e265d8d_b.jpg" width="1024" height="549" alt="1991ish - Clint - Wooodbridge High - Mr. Linz&#x27;s physics class - funny face - look at all the preppy people - 0454"></a></p>
+
+<p>For episode 42 we are blessed by the wonderful and talented <a href="http://twitter.com/lxt">Laura Thomson</a>, Senior Engineering Manager at Mozilla. Laura drops science on managing engineers, Minimum Viable Bureaucracy, HHVM and Hack, and her mid-Atlantic coast accent. <strong>This is a must-listen for folks who manage tech teams</strong>.</p>
+
+<ul>
+<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep42-64mono.mp3" rel="enclosure">Listen now (MP3, 34.5MB, 1:17:38)</a> | <a href="http://devhell.info/player.html?ep42-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep42-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="https://www.cs.purdue.edu/homes/trinkle/RCS/">RCS</a></li>
+<li><a href="http://www.amazon.com/gp/product/0321833899/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321833899&linkCode=as2&tag=funkatroncom-20">PHP and MySQL Web Development (5th Edition)</a></li>
+<li>Minimum Viable Bureaucracy: <a href="https://air.mozilla.org/minimum-viable-bureaucracy/">Video</a>, <a href="https://speakerdeck.com/lauraxt/minimum-viable-bureaucracy">Slides</a></li>
+<li><a href="http://flag.blackened.net/revolt/hist_texts/structurelessness.html">The Tyranny of Structurelessness</a></li>
+<li><a href="http://www.develop-online.net/news/valve-s-perfect-hiring-hierarchy-has-hidden-management-clique-like-high-school/0115316">Jeri Ellsworth leaving Steam</a></li>
+<li><a href="https://twitter.com/SaraMG">Sara Golemon (is awesome)</a></li>
+<li><a href="http://hhvm.com">HHVM blog</a></li>
+<li><a href="http://hacklang.org">Hack for HHVM</a></li>
+<li><a href="http://coffeescript.org/">Coffeescript</a></li>
+<li><a href="http://golang.org">Go</a></li>
+<li><a href="http://ilikekillnerds.com/2013/07/so-ellislab-is-looking-for-a-new-owner-for-codeigniter/">CodeIgniter seeking a new home</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 41: Let Me Wet My Beak]]></title>
@@ -185,49 +228,6 @@
 <li><a href="http://getspaz.com">Spaz</a></li>
 <li><a href="http://snook.ca/">Snook's site</a></li>
 <li><a href="http://smacss.com/">SMACSS</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 37: Jets vs Sharks]]></title>
-    <link href="http://devhell.info/post/2013-11-20/jets-vs-sharks/"/>
-    <updated>2013-11-20T14:01:00-05:00</updated>
-    <id>http://devhell.info/post/2013-11-20/jets-vs-sharks</id>
-    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/x-ray_delta_one/8315974991/" title="... Jets and Sharks- in the kitchen! by x-ray delta one, on Flickr"><img src="http://farm9.staticflickr.com/8224/8315974991_5254c3c567_c.jpg" width="800" height="719" alt="... Jets and Sharks- in the kitchen!"></a></p>
-
-<p>In this podcast recorded <em>before</em> True North PHP, we talk to Paul M Jones, creator of the Solar framework and Aura component library. Lots of stuff about confusing things like dependency injection and human behavior in tribes. Probably someone will get mad about this episode.</p>
-
-<ul>
-<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep37-64mono.mp3" rel="enclosure">Listen now (MP3, 27.9MB, 1:02:24)</a> | <a href="http://devhell.info/player.html?ep37-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep37-64mono.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="http://auraphp.com/">Aura</a></li>
-<li><a href="http://martinfowler.com/articles/injection.html">Service Injection/DI/whatev</a></li>
-<li><a href="http://requirejs.org/">RequireJS</a></li>
-<li><a href="http://www.mwop.net/">MWOP</a></li>
-<li><a href="http://laravel.com/">Laravel</a></li>
-<li><a href="http://www.ihiphopmusic.com/category/hip-hop-beefs">RAP BEEF</a></li>
-<li><a href="http://psychology.wikia.com/wiki/Tribalism">Tribalism</a></li>
-<li><a href="https://en.wiktionary.org/wiki/temerity">Temerity</a></li>
-<li><a href="https://en.wikipedia.org/wiki/The_Fog_of_War">The Fog Of War</a></li>
-<li><a href="https://en.wikipedia.org/wiki/West_Side_Story">Jets vs Sharks</a></li>
-<li><a href="http://paul-m-jones.com/archives/4757">Paul's blog post where he gets yelled at a bunch</a></li>
 </ul>
 
 ]]></content>
