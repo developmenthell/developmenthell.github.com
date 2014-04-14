@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Erotic Art The Right Way"
+title: "Episode 43: Erotic Art The Right Way"
 date: 2014-04-13 17:55
 comments: true
 categories: podcast
