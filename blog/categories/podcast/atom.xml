@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2014-03-24T16:03:30-04:00</updated>
+  <updated>2014-04-14T09:10:39-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Erotic Art The Right Way]]></title>
+    <link href="http://devhell.info/post/2014-04-13/erotic-art-the-right-way/"/>
+    <updated>2014-04-13T17:55:00-04:00</updated>
+    <id>http://devhell.info/post/2014-04-13/erotic-art-the-right-way</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/mararie/5380124999" title="minotaurus by mararie, on Flickr"><img src="https://farm6.staticflickr.com/5169/5380124999_928e3fa070_z.jpg" width="640" height="480" alt="minotaurus"></a></p>
+
+<p>Our latest episode features someone who we're been trying to get on for a while: <a href="http://twitter.com/codeguy">Josh Lockhart</a>, the developer of the Slim Framework for PHP and the founder of the <a href="http://phptherightway.com">PHP The Right Way</a> project. We also have a new sponsor in <strike>Nude</strike> New Relic!</p>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>, <a href="http://newrelic.com">New Relic</a>, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+<li>Sign up for our <strong>mailing list</strong> <a href="/subscribe-email.html">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep43-64mono.mp3" rel="enclosure">Listen now (MP3, 31.4MB, 1:09:06)</a> | <a href="http://devhell.info/player.html?ep43-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep43-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://twitter.com/codeguy">Josh Lockhart</a></li>
+<li><a href="http://www.slimframework.com/">Slim Framework</a></li>
+<li><a href="http://limonade-php.github.io/">Limonade</a></li>
+<li><a href="http://fatfreeframework.com">Fat Free Framework</a></li>
+<li><a href="http://www.sinatrarb.com/">Sinatra</a></li>
+<li><a href="http://flask.pocoo.org/">Flask</a></li>
+<li><a href="http://www.recessframework.org/">Recess FW</a></li>
+<li><a href="http://guzzle.readthedocs.org/">Guzzle</a></li>
+<li><a href="https://github.com/fictivekin/resty.php">Resty.php</a></li>
+<li><a href="http://phptherightway.com">PHP The Right Way</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 42: Hacking Difficult People]]></title>
@@ -190,44 +233,6 @@
 <li><a href="http://mizage.com/shush/">Shush.app</a></li>
 <li><a href="https://wiki.php.net/rfc/variadics">Variadic functions RFC</a></li>
 <li><a href="http://badmouth.net/in-n-outs-secret-menu/">In and Out Secret Menu</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 38: Dark Secret Branding]]></title>
-    <link href="http://devhell.info/post/2013-11-21/dark-secret-branding/"/>
-    <updated>2013-11-21T14:01:00-05:00</updated>
-    <id>http://devhell.info/post/2013-11-21/dark-secret-branding</id>
-    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/alablu/6923218805/" title="Dark secret by AlaBlu - Zanone Federico, on Flickr"><img src="http://farm8.staticflickr.com/7203/6923218805_4006c8e05c_b.jpg" width="1024" height="768" alt="Dark secret"></a></p>
-
-<p>In this podcast recorded AFTER True North PHP, Chris and Ed are joined by the esteemed Jonathan Snook, web developer extraordinaire. We talk about the heady days of Twitter app dev, how Jonathan got to be a Big Deal, and why there are so many Snooks in web dev.</p>
-
-<ul>
-<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep38-64mono.mp3" rel="enclosure">Listen now (MP3, 26.5MB, 59:40)</a> | <a href="http://devhell.info/player.html?ep38-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep38-64mono.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Remembrance_Day">Remembrance Day</a></li>
-<li><a href="http://www.dancarlin.com/disp.php/hh">Hardcore History podcast</a></li>
-<li><a href="http://www.kfiam640.com/common/podcast/single_page.html?podcast=DarkSecretPlace">Dark Secret Place</a></li>
-<li><a href="http://getspaz.com">Spaz</a></li>
-<li><a href="http://snook.ca/">Snook's site</a></li>
-<li><a href="http://smacss.com/">SMACSS</a></li>
 </ul>
 
 ]]></content>
