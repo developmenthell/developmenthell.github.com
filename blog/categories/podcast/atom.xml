@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2014-04-17T11:37:54-04:00</updated>
+  <updated>2014-05-04T16:27:49-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 44: Gorf Fever]]></title>
+    <link href="http://devhell.info/post/2014-05-04/gorf-fever/"/>
+    <updated>2014-05-04T16:04:00-04:00</updated>
+    <id>http://devhell.info/post/2014-05-04/gorf-fever</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/aloha75/4906012509" title="Gorf Sign by Sam Howzit, on Flickr"><img src="https://farm5.staticflickr.com/4099/4906012509_29c1181242_z.jpg" width="640" height="290" alt="Gorf Sign"></a></p>
+
+<p>This weeks brings us a new guest and a new sponsor! Paddy Foran is an old friend of Chris and Ed's who makes his first appearance on the show, talking about the Go programming language, software architecture, open source projects, and his new book "Your API is Bad." We also welcome new sponsor Roave!</p>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>, <a href="http://roave.com">Roave</a>, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+<li>Sign up for our <strong>mailing list</strong> <a href="/subscribe-email.html">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep44-64mono.mp3" rel="enclosure">Listen now (MP3, 30.5MB, 1:05:53)</a> | <a href="http://devhell.info/player.html?ep44-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep44-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://paddy.io/o">Paddy Foran</a></li>
+<li><a href="http://golang.org">Go</a></li>
+<li><a href="http://www.dramafever.com/">Drama Fever</a></li>
+<li><a href="http://yourapiisbad.com/">Your API is Bad</a></li>
+<li><a href="http://www.2cloudproject.com/">2cloud</a></li>
+<li><a href="http://tek.phparch.com/speakers/#60272">Paddy's talk at this year's php[tek]</a></li>
+<li><a href="http://paddy.io/posts/open-sourcing-mental-illness-tour/">Paddy's blog post about intro to Open Source</a></li>
+<li><a href="http://www.arcade-museum.com/game_detail.php?game_id=7983">Gorf</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 43: Erotic Art The Right Way]]></title>
@@ -192,47 +233,6 @@
 <li><a href="https://wiki.php.net/rfc/argument_unpacking">https://wiki.php.net/rfc/argument_unpacking</a></li>
 </ul>
 </li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 39: Animal Style]]></title>
-    <link href="http://devhell.info/post/2014-02-20/animal-style/"/>
-    <updated>2014-02-20T08:57:00-05:00</updated>
-    <id>http://devhell.info/post/2014-02-20/animal-style</id>
-    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/spine/709889508/" title="Double-Double Animal Style by rick, on Flickr"><img src="https://s1.yimg.com/si/1156/709889508_2e9eec2c4b_b.jpg" width="1024" height="768" alt="Double-Double Animal Style"></a></p>
-
-<p>Okay, first off, this episode sounds like crap. We weren't really prepared to record and used half-assed equipment and stuff. Sorry guys. It should at least be listenable.</p>
-
-<p>Anyway, this was recorded the night before <a href="https://www.skiphp.com">SkiPHP</a> started, which was an awesome PHP conference in Salt Lake City. We ramble about a lot of stuff, including our first conferences, America's first serial killer, our approaches for giving talks, and Chris' secret identity.</p>
-
-<ul>
-<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep39-64mono.mp3" rel="enclosure">Listen now (MP3, 26.2MB, 59:45)</a> | <a href="http://devhell.info/player.html?ep39-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep39-64mono.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="https://www.skiphp.com">SkiPHP</a></li>
-<li><a href="https://plus.google.com/103799263279735425701/posts">H Hatfield</a></li>
-<li><a href="https://en.wikipedia.org/wiki/H._H._Holmes">H H Holmes</a></li>
-<li><a href="http://www.amazon.com/gp/product/0375725601/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0375725601&amp;linkCode=as2&amp;tag=funkatroncom-20">The Devil in the White City</a></li>
-<li><a href="http://mizage.com/shush/">Shush.app</a></li>
-<li><a href="https://wiki.php.net/rfc/variadics">Variadic functions RFC</a></li>
-<li><a href="http://badmouth.net/in-n-outs-secret-menu/">In and Out Secret Menu</a></li>
 </ul>
 
 ]]></content>
