@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2014-05-28T14:44:43-04:00</updated>
+  <updated>2014-05-28T14:58:49-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -52,7 +52,7 @@
 <li><a href="https://en.wikipedia.org/wiki/Shared_nothing_architecture">Shared nothing architecture</a></li>
 <li><a href="http://stackoverflow.com/questions/11707879/difference-between-scaling-horizontally-and-vertically-for-databases">Horizontal vs. vertical scaling</a></li>
 <li><a href="http://12factor.net/">12 Factor App</a></li>
-<li><a href="http://oreilly.com/openbook/cgi/ch02_07.html;%20http://whitefiles.org/b1_s/1_free_guides/fg3mo/pgs/v01_ascgi.htm">Applescript CGI</a></li>
+<li><a href="http://oreilly.com/openbook/cgi/ch02_07.html">Applescript CGI</a>, <a href="http://whitefiles.org/b1_s/1_free_guides/fg3mo/pgs/v01_ascgi.htm">more</a></li>
 </ul>
 
 ]]></content>
