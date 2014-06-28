@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2014-06-05T16:29:22-04:00</updated>
+  <updated>2014-06-27T21:16:22-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 47: NOT THE BEES]]></title>
+    <link href="http://devhell.info/post/2014-06-27/not-the-bees/"/>
+    <updated>2014-06-27T20:36:00-04:00</updated>
+    <id>http://devhell.info/post/2014-06-27/not-the-bees</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/field_museum_library/3405449492" title="Girl dressed like a bee by The Field Museum Library, on Flickr"><img src="https://farm4.staticflickr.com/3556/3405449492_dd4337c7c7_z.jpg?zz=1" width="640" height="517" alt="Girl dressed like a bee"></a></p>
+
+<p>This time around we are blessed by the presence of <a href="http://twitter.com/eryno">Eryn O&#8217;Neil</a>, Tech Lead at <a href="http://www.clockwork.net">Clockwork</a>. We talk about the importance of UX for programmers, getting started speaking at conferences, and BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES.</p>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>, <a href="http://newrelic.com">New Relic</a>, <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+<li>Sign up for our <strong>mailing list</strong> <a href="http://devhell.info/subscribe-email.html">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep47-64mono.mp3" rel="enclosure">Listen now (MP3, 31.2MB, 1:06:42)</a> | <a href="http://devhell.info/player.html?ep47-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep47-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://twitter.com/eryno">Eryn O&#8217;Neil on Twitter</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Blues_dance">Blues dancing</a> / <a href="https://en.wikipedia.org/wiki/Swing_%28dance%29">swing dancing</a></li>
+<li><a href="https://counseling.caltech.edu/general/InfoandResources/Impostor">Imposter Syndrome</a></li>
+<li><a href="http://irc.netsplit.de/channels/details.php?room=%23phpmentoring&amp;net=freenode">#phpmentoring on IRC</a></li>
+<li><a href="http://joind.in/">Joind.in</a></li>
+<li><a href="https://web.archive.org/web/20051201042535/http://homepage.mac.com/bradster/iarchitect/shame.htm">The engineer&#8217;s interface</a></li>
+<li><a href="https://joind.in/talk/view/10633">You Can UX Too: Avoiding the Programmer&#8217;s Interface</a></li>
+<li><a href="http://www.amazon.com/gp/product/1566091594/ref=oh_details_o08_s00_i00?ie=UTF8&amp;psc=1">The Non-Designer&#8217;s Design Book: Design and Typographic Principles for the Visual Novice</a></li>
+<li><a href="http://www.amazon.com/Dont-Make-Think-Approach-Usability/dp/0321344758/sr=1-1/qid=1159330202/ref=pd_bbs_1?ie=UTF8&amp;s=books">Don&#8217;t Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition</a></li>
+<li><a href="http://rosenfeldmedia.com/books/web-form-design/">Web Form Design: Filling in the Blanks</a></li>
+<li><a href="https://www.youtube.com/watch?v=wC-aHnYOcDk">Bee beard joe</a></li>
+<li><a href="http://www.imdb.com/title/tt0078350/">The Swarm</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Africanized_bee">Africanized honey bees</a></li>
+<li><a href="http://insects.about.com/od/antsbeeswasps/qt/Honey-Bee-Mating.htm">Drone explodes during copulation</a></li>
+<li><a href="http://www.youtube.com/watch?v=RzToNo7A-94">Terry Tate - Office Linebacker</a></li>
+<li><a href="http://knowyourmeme.com/memes/thiscouldbeusbutyouplayin">This could be us but you playin</a></li>
+<li><a href="http://beesbeesbees.com/">http://beesbeesbees.com/</a></li>
+<li><a href="http://imgur.com/r/funny/2s3R9">Death in fam</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 46: php[tek] 2014]]></title>
@@ -885,7 +936,7 @@ A: &#8220;$40k&#8221;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&#8217;s success.</p>
 
-<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#105;&#x6c;&#x74;&#111;&#58;&#x74;&#105;&#108;&#x6c;&#43;&#112;&#104;&#x70;&#x40;&#105;&#x6d;&#x61;&#103;&#x69;&#x6e;&#x65;&#x65;&#97;&#x73;&#121;&#46;&#99;&#111;&#109;">&#116;&#105;&#108;&#x6c;&#43;&#112;&#104;&#x70;&#64;&#105;&#109;&#97;&#x67;&#105;&#x6e;&#101;&#101;&#97;&#x73;&#x79;&#46;&#x63;&#111;&#x6d;</a>.</p>
+<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#105;&#x6c;&#116;&#111;&#58;&#116;&#x69;&#x6c;&#108;&#x2b;&#112;&#x68;&#x70;&#x40;&#x69;&#x6d;&#97;&#x67;&#x69;&#x6e;&#x65;&#x65;&#x61;&#115;&#121;&#46;&#x63;&#x6f;&#109;">&#x74;&#105;&#108;&#108;&#43;&#112;&#104;&#112;&#x40;&#x69;&#109;&#x61;&#x67;&#x69;&#110;&#101;&#101;&#x61;&#115;&#121;&#46;&#99;&#x6f;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -943,7 +994,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs&#8217; suicide, both in the context of governmental power and mental illness. We also talk about Ed&#8217;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#x69;&#108;&#116;&#111;&#x3a;&#x74;&#105;&#108;&#x6c;&#43;&#x70;&#104;&#x70;&#64;&#x69;&#x6d;&#97;&#x67;&#x69;&#110;&#x65;&#101;&#x61;&#115;&#121;&#x2e;&#x63;&#111;&#x6d;">&#x74;&#105;&#108;&#108;&#43;&#112;&#x68;&#x70;&#64;&#x69;&#109;&#97;&#103;&#105;&#110;&#101;&#101;&#x61;&#115;&#x79;&#46;&#99;&#111;&#109;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#x3a;&#x74;&#105;&#108;&#x6c;&#43;&#x70;&#104;&#112;&#x40;&#105;&#109;&#x61;&#103;&#x69;&#110;&#x65;&#x65;&#x61;&#115;&#x79;&#x2e;&#x63;&#111;&#x6d;">&#116;&#x69;&#x6c;&#108;&#43;&#112;&#x68;&#112;&#x40;&#x69;&#x6d;&#x61;&#103;&#105;&#x6e;&#x65;&#101;&#x61;&#x73;&#x79;&#x2e;&#x63;&#111;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing

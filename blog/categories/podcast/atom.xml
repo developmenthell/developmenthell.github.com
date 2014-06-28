@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2014-06-05T16:29:22-04:00</updated>
+  <updated>2014-06-27T21:16:22-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 47: NOT THE BEES]]></title>
+    <link href="http://devhell.info/post/2014-06-27/not-the-bees/"/>
+    <updated>2014-06-27T20:36:00-04:00</updated>
+    <id>http://devhell.info/post/2014-06-27/not-the-bees</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/field_museum_library/3405449492" title="Girl dressed like a bee by The Field Museum Library, on Flickr"><img src="https://farm4.staticflickr.com/3556/3405449492_dd4337c7c7_z.jpg?zz=1" width="640" height="517" alt="Girl dressed like a bee"></a></p>
+
+<p>This time around we are blessed by the presence of <a href="http://twitter.com/eryno">Eryn O'Neil</a>, Tech Lead at <a href="http://www.clockwork.net">Clockwork</a>. We talk about the importance of UX for programmers, getting started speaking at conferences, and BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES.</p>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>, <a href="http://newrelic.com">New Relic</a>, <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+<li>Sign up for our <strong>mailing list</strong> <a href="/subscribe-email.html">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep47-64mono.mp3" rel="enclosure">Listen now (MP3, 31.2MB, 1:06:42)</a> | <a href="http://devhell.info/player.html?ep47-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep47-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://twitter.com/eryno">Eryn O'Neil on Twitter</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Blues_dance">Blues dancing</a> / <a href="https://en.wikipedia.org/wiki/Swing_%28dance%29">swing dancing</a></li>
+<li><a href="https://counseling.caltech.edu/general/InfoandResources/Impostor">Imposter Syndrome</a></li>
+<li><a href="http://irc.netsplit.de/channels/details.php?room=%23phpmentoring&amp;net=freenode">#phpmentoring on IRC</a></li>
+<li><a href="http://joind.in/">Joind.in</a></li>
+<li><a href="https://web.archive.org/web/20051201042535/http://homepage.mac.com/bradster/iarchitect/shame.htm">The engineer's interface</a></li>
+<li><a href="https://joind.in/talk/view/10633">You Can UX Too: Avoiding the Programmer's Interface</a></li>
+<li><a href="http://www.amazon.com/gp/product/1566091594/ref=oh_details_o08_s00_i00?ie=UTF8&amp;psc=1">The Non-Designer's Design Book: Design and Typographic Principles for the Visual Novice</a></li>
+<li><a href="http://www.amazon.com/Dont-Make-Think-Approach-Usability/dp/0321344758/sr=1-1/qid=1159330202/ref=pd_bbs_1?ie=UTF8&amp;s=books">Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition</a></li>
+<li><a href="http://rosenfeldmedia.com/books/web-form-design/">Web Form Design: Filling in the Blanks</a></li>
+<li><a href="https://www.youtube.com/watch?v=wC-aHnYOcDk">Bee beard joe</a></li>
+<li><a href="http://www.imdb.com/title/tt0078350/">The Swarm</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Africanized_bee">Africanized honey bees</a></li>
+<li><a href="http://insects.about.com/od/antsbeeswasps/qt/Honey-Bee-Mating.htm">Drone explodes during copulation</a></li>
+<li><a href="http://www.youtube.com/watch?v=RzToNo7A-94">Terry Tate - Office Linebacker</a></li>
+<li><a href="http://knowyourmeme.com/memes/thiscouldbeusbutyouplayin">This could be us but you playin</a></li>
+<li><a href="http://beesbeesbees.com/">http://beesbeesbees.com/</a></li>
+<li><a href="http://imgur.com/r/funny/2s3R9">Death in fam</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 46: php[tek] 2014]]></title>
@@ -188,49 +239,6 @@
 <li><a href="http://guzzle.readthedocs.org/">Guzzle</a></li>
 <li><a href="https://github.com/fictivekin/resty.php">Resty.php</a></li>
 <li><a href="http://phptherightway.com">PHP The Right Way</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 42: Hacking Difficult People]]></title>
-    <link href="http://devhell.info/post/2014-03-24/hacking-difficult-people/"/>
-    <updated>2014-03-24T14:41:00-04:00</updated>
-    <id>http://devhell.info/post/2014-03-24/hacking-difficult-people</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/clintjcl/2806034569" title="1991ish - Clint - Wooodbridge High - Mr. Linz&#x27;s physics class - funny face - look at all the preppy people - 0454 by Rev. Xanatos Satanicos Bombasticos (ClintJCL), on Flickr"><img src="https://farm4.staticflickr.com/3296/2806034569_356e265d8d_b.jpg" width="1024" height="549" alt="1991ish - Clint - Wooodbridge High - Mr. Linz&#x27;s physics class - funny face - look at all the preppy people - 0454"></a></p>
-
-<p>For episode 42 we are blessed by the wonderful and talented <a href="http://twitter.com/lxt">Laura Thomson</a>, Senior Engineering Manager at Mozilla. Laura drops science on managing engineers, Minimum Viable Bureaucracy, HHVM and Hack, and her mid-Atlantic coast accent. <strong>This is a must-listen for folks who manage tech teams</strong>.</p>
-
-<ul>
-<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep42-64mono.mp3" rel="enclosure">Listen now (MP3, 34.5MB, 1:17:38)</a> | <a href="http://devhell.info/player.html?ep42-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep42-64mono.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="https://www.cs.purdue.edu/homes/trinkle/RCS/">RCS</a></li>
-<li><a href="http://www.amazon.com/gp/product/0321833899/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321833899&linkCode=as2&tag=funkatroncom-20">PHP and MySQL Web Development (5th Edition)</a></li>
-<li>Minimum Viable Bureaucracy: <a href="https://air.mozilla.org/minimum-viable-bureaucracy/">Video</a>, <a href="https://speakerdeck.com/lauraxt/minimum-viable-bureaucracy">Slides</a></li>
-<li><a href="http://flag.blackened.net/revolt/hist_texts/structurelessness.html">The Tyranny of Structurelessness</a></li>
-<li><a href="http://www.develop-online.net/news/valve-s-perfect-hiring-hierarchy-has-hidden-management-clique-like-high-school/0115316">Jeri Ellsworth leaving Steam</a></li>
-<li><a href="https://twitter.com/SaraMG">Sara Golemon (is awesome)</a></li>
-<li><a href="http://hhvm.com">HHVM blog</a></li>
-<li><a href="http://hacklang.org">Hack for HHVM</a></li>
-<li><a href="http://coffeescript.org/">Coffeescript</a></li>
-<li><a href="http://golang.org">Go</a></li>
-<li><a href="http://ilikekillnerds.com/2013/07/so-ellislab-is-looking-for-a-new-owner-for-codeigniter/">CodeIgniter seeking a new home</a></li>
 </ul>
 
 ]]></content>
