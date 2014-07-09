@@ -89,6 +89,11 @@ body {
   }
 }
 
+#irc-body {
+  position: inherit;
+  max-width:auto;
+}
+
 #content {
   overflow: hidden;
   > div, > article { width: 100%; }
