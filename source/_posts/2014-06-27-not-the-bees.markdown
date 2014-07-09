@@ -22,6 +22,7 @@ This time around we are blessed by the presence of [Eryn O'Neil](http://twitter.
 ## Links and Notes
 
 - [Eryn O'Neil on Twitter](http://twitter.com/eryno)
+- Eryn would like to make a correction: "80-90% of the world's almonds come from CA, but only 60% of the US's bees end up there. IT'S STILL A LOT OF BEES THOUGH."
 - [Blues dancing](https://en.wikipedia.org/wiki/Blues_dance) / [swing dancing](https://en.wikipedia.org/wiki/Swing_%28dance%29)
 - [Imposter Syndrome](https://counseling.caltech.edu/general/InfoandResources/Impostor)
 - [#phpmentoring on IRC](http://irc.netsplit.de/channels/details.php?room=%23phpmentoring&net=freenode)
