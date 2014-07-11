@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2014-07-08T20:42:05-04:00</updated>
+  <updated>2014-07-11T11:16:28-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Old As Dirt]]></title>
+    <link href="http://devhell.info/post/2014-07-11/old-as-dirt/"/>
+    <updated>2014-07-11T10:02:00-04:00</updated>
+    <id>http://devhell.info/post/2014-07-11/old-as-dirt</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/powerhouse_museum/2633077972" title="Princes Lane looking south, The Rocks by Powerhouse Museum, on Flickr"><img src="https://farm4.staticflickr.com/3153/2633077972_48eff41093_z.jpg?zz=1" width="640" height="444" alt="Princes Lane looking south, The Rocks"></a></p>
+
+<p>Our guest this week is <a href="http://emsmith.net/">Elizabeth Smith</a>, PHP internals veteran and guru of PHP on Windows (she says <strong>&#8220;I wish every company was as good at giving back to open source as Microsoft&#8221;</strong>). We talk about being Old as Dirt in relation to <a href="http://j.mp/devdystopia">a blog post Ed made last week</a>, how to mentor up and coming developers, and the history of PHP on Windows.</p>
+
+<p>Also, check out <a href="http://www.watchmecode.net/devhell?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">this <strong>special offer</strong> from <strong>Watch Me Code</strong></a>. You can get <strong><em>35% OFF</em></strong> as subcription to their awesome JavaScript screencasts as a Development Hell listener by going to <strong><a href="http://www.watchmecode.net/devhell?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">watchmecode.net/devhell</a></strong>.</p>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>, <a href="http://www.watchmecode.net/devhell?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">Watch Me Code</a>, <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+<li>Sign up for our <strong>mailing list</strong> <a href="http://devhell.info/subscribe-email.html">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep48-64mono.mp3" rel="enclosure">Listen now (MP3, 32.7MB, 1:10:24)</a> | <a href="http://devhell.info/player.html?ep48-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep48-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://emsmith.net/">Elizabeth Smith&#8217;s Website</a></li>
+<li><a href="https://the-pastry-box-project.net/ed-finkler/2014-july-6">The Developer&#8217;s Dystopian Future</a></li>
+<li><a href="http://blog.cleancoder.com/uncle-bob/2014/06/20/MyLawn.html">My Lawn by Bob Martin</a></li>
+<li><a href="http://linuxbeard.com/">LinuxBeard.com</a></li>
+<li><a href="http://cygwin.com/">Cygwin</a></li>
+<li><a href="http://gtk.php.net/">PHP-GTK</a></li>
+<li><a href="https://speakerdeck.com/trent/parallelism-and-concurrency-with-python">Windows being really good at concurrency</a></li>
+<li><a href="https://www.youtube.com/watch?v=8_4bLNM0axE">Nelson Muntz laugh</a></li>
+<li><a href="http://phpmentoring.org">PHPMentoring.org</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mentat">Mentats</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 47: NOT THE BEES]]></title>
@@ -937,7 +982,7 @@ A: &#8220;$40k&#8221;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&#8217;s success.</p>
 
-<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#x69;&#108;&#116;&#x6f;&#x3a;&#116;&#105;&#108;&#x6c;&#43;&#112;&#x68;&#x70;&#64;&#105;&#x6d;&#x61;&#x67;&#105;&#x6e;&#x65;&#101;&#97;&#115;&#x79;&#x2e;&#x63;&#x6f;&#109;">&#116;&#105;&#108;&#108;&#43;&#x70;&#x68;&#112;&#x40;&#x69;&#x6d;&#x61;&#x67;&#105;&#x6e;&#101;&#101;&#97;&#x73;&#x79;&#46;&#99;&#111;&#x6d;</a>.</p>
+<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#116;&#105;&#x6c;&#x6c;&#43;&#x70;&#x68;&#x70;&#64;&#105;&#109;&#x61;&#x67;&#x69;&#x6e;&#101;&#101;&#x61;&#115;&#121;&#x2e;&#x63;&#x6f;&#x6d;">&#x74;&#x69;&#108;&#108;&#43;&#x70;&#104;&#112;&#x40;&#x69;&#109;&#97;&#103;&#x69;&#x6e;&#101;&#x65;&#x61;&#x73;&#121;&#46;&#99;&#111;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -995,7 +1040,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs&#8217; suicide, both in the context of governmental power and mental illness. We also talk about Ed&#8217;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#111;&#x3a;&#116;&#x69;&#x6c;&#108;&#43;&#112;&#104;&#112;&#64;&#105;&#x6d;&#97;&#103;&#105;&#x6e;&#101;&#101;&#x61;&#x73;&#121;&#x2e;&#x63;&#x6f;&#x6d;">&#116;&#x69;&#x6c;&#x6c;&#x2b;&#x70;&#104;&#x70;&#64;&#x69;&#109;&#x61;&#x67;&#105;&#x6e;&#x65;&#101;&#x61;&#x73;&#x79;&#x2e;&#x63;&#x6f;&#x6d;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#x6f;&#58;&#116;&#x69;&#108;&#x6c;&#x2b;&#x70;&#x68;&#x70;&#64;&#105;&#109;&#x61;&#x67;&#105;&#x6e;&#101;&#101;&#x61;&#x73;&#121;&#x2e;&#x63;&#x6f;&#x6d;">&#116;&#105;&#x6c;&#x6c;&#43;&#112;&#x68;&#112;&#x40;&#x69;&#x6d;&#97;&#103;&#105;&#110;&#x65;&#x65;&#97;&#115;&#121;&#46;&#x63;&#111;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
