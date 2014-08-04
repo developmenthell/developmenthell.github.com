@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Corona" | /dev/hell]]></title>
+  <link href="http://devhell.info/blog/categories/corona-/atom.xml" rel="self"/>
+  <link href="http://devhell.info/"/>
+  <updated>2014-08-04T13:06:43-04:00</updated>
+  <id>http://devhell.info/</id>
+  <author>
+    <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
+    <email><![CDATA[devhell@funkatron.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 45: Single Quotes for Web Scale]]></title>
+    <link href="http://devhell.info/post/2014-05-28/single-quotes-for-web-scale/"/>
+    <updated>2014-05-28T14:27:00-04:00</updated>
+    <id>http://devhell.info/post/2014-05-28/single-quotes-for-web-scale</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/dfid/5331062034" title="Trees cocooned in spiders webs, an unexpected side effect of the flooding in Sindh, Pakistan by DFID - UK Department for International Development, on Flickr"><img src="https://farm6.staticflickr.com/5167/5331062034_fda5e49f89_z.jpg" width="640" height="427" alt="Trees cocooned in spiders webs, an unexpected side effect of the flooding in Sindh, Pakistan"></a></p>
+
+<p>This week is all about PERSONAL BRANDING and WEB SCALE with special guest Steve Corona. We talk about Steve's book <em>Scaling PHP</em>. We also reminisce about the old days of Twitter API dev, until Steve humiliates Ed by not knowing what Spaz was.</p>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>, <a href="http://newrelic.com">New Relic</a>, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+<li>Sign up for our <strong>mailing list</strong> <a href="/subscribe-email.html">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep45-64mono.mp3" rel="enclosure">Listen now (MP3, 26.7MB, 56:30)</a> | <a href="http://devhell.info/player.html?ep45-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep45-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://twitter.com/stevencorona">Steve Corona on Twitter</a></li>
+<li><a href="https://www.scalingphpbook.com/">Scaling PHP</a></li>
+<li><a href="http://stevecorona.com/">Steve's web site</a></li>
+<li><a href="https://www.life360.com/">Life360</a> (now hiring in SF)</li>
+<li><a href="https://twitpic.com/">Twitpic</a></li>
+<li><a href="http://twitpic.com/135xa">"Miracle on the hudson" plane crash</a></li>
+<li><a href="http://stackoverflow.com/questions/3446216/what-is-the-difference-between-single-quoted-and-double-quoted-strings-in-php">Double vs single quotes in PHP</a></li>
+<li><a href="http://php.net/manual/en/features.persistent-connections.php">Persistent DB connections in PHP</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Shared_nothing_architecture">Shared nothing architecture</a></li>
+<li><a href="http://stackoverflow.com/questions/11707879/difference-between-scaling-horizontally-and-vertically-for-databases">Horizontal vs. vertical scaling</a></li>
+<li><a href="http://12factor.net/">12 Factor App</a></li>
+<li><a href="http://oreilly.com/openbook/cgi/ch02_07.html">Applescript CGI</a>, <a href="http://whitefiles.org/b1_s/1_free_guides/fg3mo/pgs/v01_ascgi.htm">more</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
