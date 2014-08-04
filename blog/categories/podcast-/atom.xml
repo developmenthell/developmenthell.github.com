@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast, | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast-/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2014-08-04T13:06:43-04:00</updated>
+  <updated>2014-08-04T13:08:02-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,145 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 49: Rogue Transmorpher]]></title>
-    <link href="http://devhell.info/post/2014-08-04/rogue-transmorpher/"/>
-    <updated>2014-08-04T12:10:00-04:00</updated>
-    <id>http://devhell.info/post/2014-08-04/rogue-transmorpher</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/beigephotos/1023649120" title="Mystery Mouth Morphers by Michael Pereckas, on Flickr"><img src="https://farm2.staticflickr.com/1369/1023649120_caf5e9ad65_z.jpg?zz=1" width="640" height="480" alt="Mystery Mouth Morphers"></a></p>
-
-<p>Our guest this week is <a href="http://www.alittleofboth.com/">Beth Tucker Long</a>, the editor of <a href="http://www.phparch.com/">PHP Architect magazine</a> and respected PHP language trainer. We talk about her role as editor of the top PHP Magazine in the world, her experiences teaching people to code, the best PHP books for beginners, her awesome upcoming <a href="http://2014.madisonphpconference.com/">MadisonPHP conference</a>, and XBox Kinect paranoia.</p>
-
-<ul>
-<li>Check out our <strong>sponsors</strong>: <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-<li>Sign up for our <strong>mailing list</strong> <a href="/subscribe-email.html">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep49-64mono.mp3" rel="enclosure">Listen now (MP3, 25.6MB, 54:58)</a> | <a href="http://devhell.info/player.html?ep49-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep49-64mono.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Transmorphers">Transmorphers</a></li>
-<li><a href="http://www.urbandictionary.com/define.php?term=Hurcules">Hurcules</a></li>
-<li><a href="http://www.phparch.com/">PHP Architect</a></li>
-<li><a href="http://2014.madisonphpconference.com/">Madison PHP Conference</a></li>
-<li><a href="https://www.youtube.com/watch?v=4i5195VBisQ">Bill Cosby Snowball bit</a></li>
-<li><a href="http://www.amazon.com/gp/product/0321833899/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0321833899&amp;linkCode=as2&amp;tag=funkatroncom-20&amp;linkId=WGSYP34G6LIUVCXP">PHP and MySQL Web Development</a> (Thomson/Welling)</li>
-<li><a href="http://www.larryullman.com/books/">Larry Ullman's books</a></li>
-<li><a href="http://www.xbox.com/en-US/kinect">XBox One Kinetic</a></li>
-<li><a href="http://forums.riftgame.com/attachments/dungeons-raids/16596d1389985816t-trion-failing-nerfing-paddlin.jpg">That's a paddlin'</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 48: Old As Dirt]]></title>
-    <link href="http://devhell.info/post/2014-07-11/old-as-dirt/"/>
-    <updated>2014-07-11T10:02:00-04:00</updated>
-    <id>http://devhell.info/post/2014-07-11/old-as-dirt</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/powerhouse_museum/2633077972" title="Princes Lane looking south, The Rocks by Powerhouse Museum, on Flickr"><img src="https://farm4.staticflickr.com/3153/2633077972_48eff41093_z.jpg?zz=1" width="640" height="444" alt="Princes Lane looking south, The Rocks"></a></p>
-
-<p>Our guest this week is <a href="http://emsmith.net/">Elizabeth Smith</a>, PHP internals veteran and guru of PHP on Windows (she says <strong>"I wish every company was as good at giving back to open source as Microsoft"</strong>). We talk about being Old as Dirt in relation to <a href="http://j.mp/devdystopia">a blog post Ed made last week</a>, how to mentor up and coming developers, and the history of PHP on Windows.</p>
-
-<p>Also, check out <a href="http://www.watchmecode.net/devhell?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">this <strong>special offer</strong> from <strong>Watch Me Code</strong></a>. You can get <strong><em>35% OFF</em></strong> as subcription to their awesome JavaScript screencasts as a Development Hell listener by going to <strong><a href="http://www.watchmecode.net/devhell?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">watchmecode.net/devhell</a></strong>.</p>
-
-<ul>
-<li>Check out our <strong>sponsors</strong>, <a href="http://www.watchmecode.net/devhell?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">Watch Me Code</a>, <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-<li>Sign up for our <strong>mailing list</strong> <a href="/subscribe-email.html">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep48-64mono.mp3" rel="enclosure">Listen now (MP3, 32.7MB, 1:10:24)</a> | <a href="http://devhell.info/player.html?ep48-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep48-64mono.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="http://emsmith.net/">Elizabeth Smith's Website</a></li>
-<li><a href="https://the-pastry-box-project.net/ed-finkler/2014-july-6">The Developer's Dystopian Future</a></li>
-<li><a href="http://blog.cleancoder.com/uncle-bob/2014/06/20/MyLawn.html">My Lawn by Bob Martin</a></li>
-<li><a href="http://linuxbeard.com/">LinuxBeard.com</a></li>
-<li><a href="http://cygwin.com/">Cygwin</a></li>
-<li><a href="http://gtk.php.net/">PHP-GTK</a></li>
-<li><a href="https://speakerdeck.com/trent/parallelism-and-concurrency-with-python">Windows being really good at concurrency</a></li>
-<li><a href="https://www.youtube.com/watch?v=8_4bLNM0axE">Nelson Muntz laugh</a></li>
-<li><a href="http://phpmentoring.org">PHPMentoring.org</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Mentat">Mentats</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 47: NOT THE BEES]]></title>
-    <link href="http://devhell.info/post/2014-06-27/not-the-bees/"/>
-    <updated>2014-06-27T20:36:00-04:00</updated>
-    <id>http://devhell.info/post/2014-06-27/not-the-bees</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/field_museum_library/3405449492" title="Girl dressed like a bee by The Field Museum Library, on Flickr"><img src="https://farm4.staticflickr.com/3556/3405449492_dd4337c7c7_z.jpg?zz=1" width="640" height="517" alt="Girl dressed like a bee"></a></p>
-
-<p>This time around we are blessed by the presence of <a href="http://twitter.com/eryno">Eryn O'Neil</a>, Tech Lead at <a href="http://www.clockwork.net">Clockwork</a>. We talk about the importance of UX for programmers, getting started speaking at conferences, and BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES.</p>
-
-<ul>
-<li>Check out our <strong>sponsors</strong>, <a href="http://newrelic.com">New Relic</a>, <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-<li>Sign up for our <strong>mailing list</strong> <a href="/subscribe-email.html">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep47-64mono.mp3" rel="enclosure">Listen now (MP3, 31.2MB, 1:06:42)</a> | <a href="http://devhell.info/player.html?ep47-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep47-64mono.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="http://twitter.com/eryno">Eryn O'Neil on Twitter</a></li>
-<li>Eryn would like to make a correction: "80-90% of the world's almonds come from CA, but only 60% of the US's bees end up there. IT'S STILL A LOT OF BEES THOUGH."</li>
-<li><a href="https://en.wikipedia.org/wiki/Blues_dance">Blues dancing</a> / <a href="https://en.wikipedia.org/wiki/Swing_%28dance%29">swing dancing</a></li>
-<li><a href="https://counseling.caltech.edu/general/InfoandResources/Impostor">Imposter Syndrome</a></li>
-<li><a href="http://irc.netsplit.de/channels/details.php?room=%23phpmentoring&amp;net=freenode">#phpmentoring on IRC</a></li>
-<li><a href="http://joind.in/">Joind.in</a></li>
-<li><a href="https://web.archive.org/web/20051201042535/http://homepage.mac.com/bradster/iarchitect/shame.htm">The engineer's interface</a></li>
-<li><a href="https://joind.in/talk/view/10633">You Can UX Too: Avoiding the Programmer's Interface</a></li>
-<li><a href="http://www.amazon.com/gp/product/1566091594/ref=oh_details_o08_s00_i00?ie=UTF8&amp;psc=1">The Non-Designer's Design Book: Design and Typographic Principles for the Visual Novice</a></li>
-<li><a href="http://www.amazon.com/Dont-Make-Think-Approach-Usability/dp/0321344758/sr=1-1/qid=1159330202/ref=pd_bbs_1?ie=UTF8&amp;s=books">Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition</a></li>
-<li><a href="http://rosenfeldmedia.com/books/web-form-design/">Web Form Design: Filling in the Blanks</a></li>
-<li><a href="https://www.youtube.com/watch?v=wC-aHnYOcDk">Bee beard joe</a></li>
-<li><a href="http://www.imdb.com/title/tt0078350/">The Swarm</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Africanized_bee">Africanized honey bees</a></li>
-<li><a href="http://insects.about.com/od/antsbeeswasps/qt/Honey-Bee-Mating.htm">Drone explodes during copulation</a></li>
-<li><a href="http://www.youtube.com/watch?v=RzToNo7A-94">Terry Tate - Office Linebacker</a></li>
-<li><a href="http://knowyourmeme.com/memes/thiscouldbeusbutyouplayin">This could be us but you playin</a></li>
-<li><a href="http://beesbeesbees.com/">http://beesbeesbees.com/</a></li>
-<li><a href="http://imgur.com/r/funny/2s3R9">Death in fam</a></li>
-</ul>
-
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 46: php[tek] 2014]]></title>
@@ -198,51 +59,6 @@
 <li><a href="http://news.nationalpost.com/2013/02/21/quebec-language-police/">French signage laws in Quebec</a></li>
 <li><a href="https://joind.in/talk/view/10654">Greg Baugues's talk at tek about hacking convos</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Black_Books">Black Books</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 45: Single Quotes for Web Scale]]></title>
-    <link href="http://devhell.info/post/2014-05-28/single-quotes-for-web-scale/"/>
-    <updated>2014-05-28T14:27:00-04:00</updated>
-    <id>http://devhell.info/post/2014-05-28/single-quotes-for-web-scale</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/dfid/5331062034" title="Trees cocooned in spiders webs, an unexpected side effect of the flooding in Sindh, Pakistan by DFID - UK Department for International Development, on Flickr"><img src="https://farm6.staticflickr.com/5167/5331062034_fda5e49f89_z.jpg" width="640" height="427" alt="Trees cocooned in spiders webs, an unexpected side effect of the flooding in Sindh, Pakistan"></a></p>
-
-<p>This week is all about PERSONAL BRANDING and WEB SCALE with special guest Steve Corona. We talk about Steve's book <em>Scaling PHP</em>. We also reminisce about the old days of Twitter API dev, until Steve humiliates Ed by not knowing what Spaz was.</p>
-
-<ul>
-<li>Check out our <strong>sponsors</strong>, <a href="http://newrelic.com">New Relic</a>, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-<li>Sign up for our <strong>mailing list</strong> <a href="/subscribe-email.html">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep45-64mono.mp3" rel="enclosure">Listen now (MP3, 26.7MB, 56:30)</a> | <a href="http://devhell.info/player.html?ep45-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep45-64mono.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="http://twitter.com/stevencorona">Steve Corona on Twitter</a></li>
-<li><a href="https://www.scalingphpbook.com/">Scaling PHP</a></li>
-<li><a href="http://stevecorona.com/">Steve's web site</a></li>
-<li><a href="https://www.life360.com/">Life360</a> (now hiring in SF)</li>
-<li><a href="https://twitpic.com/">Twitpic</a></li>
-<li><a href="http://twitpic.com/135xa">"Miracle on the hudson" plane crash</a></li>
-<li><a href="http://stackoverflow.com/questions/3446216/what-is-the-difference-between-single-quoted-and-double-quoted-strings-in-php">Double vs single quotes in PHP</a></li>
-<li><a href="http://php.net/manual/en/features.persistent-connections.php">Persistent DB connections in PHP</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Shared_nothing_architecture">Shared nothing architecture</a></li>
-<li><a href="http://stackoverflow.com/questions/11707879/difference-between-scaling-horizontally-and-vertically-for-databases">Horizontal vs. vertical scaling</a></li>
-<li><a href="http://12factor.net/">12 Factor App</a></li>
-<li><a href="http://oreilly.com/openbook/cgi/ch02_07.html">Applescript CGI</a>, <a href="http://whitefiles.org/b1_s/1_free_guides/fg3mo/pgs/v01_ascgi.htm">more</a></li>
 </ul>
 
 ]]></content>
