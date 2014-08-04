@@ -3,7 +3,7 @@ layout: post
 title: "Episode 46: php[tek] 2014"
 date: 2014-06-04 21:11
 comments: true
-categories: podcast
+categories: podcast, phptek
 ---
 <a href="https://www.flickr.com/photos/nasacommons/7944896808" title="New York City Welcomes the Apollo 11 Astronauts by NASA on The Commons, on Flickr"><img src="https://farm9.staticflickr.com/8032/7944896808_07d60a5060_z.jpg" width="640" height="493" alt="New York City Welcomes the Apollo 11 Astronauts"></a>
 
