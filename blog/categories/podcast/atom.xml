@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2014-07-11T12:06:42-04:00</updated>
+  <updated>2014-08-04T13:02:29-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -14,161 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Episode 48: Old As Dirt]]></title>
-    <link href="http://devhell.info/post/2014-07-11/old-as-dirt/"/>
-    <updated>2014-07-11T10:02:00-04:00</updated>
-    <id>http://devhell.info/post/2014-07-11/old-as-dirt</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/powerhouse_museum/2633077972" title="Princes Lane looking south, The Rocks by Powerhouse Museum, on Flickr"><img src="https://farm4.staticflickr.com/3153/2633077972_48eff41093_z.jpg?zz=1" width="640" height="444" alt="Princes Lane looking south, The Rocks"></a></p>
+    <title type="html"><![CDATA[Episode 43: Erotic Art The Right Way]]></title>
+    <link href="http://devhell.info/post/2014-04-13/erotic-art-the-right-way/"/>
+    <updated>2014-04-13T17:55:00-04:00</updated>
+    <id>http://devhell.info/post/2014-04-13/erotic-art-the-right-way</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/mararie/5380124999" title="minotaurus by mararie, on Flickr"><img src="https://farm6.staticflickr.com/5169/5380124999_928e3fa070_z.jpg" width="640" height="480" alt="minotaurus"></a></p>
 
-<p>Our guest this week is <a href="http://emsmith.net/">Elizabeth Smith</a>, PHP internals veteran and guru of PHP on Windows (she says <strong>"I wish every company was as good at giving back to open source as Microsoft"</strong>). We talk about being Old as Dirt in relation to <a href="http://j.mp/devdystopia">a blog post Ed made last week</a>, how to mentor up and coming developers, and the history of PHP on Windows.</p>
-
-<p>Also, check out <a href="http://www.watchmecode.net/devhell?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">this <strong>special offer</strong> from <strong>Watch Me Code</strong></a>. You can get <strong><em>35% OFF</em></strong> as subcription to their awesome JavaScript screencasts as a Development Hell listener by going to <strong><a href="http://www.watchmecode.net/devhell?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">watchmecode.net/devhell</a></strong>.</p>
-
-<ul>
-<li>Check out our <strong>sponsors</strong>, <a href="http://www.watchmecode.net/devhell?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">Watch Me Code</a>, <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-<li>Sign up for our <strong>mailing list</strong> <a href="/subscribe-email.html">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep48-64mono.mp3" rel="enclosure">Listen now (MP3, 32.7MB, 1:10:24)</a> | <a href="http://devhell.info/player.html?ep48-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep48-64mono.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="http://emsmith.net/">Elizabeth Smith's Website</a></li>
-<li><a href="https://the-pastry-box-project.net/ed-finkler/2014-july-6">The Developer's Dystopian Future</a></li>
-<li><a href="http://blog.cleancoder.com/uncle-bob/2014/06/20/MyLawn.html">My Lawn by Bob Martin</a></li>
-<li><a href="http://linuxbeard.com/">LinuxBeard.com</a></li>
-<li><a href="http://cygwin.com/">Cygwin</a></li>
-<li><a href="http://gtk.php.net/">PHP-GTK</a></li>
-<li><a href="https://speakerdeck.com/trent/parallelism-and-concurrency-with-python">Windows being really good at concurrency</a></li>
-<li><a href="https://www.youtube.com/watch?v=8_4bLNM0axE">Nelson Muntz laugh</a></li>
-<li><a href="http://phpmentoring.org">PHPMentoring.org</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Mentat">Mentats</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 47: NOT THE BEES]]></title>
-    <link href="http://devhell.info/post/2014-06-27/not-the-bees/"/>
-    <updated>2014-06-27T20:36:00-04:00</updated>
-    <id>http://devhell.info/post/2014-06-27/not-the-bees</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/field_museum_library/3405449492" title="Girl dressed like a bee by The Field Museum Library, on Flickr"><img src="https://farm4.staticflickr.com/3556/3405449492_dd4337c7c7_z.jpg?zz=1" width="640" height="517" alt="Girl dressed like a bee"></a></p>
-
-<p>This time around we are blessed by the presence of <a href="http://twitter.com/eryno">Eryn O'Neil</a>, Tech Lead at <a href="http://www.clockwork.net">Clockwork</a>. We talk about the importance of UX for programmers, getting started speaking at conferences, and BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES BEES.</p>
-
-<ul>
-<li>Check out our <strong>sponsors</strong>, <a href="http://newrelic.com">New Relic</a>, <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-<li>Sign up for our <strong>mailing list</strong> <a href="/subscribe-email.html">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep47-64mono.mp3" rel="enclosure">Listen now (MP3, 31.2MB, 1:06:42)</a> | <a href="http://devhell.info/player.html?ep47-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep47-64mono.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="http://twitter.com/eryno">Eryn O'Neil on Twitter</a></li>
-<li>Eryn would like to make a correction: "80-90% of the world's almonds come from CA, but only 60% of the US's bees end up there. IT'S STILL A LOT OF BEES THOUGH."</li>
-<li><a href="https://en.wikipedia.org/wiki/Blues_dance">Blues dancing</a> / <a href="https://en.wikipedia.org/wiki/Swing_%28dance%29">swing dancing</a></li>
-<li><a href="https://counseling.caltech.edu/general/InfoandResources/Impostor">Imposter Syndrome</a></li>
-<li><a href="http://irc.netsplit.de/channels/details.php?room=%23phpmentoring&amp;net=freenode">#phpmentoring on IRC</a></li>
-<li><a href="http://joind.in/">Joind.in</a></li>
-<li><a href="https://web.archive.org/web/20051201042535/http://homepage.mac.com/bradster/iarchitect/shame.htm">The engineer's interface</a></li>
-<li><a href="https://joind.in/talk/view/10633">You Can UX Too: Avoiding the Programmer's Interface</a></li>
-<li><a href="http://www.amazon.com/gp/product/1566091594/ref=oh_details_o08_s00_i00?ie=UTF8&amp;psc=1">The Non-Designer's Design Book: Design and Typographic Principles for the Visual Novice</a></li>
-<li><a href="http://www.amazon.com/Dont-Make-Think-Approach-Usability/dp/0321344758/sr=1-1/qid=1159330202/ref=pd_bbs_1?ie=UTF8&amp;s=books">Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition</a></li>
-<li><a href="http://rosenfeldmedia.com/books/web-form-design/">Web Form Design: Filling in the Blanks</a></li>
-<li><a href="https://www.youtube.com/watch?v=wC-aHnYOcDk">Bee beard joe</a></li>
-<li><a href="http://www.imdb.com/title/tt0078350/">The Swarm</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Africanized_bee">Africanized honey bees</a></li>
-<li><a href="http://insects.about.com/od/antsbeeswasps/qt/Honey-Bee-Mating.htm">Drone explodes during copulation</a></li>
-<li><a href="http://www.youtube.com/watch?v=RzToNo7A-94">Terry Tate - Office Linebacker</a></li>
-<li><a href="http://knowyourmeme.com/memes/thiscouldbeusbutyouplayin">This could be us but you playin</a></li>
-<li><a href="http://beesbeesbees.com/">http://beesbeesbees.com/</a></li>
-<li><a href="http://imgur.com/r/funny/2s3R9">Death in fam</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 46: php[tek] 2014]]></title>
-    <link href="http://devhell.info/post/2014-06-04/php-tek-2014/"/>
-    <updated>2014-06-04T21:11:00-04:00</updated>
-    <id>http://devhell.info/post/2014-06-04/php-tek-2014</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/nasacommons/7944896808" title="New York City Welcomes the Apollo 11 Astronauts by NASA on The Commons, on Flickr"><img src="https://farm9.staticflickr.com/8032/7944896808_07d60a5060_z.jpg" width="640" height="493" alt="New York City Welcomes the Apollo 11 Astronauts"></a></p>
-
-<p><a href="http://tek.phparch.com">php[tek]</a> was once again upon us, so we did our annual live show! Special guest Paul Reinheimer of WonderNetwork joins us for much frivolity!</p>
-
-<p>Also check out our new sponsor <strong>Watch Me Code</strong>. You can get <strong><em>35% OFF</em></strong> as a Development Hell listener by going to <strong><a href="http://www.watchmecode.net/devhell?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">watchmecode.net/devhell</a></strong>.</p>
-
-<ul>
-<li>Check out our <strong>sponsors</strong>, <a href="http://www.watchmecode.net/devhell?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">Watch Me Code</a>, <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-<li>Sign up for our <strong>mailing list</strong> <a href="/subscribe-email.html">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep46-64mono.mp3" rel="enclosure">Listen now (MP3, 27.1MB, 1:00:53)</a> | <a href="http://devhell.info/player.html?ep46-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep46-64mono.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="http://blog.preinheimer.com/">Paul Reinheimer</a></li>
-<li><a href="https://www.flickr.com/photos/rbowen/sets/72157605257536663/">KISS at tek</a></li>
-<li><a href="https://www.copilot.com/">CoPilot</a></li>
-<li><a href="http://wheresitup.com/">Where's It Up?</a></li>
-<li><a href="http://plus4world.powweb.com/plus4encyclopedia/500100">REM statement</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Byte_%28magazine%29">BYTE magazine</a></li>
-<li><a href="http://www.atarimagazines.com/compute/">COMPUTE! Magazine</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Commodore_64">Commodore C-64</a></li>
-<li><a href="https://en.wikipedia.org/wiki/VIC-20">VIC-20</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Commodore_Datasette">Commodore Datasette</a></li>
-<li><a href="http://xhprof.io/">XHProf</a> and <a href="https://github.com/preinheimer/xhprof">XHProfUI</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Poutine">Poutine</a></li>
-<li><a href="http://www.thestar.com/news/canada/2013/08/26/proposed_quebec_ban_on_religious_symbols_takes_step_forward.html">Quebec banning religious displays</a></li>
-<li><a href="http://news.nationalpost.com/2013/02/21/quebec-language-police/">French signage laws in Quebec</a></li>
-<li><a href="https://joind.in/talk/view/10654">Greg Baugues's talk at tek about hacking convos</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Black_Books">Black Books</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 45: Single Quotes for Web Scale]]></title>
-    <link href="http://devhell.info/post/2014-05-28/single-quotes-for-web-scale/"/>
-    <updated>2014-05-28T14:27:00-04:00</updated>
-    <id>http://devhell.info/post/2014-05-28/single-quotes-for-web-scale</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/dfid/5331062034" title="Trees cocooned in spiders webs, an unexpected side effect of the flooding in Sindh, Pakistan by DFID - UK Department for International Development, on Flickr"><img src="https://farm6.staticflickr.com/5167/5331062034_fda5e49f89_z.jpg" width="640" height="427" alt="Trees cocooned in spiders webs, an unexpected side effect of the flooding in Sindh, Pakistan"></a></p>
-
-<p>This week is all about PERSONAL BRANDING and WEB SCALE with special guest Steve Corona. We talk about Steve's book <em>Scaling PHP</em>. We also reminisce about the old days of Twitter API dev, until Steve humiliates Ed by not knowing what Spaz was.</p>
+<p>Our latest episode features someone who we're been trying to get on for a while: <a href="http://twitter.com/codeguy">Josh Lockhart</a>, the developer of the Slim Framework for PHP and the founder of the <a href="http://phptherightway.com">PHP The Right Way</a> project. We also have a new sponsor in <strike>Nude</strike> New Relic!</p>
 
 <ul>
 <li>Check out our <strong>sponsors</strong>, <a href="http://newrelic.com">New Relic</a>, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
@@ -181,67 +33,206 @@
 <h3>Listen</h3>
 
 <ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep45-64mono.mp3" rel="enclosure">Listen now (MP3, 26.7MB, 56:30)</a> | <a href="http://devhell.info/player.html?ep45-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep45-64mono.mp3"></li>
+<li><a href="http://devhell.s3.amazonaws.com/ep43-64mono.mp3" rel="enclosure">Listen now (MP3, 31.4MB, 1:09:06)</a> | <a href="http://devhell.info/player.html?ep43-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep43-64mono.mp3"></li>
 </ul>
 
 
 <h2>Links and Notes</h2>
 
 <ul>
-<li><a href="http://twitter.com/stevencorona">Steve Corona on Twitter</a></li>
-<li><a href="https://www.scalingphpbook.com/">Scaling PHP</a></li>
-<li><a href="http://stevecorona.com/">Steve's web site</a></li>
-<li><a href="https://www.life360.com/">Life360</a> (now hiring in SF)</li>
-<li><a href="https://twitpic.com/">Twitpic</a></li>
-<li><a href="http://twitpic.com/135xa">"Miracle on the hudson" plane crash</a></li>
-<li><a href="http://stackoverflow.com/questions/3446216/what-is-the-difference-between-single-quoted-and-double-quoted-strings-in-php">Double vs single quotes in PHP</a></li>
-<li><a href="http://php.net/manual/en/features.persistent-connections.php">Persistent DB connections in PHP</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Shared_nothing_architecture">Shared nothing architecture</a></li>
-<li><a href="http://stackoverflow.com/questions/11707879/difference-between-scaling-horizontally-and-vertically-for-databases">Horizontal vs. vertical scaling</a></li>
-<li><a href="http://12factor.net/">12 Factor App</a></li>
-<li><a href="http://oreilly.com/openbook/cgi/ch02_07.html">Applescript CGI</a>, <a href="http://whitefiles.org/b1_s/1_free_guides/fg3mo/pgs/v01_ascgi.htm">more</a></li>
+<li><a href="http://twitter.com/codeguy">Josh Lockhart</a></li>
+<li><a href="http://www.slimframework.com/">Slim Framework</a></li>
+<li><a href="http://limonade-php.github.io/">Limonade</a></li>
+<li><a href="http://fatfreeframework.com">Fat Free Framework</a></li>
+<li><a href="http://www.sinatrarb.com/">Sinatra</a></li>
+<li><a href="http://flask.pocoo.org/">Flask</a></li>
+<li><a href="http://www.recessframework.org/">Recess FW</a></li>
+<li><a href="http://guzzle.readthedocs.org/">Guzzle</a></li>
+<li><a href="https://github.com/fictivekin/resty.php">Resty.php</a></li>
+<li><a href="http://phptherightway.com">PHP The Right Way</a></li>
 </ul>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Episode 44: Gorf Fever]]></title>
-    <link href="http://devhell.info/post/2014-05-04/gorf-fever/"/>
-    <updated>2014-05-04T16:04:00-04:00</updated>
-    <id>http://devhell.info/post/2014-05-04/gorf-fever</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/aloha75/4906012509" title="Gorf Sign by Sam Howzit, on Flickr"><img src="https://farm5.staticflickr.com/4099/4906012509_29c1181242_z.jpg" width="640" height="290" alt="Gorf Sign"></a></p>
+    <title type="html"><![CDATA[Episode 42: Hacking Difficult People]]></title>
+    <link href="http://devhell.info/post/2014-03-24/hacking-difficult-people/"/>
+    <updated>2014-03-24T14:41:00-04:00</updated>
+    <id>http://devhell.info/post/2014-03-24/hacking-difficult-people</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/clintjcl/2806034569" title="1991ish - Clint - Wooodbridge High - Mr. Linz&#x27;s physics class - funny face - look at all the preppy people - 0454 by Rev. Xanatos Satanicos Bombasticos (ClintJCL), on Flickr"><img src="https://farm4.staticflickr.com/3296/2806034569_356e265d8d_b.jpg" width="1024" height="549" alt="1991ish - Clint - Wooodbridge High - Mr. Linz&#x27;s physics class - funny face - look at all the preppy people - 0454"></a></p>
 
-<p>This weeks brings us a new guest and a new sponsor! Paddy Foran is an old friend of Chris and Ed's who makes his first appearance on the show, talking about the Go programming language, software architecture, open source projects, and his new book "Your API is Bad." We also welcome new sponsor Roave!</p>
+<p>For episode 42 we are blessed by the wonderful and talented <a href="http://twitter.com/lxt">Laura Thomson</a>, Senior Engineering Manager at Mozilla. Laura drops science on managing engineers, Minimum Viable Bureaucracy, HHVM and Hack, and her mid-Atlantic coast accent. <strong>This is a must-listen for folks who manage tech teams</strong>.</p>
 
 <ul>
-<li>Check out our <strong>sponsors</strong>, <a href="http://roave.com">Roave</a>, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-<li>Sign up for our <strong>mailing list</strong> <a href="/subscribe-email.html">here</a></li>
+<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
 </ul>
 
 
 <h3>Listen</h3>
 
 <ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep44-64mono.mp3" rel="enclosure">Listen now (MP3, 30.5MB, 1:05:53)</a> | <a href="http://devhell.info/player.html?ep44-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep44-64mono.mp3"></li>
+<li><a href="http://devhell.s3.amazonaws.com/ep42-64mono.mp3" rel="enclosure">Listen now (MP3, 34.5MB, 1:17:38)</a> | <a href="http://devhell.info/player.html?ep42-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep42-64mono.mp3"></li>
 </ul>
 
 
 <h2>Links and Notes</h2>
 
 <ul>
-<li><a href="http://paddy.io/o">Paddy Foran</a></li>
+<li><a href="https://www.cs.purdue.edu/homes/trinkle/RCS/">RCS</a></li>
+<li><a href="http://www.amazon.com/gp/product/0321833899/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321833899&linkCode=as2&tag=funkatroncom-20">PHP and MySQL Web Development (5th Edition)</a></li>
+<li>Minimum Viable Bureaucracy: <a href="https://air.mozilla.org/minimum-viable-bureaucracy/">Video</a>, <a href="https://speakerdeck.com/lauraxt/minimum-viable-bureaucracy">Slides</a></li>
+<li><a href="http://flag.blackened.net/revolt/hist_texts/structurelessness.html">The Tyranny of Structurelessness</a></li>
+<li><a href="http://www.develop-online.net/news/valve-s-perfect-hiring-hierarchy-has-hidden-management-clique-like-high-school/0115316">Jeri Ellsworth leaving Steam</a></li>
+<li><a href="https://twitter.com/SaraMG">Sara Golemon (is awesome)</a></li>
+<li><a href="http://hhvm.com">HHVM blog</a></li>
+<li><a href="http://hacklang.org">Hack for HHVM</a></li>
+<li><a href="http://coffeescript.org/">Coffeescript</a></li>
 <li><a href="http://golang.org">Go</a></li>
-<li><a href="http://www.dramafever.com/">Drama Fever</a></li>
-<li><a href="http://yourapiisbad.com/">Your API is Bad</a></li>
-<li><a href="http://www.2cloudproject.com/">2cloud</a></li>
-<li><a href="http://tek.phparch.com/speakers/#60272">Paddy's talk at this year's php[tek]</a></li>
-<li><a href="http://paddy.io/posts/open-sourcing-mental-illness-tour/">Paddy's blog post about intro to Open Source</a></li>
-<li><a href="http://www.arcade-museum.com/game_detail.php?game_id=7983">Gorf</a></li>
+<li><a href="http://ilikekillnerds.com/2013/07/so-ellislab-is-looking-for-a-new-owner-for-codeigniter/">CodeIgniter seeking a new home</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 41: Let Me Wet My Beak]]></title>
+    <link href="http://devhell.info/post/2014-03-10/let-me-wet-my-beak/"/>
+    <updated>2014-03-10T13:11:00-04:00</updated>
+    <id>http://devhell.info/post/2014-03-10/let-me-wet-my-beak</id>
+    <content type="html"><![CDATA[<p><img src="http://devhell.s3.amazonaws.com/images/wet_my_beak.jpg" alt="Mustang Mentoring"></p>
+
+<p>This week we're joined by David Rogers, aka <a href="https://twitter.com/al_the_x">@al_the_x</a>, to hear how he's teaching PHP in college courses for brand-new progammers. We also talk about what possessed Ed to develop his own unit testing framework.</p>
+
+<ul>
+<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep41-64mono.mp3" rel="enclosure">Listen now (MP3, 36.2MB, 1:21:23)</a> | <a href="http://devhell.info/player.html?ep41-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep41-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://fictivekin.com">Fictive Kin</a></li>
+<li><a href="http://devbootcamp.com/">Ruby on Rails developer course</a></li>
+<li><a href="http://www.pytennessee.org/">PyTennessee</a></li>
+<li><a href="https://www.openshift.com/blogs/solving-the-two-week-problem-by-developing-in-the-cloud">Article (promotional) on "the two week problem"</a></li>
+<li><a href="https://github.com/vcc-dig1108/vcc-dig1108-coding-dojos">Examples of in-class coding dojos from Valencia</a></li>
+<li><a href="https://github.com/valencia-digital-media/">Valencia Digital Media on Github</a>
+
+<ul>
+<li><a href="https://github.com/vcc-dig1108/">Intro to Programming with PHP</a></li>
+<li><a href="https://github.com/vcc-dig1102/">Intro to Programming with JS</a></li>
+</ul>
+</li>
+<li><a href="http://www.slimframework.com/">Slim Framework</a></li>
+<li><a href="http://vancelucas.com/blog/valitron-the-simple-validation-library-that-doesnt-suck/">Valitron</a></li>
+<li><a href="https://github.com/funkatron/FUnit">FUnit</a></li>
+<li><a href="http://tutorialzine.com/projects/testify/">Testify</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 40: Poly Life Mentoring]]></title>
+    <link href="http://devhell.info/post/2014-02-28/poly-life-mentoring/"/>
+    <updated>2014-02-28T12:08:00-05:00</updated>
+    <id>http://devhell.info/post/2014-02-28/poly-life-mentoring</id>
+    <content type="html"><![CDATA[<p><a href="http://flic.kr/p/9hKcQ6" title="Mustang Mentoring by Brian Ujiie, on Flickr"><img src="http://farm5.staticflickr.com/4082/5440347689_666776290f_z.jpg" width="640" height="427" alt="Mustang Mentoring"></a></p>
+
+<p>The big four-oh hits us, this time with our special Fictive Kin friend Sean Coates. We talk lots about deploying web applications in various languages, the imapct Composer has had on PHP development, formal and informal mentoring, and how to get accepted to speak at conferences.</p>
+
+<ul>
+<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep40-64mono.mp3" rel="enclosure">Listen now (MP3, 32.1MB, 1:09:20)</a> | <a href="http://devhell.info/player.html?ep40-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep40-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://fictivekin.com">Fictive Kin</a></li>
+<li><a href="http://calvinandhobbes.wikia.com/wiki/Transmogrifier">Calvin &amp; Hobbes transmogrifier</a></li>
+<li><a href="https://rvm.io/">RVM</a> + <a href="http://bundler.io/">Bundler</a></li>
+<li><a href="http://getcomposer.org">Composer</a> + <a href="packagist.org">Packagist</a></li>
+<li><a href="http://www.pip-installer.org/">PIP</a> + <a href="http://www.virtualenv.org/">Virtualenv</a></li>
+<li><a href="http://php.net/manual/en/features.commandline.webserver.php">Built-in server in PHP 5.4+</a></li>
+<li><a href="http://flask.pocoo.org/">Flask</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Shared_nothing_architecture">Shared-nothing architectures</a></li>
+<li><a href="http://PHPMentoring.org">PHPMentoring.org</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Tug_McGraw">Tug Mcgraw</a></li>
+<li><a href="https://github.com/fictivekin/webshell">Webshell</a></li>
+<li>Variadic functions in PHP 5.6
+
+<ul>
+<li><a href="https://wiki.php.net/rfc/variadics">https://wiki.php.net/rfc/variadics</a></li>
+<li><a href="https://wiki.php.net/rfc/argument_unpacking">https://wiki.php.net/rfc/argument_unpacking</a></li>
+</ul>
+</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 39: Animal Style]]></title>
+    <link href="http://devhell.info/post/2014-02-20/animal-style/"/>
+    <updated>2014-02-20T08:57:00-05:00</updated>
+    <id>http://devhell.info/post/2014-02-20/animal-style</id>
+    <content type="html"><![CDATA[<p><a href="http://www.flickr.com/photos/spine/709889508/" title="Double-Double Animal Style by rick, on Flickr"><img src="https://s1.yimg.com/si/1156/709889508_2e9eec2c4b_b.jpg" width="1024" height="768" alt="Double-Double Animal Style"></a></p>
+
+<p>Okay, first off, this episode sounds like crap. We weren't really prepared to record and used half-assed equipment and stuff. Sorry guys. It should at least be listenable.</p>
+
+<p>Anyway, this was recorded the night before <a href="https://www.skiphp.com">SkiPHP</a> started, which was an awesome PHP conference in Salt Lake City. We ramble about a lot of stuff, including our first conferences, America's first serial killer, our approaches for giving talks, and Chris' secret identity.</p>
+
+<ul>
+<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep39-64mono.mp3" rel="enclosure">Listen now (MP3, 26.2MB, 59:45)</a> | <a href="http://devhell.info/player.html?ep39-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep39-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="https://www.skiphp.com">SkiPHP</a></li>
+<li><a href="https://plus.google.com/103799263279735425701/posts">H Hatfield</a></li>
+<li><a href="https://en.wikipedia.org/wiki/H._H._Holmes">H H Holmes</a></li>
+<li><a href="http://www.amazon.com/gp/product/0375725601/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0375725601&amp;linkCode=as2&amp;tag=funkatroncom-20">The Devil in the White City</a></li>
+<li><a href="http://mizage.com/shush/">Shush.app</a></li>
+<li><a href="https://wiki.php.net/rfc/variadics">Variadic functions RFC</a></li>
+<li><a href="http://badmouth.net/in-n-outs-secret-menu/">In and Out Secret Menu</a></li>
 </ul>
 
 ]]></content>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Smith | /dev/hell]]></title>
+  <link href="http://devhell.info/blog/categories/smith/atom.xml" rel="self"/>
+  <link href="http://devhell.info/"/>
+  <updated>2014-08-04T13:02:29-04:00</updated>
+  <id>http://devhell.info/</id>
+  <author>
+    <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
+    <email><![CDATA[devhell@funkatron.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 48: Old As Dirt]]></title>
+    <link href="http://devhell.info/post/2014-07-11/old-as-dirt/"/>
+    <updated>2014-07-11T10:02:00-04:00</updated>
+    <id>http://devhell.info/post/2014-07-11/old-as-dirt</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/powerhouse_museum/2633077972" title="Princes Lane looking south, The Rocks by Powerhouse Museum, on Flickr"><img src="https://farm4.staticflickr.com/3153/2633077972_48eff41093_z.jpg?zz=1" width="640" height="444" alt="Princes Lane looking south, The Rocks"></a></p>
+
+<p>Our guest this week is <a href="http://emsmith.net/">Elizabeth Smith</a>, PHP internals veteran and guru of PHP on Windows (she says <strong>"I wish every company was as good at giving back to open source as Microsoft"</strong>). We talk about being Old as Dirt in relation to <a href="http://j.mp/devdystopia">a blog post Ed made last week</a>, how to mentor up and coming developers, and the history of PHP on Windows.</p>
+
+<p>Also, check out <a href="http://www.watchmecode.net/devhell?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">this <strong>special offer</strong> from <strong>Watch Me Code</strong></a>. You can get <strong><em>35% OFF</em></strong> as subcription to their awesome JavaScript screencasts as a Development Hell listener by going to <strong><a href="http://www.watchmecode.net/devhell?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">watchmecode.net/devhell</a></strong>.</p>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>, <a href="http://www.watchmecode.net/devhell?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">Watch Me Code</a>, <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+<li>Sign up for our <strong>mailing list</strong> <a href="/subscribe-email.html">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep48-64mono.mp3" rel="enclosure">Listen now (MP3, 32.7MB, 1:10:24)</a> | <a href="http://devhell.info/player.html?ep48-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep48-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://emsmith.net/">Elizabeth Smith's Website</a></li>
+<li><a href="https://the-pastry-box-project.net/ed-finkler/2014-july-6">The Developer's Dystopian Future</a></li>
+<li><a href="http://blog.cleancoder.com/uncle-bob/2014/06/20/MyLawn.html">My Lawn by Bob Martin</a></li>
+<li><a href="http://linuxbeard.com/">LinuxBeard.com</a></li>
+<li><a href="http://cygwin.com/">Cygwin</a></li>
+<li><a href="http://gtk.php.net/">PHP-GTK</a></li>
+<li><a href="https://speakerdeck.com/trent/parallelism-and-concurrency-with-python">Windows being really good at concurrency</a></li>
+<li><a href="https://www.youtube.com/watch?v=8_4bLNM0axE">Nelson Muntz laugh</a></li>
+<li><a href="http://phpmentoring.org">PHPMentoring.org</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mentat">Mentats</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

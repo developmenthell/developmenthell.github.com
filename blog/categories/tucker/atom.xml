@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Tucker | /dev/hell]]></title>
+  <link href="http://devhell.info/blog/categories/tucker/atom.xml" rel="self"/>
+  <link href="http://devhell.info/"/>
+  <updated>2014-08-04T13:02:29-04:00</updated>
+  <id>http://devhell.info/</id>
+  <author>
+    <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
+    <email><![CDATA[devhell@funkatron.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 49: Rogue Transmorpher]]></title>
+    <link href="http://devhell.info/post/2014-08-04/rogue-transmorpher/"/>
+    <updated>2014-08-04T12:10:00-04:00</updated>
+    <id>http://devhell.info/post/2014-08-04/rogue-transmorpher</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/beigephotos/1023649120" title="Mystery Mouth Morphers by Michael Pereckas, on Flickr"><img src="https://farm2.staticflickr.com/1369/1023649120_caf5e9ad65_z.jpg?zz=1" width="640" height="480" alt="Mystery Mouth Morphers"></a></p>
+
+<p>Our guest this week is <a href="http://www.alittleofboth.com/">Beth Tucker Long</a>, the editor of <a href="http://www.phparch.com/">PHP Architect magazine</a> and respected PHP language trainer. We talk about her role as editor of the top PHP Magazine in the world, her experiences teaching people to code, the best PHP books for beginners, her awesome upcoming <a href="http://2014.madisonphpconference.com/">MadisonPHP conference</a>, and XBox Kinect paranoia.</p>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>: <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+<li>Sign up for our <strong>mailing list</strong> <a href="/subscribe-email.html">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep49-64mono.mp3" rel="enclosure">Listen now (MP3, 25.6MB, 54:58)</a> | <a href="http://devhell.info/player.html?ep49-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep49-64mono.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Transmorphers">Transmorphers</a></li>
+<li><a href="http://www.urbandictionary.com/define.php?term=Hurcules">Hurcules</a></li>
+<li><a href="http://www.phparch.com/">PHP Architect</a></li>
+<li><a href="http://2014.madisonphpconference.com/">Madison PHP Conference</a></li>
+<li><a href="https://www.youtube.com/watch?v=4i5195VBisQ">Bill Cosby Snowball bit</a></li>
+<li><a href="http://www.amazon.com/gp/product/0321833899/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0321833899&amp;linkCode=as2&amp;tag=funkatroncom-20&amp;linkId=WGSYP34G6LIUVCXP">PHP and MySQL Web Development</a> (Thomson/Welling)</li>
+<li><a href="http://www.larryullman.com/books/">Larry Ullman's books</a></li>
+<li><a href="http://www.xbox.com/en-US/kinect">XBox One Kinetic</a></li>
+<li><a href="http://forums.riftgame.com/attachments/dungeons-raids/16596d1389985816t-trion-failing-nerfing-paddlin.jpg">That's a paddlin'</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
