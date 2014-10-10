@@ -363,3 +363,15 @@ form.long-email-form {
 	}
 }
 
+
+.mailing-list-box {
+	padding: 1em;
+	background-color: $nav-bg;
+	border: 3px solid $thick-border-color;
+	h3 {
+		font-size:2.0em;
+		line-height:2.0em;
+		margin:0;
+		padding:0;
+	}
+}
