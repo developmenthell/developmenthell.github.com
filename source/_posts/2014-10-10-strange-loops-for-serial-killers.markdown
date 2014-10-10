@@ -8,7 +8,7 @@ categories: Podcast
 
 <a href="https://www.flickr.com/photos/swanksalot/10330882326" title="Washing The Horse by Seth Anderson, on Flickr"><img src="https://farm6.staticflickr.com/5543/10330882326_1a814277e6_z.jpg" width="640" height="457" alt="Washing The Horse"></a>
 
-We're joined for Episode 51 by Margaret Staples, backend programmer extraordinaire on [Brunelleschi: Age of Architects](http://brunegame.com). She shares her experiences doing indie game dev, traveling to the Strangeloop conference, and meeting geeks celebs. We also talk about serial killers and Ed's new job (obviously).
+We're joined for Episode 51 by [Margaret Staples](http://deadlugosi.blogspot.com/), backend programmer extraordinaire on [Brunelleschi: Age of Architects](http://brunegame.com). She shares her experiences doing indie game dev, traveling to the Strangeloop conference, and meeting geeks celebs. We also talk about serial killers and Ed's new job (obviously).
 
 This is our first episode released in stereo. The file size is larger, but man does it sound better. If you have any issues with playback, [let us know](http://twitter.com/dev_hell).
 
@@ -27,6 +27,8 @@ Big thanks to our new sponsor [**Offload.io!**](http://offload.io?utm_source=dev
 
 ## Links and Notes
 
+- [Margaret Staples' blog](http://deadlugosi.blogspot.com/)
+- [Margaret on Twitter](http://twitter.com/dead_lugosi)
 - [Brunelleschi: Age of Architects](http://brunegame.com)
     - [Project backing page](http://www.rockethub.com/projects/45939-brunelleschi-age-of-architects)
 - [Merchant Prince](http://www.mobygames.com/game/dos/merchant-prince)
