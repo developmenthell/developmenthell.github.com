@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2014-10-10T11:23:24-04:00</updated>
+  <updated>2014-11-30T15:49:32-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 52: True North PHP 2014]]></title>
+    <link href="http://devhell.info/post/2014-11-30/true-north-php-2014/"/>
+    <updated>2014-11-30T15:28:00-05:00</updated>
+    <id>http://devhell.info/post/2014-11-30/true-north-php-2014</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/museemccordmuseum/2859668277" title="Snowshoeing Indian file, Mount Royal, Montreal, QC, 1879 by Musée McCord Museum, on Flickr"><img src="https://farm4.staticflickr.com/3227/2859668277_48d5ab0a62_z.jpg?zz=1" width="640" height="484" alt="Snowshoeing Indian file, Mount Royal, Montreal, QC, 1879"></a></p>
+
+<p>On a cold winter's night in the far north, Chris and Ed recorded a podcast at the <a href="http://truenorthphp.org">True North PHP 2014</a> hackathon event. It was loud and fun! We're joined by special guest Ben Ramsey and others to talk about organizing conferences and generally being awesome. Enjoy!</p>
+
+<h3>Do these things!</h3>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>: <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep52-128stereo.mp3" rel="enclosure">Listen now (MP3, 52.1MB, 59:35)</a> | <a href="http://devhell.info/player.html?ep52-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep52-128stereo.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://truenorthphp.com/">TrueNorthPHP</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 51: Strange Loops for Serial Killers]]></title>
