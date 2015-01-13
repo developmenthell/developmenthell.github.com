@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2015-01-13T17:28:48-05:00</updated>
+  <updated>2015-01-13T17:45:56-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -50,7 +50,7 @@
 <li><a href="http://hhvm.com/blog/7091/async-cooperative-multitasking-for-hack">Hack's Async stuff</a></li>
 <li><a href="https://www.pyrocms.com/">PyroCMS</a></li>
 <li><a href="http://blog.ircmaxell.com/2014/12/on-php-version-requirements.html">IRCmaxell's blog bost on versions</a> and <a href="http://blog.ircmaxell.com/2014/12/being-responsible-developer.html">his follow-up where he is TAKEN ABACK</a></li>
-<li>[CodeIgniter 3.0])(http://www.codeigniter.com/userguide3/)</li>
+<li><a href="http://www.codeigniter.com/userguide3/">CodeIgniter 3.0</a></li>
 <li><a href="http://www.php-fig.org/">PHP-FIG</a></li>
 </ul>
 
