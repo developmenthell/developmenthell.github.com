@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2015-01-13T17:45:56-05:00</updated>
+  <updated>2015-01-27T23:04:37-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,48 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 55: The Erotic Possibilities of the Holodeck]]></title>
+    <link href="http://devhell.info/post/2015-01-27/the-erotic-possibilities-of-the-holodeck/"/>
+    <updated>2015-01-27T20:43:00-05:00</updated>
+    <id>http://devhell.info/post/2015-01-27/the-erotic-possibilities-of-the-holodeck</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/jdhancock/3847774336" title="Cowboys &amp; Gumshoes by JD Hancock, on Flickr"><img src="https://farm3.staticflickr.com/2423/3847774336_53206f9399_z.jpg" width="640" height="426" alt="Cowboys &amp; Gumshoes"></a></p>
+
+<p>Everything old is new again! Sort of! We chatter about Chris' 1% car and how rough it is to upgrade. Then we babble about WebOS, LuneOS, and Ed's experiences running the Spaz open source project. Chris made some open source stuff once too.</p>
+
+<h3>Do these things!</h3>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>: <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep53-128stereo.mp3" rel="enclosure">Listen now (MP3, 47.4MB, 1:06:13)</a> | <a href="http://devhell.info/player.html?ep53-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep53-128stereo.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://www.bimmernav.com/store/catalog/bmw-bluetooth-kits-all-new-body-style-p-305.html?osCsid=dog5jgotmncodi2jtafel8fuf3">BMW Bluetooth Kits</a></li>
+<li><a href="https://en.wikipedia.org/wiki/WebOS">webOS</a></li>
+<li><a href="http://getspaz.com/">Spaz project</a></li>
+<li><a href="https://en.wikipedia.org/wiki/HP_TouchPad">HP Touchpad</a></li>
+<li><a href="http://www8.hp.com/us/en/hp-news/press-release.html?id=485166#.VMhBA0alSq4">HP/Palm acquisition</a></li>
+<li><a href="http://webos-ports.org/wiki/Main_Page">LuneOS</a></li>
+<li><a href="https://github.com/chartjes/opencfp">OpenCFP</a></li>
+<li><a href="https://itunes.apple.com/us/podcast/the-five-minute-geek-show/id952727637?mt=2">Matt Stauffer's Five-Minute Geek Show</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 54: Phil is Still Wrong]]></title>
@@ -189,72 +231,6 @@
 <li><a href="http://truenorthphp.com/speakers.php">Speakers page at TrueNorthPHP</a></li>
 <li><a href="http://legalserver.org/">Ed's new job</a></li>
 </ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 50: The Airing of Grievances]]></title>
-    <link href="http://devhell.info/post/2014-09-09/the-airing-of-grievances/"/>
-    <updated>2014-09-09T10:54:00-04:00</updated>
-    <id>http://devhell.info/post/2014-09-09/the-airing-of-grievances</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/sixteenmilesofstring/13316579714" title="FOUND: Oakland apartment grievances: &quot;at least take a break from hot-boxing your apartment 24/7&quot; by Timothy Vollmer, on Flickr"><img src="https://farm8.staticflickr.com/7339/13316579714_5781a3f3a7_z.jpg" width="640" height="640" alt="FOUND: Oakland apartment grievances: &quot;at least take a break from hot-boxing your apartment 24/7&quot;"></a></p>
-
-<p>EPISODE FITTY!!!!! Learn the INSIDE SCOOP on THE ORIGINS OF DEVELOPMENT HELL! EXCLUSIVE BEHIND the SCENES ACCESS!!! WE SUMMARIZE HOW CRAPPY ALL THE EPISODES ARE!!! Also how Chris' DNS got haxxored.</p>
-
-<p>Big thanks to our new sponsor <a href="http://pancakeapp.com?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor"><strong>PancakeApp!</strong></a> If you do freelance work, it's an awesome tool that saves you tons of time.</p>
-
-<ul>
-<li>Check out our <strong>sponsors</strong>: <a href="http://pancakeapp.com/?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">PancakeApp</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep50-64mono.mp3" rel="enclosure">Listen now (MP3, 53.5MB, 1:54:03)</a> | <a href="http://devhell.info/player.html?ep50-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep50-64mono.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<p>We basically didn't write any notes down because we wanted to keep it real.</p>
-
-<br>
-
-
-<br>
-
-
-<br>
-
-
-<br>
-
-
-<br>
-
-
-<p>THIS SPACE LEFT INTENTIONALLY BLANK</p>
-
-<br>
-
-
-<br>
-
-
-<br>
-
-
-<br>
-
-
-<br>
-
-
 
 ]]></content>
   </entry>
