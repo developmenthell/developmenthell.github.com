@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2015-01-27T23:04:37-05:00</updated>
+  <updated>2015-01-28T09:31:27-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -34,8 +34,8 @@
 <h3>Listen</h3>
 
 <ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep53-128stereo.mp3" rel="enclosure">Listen now (MP3, 47.4MB, 1:06:13)</a> | <a href="http://devhell.info/player.html?ep53-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep53-128stereo.mp3"></li>
+<li><a href="http://devhell.s3.amazonaws.com/ep55-128stereo.mp3" rel="enclosure">Listen now (MP3, 44.4MB, 1:01:52)</a> | <a href="http://devhell.info/player.html?ep55-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep55-128stereo.mp3"></li>
 </ul>
 
 
