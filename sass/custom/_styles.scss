@@ -375,3 +375,62 @@ form.long-email-form {
 		padding:0;
 	}
 }
+
+.shop {
+
+	.product-container {
+		@include flexbox();
+		flex-wrap: wrap;
+		border-top: 1px solid $article-border;
+		padding-top: 1em;
+		max-width: 100%;
+
+		.product-images {
+			@include order(1);
+			@include flex(2 1 auto);
+			width: 65%;
+		}
+		.product-info {
+			@include order(2);
+			@include flex(1 1 auto);
+			padding-left: 1em;
+			h2 {
+				margin-top: 0;
+				padding-top: 0;
+				border: none;
+			}
+			p {
+				font-size: 90%;
+			}
+			width: 30%;
+		}
+		.product-purchase-form {
+			margin-bottom: 1em;
+			.product-purchase-button {
+				display:block;
+				width:100%;
+				font-size:1.5em;
+				cursor: pointer;
+			}
+		}
+	}
+}
+
+@media only screen and (max-width: 800px) {
+	.shop {
+		.product-container {
+			.product-images {
+				width: 100%;
+			}
+			.product-info {
+				width: 100%;
+				padding-left: 0;
+				h2 {
+					margin-top: 1em;
+					padding-top: 0;
+					border: none;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Episode 52: True North PHP 2014"
+date: 2014-11-30 15:28
+comments: true
+categories: Podcast
+---
+
+<a href="https://www.flickr.com/photos/museemccordmuseum/2859668277" title="Snowshoeing Indian file, Mount Royal, Montreal, QC, 1879 by Musée McCord Museum, on Flickr"><img src="https://farm4.staticflickr.com/3227/2859668277_48d5ab0a62_z.jpg?zz=1" width="640" height="484" alt="Snowshoeing Indian file, Mount Royal, Montreal, QC, 1879"></a>
+
+On a cold winter's night in the far north, Chris and Ed recorded a podcast at the [True North PHP 2014](http://truenorthphp.com) hackathon event. It was loud and fun! We're joined by special guest Ben Ramsey and others to talk about organizing conferences and generally being awesome. Enjoy!
+
+### Do these things!
+
+* Check out our **sponsors**: [Roave](http://roave.com/) and [WonderNetwork](https://wondernetwork.com/)
+* Follow us on **Twitter** [here](https://twitter.com/dev_hell).
+* **Rate us** on iTunes [here](http://itunes.apple.com/us/podcast/dev-hell/id489840699)
+
+### Listen
+
+* <a href="http://devhell.s3.amazonaws.com/ep52-128stereo.mp3" rel="enclosure">Listen now (MP3, 52.1MB, 59:35)</a> | <a href="/player.html?ep52-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
+    <audio controls src="http://devhell.s3.amazonaws.com/ep52-128stereo.mp3">
+
+## Links and Notes
+
+- [TrueNorthPHP](http://truenorthphp.com/)
