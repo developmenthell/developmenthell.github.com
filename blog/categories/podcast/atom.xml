@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2015-02-19T21:10:45-05:00</updated>
+  <updated>2015-03-02T09:09:25-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 57: 57 Flavors of Hell]]></title>
+    <link href="http://devhell.info/post/2015-03-02/57-flavors-of-hell/"/>
+    <updated>2015-03-02T08:48:00-05:00</updated>
+    <id>http://devhell.info/post/2015-03-02/57-flavors-of-hell</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/chriswaits/14078475019" title="Hell is not here to stay by Chris Waits, on Flickr"><img src="https://farm6.staticflickr.com/5596/14078475019_f32b8c8073_z.jpg" width="640" height="461" alt="Hell is not here to stay"></a></p>
+
+<p>This episode we are joined by PHP <em>whiz kid</em> Anthony Ferrara to discuss recent happenings on PHP Internals, where a productive community member stepped away entirely. We discuss the merits of the proposals (particularly the controversial Scalar Type Hints RFC), and what the PHP community could be doing better to prevent contributor burnout. Also I guess we talked about baby animals...?</p>
+
+<p>Also <strong>STICKERS ARE NOW AVAILABLE! BUY SOME NOW AT <a href="http://devhell.info/shop">devhell.info/shop</a>!!!!</strong></p>
+
+<h3>Do these things!</h3>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>: <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep57-128stereo.mp3" rel="enclosure">Listen now (MP3, 46.9MB, 1:05:13 )</a> | <a href="http://devhell.info/player.html?ep57-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep57-128stereo.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://blog.ircmaxell.com/">Anthony Ferrara</a>; on <a href="https://twitter.com/ircmaxell">Twitter</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Video_Toaster">Video Toaster</a></li>
+<li><a href="http://en.wikipedia.org/wiki/HotDog">Hot Dog HTML editor</a></li>
+<li><a href="https://roave.com/foundation/">Roave Foundation</a></li>
+<li><a href="http://news.php.net/php.internals/82750">Andrea Faulds post to internals</a></li>
+<li><a href="https://wiki.php.net/rfc/scalar_type_hints_v5">Current Scalar Type Hints RFC</a></li>
+<li><a href="http://www.communitywiki.org/DoOcracy">DoOcracy</a></li>
+<li><a href="https://chat.stackoverflow.com/rooms/11/php">Stack Overflow PHP chat room</a></li>
+<li><a href="http://cutepics.org/little-platypus">Baby Platypus</a></li>
+<li><a href="http://www.babyanimalzoo.com/marsupials-keep-their-babies-in-pouches/wombat-baby-cute">Baby Wombat</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 56: Targeting the Amber Monochrome Market]]></title>
@@ -179,51 +225,6 @@
 <li><a href="http://blog.ircmaxell.com/2014/12/on-php-version-requirements.html">IRCmaxell's blog bost on versions</a> and <a href="http://blog.ircmaxell.com/2014/12/being-responsible-developer.html">his follow-up where he is TAKEN ABACK</a></li>
 <li><a href="http://www.codeigniter.com/userguide3/">CodeIgniter 3.0</a></li>
 <li><a href="http://www.php-fig.org/">PHP-FIG</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 53: Let's Get This Thing Over With]]></title>
-    <link href="http://devhell.info/post/2014-12-18/lets-get-this-thing-over-with/"/>
-    <updated>2014-12-18T13:29:00-05:00</updated>
-    <id>http://devhell.info/post/2014-12-18/lets-get-this-thing-over-with</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/roadhunter/2545543970" title="Saving Gas by John, on Flickr"><img src="https://farm4.staticflickr.com/3079/2545543970_98788d2dfe_z.jpg" width="640" height="481" alt="Saving Gas"></a></p>
-
-<p>Guest-less and listless, Chris and Ed slouch their way back to their studios. Chris talks about the time he tried to murder a disabled woman with his new luxury sedan, we discuss artisanal PHP-Nuke sites, and how we got our local user groups started. Then It <em>really</em> goes off the rails with a discussion of the awesomeness of Dragon Age: Inquistion, and what happens to games and other services that rely on Internet connectivity.</p>
-
-<p><em>Correction: It looks like Ultima Online and Phantasy Star Online are still up!</em></p>
-
-<h3>Do these things!</h3>
-
-<ul>
-<li>Check out our <strong>sponsors</strong>: <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep53-128stereo.mp3" rel="enclosure">Listen now (MP3, 47.4MB, 1:06:13)</a> | <a href="http://devhell.info/player.html?ep53-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep53-128stereo.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Mobility_scooter">Mobility scooters</a></li>
-<li><a href="https://www.phpnuke.org/">PHP-Nuke</a></li>
-<li><a href="http://opensourcelafayette.org">GLOSSY</a></li>
-<li><a href="http://www.meetup.com/php-27/">Toronto PHP</a></li>
-<li><a href="http://www.dragonage.com">Dragon Age: Inquisition</a></li>
-<li><a href="http://www.marvelpuzzlequest.com/">Marvel Puzzle Quest</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Phantasy_Star_Online">Phantasy Star Online</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Ultima_Online">Ultima Online</a></li>
-<li><a href="https://en.wikipedia.org/wiki/IWeb">iWeb</a></li>
 </ul>
 
 ]]></content>
