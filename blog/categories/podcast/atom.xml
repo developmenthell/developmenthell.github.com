@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2015-03-02T09:09:25-05:00</updated>
+  <updated>2015-04-04T21:45:07-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 58: I Have A Mouth Problem]]></title>
+    <link href="http://devhell.info/post/2015-04-04/i-have-a-mouth-problem/"/>
+    <updated>2015-04-04T21:25:00-04:00</updated>
+    <id>http://devhell.info/post/2015-04-04/i-have-a-mouth-problem</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/fdaphotos/8224351945" title="Bureau of Radiological Health Manikin (FDA 183) by The U.S. Food and Drug Administration, on Flickr"><img src="https://farm9.staticflickr.com/8478/8224351945_7e76baa5f8_c.jpg" width="800" height="550" alt="Bureau of Radiological Health Manikin (FDA 183)"></a></p>
+
+<p>So we kinda forgot we recorded this until a month after the fact. Whoops! This ep is all about side projects, kicking off with Chris and Ed talking about CBTTool, Ed's electronic worksheet for folks with anxiety disorders. Then we discuss Chris' new book <em>The Grumpy Little Book of Hack</em>, and Ed's experience technical editing <em>Modern PHP</em> by Josh Lockhart. Then we get into a boring discussion about marketing. Plus we have <a href="http://devhell.info/shop">STICKERS</a>!</p>
+
+<p>Did you know <strong>STICKERS ARE NOW AVAILABLE? BUY SOME NOW AT <a href="http://devhell.info/shop">devhell.info/shop</a>!!!!</strong></p>
+
+<h3>Do these things!</h3>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>: <a href="https://buildbetter.software/">Build Better Software Bundle</a>, <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep58-128stereo.mp3" rel="enclosure">Listen now (MP3, 47.4MB, 1:05:49 )</a> | <a href="http://devhell.info/player.html?ep58-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep58-128stereo.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="https://github.com/funkatron/CBTTool">CBTTool</a></li>
+<li><a href="https://leanpub.com/grumpy-hack">The Grumpy Little Book of Hack</a></li>
+<li><a href="http://shop.oreilly.com/product/0636920033868.do">Modern PHP</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 57: 57 Flavors of Hell]]></title>
@@ -181,50 +220,6 @@
 <li><a href="http://webos-ports.org/wiki/Main_Page">LuneOS</a></li>
 <li><a href="https://github.com/chartjes/opencfp">OpenCFP</a></li>
 <li><a href="https://itunes.apple.com/us/podcast/the-five-minute-geek-show/id952727637?mt=2">Matt Stauffer's Five-Minute Geek Show</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 54: Phil is Still Wrong]]></title>
-    <link href="http://devhell.info/post/2015-01-13/phil-is-always-wrong/"/>
-    <updated>2015-01-13T17:11:00-05:00</updated>
-    <id>http://devhell.info/post/2015-01-13/phil-is-always-wrong</id>
-    <content type="html"><![CDATA[<iframe width="640" height="360" src="http://devhell.info//www.youtube-nocookie.com/embed/FfVZ_Erl0DU" frameborder="0" allowfullscreen></iframe>
-
-
-<p>Our latest episode was special in two ways: we recorded video of it, and it was a simulcast with our friends at the <a href="http://phptownhall.com/">PHP Town Hall</a> podcast. What great people! They're still wrong, but that's okay. We talk about mouthing off in public, whether async features should be built into PHP, and the appropriate ways to encourage people to use current versions of PHP. Then Chris gets mad.</p>
-
-<h3>Please now!</h3>
-
-<ul>
-<li>Check out our <strong>sponsors</strong>: <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep54-128stereo.mp3" rel="enclosure">Listen now (MP3, 75.8MB, 1:36:49)</a> | <a href="http://devhell.info/player.html?ep54-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep54-128stereo.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="http://apiblueprint.org/">API Blueprint</a></li>
-<li><a href="http://apiary.io/">Apiary</a></li>
-<li><a href="https://github.com/apiaryio/dredd">Dredd</a></li>
-<li><a href="http://reactphp.org/">ReactPHP</a></li>
-<li><a href="http://hhvm.com/blog/7091/async-cooperative-multitasking-for-hack">Hack's Async stuff</a></li>
-<li><a href="https://www.pyrocms.com/">PyroCMS</a></li>
-<li><a href="http://blog.ircmaxell.com/2014/12/on-php-version-requirements.html">IRCmaxell's blog bost on versions</a> and <a href="http://blog.ircmaxell.com/2014/12/being-responsible-developer.html">his follow-up where he is TAKEN ABACK</a></li>
-<li><a href="http://www.codeigniter.com/userguide3/">CodeIgniter 3.0</a></li>
-<li><a href="http://www.php-fig.org/">PHP-FIG</a></li>
 </ul>
 
 ]]></content>
