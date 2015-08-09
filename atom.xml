@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2015-06-15T21:00:25-04:00</updated>
+  <updated>2015-08-09T19:38:08-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 63: Made in Ontario]]></title>
+    <link href="http://devhell.info/post/2015-08-09/made-in-ontario/"/>
+    <updated>2015-08-09T19:24:00-04:00</updated>
+    <id>http://devhell.info/post/2015-08-09/made-in-ontario</id>
+    <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/csj_canada_archives/14993074970/in/photolist-oQTqQA-pCYnfA-pmvG5f-azd3jk-oxtyfx-ub2rcE-okqFex-okqovd-oBTtKy-oDF5CK-8zRV9j-9Wetwq-a3mgaY-na9jVg-nrF7wq-ndg5k1-nrmzRb-azfGGG-nrmoxP-i4rgeM-nrAXbw-5rWQKJ-nriPDQ-nmeA35-nCJ5H4-qeeQkm-oMW8a3-oPA8Lg-oPQCGf-nuSyKV-qvByVe-oymV44-oQR7FD-oymKyH-oymvo9-nRo8pM-oymFiP-fZC8xH-rUaUTn-pa5ZJJ-pWtqnQ-gc7Rus-dySyvb-a1abTw-pyN167-dW92mR-ry5bBZ-na9iWR-dySywm-no6aaQ" title="Sister teaching music"><img src="https://farm6.staticflickr.com/5563/14993074970_d361520ae7_z.jpg" width="640" height="517" alt="Sister teaching music"></a><script async src="http://devhell.info//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>So we recorded this nearly two months ago, but some family stuff delayed the release of this and Episode 64 (coming very soon). On this episode we talk about large developers, cars, Ed learning Java against his will, and Chris re-learning how to teach people.</p>
+
+<h3>Do these things!</h3>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>: <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep63-128stereo.mp3" rel="enclosure">Listen now (MP3, 70.1MB, 1:20:05 )</a> | <a href="http://devhell.info/player.html?ep63-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep63-128stereo.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://neo4j.com/">Neo4j</a></li>
+<li><a href="http://clojure.org/">Clojure</a></li>
+<li><a href="http://www.scala-lang.org/">Scala</a></li>
+<li><a href="http://akka.io/">Akka</a></li>
+<li><a href="https://wiki.python.org/jython/">Jython</a></li>
+<li><a href="http://jruby.org/">JRuby</a></li>
+<li><a href="https://maven.apache.org/">Maven</a></li>
+<li><a href="http://www.elevationlab.com/">Elevation Dock</a></li>
+<li><a href="http://www.amazon.com/dp/B00X4WHP5E">Amazon Echo</a></li>
+<li><a href="http://www.ourbabynamer.com/Alexa-name-popularity.html">How common is the name &#8216;Alexa&#8217;</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Boldt_Castle">Boldt Castle</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 62: Talmudic Maxims for the Unwashed Masses (phptek 2015)]]></title>
@@ -1662,7 +1708,7 @@ A: &#8220;$40k&#8221;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&#8217;s success.</p>
 
-<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#105;&#x6c;&#116;&#x6f;&#x3a;&#116;&#x69;&#108;&#108;&#43;&#x70;&#x68;&#112;&#x40;&#105;&#x6d;&#97;&#x67;&#105;&#110;&#101;&#101;&#x61;&#115;&#121;&#x2e;&#x63;&#x6f;&#x6d;">&#x74;&#x69;&#x6c;&#x6c;&#43;&#x70;&#104;&#112;&#64;&#105;&#109;&#97;&#103;&#105;&#110;&#x65;&#101;&#x61;&#x73;&#121;&#46;&#99;&#111;&#109;</a>.</p>
+<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#58;&#x74;&#105;&#x6c;&#x6c;&#43;&#112;&#x68;&#112;&#64;&#x69;&#x6d;&#97;&#x67;&#105;&#110;&#101;&#x65;&#x61;&#x73;&#x79;&#46;&#x63;&#x6f;&#x6d;">&#116;&#105;&#x6c;&#108;&#x2b;&#x70;&#x68;&#112;&#x40;&#105;&#x6d;&#x61;&#103;&#105;&#110;&#x65;&#101;&#x61;&#x73;&#x79;&#x2e;&#x63;&#111;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -1720,7 +1766,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs&#8217; suicide, both in the context of governmental power and mental illness. We also talk about Ed&#8217;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#x6f;&#58;&#x74;&#105;&#x6c;&#x6c;&#43;&#112;&#x68;&#112;&#64;&#x69;&#x6d;&#x61;&#x67;&#105;&#x6e;&#101;&#101;&#x61;&#115;&#121;&#x2e;&#99;&#x6f;&#109;">&#116;&#x69;&#108;&#x6c;&#x2b;&#x70;&#x68;&#112;&#x40;&#x69;&#x6d;&#x61;&#x67;&#x69;&#110;&#x65;&#101;&#x61;&#115;&#x79;&#x2e;&#x63;&#x6f;&#109;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#58;&#x74;&#105;&#108;&#108;&#x2b;&#x70;&#x68;&#x70;&#x40;&#105;&#109;&#97;&#x67;&#105;&#110;&#101;&#101;&#97;&#x73;&#121;&#46;&#99;&#x6f;&#109;">&#116;&#x69;&#108;&#x6c;&#x2b;&#x70;&#104;&#112;&#64;&#105;&#x6d;&#x61;&#103;&#105;&#110;&#x65;&#x65;&#97;&#x73;&#121;&#x2e;&#x63;&#111;&#x6d;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
