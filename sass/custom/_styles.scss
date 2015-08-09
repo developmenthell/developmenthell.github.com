@@ -25,7 +25,7 @@ table.stats {
 }
 
 
-body > header {
+header[role="banner"] {
 	padding-top: 4em;
 	padding-bottom: 2em;
 	// border-bottom: 1px solid $nav-bg-back;
@@ -112,7 +112,7 @@ aside.sidebar {
 }
 
 
-body > nav {
+nav[role="navigation"] {
 	top: 0px;
 	position: absolute;
 	right: 0;
@@ -167,7 +167,7 @@ body > nav {
 }
 
 
-body > #main {
+#main {
 	background-color: $header-bg;
 	background-image: url("/images/drop-shadow@2x.png");
 	background-repeat: repeat-x;
@@ -216,7 +216,7 @@ p.meta + .sharing {
 	background-position: 0% 0%;
 }
 
-body > footer {
+footer[role="contentinfo"] {
 	@include border-bottom-radius(0);
 	text-transform: uppercase;
 	border: {
@@ -227,11 +227,11 @@ body > footer {
 	}
 }
 
-body > div {
+#main {
 	border-bottom: none;
 }
 
-body > div > div {
+#content {
 	border-right: none;
 	background-color: transparent;
 }
@@ -261,7 +261,7 @@ blockquote {
 
 
 @media only screen and (max-width: 640px) {
-	body > header {
+	header[role="banner"] {
 		h1 {
 			font-size: 64px;
 		}
@@ -276,7 +276,7 @@ blockquote {
 		}
 	}
 
-	body > nav {
+	nav[role="navigation"] {
 
 		form {
 			.search {
@@ -316,6 +316,7 @@ input[type='submit'], input[type='button'], button {
 	background-color: $link-color;
 	color: $header-bg;
 	@include border-radius(5px);
+	-webkit-appearance: none;
 }
 
 form.long-email-form {
@@ -380,7 +381,7 @@ form.long-email-form {
 
 	.product-container {
 		@include flexbox();
-		flex-wrap: wrap;
+		@include flex-wrap(wrap);
 		border-top: 1px solid $article-border;
 		padding-top: 1em;
 		max-width: 100%;
@@ -406,11 +407,44 @@ form.long-email-form {
 		}
 		.product-purchase-form {
 			margin-bottom: 1em;
+			.product-button-container {
+				@include flexbox();
+				@include flex-wrap(wrap);
+				max-width: 100%;
+			}
 			.product-purchase-button {
 				display:block;
 				width:100%;
 				font-size:1.5em;
 				cursor: pointer;
+				@include flex(1 1 auto);
+			}
+			.button {
+				font-size:.9em;
+				cursor: pointer;
+				border:2px solid $link-color;
+				padding:.2em;
+				margin-top:.5em;
+				background-color: $link-color;
+				color: $header-bg;
+				@include border-radius(5px);
+				font-family: $sans;
+				text-align: center;
+				
+				@include flex(1 1 auto);
+			}
+			a.button {
+				text-decoration: none;
+			}
+			.button.product-view-cart-button {
+				@include order(1);
+				@include flex(1 1 auto);
+				margin-right:.25em;
+			}
+			.button.product-check-out-button {
+				@include order(2);
+				@include flex(1 1 auto);
+				margin-left:.25em;
 			}
 		}
 	}
@@ -429,6 +463,11 @@ form.long-email-form {
 					margin-top: 1em;
 					padding-top: 0;
 					border: none;
+				}
+			}
+			.product-purchase-form {
+				.button {
+					font-size: 1.25em;
 				}
 			}
 		}
