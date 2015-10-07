@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2015-09-18T16:52:08-04:00</updated>
+  <updated>2015-10-07T14:18:41-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 66: Aquinas on Customer Service]]></title>
+    <link href="http://devhell.info/post/2015-10-07/aquinas-on-customer-service/"/>
+    <updated>2015-10-07T13:23:00-04:00</updated>
+    <id>http://devhell.info/post/2015-10-07/aquinas-on-customer-service</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/e3000/2413197951/in/photolist-4FfgFe-7kKyij-3aGaRB-aCnk8V-6JszQu-6JszNN-6JotDa-6JszGG-7kKxFy-7kFE3z-oUDhLD-6JotiF-BLacU-6JszeA-6Jotar-8s5YGC-7e8Y16-7e8XJe-7e8XtF-oUnC9V-7XahMG-6Jotfp-7MWmec-oVsCab-oVus6n-dzWAZM-oUnB1T-oCabxR-oSBp3d-oCa9r6-oCa7ua-oUDjZg-oC9ehn-oUnBZB-oUBq5h-oC9Bej-oUDgBe-oUDeLR-oUBqWs-oUDfVp-7XahGm-8s5Z1o-8s2VZk-8s5YRN-8s2VsH-oC9T67-oSBods-oCa7TM-7N1muo-aCmeLx" title="the good, the hot and the ugly or : verbum caro, panem verum verbo carnem efficit"><img src="https://farm3.staticflickr.com/2347/2413197951_ce71253a8a_z.jpg" width="640" height="480" alt="the good, the hot and the ugly or : verbum caro, panem verum verbo carnem efficit"></a></p>
+
+<p>Episode 66 was recorded live right after the inaugural Pacific Northwest PHP Conference. We make fun of our sponsors, talk about smelly tests, Thomas Aquinas, remote pairing with juniors, and new stuff happening with OSMI.</p>
+
+<h3>Do these things!</h3>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>: <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep66-128stereo.mp3" rel="enclosure">Listen now (MP3, 77.2MB, 1:28:12 )</a> | <a href="http://devhell.info/player.html?ep66-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep66-128stereo.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://pnwphp.com/">PNWPHP Conference</a></li>
+<li><a href="https://twitter.com/jeremeamia">Jeremy Lindblom</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Seattle_Underground">The Seattle Underground</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Thomas_Aquinas">Thomas Aquinas</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Benito_Mussolini">Mussolini</a></li>
+<li><a href="http://blog.golemon.com/">Sara Golemon</a></li>
+<li><a href="http://www.imdb.com/title/tt0097138/">Cyborg</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Elephant_meat">Elephant Meat</a></li>
+<li><a href="http://www.usatoday.com/story/life/2015/09/08/judy-carne-sock---me-girl-1970s-has-died-age-76/71903270/">&#8220;Sock it to me!&#8221;</a></li>
+<li><a href="http://joind.in/talk/view/14937">Smelly Tests</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CuteFTP">CuteFTP</a></li>
+<li><a href="http://docs.seleniumhq.org/">Selenium</a></li>
+<li><a href="http://www.imdb.com/title/tt0087597/">The Last Starfighter</a></li>
+<li><a href="http://funkatron.com/osmi/">Open Sourcing Mental Illness</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 65: Entrepremurder]]></title>
@@ -1807,7 +1856,7 @@ A: &#8220;$40k&#8221;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&#8217;s success.</p>
 
-<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#x6f;&#58;&#x74;&#105;&#108;&#x6c;&#43;&#112;&#x68;&#x70;&#x40;&#105;&#109;&#x61;&#x67;&#x69;&#110;&#101;&#x65;&#97;&#x73;&#121;&#x2e;&#99;&#111;&#x6d;">&#x74;&#105;&#x6c;&#x6c;&#43;&#112;&#x68;&#x70;&#64;&#x69;&#109;&#x61;&#x67;&#x69;&#110;&#101;&#x65;&#97;&#x73;&#121;&#x2e;&#99;&#111;&#109;</a>.</p>
+<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#111;&#58;&#116;&#105;&#108;&#x6c;&#43;&#x70;&#104;&#x70;&#x40;&#105;&#109;&#97;&#103;&#105;&#110;&#x65;&#101;&#97;&#115;&#x79;&#46;&#x63;&#x6f;&#x6d;">&#116;&#105;&#108;&#108;&#x2b;&#112;&#104;&#x70;&#64;&#105;&#109;&#97;&#x67;&#x69;&#110;&#101;&#x65;&#97;&#x73;&#x79;&#46;&#x63;&#x6f;&#x6d;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -1865,7 +1914,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs&#8217; suicide, both in the context of governmental power and mental illness. We also talk about Ed&#8217;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#x6f;&#58;&#116;&#x69;&#x6c;&#x6c;&#x2b;&#112;&#x68;&#x70;&#x40;&#x69;&#109;&#97;&#x67;&#105;&#110;&#101;&#101;&#x61;&#115;&#x79;&#46;&#99;&#x6f;&#109;">&#x74;&#x69;&#108;&#108;&#43;&#x70;&#104;&#112;&#x40;&#x69;&#x6d;&#97;&#x67;&#105;&#x6e;&#101;&#101;&#x61;&#x73;&#x79;&#x2e;&#x63;&#x6f;&#109;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#105;&#108;&#116;&#111;&#58;&#x74;&#x69;&#108;&#x6c;&#x2b;&#x70;&#104;&#112;&#64;&#x69;&#109;&#x61;&#103;&#x69;&#x6e;&#101;&#101;&#x61;&#115;&#x79;&#46;&#99;&#x6f;&#109;">&#x74;&#105;&#108;&#x6c;&#43;&#112;&#x68;&#x70;&#64;&#x69;&#x6d;&#x61;&#103;&#x69;&#110;&#x65;&#101;&#97;&#115;&#121;&#x2e;&#x63;&#111;&#x6d;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
