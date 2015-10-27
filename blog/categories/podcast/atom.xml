@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Podcast | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2015-10-12T11:42:13-04:00</updated>
+  <updated>2015-10-27T17:41:55-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 67: Working for the Weekend]]></title>
+    <link href="http://devhell.info/post/2015-10-27/working-for-the-weekend/"/>
+    <updated>2015-10-27T17:07:00-04:00</updated>
+    <id>http://devhell.info/post/2015-10-27/working-for-the-weekend</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/cdhs/15081465161/in/photolist-oYGsap-6K6iNH-p3ruL8-bmGtDJ-oGtNCg-pjTNjm-oGtjUy-jWHgtD-qpQWec-qpHPJq-oeqAFu-ovdj4B-odHMqs-oGt3c4-o7VPQA-oddPEY-fbG3bA-5WXotx-odF7m8-nQyHst-xmfcau-oeNFrY-oeYu7q-of32A8-osbj6U-7vtgen-odHT1L-otbkgJ-oGtmMw-9PysdC-wSwffM-o7XzaY-8ELFcu-oePdQi-ocHrY8-owfX8d-oeYNZ3-ouKryQ-oeNJiP-qvidBg-oeLXEo-owd9TB-sHoKxr-ot1gpf-oy1TaR-occ3Q4-obVTse-v5zNHn-otGMLA-ovGBJr" title="Kirk Kove Water Show Ski Team - 1955"><img src="https://farm6.staticflickr.com/5559/15081465161_f287749550_z.jpg" width="640" height="427" alt="Kirk Kove Water Show Ski Team - 1955"></a></p>
+
+<p>Super special guest Gary Hockin of JetBrains, and previously dog wrangler at Roave, joins us for much fun discussion and blame-taking. We babble about Slack vs IRC, the dev evangelism life, software subscription models, and video games. Also we make the <code>say</code> command in OS X utter profane phrases.</p>
+
+<h3>Do these things!</h3>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>: <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep67-128stereo.mp3" rel="enclosure">Listen now (MP3, 72.5MB, 1:35:53)</a> | <a href="http://devhell.info/player.html?ep67-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep67-128stereo.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="https://twitter.com/GeeH">Gary Hockin</a></li>
+<li><a href="http://www.netflix.com/title/80025172">Narcos (netflix)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ministry_%28band%29">Ministry</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lead_into_Gold">Lead into Gold</a></li>
+<li><a href="https://www.jetbrains.com/">JetBrains</a></li>
+<li><a href="https://www.jetbrains.com/phpstorm/">PHPStorm</a>
+ <em> <a href="https://www.irccloud.com/">irccloud.com</a>
+ </em> <a href="http://slackhq.com/">slackhq.com</a>
+ * <a href="http://developer-evangelism.com/">developer-evangelism.com</a></li>
+<li><a href="http://blog.jetbrains.com/blog/2015/09/18/final-update-on-the-jetbrains-toolbox-announcement/">JetBrains subscription pricing announcement</a></li>
+<li><a href="http://plugins.jetbrains.com/plugin/164">Vim bindings in PHPSTorm</a></li>
+<li><a href="http://store.steampowered.com/app/7760/">X-COM UFO Defense</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Baldur's_Gate">Baldur's Gate</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Metal_Gear">MGS series</a></li>
+<li><a href="http://shirtoid.com/75393/grammar-dalek/">Grammar Dalek (I do believe you mean Dr Whom)</a></li>
+<li><a href="http://www.visitwales.com/holiday-accommodation/unusual-places-to-stay/romany-caravans">Romany Gypsy Caravan</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 59: Ultimate Hardware Modz]]></title>
@@ -184,50 +235,6 @@
 <li><a href="https://en.wikipedia.org/wiki/Monochrome_monitor">Amber monitors</a></li>
 <li><a href="http://deadagent.net">Ed's music project Dead Agent</a></li>
 <li><a href="https://soundcloud.com/funka7ron/dead-agent-retina-ep">Dead Agent - Retina EP</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 55 REDUX: The Erotic Possibilities of the Holodeck]]></title>
-    <link href="http://devhell.info/post/2015-01-29/episode-55-redux/"/>
-    <updated>2015-01-29T09:52:00-05:00</updated>
-    <id>http://devhell.info/post/2015-01-29/episode-55-redux</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/jdhancock/3847774336" title="Cowboys &amp; Gumshoes by JD Hancock, on Flickr"><img src="https://farm3.staticflickr.com/2423/3847774336_53206f9399_z.jpg" width="640" height="426" alt="Cowboys &amp; Gumshoes"></a></p>
-
-<p><strong>We're republishing this episode to (hopefully) get the right episode out to listeners using feeds/podcasting tools. It was originally linked to Ep. 53's audio, and some podcast aggregators may not get the updated version</strong></p>
-
-<p>Everything old is new again! Sort of! We chatter about Chris' 1% car and how rough it is to upgrade. Then we babble about WebOS, LuneOS, and Ed's experiences running the Spaz open source project. Chris made some open source stuff once too.</p>
-
-<h3>Do these things!</h3>
-
-<ul>
-<li>Check out our <strong>sponsors</strong>: <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
-<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<ul>
-<li><a href="http://devhell.s3.amazonaws.com/ep55-128stereo.mp3" rel="enclosure">Listen now (MP3, 44.4MB, 1:01:52)</a> | <a href="http://devhell.info/player.html?ep55-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
-  <audio controls src="http://devhell.s3.amazonaws.com/ep55-128stereo.mp3"></li>
-</ul>
-
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="http://www.bimmernav.com/store/catalog/bmw-bluetooth-kits-all-new-body-style-p-305.html?osCsid=dog5jgotmncodi2jtafel8fuf3">BMW Bluetooth Kits</a></li>
-<li><a href="https://en.wikipedia.org/wiki/WebOS">webOS</a></li>
-<li><a href="http://getspaz.com/">Spaz project</a></li>
-<li><a href="https://en.wikipedia.org/wiki/HP_TouchPad">HP Touchpad</a></li>
-<li><a href="http://www8.hp.com/us/en/hp-news/press-release.html?id=485166#.VMhBA0alSq4">HP/Palm acquisition</a></li>
-<li><a href="http://webos-ports.org/wiki/Main_Page">LuneOS</a></li>
-<li><a href="https://github.com/chartjes/opencfp">OpenCFP</a></li>
-<li><a href="https://itunes.apple.com/us/podcast/the-five-minute-geek-show/id952727637?mt=2">Matt Stauffer's Five-Minute Geek Show</a></li>
 </ul>
 
 ]]></content>

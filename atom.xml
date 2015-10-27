@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2015-10-12T11:42:13-04:00</updated>
+  <updated>2015-10-27T17:41:55-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 67: Working for the Weekend]]></title>
+    <link href="http://devhell.info/post/2015-10-27/working-for-the-weekend/"/>
+    <updated>2015-10-27T17:07:00-04:00</updated>
+    <id>http://devhell.info/post/2015-10-27/working-for-the-weekend</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/cdhs/15081465161/in/photolist-oYGsap-6K6iNH-p3ruL8-bmGtDJ-oGtNCg-pjTNjm-oGtjUy-jWHgtD-qpQWec-qpHPJq-oeqAFu-ovdj4B-odHMqs-oGt3c4-o7VPQA-oddPEY-fbG3bA-5WXotx-odF7m8-nQyHst-xmfcau-oeNFrY-oeYu7q-of32A8-osbj6U-7vtgen-odHT1L-otbkgJ-oGtmMw-9PysdC-wSwffM-o7XzaY-8ELFcu-oePdQi-ocHrY8-owfX8d-oeYNZ3-ouKryQ-oeNJiP-qvidBg-oeLXEo-owd9TB-sHoKxr-ot1gpf-oy1TaR-occ3Q4-obVTse-v5zNHn-otGMLA-ovGBJr" title="Kirk Kove Water Show Ski Team - 1955"><img src="https://farm6.staticflickr.com/5559/15081465161_f287749550_z.jpg" width="640" height="427" alt="Kirk Kove Water Show Ski Team - 1955"></a></p>
+
+<p>Super special guest Gary Hockin of JetBrains, and previously dog wrangler at Roave, joins us for much fun discussion and blame-taking. We babble about Slack vs IRC, the dev evangelism life, software subscription models, and video games. Also we make the <code>say</code> command in OS X utter profane phrases.</p>
+
+<h3>Do these things!</h3>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>: <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep67-128stereo.mp3" rel="enclosure">Listen now (MP3, 72.5MB, 1:35:53)</a> | <a href="http://devhell.info/player.html?ep67-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep67-128stereo.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="https://twitter.com/GeeH">Gary Hockin</a></li>
+<li><a href="http://www.netflix.com/title/80025172">Narcos (netflix)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ministry_%28band%29">Ministry</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lead_into_Gold">Lead into Gold</a></li>
+<li><a href="https://www.jetbrains.com/">JetBrains</a></li>
+<li><a href="https://www.jetbrains.com/phpstorm/">PHPStorm</a>
+ <em> <a href="https://www.irccloud.com/">irccloud.com</a>
+ </em> <a href="http://slackhq.com/">slackhq.com</a>
+ * <a href="http://developer-evangelism.com/">developer-evangelism.com</a></li>
+<li><a href="http://blog.jetbrains.com/blog/2015/09/18/final-update-on-the-jetbrains-toolbox-announcement/">JetBrains subscription pricing announcement</a></li>
+<li><a href="http://plugins.jetbrains.com/plugin/164">Vim bindings in PHPSTorm</a></li>
+<li><a href="http://store.steampowered.com/app/7760/">X-COM UFO Defense</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Baldur's_Gate">Baldur&#8217;s Gate</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Metal_Gear">MGS series</a></li>
+<li><a href="http://shirtoid.com/75393/grammar-dalek/">Grammar Dalek (I do believe you mean Dr Whom)</a></li>
+<li><a href="http://www.visitwales.com/holiday-accommodation/unusual-places-to-stay/romany-caravans">Romany Gypsy Caravan</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 66: Aquinas on Customer Service]]></title>
@@ -1856,7 +1907,7 @@ A: &#8220;$40k&#8221;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&#8217;s success.</p>
 
-<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#105;&#108;&#x74;&#x6f;&#x3a;&#116;&#x69;&#108;&#108;&#x2b;&#x70;&#x68;&#x70;&#64;&#105;&#109;&#97;&#x67;&#105;&#110;&#101;&#x65;&#x61;&#x73;&#121;&#x2e;&#99;&#111;&#x6d;">&#116;&#105;&#x6c;&#108;&#x2b;&#x70;&#x68;&#x70;&#64;&#105;&#109;&#97;&#x67;&#x69;&#x6e;&#x65;&#x65;&#x61;&#x73;&#121;&#x2e;&#99;&#x6f;&#x6d;</a>.</p>
+<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#x69;&#108;&#116;&#111;&#58;&#x74;&#x69;&#x6c;&#x6c;&#x2b;&#x70;&#104;&#112;&#x40;&#x69;&#x6d;&#97;&#x67;&#105;&#x6e;&#101;&#x65;&#x61;&#115;&#x79;&#46;&#99;&#x6f;&#x6d;">&#116;&#105;&#108;&#108;&#43;&#112;&#104;&#x70;&#64;&#x69;&#109;&#x61;&#103;&#105;&#x6e;&#x65;&#x65;&#97;&#115;&#x79;&#46;&#x63;&#x6f;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -1914,7 +1965,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs&#8217; suicide, both in the context of governmental power and mental illness. We also talk about Ed&#8217;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#105;&#108;&#116;&#x6f;&#x3a;&#116;&#105;&#x6c;&#108;&#x2b;&#112;&#x68;&#x70;&#64;&#x69;&#109;&#x61;&#x67;&#x69;&#x6e;&#x65;&#101;&#97;&#115;&#x79;&#x2e;&#x63;&#x6f;&#x6d;">&#x74;&#105;&#x6c;&#108;&#43;&#112;&#x68;&#112;&#x40;&#105;&#109;&#97;&#x67;&#105;&#110;&#x65;&#x65;&#97;&#x73;&#121;&#46;&#99;&#111;&#109;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#x74;&#105;&#x6c;&#108;&#x2b;&#112;&#104;&#x70;&#64;&#x69;&#109;&#97;&#x67;&#105;&#x6e;&#x65;&#x65;&#x61;&#x73;&#121;&#46;&#x63;&#x6f;&#109;">&#x74;&#x69;&#x6c;&#108;&#x2b;&#112;&#x68;&#x70;&#64;&#105;&#x6d;&#x61;&#103;&#x69;&#x6e;&#x65;&#x65;&#x61;&#x73;&#121;&#x2e;&#99;&#x6f;&#x6d;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
