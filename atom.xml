@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2015-10-27T17:41:55-04:00</updated>
+  <updated>2015-12-23T17:02:22-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,117 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 69: A Festivus Miracle, Part 2]]></title>
+    <link href="http://devhell.info/post/2015-12-23/a-festivus-miracle-part-2/"/>
+    <updated>2015-12-23T16:41:00-05:00</updated>
+    <id>http://devhell.info/post/2015-12-23/a-festivus-miracle-part-2</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/cuyp/5979620340/in/photolist-bK9Uhp-du1yXr-acBG1g-8jy1Lw-8juLrg-iqig7y-djZ2SN-3522zm-8m4uq5-f9Wm2i-4M2LWa-7HfPF-8jxYCq-oDf9sH-93NVuJ-93NVuL-aFHcxa-6KNdAo-423Di-x852r-4XzP39-5nv6N7-rt4qpf-47qzVC-dygmY-7HfPG-2fUSiD-7XGXQg-bqMd13-4isk2T-4SZWJV-kXJai-a7p7Nq-8NiYmw-4HJ3Lv-9nzxj-5DzrM4-hnw4m-7jKupw-7QcN25-bm8sKg-5Gdsov" title="pissing in the bottle"><img src="https://farm7.staticflickr.com/6009/5979620340_7ecb746589_z.jpg" width="640" height="480" alt="pissing in the bottle"></a></p>
+
+<p>After some airing of grievances and snarky emails, we managed to get our long-
+time personal friend Elizabeth Naramore to come on the show and talk about
+how she was scared for her life the first time she ever met Chris.</p>
+
+<p>We also got to continue to show how immature the three of us are with our constant
+giggling and inappropriate comments due to the <a href="https://www.urbandictionary.com/define.php?term=69&amp;defid=385099">innuendo-laden</a> episode number.</p>
+
+<p>When we weren&#8217;t giggling we did talk about Liz&#8217;s studies into the psychology
+of open source communities and her work helping to teach more people how to
+use Gi-Thub. Ed and Chris discussed how the marketing efforts for their own
+products are different yet have the same end goal.</p>
+
+<p>Chris also talked about how he stupidly lost his passport while in Orlando for
+an all-hands meeting (1270 people!) for Mozilla. He was so stressed he didn&#8217;t
+even use the free park passes to Epcot, Hollywood Studios, or the Animal Kingdom.</p>
+
+<h3>Do these things!</h3>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep69-128stereo.mp3" rel="enclosure">Listen now (MP3, 93.2MB, 1:41:55)</a> | <a href="http://devhell.info/player.html?ep69-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep69-128stereo.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li>Elizabeth on <a href="https://twitter.com/ElizabethN">Twitter</a></li>
+<li><a href="https://github.com">GitHub</a></li>
+<li><a href="http://pinecreekoutdoors.com/urboforcatrt.html">Urine storage</a></li>
+<li><a href="https://patchwork.github.com">GitHub Patchwork</a></li>
+<li>Elizabeth&#8217;s slides for her <a href="https://speakerdeck.com/elizabethn/the-neuroscience-and-psychology-of-open-source">talk at TrueNorthPHP</a></li>
+<li>The downside of <a href="https://medium.com/life-tips/the-downside-of-being-nice-4f22fc3f65bf#.uzwijjs86">being nice</a></li>
+<li>OSMI artiste <a href="http://hellogeri.com">Geri Coady</a></li>
+<li>The soul stylings of <a href="https://en.wikipedia.org/wiki/Nitzer_Ebb">Nitzer Ebb</a></li>
+<li><a href="http://brandingbrand.com/">Branding Brand</a></li>
+<li><a href="https://mozlando2015.sched.org/">Mozlando</a></li>
+<li>Mozilla <a href="https://wiki.mozilla.org/FlyWeb">FlyWeb</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 68: A Festivus Miracle, Part 1]]></title>
+    <link href="http://devhell.info/post/2015-12-23/a-festivus-miracle/"/>
+    <updated>2015-12-23T16:32:00-05:00</updated>
+    <id>http://devhell.info/post/2015-12-23/a-festivus-miracle</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/lazzarello/5454431231/in/photolist-9iZonM-cwEJW-2XPor-4etUft-2mVhh-8QPxYE-9szGkM-4rBUES-42vAS-4hFqf5-3589xQ-9dY7X2-ahhJMk-4mB6A9-4mx3zT-bYugtu-8ELvNk-9F2yz8-eFHY4o-KWTsn-6DAgq-5Aq65-nSr9P-ank3ZY-DuWZi-5X776q-4HMMLu-4i1stH-4i1sqF-4i5xQb-9sCGLu-dDjxb-ahkCCL-9szGav-6aKjY-7UGuTt-dG3EPh-4mB6Ao-4i5y3N-9uHLto-KWJEU-4uqiWU-3bBT3e-3bBSYV-3bBSUV-3bBSNB-gRLLi-gRLJ1-PiVjK-5h4QHo" title="An aol.com email address is the duncecap of the internet"><img src="https://farm6.staticflickr.com/5215/5454431231_f08148ea98_z.jpg" width="640" height="481" alt="An aol.com email address is the duncecap of the internet"></a></p>
+
+<p>In a great feat of strength we were lucky enough to have future <a href="https://duckduckgo.com/?q=aol+digital+prophet&amp;t=ffab">Digital Prophet</a> Samantha Quinones join us to
+talk about how she got involved with the PHP community and what it&#8217;s like to
+work for a company who&#8217;s office is constructed out of <a href="http://www.bitsandpieces.us/wp-content/uploads/2013/10/aol-cd.jpg">old CD&#8217;s</a>.</p>
+
+<p>Along the way we talked about ways to discuss AOL with your millenial, her close
+personal relationship with the <a href="https://en.wikipedia.org/wiki/Elwood_Edwards">&#8220;You&#8217;ve Got Mail&#8221; Guy</a>,
+and how to sell tampons using caching and firehoses. Ed also shared his latest
+updates about <a href="http://osmihelp.org/">OSMI</a>. Naturally there was also time to
+make fun of <a href="http://mozilla.org">Chris&#8217; new employer</a></p>
+
+<h3>Do these things!</h3>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep68-128stereo.mp3" rel="enclosure">Listen now (MP3, 85.2MB, 1:34:25)</a> | <a href="http://devhell.info/player.html?ep68-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep68-128stereo.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li>Samantha on <a href="https://twitter.com/ieatkillerbees">Twitter</a></li>
+<li>The benefits of <a href="https://www.youtube.com/watch?v=5IOXzpRJ714">Lava soap</a></li>
+<li>IT&#8217;S PRONOUNCED <a href="https://www.youtube.com/watch?v=PKOX8Ur4oDE">ZED</a></li>
+<li>Slides from Samantha&#8217;s <a href="https://speakerdeck.com/squinones/drinking-from-the-firehose-true-north-php">presentation at TrueNorthPHP</a></li>
+<li><a href="https://github.com/aol/offload">AOL offload</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tandem_bicycle">Tandem bicycles</a></li>
+<li><a href="https://github.com/Kinto/kinto">Kinto</a>, Chris&#8217; first Mozilla project</li>
+<li><a href="https://en.wikipedia.org/wiki/Jason_and_the_Argonauts_%281963_film%29">Jason and the Argonauts</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 67: Working for the Weekend]]></title>
@@ -1907,7 +2018,7 @@ A: &#8220;$40k&#8221;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&#8217;s success.</p>
 
-<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#x69;&#108;&#116;&#111;&#58;&#x74;&#x69;&#x6c;&#x6c;&#x2b;&#x70;&#104;&#112;&#x40;&#x69;&#x6d;&#97;&#x67;&#105;&#x6e;&#101;&#x65;&#x61;&#115;&#x79;&#46;&#99;&#x6f;&#x6d;">&#116;&#105;&#108;&#108;&#43;&#112;&#104;&#x70;&#64;&#x69;&#109;&#x61;&#103;&#105;&#x6e;&#x65;&#x65;&#97;&#115;&#x79;&#46;&#x63;&#x6f;&#109;</a>.</p>
+<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#116;&#105;&#108;&#x6c;&#x2b;&#x70;&#104;&#112;&#x40;&#x69;&#x6d;&#97;&#x67;&#x69;&#110;&#x65;&#x65;&#97;&#115;&#x79;&#46;&#x63;&#x6f;&#x6d;">&#x74;&#x69;&#x6c;&#x6c;&#x2b;&#112;&#104;&#x70;&#64;&#105;&#109;&#x61;&#x67;&#105;&#x6e;&#101;&#101;&#x61;&#115;&#x79;&#46;&#x63;&#111;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -1965,7 +2076,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs&#8217; suicide, both in the context of governmental power and mental illness. We also talk about Ed&#8217;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#x74;&#105;&#x6c;&#108;&#x2b;&#112;&#104;&#x70;&#64;&#x69;&#109;&#97;&#x67;&#105;&#x6e;&#x65;&#x65;&#x61;&#x73;&#121;&#46;&#x63;&#x6f;&#109;">&#x74;&#x69;&#x6c;&#108;&#x2b;&#112;&#x68;&#x70;&#64;&#105;&#x6d;&#x61;&#103;&#x69;&#x6e;&#x65;&#x65;&#x61;&#x73;&#121;&#x2e;&#99;&#x6f;&#x6d;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#x6f;&#58;&#116;&#x69;&#108;&#108;&#43;&#112;&#104;&#112;&#x40;&#105;&#x6d;&#97;&#103;&#x69;&#x6e;&#x65;&#101;&#97;&#115;&#121;&#46;&#99;&#111;&#109;">&#x74;&#105;&#x6c;&#x6c;&#43;&#x70;&#x68;&#x70;&#64;&#x69;&#x6d;&#97;&#x67;&#105;&#110;&#101;&#101;&#x61;&#115;&#121;&#46;&#x63;&#x6f;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
