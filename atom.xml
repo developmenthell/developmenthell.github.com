@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2015-12-23T17:02:22-05:00</updated>
+  <updated>2016-01-20T14:07:07-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,65 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Anti-Canuckite Leanings]]></title>
+    <link href="http://devhell.info/post/2016-01-20/anti-canuckite-leanings/"/>
+    <updated>2016-01-20T13:41:00-05:00</updated>
+    <id>http://devhell.info/post/2016-01-20/anti-canuckite-leanings</id>
+    <content type="html"><![CDATA[<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/statephotos/8639238213/in/photolist-eaqmwZ-d2FbAf-d2FbEG-cSP8NL-d5G3Fy-c5dfS7-ctTiwm-r2PKKN-qKjLkA-gnW9yT-p7vfKX-tRiTg1-xgjQMa-bWNKuK-6Tvb1i-oCnN4S-oiHuNt-edfgbc-iEsZyK-6PmqmU-7xqTHa-fNTa9f-tkg6Pq-nD9JSp-fJAcMX-cAr525-bVhpaS-oktoBf-6iWDAd-bVNjtY-wYGXbU-6v9gmA-hZTHpp-75U3dF-ncfM4k-suR9Ja-8f1pL4-crZKgb-8f1tmx-naej4u-6Th7UD-oR5NQt-ocPZqm-6XgBgT-pMDyJv-oR2K59-63nEiZ-9u7f8V-dePNwY-dePNFc" title="Secretary Kerry Receives a Case of Beer from Canadian Foreign Minister John Baird"><img src="https://farm9.staticflickr.com/8521/8639238213_dd605bae23_z.jpg" width="640" height="427" alt="Secretary Kerry Receives a Case of Beer from Canadian Foreign Minister John Baird"></a></p>
+
+<p>Welcome to a new year and hopefully a more frequent podcasting schedule of
+recording on the 2nd and 4th Sundays of every month. Can your favourite
+old-but-lazy duo maintain such a punishing pace?</p>
+
+<p>During the discussions for topics for this episode, Chris went to the bathroom
+for some quiet time. When he came back Ed had asked dedicated
+grumpy-Canadian hater Amanda Folson to join this episode to talk a bit about
+the life of a developer evangelist, Greg LeMonde, the Battle for PHP CoC, how
+Composer saved PHP, and CodeMash.</p>
+
+<p>Along the way Amanda and Ed ganged up on Chris showing their hatred for their
+peace-loving neighbours north of the 49th parallel and during the aftershow drove him away with talk about audio recording equipment.</p>
+
+<h3>Do these things!</h3>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep70-128stereo.mp3" rel="enclosure">Listen now (MP3, 68.5MB, 1:35:12)</a> | <a href="http://devhell.info/player.html?ep70-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep70-128stereo.mp3"></li>
+</ul>
+
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li>Amanda on <a href="https://twitter.com/AmbassadorAwsum">Twitter</a></li>
+<li>Amanda&#8217;s employer <a href="https://pageduty.com">PagerDuty</a></li>
+<li><a href="http://www.24daysindecember.net/">24 Days In December</a></li>
+<li>RFC for a PHP <a href="https://wiki.php.net/rfc/adopt-code-of-conduct">code of conduct</a></li>
+<li><a href="http://getcomposer.org">Composer</a></li>
+<li><a href="http://packagist.org">Packagist</a></li>
+<li>The best ever conference <a href="http://www.codemash.org/">held at a water park</a></li>
+<li><a href="https://twitter.com/madalynrose">Madalyn Parker</a> gave an awesome talk at CodeMash about &#8220;Mental Health at Work&#8221;</li>
+<li><a href="https://www.skiphp.com">SkiPHP</a></li>
+<li><a href="https://https://www.pytennessee.org/">PyTennesee</a></li>
+<li>Stay on top of what conferences are accepting papers with <a href="https://thecfpreport.com">The CFP Report</a></li>
+<li>The severely underrated <a href="https://en.wikipedia.org/wiki/Yul_Brynner">Yul Brenner</a></li>
+<li>The <a href="https://en.wikipedia.org/wiki/Matt_Dillon_%28Gunsmoke%29">Matt Dillon</a> with talent</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 69: A Festivus Miracle, Part 2]]></title>
@@ -2018,7 +2077,7 @@ A: &#8220;$40k&#8221;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&#8217;s success.</p>
 
-<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#116;&#105;&#108;&#x6c;&#x2b;&#x70;&#104;&#112;&#x40;&#x69;&#x6d;&#97;&#x67;&#x69;&#110;&#x65;&#x65;&#97;&#115;&#x79;&#46;&#x63;&#x6f;&#x6d;">&#x74;&#x69;&#x6c;&#x6c;&#x2b;&#112;&#104;&#x70;&#64;&#105;&#109;&#x61;&#x67;&#105;&#x6e;&#101;&#101;&#x61;&#115;&#x79;&#46;&#x63;&#111;&#109;</a>.</p>
+<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#x74;&#x69;&#108;&#x6c;&#x2b;&#112;&#x68;&#x70;&#64;&#x69;&#x6d;&#97;&#x67;&#105;&#x6e;&#x65;&#x65;&#97;&#x73;&#x79;&#46;&#99;&#x6f;&#109;">&#116;&#105;&#108;&#108;&#x2b;&#112;&#x68;&#x70;&#64;&#x69;&#109;&#x61;&#x67;&#x69;&#x6e;&#x65;&#101;&#97;&#115;&#121;&#46;&#x63;&#x6f;&#x6d;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -2076,7 +2135,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs&#8217; suicide, both in the context of governmental power and mental illness. We also talk about Ed&#8217;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#x6f;&#58;&#116;&#x69;&#108;&#108;&#43;&#112;&#104;&#112;&#x40;&#105;&#x6d;&#97;&#103;&#x69;&#x6e;&#x65;&#101;&#97;&#115;&#121;&#46;&#99;&#111;&#109;">&#x74;&#105;&#x6c;&#x6c;&#43;&#x70;&#x68;&#x70;&#64;&#x69;&#x6d;&#97;&#x67;&#105;&#110;&#101;&#101;&#x61;&#115;&#121;&#46;&#x63;&#x6f;&#109;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#111;&#x3a;&#116;&#105;&#108;&#x6c;&#43;&#112;&#x68;&#112;&#x40;&#105;&#109;&#x61;&#x67;&#x69;&#110;&#101;&#x65;&#x61;&#x73;&#121;&#x2e;&#x63;&#111;&#x6d;">&#116;&#x69;&#x6c;&#108;&#43;&#x70;&#x68;&#112;&#64;&#105;&#x6d;&#97;&#103;&#x69;&#110;&#x65;&#x65;&#x61;&#115;&#121;&#46;&#x63;&#111;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
