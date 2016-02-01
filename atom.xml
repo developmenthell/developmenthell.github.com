@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2016-01-24T16:28:19-05:00</updated>
+  <updated>2016-02-01T18:33:14-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,69 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 71: Bespoke Tokens]]></title>
+    <link href="http://devhell.info/post/2016-02-01/bespoke-tokens/"/>
+    <updated>2016-02-01T18:19:00-05:00</updated>
+    <id>http://devhell.info/post/2016-02-01/bespoke-tokens</id>
+    <content type="html"><![CDATA[<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/ketmonkey/1285305392/in/photolist-2XzwvN-5gTZHP-65cTss-8kHf1J-ds5ayo-mYMug-rqz9V-rqz9U-8zQ7JS-5rRHr2-5SyNsf-noJE3d-9man97-dAi7pp-noG28X-Npz2n-es2FM9-puSHYS-9iYCYQ-4G4E2E-bZDYhw-qScAH-rFckuU-8w2twB-NpyFR-eahGnd-6WGA64-4f2WcW-GkXAN-xvwb-GkXvC-8iTium-6f1e4u-8CEVq-8iQ5h6-8iQ5jF-7xQvKX-zarJ1r-d3x6xL-51za7b-8AQzBb-bwLNPV-acng4w-aCo8D9-at8Lc4-nwyjsP-5jKLuD-6QiNkA-6QeBfR" title="Yay Token-Ring"><img src="https://farm2.staticflickr.com/1329/1285305392_0532fd2bf6_z.jpg" width="640" height="480" alt="Yay Token-Ring"></a></p>
+
+<p>We really do appreciate our spnsors so when we get a chance to thank them in a way other than our awesome ad reads, we do it! On this episode you get twice the guest because we invited two of the three folks behind WonderNetworks to join us.</p>
+
+<p>Paul Reinheimer and Gemma Anible came on (and even did video via Skype so they could tell when we were getting bored) and talked about how WonderNetworks got started, Paul and Gemma&#8217;s preferred development style and Paul seemed determined (as he always is) to tweak Chris.</p>
+
+<h2>Corrections and Updates</h2>
+
+<ul>
+<li>From Episode 70 - Chris was wrong about the French legal system</li>
+<li>From Episode 70 - Chris was wrong about who played the creature in <a href="https://en.wikipedia.org/wiki/The_Thing_from_Another_World">&#8220;The Thing From Another World&#8221;</a></li>
+</ul>
+
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<ul>
+<li><a href="http://devhell.s3.amazonaws.com/ep71-128stereo.mp3" rel="enclosure">Listen now (MP3, 68.5MB, 1:35:12)</a> | <a href="http://devhell.info/player.html?ep71-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>  <br/>
+  <audio controls src="http://devhell.s3.amazonaws.com/ep71-128stereo.mp3"></li>
+</ul>
+
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>Paul on <a href="https://twitter.com/preinheimer">Twitter</a></li>
+<li>Gemma on <a href="https://twitter.com/ellotheth">Twitter</a></li>
+<li><a href="https://wondernetwork.com/wonderproxy">WonderProxy</a></li>
+<li><a href="https://wondernetwork.com/wheresitup">Where&#8217;s It Up</a></li>
+<li><a href="http://www.amazon.com/s?ie=UTF8&amp;page=1&amp;rh=i%3Aaps%2Ck%3Aspace%20leggings">Space leggings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_Ziggy_Stardust_and_the_Spiders_from_Mars">Ziggy Stardust</a></li>
+<li>The <a href="http://research.microsoft.com/en-us/groups/ese/nagappan_tdd.pdf">TDD study</a> from Gemma&#8217;s talk</li>
+<li><a href="https://phalconphp.com/en">Phalcon</a> web framework</li>
+<li><a href="http://bulletphp.com">BulletPHP</a> web framework</li>
+<li><a href="http://www.slimframework.com/">Slim 3</a> web framework</li>
+<li><a href="http://trailblazer.to/">Trailblazer</a> Ruby on Rails architecture</li>
+<li><a href="http://gtk.php.net/">PHP-GTK</a></li>
+<li>Elizabeth Marie Smith on <a href="https://twitter.com/auroraeosrose">Twitter</a></li>
+<li>How Chris looks like <a href="https://twitter.com/funkatron/status/691446605661122560">Lobot</a> during Skype chats</li>
+<li>How few <a href="http://img.spz.im/IzvYO.png">followers</a> Ed has on Twitter</li>
+<li>The <a href="https://golang.org">Go</a> programming language</li>
+<li>How Ed personifies a <a href="https://twitter.com/funkatron/status/691468681960755204">level of explaining things</a></li>
+<li>&#8220;Is it <a href="https://graphstory.com">Graph scale</a>?&#8221;</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 70: Anti-Canuckite Leanings]]></title>
@@ -2077,7 +2140,7 @@ A: &#8220;$40k&#8221;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&#8217;s success.</p>
 
-<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#105;&#x6c;&#x74;&#x6f;&#x3a;&#116;&#x69;&#x6c;&#x6c;&#43;&#x70;&#x68;&#112;&#64;&#105;&#109;&#97;&#x67;&#x69;&#110;&#x65;&#101;&#x61;&#x73;&#x79;&#x2e;&#99;&#x6f;&#109;">&#116;&#105;&#x6c;&#x6c;&#x2b;&#112;&#104;&#x70;&#x40;&#x69;&#x6d;&#97;&#x67;&#105;&#110;&#x65;&#101;&#97;&#115;&#x79;&#46;&#99;&#111;&#109;</a>.</p>
+<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#105;&#108;&#x74;&#111;&#58;&#x74;&#x69;&#x6c;&#108;&#43;&#112;&#x68;&#112;&#x40;&#105;&#109;&#97;&#103;&#105;&#x6e;&#x65;&#x65;&#x61;&#x73;&#x79;&#x2e;&#99;&#x6f;&#x6d;">&#x74;&#x69;&#x6c;&#108;&#43;&#112;&#104;&#x70;&#x40;&#x69;&#109;&#x61;&#x67;&#x69;&#x6e;&#101;&#x65;&#97;&#115;&#121;&#46;&#x63;&#x6f;&#x6d;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -2135,7 +2198,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs&#8217; suicide, both in the context of governmental power and mental illness. We also talk about Ed&#8217;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#105;&#108;&#116;&#111;&#58;&#116;&#105;&#x6c;&#x6c;&#x2b;&#112;&#104;&#x70;&#x40;&#x69;&#109;&#x61;&#103;&#105;&#x6e;&#x65;&#x65;&#x61;&#x73;&#x79;&#46;&#x63;&#111;&#109;">&#x74;&#105;&#108;&#x6c;&#x2b;&#112;&#x68;&#x70;&#x40;&#x69;&#109;&#97;&#x67;&#x69;&#x6e;&#101;&#101;&#x61;&#x73;&#x79;&#46;&#x63;&#111;&#x6d;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#111;&#x3a;&#116;&#105;&#x6c;&#x6c;&#43;&#112;&#x68;&#x70;&#64;&#105;&#x6d;&#97;&#103;&#105;&#110;&#101;&#101;&#97;&#115;&#x79;&#x2e;&#x63;&#111;&#x6d;">&#116;&#105;&#x6c;&#x6c;&#x2b;&#x70;&#104;&#x70;&#x40;&#x69;&#109;&#x61;&#103;&#x69;&#110;&#101;&#x65;&#97;&#115;&#121;&#46;&#x63;&#111;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
