@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2016-03-12T16:24:27-05:00</updated>
+  <updated>2016-03-25T11:03:20-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,71 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 74: raise MentalHealthError]]></title>
+    <link href="http://devhell.info/post/2016-03-25/raise-mentalhealtherror/"/>
+    <updated>2016-03-25T10:24:00-04:00</updated>
+    <id>http://devhell.info/post/2016-03-25/raise-mentalhealtherror</id>
+    <content type="html"><![CDATA[<p><a href="https://commons.wikimedia.org/wiki/File:GuruMeditationErrorinDSOrganize_01.jpg" title="A Guru Meditation Error screen in DSOrganize on a pink DS Lite."><img src="http://devhell.info/images/posts-images/GuruMeditationErrorinDSOrganize_01.jpg" width="600" height="450" alt="A Guru Meditation Error screen in DSOrganize on a pink DS Lite."></a></p>
+
+<p class="photo-credit">Photo by Kittenlive - <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></p>
+
+
+<p>In this episode we were extremely lucky to get <a href="http://www.kennethreitz.org/">Kenneth Reitz</a>
+on the show to discuss his experiences when he had a mental health event that
+resulted in a stay in the hospital and some major life changes as a result.</p>
+
+<p>Normally we&#8217;re a comedy podcast that focusses on technology, but issues
+surrounding mental health are very important to us. We&#8217;re extremely grateful
+that Kenneth came on and was very open about what happened to him.</p>
+
+<p>We hope you enjoy what was a great, open, freewheeling discussion about
+how the symptoms of some mental illnesses appear beneficial from the outside.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="http://backup-pro.com">Backup Pro</a>, <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Get 50% off Backup Pro&#8217;s services by using the promo code &#8216;devhell&#8217;</li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>Kenneth on <a href="https://twitter.com/kennethreitz">Twitter</a></li>
+<li><a href="http://docs.python*requests.org/en/master/">Requests</a> Python HTTP library</li>
+<li><a href="https://www.heroku.com/">Heroku</a></li>
+<li>Kenneth&#8217;s post about <a href="http://www.kennethreitz.org/essays/">his mental health event</a></li>
+<li><a href="http://www.mayoclinic.org/diseases-conditions/bipolar-disorder/basics/symptoms/CON-20027544">Bipolar Disorder</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Haloperidol">Haldol</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lithium_%28medication%29">Lithium</a> (not the <a href="http://li3.me/">framework</a>)</li>
+<li><a href="http://www.hypomanicedge.com/">The Hypomanic Edge</a></li>
+<li>Kanye West <a href="http://globalgrind.com/2013/10/23/kanye-west-car-accident-11-years-ago-full-story-photos/">car accident</a></li>
+<li><a href="https://devcenter.heroku.com/articles/python-support">Python support on Heroku</a></li>
+<li><a href="https://twitter.com/dzuelke">David Zuelke</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Prison_Architect">Prison Architect</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SimCity">SimCity</a> franchise</li>
+<li><a href="https://en.wikipedia.org/wiki/Football_Manager">Football Manager</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dungeon_Keeper_2">Dungeon Keeper II</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bejeweled_%28series%29">Bejwelled</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cities:_Skylines">Skylines</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.bcs.tinybird">Tiny Bird</a></li>
+<li><a href="http://www.arcaderx.com/">Louisville Arcade Expo</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Gold_farming">Gold farming</a></li>
+<li><a href="http://www.youtube.com/watch?v=8PBvOxicz-0">Video of Bo Jackson</a> from Tecmo Bowl</li>
+<li><a href="http://www.arcadecab.com/">MAME cabinets</a></li>
+<li><a href="https://soundcloud.com/infinitestate">Kenneth Reitz&#8217;s Music</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 73: Old Guys Last Longer]]></title>
@@ -2257,7 +2322,7 @@ A: &#8220;$40k&#8221;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&#8217;s success.</p>
 
-<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#105;&#108;&#x74;&#x6f;&#x3a;&#116;&#x69;&#x6c;&#x6c;&#43;&#x70;&#104;&#112;&#x40;&#105;&#109;&#x61;&#x67;&#105;&#110;&#101;&#101;&#97;&#x73;&#121;&#46;&#99;&#x6f;&#x6d;">&#116;&#x69;&#x6c;&#108;&#43;&#112;&#x68;&#x70;&#64;&#105;&#109;&#97;&#x67;&#105;&#110;&#101;&#101;&#97;&#x73;&#x79;&#x2e;&#99;&#111;&#x6d;</a>.</p>
+<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#111;&#x3a;&#x74;&#x69;&#x6c;&#108;&#43;&#112;&#104;&#112;&#x40;&#x69;&#x6d;&#97;&#103;&#x69;&#x6e;&#101;&#x65;&#97;&#115;&#121;&#x2e;&#x63;&#x6f;&#x6d;">&#116;&#105;&#108;&#x6c;&#43;&#112;&#104;&#x70;&#64;&#105;&#x6d;&#97;&#103;&#105;&#110;&#x65;&#x65;&#x61;&#x73;&#x79;&#46;&#99;&#111;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -2315,7 +2380,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs&#8217; suicide, both in the context of governmental power and mental illness. We also talk about Ed&#8217;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#x69;&#x6c;&#116;&#111;&#58;&#116;&#x69;&#x6c;&#108;&#43;&#112;&#104;&#x70;&#x40;&#x69;&#109;&#x61;&#x67;&#105;&#110;&#101;&#x65;&#97;&#x73;&#x79;&#46;&#x63;&#x6f;&#x6d;">&#x74;&#105;&#108;&#108;&#x2b;&#112;&#x68;&#x70;&#x40;&#105;&#109;&#97;&#103;&#105;&#x6e;&#x65;&#x65;&#97;&#x73;&#121;&#46;&#x63;&#x6f;&#x6d;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#58;&#x74;&#x69;&#108;&#x6c;&#43;&#x70;&#x68;&#112;&#64;&#x69;&#109;&#x61;&#103;&#x69;&#110;&#101;&#x65;&#x61;&#115;&#x79;&#x2e;&#x63;&#x6f;&#109;">&#x74;&#x69;&#108;&#108;&#43;&#x70;&#104;&#112;&#64;&#x69;&#x6d;&#x61;&#103;&#105;&#x6e;&#101;&#101;&#x61;&#115;&#121;&#46;&#99;&#x6f;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
