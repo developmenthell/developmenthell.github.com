@@ -32,9 +32,8 @@ how the symptoms of some mental illnesses appear beneficial from the outside.
 * **Rate us** on iTunes [here](http://itunes.apple.com/us/podcast/dev-hell/id489840699)
 
 ## Listen
-
-<a href="http://devhell.s3.amazonaws.com/ep74-128stereo.mp3" rel="enclosure">Listen now (MP3, 97.2MB, 1:43:49)</a> | <a href="/player.html?ep74-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-<audio controls src="http://devhell.s3.amazonaws.com/ep74-128stereo.mp3">
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/35335?style=dark' width='100%'></iframe>
+<a href="http://audio.simplecast.com/35335.mp3" rel="enclosure">Download now (MP3, 97.2MB, 1:43:49)</a>
 
 # Links and Notes
 
