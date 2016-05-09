@@ -19,8 +19,8 @@ If you're the corncob on our picnic plate, you'll do these things:
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep24-64mono.mp3" rel="enclosure">Listen now (MP3, 36.4MB, 1:20:31)</a>    
-	<audio controls src="http://devhell.s3.amazonaws.com/ep24-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35282?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35282.mp3" rel="enclosure">Download now (MP3, 36.4MB, 1:20:31)</a>
 
 ### Links and Notes
 

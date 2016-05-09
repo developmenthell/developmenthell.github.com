@@ -20,8 +20,8 @@ If you're support the inalienable rights of all humans, you'll do these things:
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep21-64mono.mp3" rel="enclosure">Listen now (MP3, 28.5MB, 1:06:42)</a>    
-	<audio controls src="http://devhell.s3.amazonaws.com/ep21-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35278?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35278.mp3" rel="enclosure">Download now (MP3, 28.5MB, 1:06:42)</a>
 
 ### Links and Notes
 

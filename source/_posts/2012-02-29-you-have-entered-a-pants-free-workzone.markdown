@@ -20,8 +20,8 @@ Chris also talks a bit about his new gig at Kaplan, where he'll surely make grow
 
 Feel free to hit us up on Twitter at [@dev_hell](https://twitter.com/dev_hell) or harass [Ed](https://twitter.com/funkatron) and [Chris](https://twitter.com/grmpyprogrammer) directly.
 
-* <a href="http://devhell.s3.amazonaws.com/ep7-64mono.mp3" rel="enclosure">Listen now (MP3, 37.5MB, 1:13)</a>    
-	<audio controls src="http://devhell.s3.amazonaws.com/ep7-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35264?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35264.mp3" rel="enclosure">Download now (MP3, 37.5MB, 1:13)</a>
 
 ### Links
 

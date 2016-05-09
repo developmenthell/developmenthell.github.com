@@ -18,8 +18,8 @@ If you're a true believer, you'll do these things:
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep22-64mono.mp3" rel="enclosure">Listen now (MP3, 33.1MB, 1:14:41)</a>    
-	<audio controls src="http://devhell.s3.amazonaws.com/ep22-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35279?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35279.mp3" rel="enclosure">Download now (MP3, 33.1MB, 1:14:41)</a>
 
 ### Links and Notes
 

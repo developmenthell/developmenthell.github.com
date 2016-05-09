@@ -19,8 +19,8 @@ If you love us, you will do these things:
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep14-64mono.mp3" rel="enclosure">Listen now (MP3, 33.1MB, 1:16)</a>    
-	<audio controls src="http://devhell.s3.amazonaws.com/ep14-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35271?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35271.mp3" rel="enclosure">Download now (MP3, 33.1MB, 1:16)</a>
 
 
 ### Notes

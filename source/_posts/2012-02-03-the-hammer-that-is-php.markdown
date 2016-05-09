@@ -12,8 +12,8 @@ In this episode we talk about dealnews, how they use PHP (and how they also use 
 
 Feel free to hit us up on [Twitter](https://twitter.com/dev_hell) or harras [Ed](https://twitter.com/funkatron) and [Chris](https://twitter.com/grmpyprogrammer) directly.
 
-* <a href="http://devhell.s3.amazonaws.com/ep5-64mono.mp3" rel="enclosure">Listen now (MP3, 41MB, 1:14:37)</a>    
-	<audio controls src="http://devhell.s3.amazonaws.com/ep5-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35262?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35262.mp3" rel="enclosure">Download now (MP3, 41MB, 1:14:37)</a>
 
 ### Links
 

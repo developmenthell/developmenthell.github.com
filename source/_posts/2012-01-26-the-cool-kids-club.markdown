@@ -14,8 +14,8 @@ Oh yeah, you also find out our opinions on what constitutes a "well-written PHP 
 
 As always, we welcome your feedback. You can always hit us up on [Twitter](https://twitter.com/dev_hell) where we love to read what you say and promptly ignore it or privately mock it. 
 
-* <a href="http://devhell.s3.amazonaws.com/ep4-64mono.mp3" rel="enclosure">Listen now (MP3, 51MB, 1:20:18)</a>    
-	<audio controls src="http://devhell.s3.amazonaws.com/ep4-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35261?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35261.mp3" rel="enclosure">Download now (MP3, 51MB, 1:20:18)</a>
 
 ### Links
 

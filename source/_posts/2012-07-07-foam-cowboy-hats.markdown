@@ -19,8 +19,8 @@ If you care about us, you'll do these things:
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep16-64mono.mp3" rel="enclosure">Listen now (MP3, 26.6MB, 58:17)</a>    
-	<audio controls src="http://devhell.s3.amazonaws.com/ep16-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35273?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35273.mp3" rel="enclosure">Download now (MP3, 26.6MB, 58:17)</a>
 
 ### Links
 

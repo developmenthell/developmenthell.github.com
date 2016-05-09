@@ -21,8 +21,8 @@ If you're the soul in the software, you'll do these things:
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep23-64mono.mp3" rel="enclosure">Listen now (MP3, 40.1MB, 1:30:00)</a>    
-	<audio controls src="http://devhell.s3.amazonaws.com/ep23-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35280?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35280.mp3" rel="enclosure">Download now (MP3, 40.1MB, 1:30:00)</a>
 
 ### Links and Notes
 

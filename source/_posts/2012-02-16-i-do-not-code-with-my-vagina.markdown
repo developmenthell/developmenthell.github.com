@@ -16,8 +16,8 @@ Also, how awesome it is that she shares a birthday with a famous NFL player.
 
 Feel free to hit us up on [Twitter](https://twitter.com/dev_hell) or harass [Ed](https://twitter.com/funkatron) and [Chris](https://twitter.com/grmpyprogrammer) directly.
 
-* <a href="http://devhell.s3.amazonaws.com/ep6-64mono.mp3" rel="enclosure">Listen now (MP3, 65MB, 1:45)</a>    
-	<audio controls src="http://devhell.s3.amazonaws.com/ep6-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35263?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35263.mp3" rel="enclosure">Download now (MP3, 65MB, 1:45)</a>
 
 ### Links
 

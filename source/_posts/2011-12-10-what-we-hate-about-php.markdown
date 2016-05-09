@@ -10,8 +10,8 @@ Listen to a couple old dudes complain that they don't like PHP anymore. Yes, I k
 
 Feel free to hit [either](http://twitter.com/chartjes) of [us](http://twitter.com/funkatron) up on Twitter
 
-* <a href="http://devhell.s3.amazonaws.com/ep1-64mono.mp3" rel="enclosure">Download now (MP3, 43MB, 01:26:19)</a>    
-	<audio controls src="http://devhell.s3.amazonaws.com/ep1-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35258?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35258.mp3" rel="enclosure">Download now (MP3, 43MB, 01:26:19)</a>
 
 ### Links
 
