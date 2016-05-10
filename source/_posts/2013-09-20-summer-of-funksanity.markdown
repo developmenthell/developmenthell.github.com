@@ -16,8 +16,8 @@ FINALLY! We're back from the Summer of Funksanity hiatus with a new show. We tal
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep35-64mono.mp3" rel="enclosure">Listen now (MP3, 27.3MB, 55:09)</a> | <a href="/player.html?ep35-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-	<audio controls src="http://devhell.s3.amazonaws.com/ep35-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35295?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35295.mp3" rel="enclosure">Download now (MP3, 27.3MB, 55:09)</a>
 
 ## Links and Notes
 

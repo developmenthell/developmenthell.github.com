@@ -17,8 +17,8 @@ This week is all about PERSONAL BRANDING and WEB SCALE with special guest Steve 
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep45-64mono.mp3" rel="enclosure">Listen now (MP3, 26.7MB, 56:30)</a> | <a href="/player.html?ep45-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep45-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35305?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35305.mp3" rel="enclosure">Download now (MP3, 26.7MB, 56:30)</a>
 
 ## Links and Notes
 

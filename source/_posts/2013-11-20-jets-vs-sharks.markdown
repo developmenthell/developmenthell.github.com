@@ -17,8 +17,8 @@ In this podcast recorded *before* True North PHP, we talk to Paul M Jones, creat
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep37-64mono.mp3" rel="enclosure">Listen now (MP3, 27.9MB, 1:02:24)</a> | <a href="/player.html?ep37-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep37-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35297?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35297.mp3" rel="enclosure">Download now (MP3, 27.9MB, 1:02:24)</a>
 
 ## Links and Notes
 

@@ -16,8 +16,8 @@ Back in the saddle for the double-tres, Chris and Ed rap about the loss of trust
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep33-64mono.mp3" rel="enclosure">Listen now (MP3, 28.3MB, 1:02:20)</a> | <a href="/player.html?ep33-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-	<audio controls src="http://devhell.s3.amazonaws.com/ep33-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35293?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35293.mp3" rel="enclosure">Download now (MP3, 28.3MB, 1:02:20)</a>
 
 ## Links and Notes
 

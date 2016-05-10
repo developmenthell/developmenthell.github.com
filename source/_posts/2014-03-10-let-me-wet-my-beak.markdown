@@ -16,8 +16,8 @@ This week we're joined by David Rogers, aka [@al_the_x](https://twitter.com/al_t
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep41-64mono.mp3" rel="enclosure">Listen now (MP3, 36.2MB, 1:21:23)</a> | <a href="/player.html?ep41-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep41-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35301?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35301.mp3" rel="enclosure">Download now (MP3, 36.2MB, 1:21:23)</a>
 
 ## Links and Notes
 

@@ -19,8 +19,8 @@ Anyway, this was recorded the night before [SkiPHP](https://www.skiphp.com) star
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep39-64mono.mp3" rel="enclosure">Listen now (MP3, 26.2MB, 59:45)</a> | <a href="/player.html?ep39-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep39-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35299?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35299.mp3" rel="enclosure">Download now (MP3, 26.2MB, 59:45)</a>
 
 ## Links and Notes
 

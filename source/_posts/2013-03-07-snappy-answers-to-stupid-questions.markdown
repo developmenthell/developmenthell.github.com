@@ -24,8 +24,8 @@ If you're interested in sponsoring Development Hell, **[let us know!](mailto:dev
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep29-64mono.mp3" rel="enclosure">Listen now (MP3, 38.5MB, 1:25:55)</a> | <a href="/player.html?ep29-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-	<audio controls src="http://devhell.s3.amazonaws.com/ep29-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35288?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35288.mp3" rel="enclosure">Download now (MP3, 38.5MB, 1:25:55)</a>
 
 ## Links and Notes
 

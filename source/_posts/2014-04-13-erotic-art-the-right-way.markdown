@@ -17,8 +17,8 @@ Our latest episode features someone who we're been trying to get on for a while:
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep43-64mono.mp3" rel="enclosure">Listen now (MP3, 31.4MB, 1:09:06)</a> | <a href="/player.html?ep43-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep43-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35303?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35303.mp3" rel="enclosure">Download now (MP3, 31.4MB, 1:09:06)</a>
 
 ## Links and Notes
 

@@ -16,8 +16,8 @@ For episode 42 we are blessed by the wonderful and talented [Laura Thomson](http
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep42-64mono.mp3" rel="enclosure">Listen now (MP3, 34.5MB, 1:17:38)</a> | <a href="/player.html?ep42-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep42-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35302?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35302.mp3" rel="enclosure">Download now (MP3, 34.5MB, 1:17:38)</a>
 
 ## Links and Notes
 

@@ -17,8 +17,8 @@ The big four-oh hits us, this time with our special Fictive Kin friend Sean Coat
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep40-64mono.mp3" rel="enclosure">Listen now (MP3, 32.1MB, 1:09:20)</a> | <a href="/player.html?ep40-64mono.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep40-64mono.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35300?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35300.mp3" rel="enclosure">Download now (MP3, 32.1MB, 1:09:20)</a>
 
 ## Links and Notes
 
