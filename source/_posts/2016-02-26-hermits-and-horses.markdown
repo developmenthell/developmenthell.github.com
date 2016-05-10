@@ -31,9 +31,6 @@ Also! Listeners can get a [50% discount on Jason Myers' book **Essential SQLAlch
 <iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/35333?style=dark' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35333.mp3" rel="enclosure">Download now (MP3, 68.4MB, 1:35:57)</a>
 
-<a href="http://devhell.s3.amazonaws.com/ep72-128stereo.mp3" rel="enclosure">Listen now (MP3, 68.4MB, 1:35:57)</a> | <a href="/player.html?ep72-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-<audio controls src="http://devhell.s3.amazonaws.com/ep72-128stereo.mp3">
-
 # Links and Notes
 
 * Jason on [Twitter](https://twitter.com/jasonamyers)

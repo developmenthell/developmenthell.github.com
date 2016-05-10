@@ -8,7 +8,7 @@ categories: podcast
 
 [![19 Bozo Costumes. Photo by H. Michael Miley](http://farm9.staticflickr.com/8472/8088535219_acc95ce9a8_z.jpg)](http://www.flickr.com/photos/mike_miley/8088535219 "19 Bozo Costumes. H. Michael Miley")
 
-**UPDATE Nov 28 2012:** We fixed a bad error in the original audio file. Please [re-download](http://devhell.s3.amazonaws.com/ep23-64mono.mp3) to get the corrected file
+**UPDATE Nov 28 2012:** We fixed a bad error in the original audio file. Please [re-download](http://audio.simplecast.com/35281.mp3) to get the corrected file
 
 Episode 23 is packed chock-full of awesome guests. We talk about the controversy around the cancellation of BritRuby, and the larger issues of diversity and inclusiveness at tech conferences, with [Ashe Dryden](http://ashedryden.com/) and [Reg Braithwaite](http://braythwayt.com/). We also get into the goofiness of Star Trek and the wonder of railroad games.
 

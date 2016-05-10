@@ -6,7 +6,7 @@ comments: true
 categories: podcast
 ---
 
-_**Update:** Our first posting of this episode had a glitch in it around 14:50. It should be fixed now. If you already have the episode, you should <a href="http://devhell.s3.amazonaws.com/ep4-64mono.mp3">re-download it</a>._
+_**Update:** Our first posting of this episode had a glitch in it around 14:50. It should be fixed now. If you already have the episode, you should <a href="http://audio.simplecast.com/35261.mp3">re-download it</a>._
 
 Our fourth episode is all ready for your listening pleasure. In this exciting episode we focus on "The Conference Experience" and discuss why programming conferences are so important to developers. Chris talks about why [CodeMash](http://codemash.org) was so awesome and the awesome talks full of awesomeness that he attended. Ed talks about his own experiences with speaking and attending conferences, complete with a total derail by Chris on why a certain conference rubbed him the wrong way.
 
