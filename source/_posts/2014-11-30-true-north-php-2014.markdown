@@ -18,8 +18,8 @@ On a cold winter's night in the far north, Chris and Ed recorded a podcast at th
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep52-128stereo.mp3" rel="enclosure">Listen now (MP3, 52.1MB, 59:35)</a> | <a href="/player.html?ep52-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep52-128stereo.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35312?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35312.mp3" rel="enclosure">Download now (MP3, 52.1MB, 59:35)</a>
 
 ## Links and Notes
 

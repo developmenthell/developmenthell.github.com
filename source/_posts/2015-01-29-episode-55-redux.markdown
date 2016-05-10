@@ -21,8 +21,8 @@ Everything old is new again! Sort of! We chatter about Chris' 1% car and how rou
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep55-128stereo.mp3" rel="enclosure">Listen now (MP3, 44.4MB, 1:01:52)</a> | <a href="/player.html?ep55-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep55-128stereo.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35315?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35315.mp3" rel="enclosure">Download now (MP3, 44.4MB, 1:01:52)</a>
 
 ## Links and Notes
 

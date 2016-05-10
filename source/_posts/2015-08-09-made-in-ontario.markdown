@@ -19,8 +19,8 @@ So we recorded this nearly two months ago, but some family stuff delayed the rel
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep63-128stereo.mp3" rel="enclosure">Listen now (MP3, 70.1MB, 1:20:05 )</a> | <a href="/player.html?ep63-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep63-128stereo.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35324?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35324.mp3" rel="enclosure">Download now (MP3, 70.1MB, 1:20:05 )</a>
 
 ## Links and Notes
 

@@ -20,8 +20,8 @@ Did you know **STICKERS ARE NOW AVAILABLE? BUY SOME NOW AT [devhell.info/shop](h
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep59-128stereo.mp3" rel="enclosure">Listen now (MP3, 50.5MB, 1:10:15 )</a> | <a href="/player.html?ep59-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep59-128stereo.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35320?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35320.mp3" rel="enclosure">Download now (MP3, 50.5MB, 1:10:15 )</a>
 
 ## Links and Notes
 

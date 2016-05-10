@@ -18,8 +18,8 @@ Our latest episode was special in two ways: we recorded video of it, and it was 
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep54-128stereo.mp3" rel="enclosure">Listen now (MP3, 75.8MB, 1:36:49)</a> | <a href="/player.html?ep54-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep54-128stereo.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35314?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35314.mp3" rel="enclosure">Download now (MP3, 75.8MB, 1:36:49)</a>
 
 ## Links and Notes
 

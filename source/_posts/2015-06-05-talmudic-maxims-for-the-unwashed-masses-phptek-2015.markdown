@@ -26,8 +26,8 @@ We have two new sponsors for this episode. First is [Pulse Storm](http://store.p
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep62-128stereo.mp3" rel="enclosure">Listen now (MP3, 73.5MB, 1:21:08 )</a> | <a href="/player.html?ep62-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep62-128stereo.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35323?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35323.mp3" rel="enclosure">Download now (MP3, 73.5MB, 1:21:08 )</a>
 
 ## Links and Notes
 

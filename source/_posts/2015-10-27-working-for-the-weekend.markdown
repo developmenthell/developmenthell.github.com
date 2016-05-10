@@ -19,8 +19,8 @@ Super special guest Gary Hockin of JetBrains, and previously dog wrangler at Roa
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep67-128stereo.mp3" rel="enclosure">Listen now (MP3, 72.5MB, 1:35:53)</a> | <a href="/player.html?ep67-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep67-128stereo.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35328?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35328.mp3" rel="enclosure">Download now (MP3, 72.5MB, 1:35:53)</a>
 
 ## Links and Notes
 

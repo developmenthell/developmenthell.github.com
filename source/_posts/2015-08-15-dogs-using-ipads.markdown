@@ -19,8 +19,8 @@ We recorded this ep with special guest Joe Ferguson about a month ago, but all s
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep64-128stereo.mp3" rel="enclosure">Listen now (MP3, 73.2MB, 1:23:12 )</a> | <a href="/player.html?ep64-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep64-128stereo.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35325?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35325.mp3" rel="enclosure">Download now (MP3, 73.2MB, 1:23:12 )</a>
 
 ## Links and Notes
 

@@ -19,8 +19,8 @@ Episode 65: slow roasted for sweet mesquite flavor! Derick Bailey of WatchMeCode
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep65-128stereo.mp3" rel="enclosure">Listen now (MP3, 77.2MB, 1:28:12 )</a> | <a href="/player.html?ep65-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep65-128stereo.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35326?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35326.mp3" rel="enclosure">Download now (MP3, 77.2MB, 1:28:12 )</a>
 
 ## Links and Notes
 

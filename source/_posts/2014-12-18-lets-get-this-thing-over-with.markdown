@@ -20,8 +20,8 @@ Guest-less and listless, Chris and Ed slouch their way back to their studios. Ch
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep53-128stereo.mp3" rel="enclosure">Listen now (MP3, 47.4MB, 1:06:13)</a> | <a href="/player.html?ep53-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep53-128stereo.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35313?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35313.mp3" rel="enclosure">Download now (MP3, 47.4MB, 1:06:13)</a>
 
 ## Links and Notes
 

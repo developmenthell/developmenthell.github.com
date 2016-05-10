@@ -19,8 +19,8 @@ Episode 66 was recorded live right after the inaugural Pacific Northwest PHP Con
 
 ### Listen
 
-* <a href="http://devhell.s3.amazonaws.com/ep66-128stereo.mp3" rel="enclosure">Listen now (MP3, 51.1MB, 55:41)</a> | <a href="/player.html?ep66-128stereo.mp3" target="player_win" class="audio-player-popup">Open in new window</a>    
-    <audio controls src="http://devhell.s3.amazonaws.com/ep66-128stereo.mp3">
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35327?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35327.mp3" rel="enclosure">Download now (MP3, 51.1MB, 55:41)</a>
 
 ## Links and Notes
 
