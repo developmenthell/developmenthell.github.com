@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2016-05-09T20:09:44-04:00</updated>
+  <updated>2016-05-24T09:20:57-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 77: Escaping To The Canadian Hellscape]]></title>
+    <link href="http://devhell.info/post/2016-05-24/escaping-to-the-canadian-hellscape/"/>
+    <updated>2016-05-24T09:14:00-04:00</updated>
+    <id>http://devhell.info/post/2016-05-24/escaping-to-the-canadian-hellscape</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/kurt-b/20613779190/in/photolist-xpz1o3-FV5XqA-7Y5Ye2-6yKFo5-7Y5XJM" title="HELLSCAPE"><img src="https://c7.staticflickr.com/1/672/20613779190_33170a954f_z.jpg" width="640" height="461" alt="HELLSCAPE"></a></p>
+
+<p>On the 77th episode of you favourite comedy podcast about technology and
+aging programmers, Chris and Ed spoke with Tracy Osborn about her new job
+in developer relations, living the sweet rent-free life in the Bay Area
+and how she is making the smart move of relocating with her Kanuckistanian
+husband to Toronto.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="http://backup-pro.com">Backup Pro</a>, <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Get 50% off Backup Pro&#8217;s services by using the promo code &#8216;devhell&#8217;</li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/38252?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/38252.mp3" rel="enclosure">Download now (MP3)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>Tracy on <a href="https://twitter.com/limedaring">Twitter</a></li>
+<li>She works at <a href="https://dreamfactory.com">DreamFactory</a></li>
+<li>Her <a href="http://WeddingLovely.com">wedding startup</a></li>
+<li><a href="http://500.co/accelerator">500 Startups Accelerator</a></li>
+<li>Be sure to read the source at <a href="http://reportive.com">Reportive.com</a></li>
+<li><a href="https://www.docker.com">Docker</a></li>
+<li>The <a href="http://www.5drivein.com/">drive-in theatre near Chris</a></li>
+<li>Tracy went to <a href="http://calpoly.edu/">Cal Poly</a> for Computer Science but quickly switched</li>
+<li>Zed Shaw&#8217;s <a href="http://learnpythonthehardway.org">Learn Python The Hard Way</a></li>
+<li>Tracy&#8217;s <a href="https://hellowebapp.com/">Hello Web App books</a></li>
+<li>Both Chris and Tracy know <a href="https://unicornfree.com">Amy Hoy</a></li>
+<li>Ed&#8217;s <a href="https://twitter.com/funkatron/status/730089189006528512">series</a> <a href="https://twitter.com/funkatron/status/730089742541463552">of</a> <a href="https://twitter.com/funkatron/status/730089990127005697">tweets</a> about a self-absorbed programmer giving up on <a href="http://rubyonrails.org">Rails</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 76: No, YOU'RE A Tool]]></title>
@@ -2407,7 +2458,7 @@ A: &#8220;$40k&#8221;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&#8217;s success.</p>
 
-<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#x69;&#108;&#x74;&#111;&#x3a;&#x74;&#105;&#x6c;&#x6c;&#43;&#x70;&#104;&#x70;&#64;&#x69;&#109;&#97;&#x67;&#105;&#x6e;&#x65;&#x65;&#x61;&#x73;&#x79;&#x2e;&#99;&#111;&#x6d;">&#116;&#105;&#108;&#x6c;&#x2b;&#112;&#104;&#112;&#64;&#x69;&#109;&#x61;&#103;&#105;&#110;&#x65;&#x65;&#97;&#x73;&#121;&#46;&#99;&#111;&#x6d;</a>.</p>
+<p>This episode&#8217;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#116;&#105;&#108;&#108;&#43;&#112;&#104;&#112;&#x40;&#105;&#x6d;&#x61;&#103;&#105;&#110;&#x65;&#101;&#97;&#x73;&#121;&#46;&#x63;&#x6f;&#x6d;">&#x74;&#105;&#108;&#x6c;&#43;&#112;&#x68;&#112;&#64;&#105;&#x6d;&#97;&#103;&#x69;&#110;&#x65;&#x65;&#97;&#x73;&#x79;&#46;&#x63;&#111;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -2464,7 +2515,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs&#8217; suicide, both in the context of governmental power and mental illness. We also talk about Ed&#8217;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#105;&#108;&#x74;&#111;&#58;&#116;&#x69;&#108;&#x6c;&#43;&#x70;&#x68;&#x70;&#x40;&#x69;&#x6d;&#97;&#x67;&#x69;&#110;&#101;&#101;&#97;&#115;&#x79;&#46;&#99;&#x6f;&#x6d;">&#116;&#x69;&#x6c;&#108;&#43;&#112;&#104;&#x70;&#x40;&#x69;&#109;&#x61;&#103;&#105;&#x6e;&#101;&#x65;&#97;&#115;&#121;&#x2e;&#99;&#111;&#109;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#x69;&#108;&#x74;&#x6f;&#x3a;&#116;&#105;&#108;&#108;&#43;&#112;&#x68;&#112;&#x40;&#x69;&#x6d;&#97;&#103;&#105;&#110;&#101;&#101;&#x61;&#x73;&#121;&#x2e;&#99;&#111;&#x6d;">&#116;&#105;&#108;&#108;&#43;&#x70;&#x68;&#112;&#x40;&#105;&#x6d;&#97;&#103;&#105;&#110;&#x65;&#101;&#97;&#115;&#121;&#46;&#99;&#111;&#x6d;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
