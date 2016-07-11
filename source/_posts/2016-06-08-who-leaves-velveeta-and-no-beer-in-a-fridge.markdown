@@ -6,6 +6,8 @@ comments: true
 categories: podcast
 ---
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/statelibraryqueensland/7028283837/in/photolist-bH4MVx-4jCCJU-ouoAJh-qD3329-8JJDeP-kgYSo4-oePF8F-6nFAnw-jsuriV-fpS3bW-oixKH4-bos53m-4jyjim-idcPMu-kTMzaV-qs8rFx-bmTAsb-5xdSyw-8atDih-4jyxM4-qazCEw-iS75gF-4jyzxM-idVsa6-bH5ZGZ-6P85BB-hW64v9-brBvAY-6P86gn-6YYEjN-8cGDjz-boBteY-iZVgmH-oueUWL-a7Q7Gm-6PceZj-cqf1AE-i7EsZX-ouuaQs-ovpncq-oyd2kg-ouQMJa-4jyg1h-amTgs3-qdojp6-qaFVCg-6XgFnG-8LvAbP-kjSK8C-iS74Yg" title="Advertisement for Bulimba Beer brewed in Brisbane, 1900"><img src="https://c6.staticflickr.com/8/7133/7028283837_5556391425_b.jpg" width="726" height="1000" alt="Advertisement for Bulimba Beer brewed in Brisbane, 1900"></a>
+
 It's rare that we have some folks who work for the same employer back-to-back
 on the show, but this time out we spoke with Jessica Rose. Jessica is [Tracy Osborne's](https://twitter.com/limedaring) boss (Tracy was on the show in
 Episode 77) and talked about her own experiences creating a different kind of
