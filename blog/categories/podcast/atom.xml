@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Podcast | /dev/hell]]></title>
+  <title><![CDATA[Category: podcast, | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcast/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2016-07-11T16:33:28-04:00</updated>
+  <updated>2016-08-02T15:31:39-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -14,267 +14,50 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Episode 70: Anti-Canuckite Leanings]]></title>
-    <link href="http://devhell.info/post/2016-01-20/anti-canuckite-leanings/"/>
-    <updated>2016-01-20T13:41:00-05:00</updated>
-    <id>http://devhell.info/post/2016-01-20/anti-canuckite-leanings</id>
-    <content type="html"><![CDATA[<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/statephotos/8639238213/in/photolist-eaqmwZ-d2FbAf-d2FbEG-cSP8NL-d5G3Fy-c5dfS7-ctTiwm-r2PKKN-qKjLkA-gnW9yT-p7vfKX-tRiTg1-xgjQMa-bWNKuK-6Tvb1i-oCnN4S-oiHuNt-edfgbc-iEsZyK-6PmqmU-7xqTHa-fNTa9f-tkg6Pq-nD9JSp-fJAcMX-cAr525-bVhpaS-oktoBf-6iWDAd-bVNjtY-wYGXbU-6v9gmA-hZTHpp-75U3dF-ncfM4k-suR9Ja-8f1pL4-crZKgb-8f1tmx-naej4u-6Th7UD-oR5NQt-ocPZqm-6XgBgT-pMDyJv-oR2K59-63nEiZ-9u7f8V-dePNwY-dePNFc" title="Secretary Kerry Receives a Case of Beer from Canadian Foreign Minister John Baird"><img src="https://farm9.staticflickr.com/8521/8639238213_dd605bae23_z.jpg" width="640" height="427" alt="Secretary Kerry Receives a Case of Beer from Canadian Foreign Minister John Baird"></a></p>
+    <title type="html"><![CDATA[Episode 46: php[tek] 2014]]></title>
+    <link href="http://devhell.info/post/2014-06-04/php-tek-2014/"/>
+    <updated>2014-06-04T21:11:00-04:00</updated>
+    <id>http://devhell.info/post/2014-06-04/php-tek-2014</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/nasacommons/7944896808" title="New York City Welcomes the Apollo 11 Astronauts by NASA on The Commons, on Flickr"><img src="https://farm9.staticflickr.com/8032/7944896808_07d60a5060_z.jpg" width="640" height="493" alt="New York City Welcomes the Apollo 11 Astronauts"></a></p>
 
-<p>Welcome to a new year and hopefully a more frequent podcasting schedule of
-recording on the 2nd and 4th Sundays of every month. Can your favourite
-old-but-lazy duo maintain such a punishing pace?</p>
+<p><a href="http://tek.phparch.com">php[tek]</a> was once again upon us, so we did our annual live show! Special guest Paul Reinheimer of WonderNetwork joins us for much frivolity!</p>
 
-<p>During the discussions for topics for this episode, Chris went to the bathroom
-for some quiet time. When he came back Ed had asked dedicated
-grumpy-Canadian hater Amanda Folson to join this episode to talk a bit about
-the life of a developer evangelist, Greg LeMonde, the Battle for PHP CoC, how
-Composer saved PHP, and CodeMash.</p>
-
-<p>Along the way Amanda and Ed ganged up on Chris showing their hatred for their
-peace-loving neighbours north of the 49th parallel and during the aftershow drove him away with talk about audio recording equipment.</p>
-
-<h3>Do these things!</h3>
+<p>Also check out our new sponsor <strong>Watch Me Code</strong>. You can get <strong><em>35% OFF</em></strong> as a Development Hell listener by going to <strong><a href="http://www.watchmecode.net/devhell?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">watchmecode.net/devhell</a></strong>.</p>
 
 <ul>
-<li>Check out our <strong>sponsors</strong> <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
-<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
-<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35331?style=dark" width="100%"></iframe>
-
-
-<p><a href="http://audio.simplecast.com/35331.mp3" rel="enclosure">Download now (MP3, 68.5MB, 1:35:12)</a></p>
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li>Amanda on <a href="https://twitter.com/AmbassadorAwsum">Twitter</a></li>
-<li>Amanda's employer <a href="https://pageduty.com">PagerDuty</a></li>
-<li><a href="http://www.24daysindecember.net/">24 Days In December</a></li>
-<li>RFC for a PHP <a href="https://wiki.php.net/rfc/adopt-code-of-conduct">code of conduct</a></li>
-<li><a href="http://www.24daysindecember.net/2015/12/19/why-i-still-use-php/">Why I Still Use PHP</a> by Ed</li>
-<li><a href="http://getcomposer.org">Composer</a></li>
-<li><a href="http://packagist.org">Packagist</a></li>
-<li>The best ever conference <a href="http://www.codemash.org/">held at a water park</a></li>
-<li><a href="https://twitter.com/madalynrose">Madalyn Parker</a> gave an awesome talk at CodeMash about "Mental Health at Work"</li>
-<li><a href="https://www.skiphp.com">SkiPHP</a></li>
-<li><a href="https://https://www.pytennessee.org/">PyTennesee</a></li>
-<li>Stay on top of what conferences are accepting papers with <a href="https://thecfpreport.com">The CFP Report</a></li>
-<li>The severely underrated <a href="https://en.wikipedia.org/wiki/Yul_Brynner">Yul Brenner</a></li>
-<li>The <a href="https://en.wikipedia.org/wiki/Matt_Dillon_%28Gunsmoke%29">Matt Dillon</a> with talent</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 69: A Festivus Miracle, Part 2]]></title>
-    <link href="http://devhell.info/post/2015-12-23/a-festivus-miracle-part-2/"/>
-    <updated>2015-12-23T16:41:00-05:00</updated>
-    <id>http://devhell.info/post/2015-12-23/a-festivus-miracle-part-2</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/cuyp/5979620340/in/photolist-bK9Uhp-du1yXr-acBG1g-8jy1Lw-8juLrg-iqig7y-djZ2SN-3522zm-8m4uq5-f9Wm2i-4M2LWa-7HfPF-8jxYCq-oDf9sH-93NVuJ-93NVuL-aFHcxa-6KNdAo-423Di-x852r-4XzP39-5nv6N7-rt4qpf-47qzVC-dygmY-7HfPG-2fUSiD-7XGXQg-bqMd13-4isk2T-4SZWJV-kXJai-a7p7Nq-8NiYmw-4HJ3Lv-9nzxj-5DzrM4-hnw4m-7jKupw-7QcN25-bm8sKg-5Gdsov" title="pissing in the bottle"><img src="https://farm7.staticflickr.com/6009/5979620340_7ecb746589_z.jpg" width="640" height="480" alt="pissing in the bottle"></a></p>
-
-<p>After some airing of grievances and snarky emails, we managed to get our long-
-time personal friend Elizabeth Naramore to come on the show and talk about
-how she was scared for her life the first time she ever met Chris.</p>
-
-<p>We also got to continue to show how immature the three of us are with our constant
-giggling and inappropriate comments due to the <a href="https://www.urbandictionary.com/define.php?term=69&amp;defid=385099">innuendo-laden</a> episode number.</p>
-
-<p>When we weren't giggling we did talk about Liz's studies into the psychology
-of open source communities and her work helping to teach more people how to
-use Gi-Thub. Ed and Chris discussed how the marketing efforts for their own
-products are different yet have the same end goal.</p>
-
-<p>Chris also talked about how he stupidly lost his passport while in Orlando for
-an all-hands meeting (1270 people!) for Mozilla. He was so stressed he didn't
-even use the free park passes to Epcot, Hollywood Studios, or the Animal Kingdom.</p>
-
-<h3>Do these things!</h3>
-
-<ul>
-<li>Check out our <strong>sponsors</strong> <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
-<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
-<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35330?style=dark" width="100%"></iframe>
-
-
-<p><a href="http://audio.simplecast.com/35330.mp3" rel="enclosure">Download now (MP3, 93.2MB, 1:41:55)</a></p>
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li>Elizabeth on <a href="https://twitter.com/ElizabethN">Twitter</a></li>
-<li><a href="https://github.com">GitHub</a></li>
-<li><a href="http://pinecreekoutdoors.com/urboforcatrt.html">Urine storage</a></li>
-<li><a href="https://patchwork.github.com">GitHub Patchwork</a></li>
-<li>Elizabeth's slides for her <a href="https://speakerdeck.com/elizabethn/the-neuroscience-and-psychology-of-open-source">talk at TrueNorthPHP</a></li>
-<li>The downside of <a href="https://medium.com/life-tips/the-downside-of-being-nice-4f22fc3f65bf#.uzwijjs86">being nice</a></li>
-<li>OSMI artiste <a href="http://hellogeri.com">Geri Coady</a></li>
-<li>The soul stylings of <a href="https://en.wikipedia.org/wiki/Nitzer_Ebb">Nitzer Ebb</a></li>
-<li><a href="http://brandingbrand.com/">Branding Brand</a></li>
-<li><a href="https://mozlando2015.sched.org/">Mozlando</a></li>
-<li>Mozilla <a href="https://wiki.mozilla.org/FlyWeb">FlyWeb</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 68: A Festivus Miracle, Part 1]]></title>
-    <link href="http://devhell.info/post/2015-12-23/a-festivus-miracle/"/>
-    <updated>2015-12-23T16:32:00-05:00</updated>
-    <id>http://devhell.info/post/2015-12-23/a-festivus-miracle</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/lazzarello/5454431231/in/photolist-9iZonM-cwEJW-2XPor-4etUft-2mVhh-8QPxYE-9szGkM-4rBUES-42vAS-4hFqf5-3589xQ-9dY7X2-ahhJMk-4mB6A9-4mx3zT-bYugtu-8ELvNk-9F2yz8-eFHY4o-KWTsn-6DAgq-5Aq65-nSr9P-ank3ZY-DuWZi-5X776q-4HMMLu-4i1stH-4i1sqF-4i5xQb-9sCGLu-dDjxb-ahkCCL-9szGav-6aKjY-7UGuTt-dG3EPh-4mB6Ao-4i5y3N-9uHLto-KWJEU-4uqiWU-3bBT3e-3bBSYV-3bBSUV-3bBSNB-gRLLi-gRLJ1-PiVjK-5h4QHo" title="An aol.com email address is the duncecap of the internet"><img src="https://farm6.staticflickr.com/5215/5454431231_f08148ea98_z.jpg" width="640" height="481" alt="An aol.com email address is the duncecap of the internet"></a></p>
-
-<p>In a great feat of strength we were lucky enough to have future <a href="https://duckduckgo.com/?q=aol+digital+prophet&amp;t=ffab">Digital Prophet</a> Samantha Quinones join us to
-talk about how she got involved with the PHP community and what it's like to
-work for a company who's office is constructed out of <a href="http://www.bitsandpieces.us/wp-content/uploads/2013/10/aol-cd.jpg">old CD's</a>.</p>
-
-<p>Along the way we talked about ways to discuss AOL with your millenial, her close
-personal relationship with the <a href="https://en.wikipedia.org/wiki/Elwood_Edwards">"You've Got Mail" Guy</a>,
-and how to sell tampons using caching and firehoses. Ed also shared his latest
-updates about <a href="http://osmihelp.org/">OSMI</a>. Naturally there was also time to
-make fun of <a href="http://mozilla.org">Chris' new employer</a></p>
-
-<h3>Do these things!</h3>
-
-<ul>
-<li>Check out our <strong>sponsors</strong> <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
-<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
-<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35329?style=dark" width="100%"></iframe>
-
-
-<p><a href="http://audio.simplecast.com/35329.mp3" rel="enclosure">Download now (MP3, 85.2MB, 1:34:25)</a></p>
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li>Samantha on <a href="https://twitter.com/ieatkillerbees">Twitter</a></li>
-<li>The benefits of <a href="https://www.youtube.com/watch?v=5IOXzpRJ714">Lava soap</a></li>
-<li>IT'S PRONOUNCED <a href="https://www.youtube.com/watch?v=PKOX8Ur4oDE">ZED</a></li>
-<li>Slides from Samantha's <a href="https://speakerdeck.com/squinones/drinking-from-the-firehose-true-north-php">presentation at TrueNorthPHP</a></li>
-<li><a href="https://github.com/aol/offload">AOL offload</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tandem_bicycle">Tandem bicycles</a></li>
-<li><a href="https://github.com/Kinto/kinto">Kinto</a>, Chris' first Mozilla project</li>
-<li><a href="https://en.wikipedia.org/wiki/Jason_and_the_Argonauts_%281963_film%29">Jason and the Argonauts</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 67: Working for the Weekend]]></title>
-    <link href="http://devhell.info/post/2015-10-27/working-for-the-weekend/"/>
-    <updated>2015-10-27T17:07:00-04:00</updated>
-    <id>http://devhell.info/post/2015-10-27/working-for-the-weekend</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/cdhs/15081465161/in/photolist-oYGsap-6K6iNH-p3ruL8-bmGtDJ-oGtNCg-pjTNjm-oGtjUy-jWHgtD-qpQWec-qpHPJq-oeqAFu-ovdj4B-odHMqs-oGt3c4-o7VPQA-oddPEY-fbG3bA-5WXotx-odF7m8-nQyHst-xmfcau-oeNFrY-oeYu7q-of32A8-osbj6U-7vtgen-odHT1L-otbkgJ-oGtmMw-9PysdC-wSwffM-o7XzaY-8ELFcu-oePdQi-ocHrY8-owfX8d-oeYNZ3-ouKryQ-oeNJiP-qvidBg-oeLXEo-owd9TB-sHoKxr-ot1gpf-oy1TaR-occ3Q4-obVTse-v5zNHn-otGMLA-ovGBJr" title="Kirk Kove Water Show Ski Team - 1955"><img src="https://farm6.staticflickr.com/5559/15081465161_f287749550_z.jpg" width="640" height="427" alt="Kirk Kove Water Show Ski Team - 1955"></a></p>
-
-<p>Super special guest Gary Hockin of JetBrains, and previously dog wrangler at Roave, joins us for much fun discussion and blame-taking. We babble about Slack vs IRC, the dev evangelism life, software subscription models, and video games. Also we make the <code>say</code> command in OS X utter profane phrases.</p>
-
-<h3>Do these things!</h3>
-
-<ul>
-<li>Check out our <strong>sponsors</strong>: <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
-<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
-<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
-<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
-</ul>
-
-
-<h3>Listen</h3>
-
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35328?style=dark" width="100%"></iframe>
-
-
-<p><a href="http://audio.simplecast.com/35328.mp3" rel="enclosure">Download now (MP3, 72.5MB, 1:35:53)</a></p>
-
-<h2>Links and Notes</h2>
-
-<ul>
-<li><a href="https://twitter.com/GeeH">Gary Hockin</a></li>
-<li><a href="http://www.netflix.com/title/80025172">Narcos (netflix)</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Ministry_%28band%29">Ministry</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Lead_into_Gold">Lead into Gold</a></li>
-<li><a href="https://www.jetbrains.com/">JetBrains</a></li>
-<li><a href="https://www.jetbrains.com/phpstorm/">PHPStorm</a>
- <em> <a href="https://www.irccloud.com/">irccloud.com</a>
- </em> <a href="http://slackhq.com/">slackhq.com</a>
- * <a href="http://developer-evangelism.com/">developer-evangelism.com</a></li>
-<li><a href="http://blog.jetbrains.com/blog/2015/09/18/final-update-on-the-jetbrains-toolbox-announcement/">JetBrains subscription pricing announcement</a></li>
-<li><a href="http://plugins.jetbrains.com/plugin/164">Vim bindings in PHPSTorm</a></li>
-<li><a href="http://store.steampowered.com/app/7760/">X-COM UFO Defense</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Baldur's_Gate">Baldur's Gate</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Metal_Gear">MGS series</a></li>
-<li><a href="http://shirtoid.com/75393/grammar-dalek/">Grammar Dalek (I do believe you mean Dr Whom)</a></li>
-<li><a href="http://www.visitwales.com/holiday-accommodation/unusual-places-to-stay/romany-caravans">Romany Gypsy Caravan</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 59: Ultimate Hardware Modz]]></title>
-    <link href="http://devhell.info/post/2015-04-15/ultimate-hardware-modz/"/>
-    <updated>2015-04-15T10:31:00-04:00</updated>
-    <id>http://devhell.info/post/2015-04-15/ultimate-hardware-modz</id>
-    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/videocrab/280802508" title="Totally Legal Activity by Kevin Simpson, on Flickr"><img src="https://farm1.staticflickr.com/91/280802508_bee55fb3c2_z.jpg" width="640" height="480" alt="Totally Legal Activity"></a></p>
-
-<p>We are joined by super special guest <a href="http://arzoumani.com/">Arbi Arzoumani</a>, PHP community vet and hardware modding expert. We talk about everything from the Amiga to the Raspberry Pi, with lots of console mods inbetween. Chris gets all excited about building a MAME cabinet, and we chat some about home theater PC stuff with XBMC and Plex. If you're into hardware stuff, you're gonna looooooove it.</p>
-
-<p>Did you know <strong>STICKERS ARE NOW AVAILABLE? BUY SOME NOW AT <a href="http://devhell.info/shop">devhell.info/shop</a>!!!!</strong></p>
-
-<h3>Do these things!</h3>
-
-<ul>
-<li>Check out our <strong>sponsors</strong>: <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Check out our <strong>sponsors</strong>, <a href="http://www.watchmecode.net/devhell?utm_source=devhell&amp;utm_medium=banner&amp;utm_campaign=sponsor">Watch Me Code</a>, <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
 <li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a>.</li>
 <li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+<li>Sign up for our <strong>mailing list</strong> <a href="/subscribe-email.html">here</a></li>
 </ul>
 
 
 <h3>Listen</h3>
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35320?style=dark" width="100%"></iframe>
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35306?style=dark" width="100%"></iframe>
 
 
-<p><a href="http://audio.simplecast.com/35320.mp3" rel="enclosure">Download now (MP3, 50.5MB, 1:10:15 )</a></p>
+<p><a href="http://audio.simplecast.com/35306.mp3" rel="enclosure">Download now (MP3, 27.1MB, 1:00:53)</a></p>
 
 <h2>Links and Notes</h2>
 
 <ul>
-<li><a href="https://twitter.com/arzoum">Arbi on Twitter</a></li>
-<li><a href="Amiga%201986">Commodore Amiga</a></li>
-<li><a href="http://sega.wikia.com/wiki/Dreamcast">Dreamcast</a></li>
-<li><a href="http://daleswanson.org/stuff/xbox.htm">Software modding XBox</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Regional_lockout#Sony">PS2 / region locking</a></li>
-<li><a href="http://kodi.tv/">Kodi (was XBMC)</a></li>
-<li><a href="https://plex.tv/">Plex</a></li>
-<li><a href="http://forums.xbox-scene.com/index.php?/topic/195972-what-are-the-font-and-audio-exploits/#entry1302168">Xbox hack (with clock/dashboard)</a></li>
-<li><a href="https://www.raspberrypi.org/">Raspberry Pi</a></li>
-<li><a href="http://nmap.org/">nmap</a></li>
-<li><a href="https://osmc.tv/">OSMC</a></li>
-<li><a href="http://www.amazon.com/DP3913515-Framemeister-Micomsoft-Upscaler-Import/dp/B006H39XJS">Framemeister Upscaler</a></li>
-<li><a href="http://www.arcadeworlduk.com/products/Arcade-VGA-5000.html">Arcade VGA 5000 Ultimarc</a></li>
-<li><a href="http://www.recroommasters.com/Xtension_Classic_Arcade_Cocktail_Cabinet_p/rm-xt-tab.htm">Xtension Classic Arcade Cocktail Cabinet</a></li>
+<li><a href="http://blog.preinheimer.com/">Paul Reinheimer</a></li>
+<li><a href="https://www.flickr.com/photos/rbowen/sets/72157605257536663/">KISS at tek</a></li>
+<li><a href="https://www.copilot.com/">CoPilot</a></li>
+<li><a href="http://wheresitup.com/">Where&rsquo;s It Up?</a></li>
+<li><a href="http://plus4world.powweb.com/plus4encyclopedia/500100">REM statement</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Byte_%28magazine%29">BYTE magazine</a></li>
+<li><a href="http://www.atarimagazines.com/compute/">COMPUTE! Magazine</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Commodore_64">Commodore C-64</a></li>
+<li><a href="https://en.wikipedia.org/wiki/VIC-20">VIC-20</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Commodore_Datasette">Commodore Datasette</a></li>
+<li><a href="http://xhprof.io/">XHProf</a> and <a href="https://github.com/preinheimer/xhprof">XHProfUI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Poutine">Poutine</a></li>
+<li><a href="http://www.thestar.com/news/canada/2013/08/26/proposed_quebec_ban_on_religious_symbols_takes_step_forward.html">Quebec banning religious displays</a></li>
+<li><a href="http://news.nationalpost.com/2013/02/21/quebec-language-police/">French signage laws in Quebec</a></li>
+<li><a href="https://joind.in/talk/view/10654">Greg Baugues&rsquo;s talk at tek about hacking convos</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Black_Books">Black Books</a></li>
 </ul>
 
 ]]></content>

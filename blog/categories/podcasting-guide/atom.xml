@@ -4,7 +4,7 @@
   <title><![CDATA[Category: podcasting-guide | /dev/hell]]></title>
   <link href="http://devhell.info/blog/categories/podcasting-guide/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2016-07-11T16:33:28-04:00</updated>
+  <updated>2016-08-02T15:31:39-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -44,7 +44,7 @@
 
 <p>You can get better quality mics than my headset has, but it also introduces a <em>lot</em> more hassle and expense. Decent-quality USB mics are going to run you at least $60, and they tie you to a desk or mic stand. If you want to have more flexibility, you can get XLR mics (I have a <a href="http://www.amazon.com/gp/product/B000CZ0R42/ref=as_li_ss_tl?ie=UTF8&amp;tag=funkatroncom-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000CZ0R42">Shure SM-58</a>), but then you’ll also need an outboard audio interface and mixer – more equipment to tie you down, and now we’re getting into at least a few hundred dollars in hardware.</p>
 
-<p>If you do get a separate mic, I’d recommend a <em>dynamic</em> mic, especially if you’re only recording yourself talking on Skype. Chris is currently using a <a href="http://www.amazon.com/gp/product/B002VA464S/ref=as_li_ss_tl?ie=UTF8&amp;tag=funkatroncom-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B002VA464S">Blue Yeti condenser mic</a>, and it picks up <em>tons</em> of ambient noise in the room. Condensers are great for doing in-person interviews where you just drop the mic on a table between everybody, but they're not well-suited for for voice chat. You'll end up muting yourself any time you're not talking, and spending time in post-production editing out squeaky chairs and keyboard typing.</p>
+<p>If you do get a separate mic, I’d recommend a <em>dynamic</em> mic, especially if you’re only recording yourself talking on Skype. Chris is currently using a <a href="http://www.amazon.com/gp/product/B002VA464S/ref=as_li_ss_tl?ie=UTF8&amp;tag=funkatroncom-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B002VA464S">Blue Yeti condenser mic</a>, and it picks up <em>tons</em> of ambient noise in the room. Condensers are great for doing in-person interviews where you just drop the mic on a table between everybody, but they&rsquo;re not well-suited for for voice chat. You&rsquo;ll end up muting yourself any time you&rsquo;re not talking, and spending time in post-production editing out squeaky chairs and keyboard typing.</p>
 
 <h3>Software</h3>
 
@@ -72,7 +72,7 @@
 
 <p>When you’re ready to start the podcast, the easiest thing to do is just have one person record using one of the above applications. This works okay if everyone involved has a very solid Internet connection and local network. The more people you have on the call, though, the more problems you’re likely to have.</p>
 
-<p>I recommend having every participant in the session record on their end. This can be a bit of a pain if you have frequent guests, but the 15-day trial version of Call Recorder should allow them to handle this without spending any cash. With everyone recording locally, you can get a high-quality local recording of each participant, mitigating the glitchiness that you’ll get with Skype. It also means you have backup recordings in case you forgot to hit Record (not that I’d ever do that). The relevant settings I use in Call Recorder's preferences are:</p>
+<p>I recommend having every participant in the session record on their end. This can be a bit of a pain if you have frequent guests, but the 15-day trial version of Call Recorder should allow them to handle this without spending any cash. With everyone recording locally, you can get a high-quality local recording of each participant, mitigating the glitchiness that you’ll get with Skype. It also means you have backup recordings in case you forgot to hit Record (not that I’d ever do that). The relevant settings I use in Call Recorder&rsquo;s preferences are:</p>
 
 <ul>
 <li>Audio Encoding: AAC Compression</li>
@@ -82,7 +82,7 @@
 </ul>
 
 
-<p><em>Note: normally you </em>never<em> want to record with "lossy" compression like AAC or MP3. But because we're recording speech, and our final format is relatively low-fidelity (64kbps mono MP3), I don't think there's any perceptible advantage. It's fine to record compressed files, though, and would be a good idea if you're striving for the best possible fidelity.</em></p>
+<p><em>Note: normally you </em>never<em> want to record with &ldquo;lossy&rdquo; compression like AAC or MP3. But because we&rsquo;re recording speech, and our final format is relatively low-fidelity (64kbps mono MP3), I don&rsquo;t think there&rsquo;s any perceptible advantage. It&rsquo;s fine to record compressed files, though, and would be a good idea if you&rsquo;re striving for the best possible fidelity.</em></p>
 
 <p>When you’re done, have everyone upload their recordings in a shared space so you can grab them. A shared Dropbox folder has worked well for us.</p>
 
