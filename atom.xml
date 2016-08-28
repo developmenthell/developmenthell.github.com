@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2016-08-02T15:31:39-04:00</updated>
+  <updated>2016-08-28T19:44:19-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 81: It Feels Good To Be A D-List Internet Superstar]]></title>
+    <link href="http://devhell.info/post/2016-08-28/it-feels-good-to-be-a-d-list-internet-superstar/"/>
+    <updated>2016-08-28T19:34:00-04:00</updated>
+    <id>http://devhell.info/post/2016-08-28/it-feels-good-to-be-a-d-list-internet-superstar</id>
+    <content type="html"><![CDATA[<p><a href="https://www.flickr.com/photos/noticeofmeowery/88789365/in/photolist-8R4Z8-9ytWTn-aqMd7-9ywXad-aqLdA-9cv9L-95jGKr-9ywY5N-6EKWRL-9ywWPJ-9ywYws-85Wb9b-9ywZ5U-6WUHqq-8R4Z9-cFAzks-hYtQv-6vSd1u-5m4Cyh-62v229-hNfJ7E-9poQaD-CJUek-7KCFde-7xY4cR-dQC6KJ-aqEpDb-4bkvDf-5TgruS-8xSb7p-buo8vo-7Uy6nP-9ywWxG-9ytYhp-9ywYpw-qzp2Da-b8xxPz-hYoziF-9XkErn-aqLAV-aqLxs-aqMfp-89rvbb-4dUA6w-7AeDBZ-vi9F1-68MFwS-9ywWro-9ytWCV-ay2Cf9" title="Hulk Hogan"><img src="https://c6.staticflickr.com/1/40/88789365_16f4b86404_z.jpg" width="640" height="418" alt="Hulk Hogan"></a></p>
+
+<p>This time around Chris and Ed attempt to shame you with their D-lister activities and ability to purchase things they want but don&rsquo;t need.</p>
+
+<p>We cover PyOhio, the long-anticipated php|cruise, and some useful gadgets they&rsquo;ve incorporated into their work flows.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="https://wondernetwork.com/">WonderNetwork</a> and <a href="https://grumpy-learning.com">Grumpy Learning</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/43720?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/43720.mp3" rel="enclosure">Download now (MP3)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>Ed spoke about his usual stuff at <a href="http://www.pyohio.org/">PyOhio</a> and Chris thought the event looked awesome</li>
+<li>Ed&rsquo;s <a href="https://www.youtube.com/watch?v=E6hU2b0mg18&amp;index=7&amp;list=PL2k6bbM_wgju204mCEyw3bmDH62dp_sLu">talk from PyOhio</a></li>
+<li>Chris got sucked in by the Facebook advertising for the <a href="https://www.hengedecks.com">Henge Dock</a></li>
+<li>Chris brought his long-suffering wife along with him for <a href="https://cruise.phparch.com">php|cruise</a> and highly recommends cruising as a vacation option</li>
+<li>Ed likes the <a href="http://amzn.to/2aN6j42">Roost Laptop Stand</a></li>
+<li>Chris bought some generic monitor-stand-and-USB hub at <a href="http://www.winners.ca/en/">Winners</a></li>
+<li>Ed had some UPS fun with his new <a href="https://www.tombihn.com/collections/travel-bags">Tom Bihn bag</a></li>
+<li>Both Chris and Ed highly recommend the Wirecutter&rsquo;s <a href="http://thewirecutter.com/reviews/travel-guide/">travel gear guide</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 80: Lifestyles of the Moderately Privileged and Internet Famous]]></title>
@@ -2596,7 +2640,7 @@ A: &ldquo;$40k&rdquo;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&rsquo;s success.</p>
 
-<p>This episode&rsquo;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#58;&#x74;&#x69;&#x6c;&#108;&#x2b;&#112;&#104;&#112;&#x40;&#x69;&#x6d;&#x61;&#x67;&#x69;&#110;&#101;&#101;&#97;&#115;&#121;&#x2e;&#x63;&#x6f;&#x6d;">&#x74;&#105;&#x6c;&#108;&#x2b;&#112;&#104;&#112;&#64;&#x69;&#109;&#x61;&#103;&#105;&#x6e;&#x65;&#101;&#97;&#x73;&#x79;&#46;&#x63;&#x6f;&#109;</a>.</p>
+<p>This episode&rsquo;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#58;&#x74;&#105;&#x6c;&#x6c;&#x2b;&#112;&#104;&#112;&#64;&#105;&#x6d;&#97;&#103;&#105;&#x6e;&#x65;&#x65;&#97;&#115;&#x79;&#x2e;&#99;&#x6f;&#x6d;">&#x74;&#105;&#x6c;&#108;&#43;&#112;&#104;&#x70;&#64;&#105;&#109;&#x61;&#103;&#105;&#110;&#101;&#x65;&#x61;&#x73;&#x79;&#x2e;&#99;&#111;&#x6d;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -2653,7 +2697,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs' suicide, both in the context of governmental power and mental illness. We also talk about Ed&rsquo;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#105;&#x6c;&#x74;&#111;&#x3a;&#x74;&#x69;&#108;&#108;&#x2b;&#x70;&#104;&#x70;&#64;&#105;&#x6d;&#97;&#x67;&#x69;&#110;&#x65;&#x65;&#97;&#115;&#x79;&#46;&#99;&#111;&#109;">&#116;&#105;&#x6c;&#x6c;&#x2b;&#x70;&#104;&#x70;&#x40;&#x69;&#x6d;&#97;&#103;&#105;&#x6e;&#101;&#101;&#97;&#115;&#121;&#x2e;&#x63;&#x6f;&#109;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#x3a;&#x74;&#105;&#108;&#x6c;&#x2b;&#112;&#x68;&#x70;&#64;&#x69;&#109;&#x61;&#103;&#x69;&#110;&#x65;&#101;&#97;&#115;&#x79;&#x2e;&#99;&#111;&#109;">&#x74;&#105;&#x6c;&#108;&#43;&#112;&#x68;&#x70;&#64;&#105;&#109;&#97;&#103;&#x69;&#x6e;&#101;&#x65;&#x61;&#x73;&#x79;&#46;&#99;&#111;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
