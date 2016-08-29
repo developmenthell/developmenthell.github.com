@@ -1,7 +1,7 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
-table.stats {
+table.stats, #_syndicate_html table {
 	font-size: 11pt;
 	font-family: $sans;
 	border-top: 2px solid $thick-border-color;
