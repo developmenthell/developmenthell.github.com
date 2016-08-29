@@ -28,7 +28,7 @@ We cover PyOhio, the long-anticipated php|cruise, and some useful gadgets they'v
 
 * Ed spoke about his usual stuff at [PyOhio](http://www.pyohio.org/) and Chris thought the event looked awesome
 * Ed's [talk from PyOhio](https://www.youtube.com/watch?v=E6hU2b0mg18&index=7&list=PL2k6bbM_wgju204mCEyw3bmDH62dp_sLu)
-* Chris got sucked in by the Facebook advertising for the [Henge Dock](https://www.hengedecks.com)
+* Chris got sucked in by the Facebook advertising for the [Henge Dock](https://www.hengedocks.com)
 * Chris brought his long-suffering wife along with him for [php|cruise](https://cruise.phparch.com) and highly recommends cruising as a vacation option
 * Ed likes the [Roost Laptop Stand](http://amzn.to/2aN6j42)
 * Chris bought some generic monitor-stand-and-USB hub at [Winners](http://www.winners.ca/en/)
