@@ -6,12 +6,9 @@ comments: true
 categories: podcast
 ---
 
-<a href="https://www.flickr.com/photos/internetarchivebookimages/14586355978/in/photolist-odWTsb-oeQ15Y-od7zVL-ov94Ht-ouqUL3-ow733v-ouAwhr-osnBAw-octbrU-odZKJt-ow5YqK-ouPnKk-ocUGPj-of1exP-oskRtW-oucmde-oeWXVA-ouhM4T-odi9Mz-owhL3L-oeRQUZ-odH7da-ow9J4a-owp8ci-tDfYce-od9M7P-qtS5iZ-obGPqd-osqpTC-odfzhf-owere9-tjfc3N-ocVQ32-ovch1h-owjL6M-ouowsh-otESPc-owy8rX-oy7V2z-ouAY4M-otmxZ4-oumXoA-ouxDb9-wP33CD-ocCiJw-owb4Ni-odqAtJ-ou46EZ-oeUL8F-x4ebYY" title="Image from page 64 of &quot;Time and its measurement&quot; (1909)"><img src="https://c3.staticflickr.com/3/2913/14586355978_68d19c3447_z.jpg" width="640" height="636" alt="Image from page 64 of &quot;Time and its measurement&quot; (1909)"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/jimfischer/26436247304/in/photolist-Gh5Fij-s6xMwS-eaAVqU-auh9nW-4AdKEw-6s63KR-6s68Bp-4SDfm9-6sa7pN-6sakbC-6s6dxp-6u3jZp-eTZVAF-44E5de-6s61xD-8jdfZV-eUcbNY-3u27To-6sa6kN-87uzv1-6sajyb-cDfduC-6s6bw4-eQdSms-6fwFtJ-eUcgbN-9T1L1U-eTZSzt-6s6eEa-6s5WYH-5UR8AA-44Jb3S-6s6e4t-eTZQBt-4Sz3nH-eUcjw9-eTZR8D-eTZX7M-4RNcXx-8EjqQw-eTZTD6-bbQeHe-35UiHn-512Lya-7dHcRH-fvfAnb-ewgnAf-4RSwHS-eTZTpH-6fwJdA" title="Sasquatch"><img src="https://c1.staticflickr.com/8/7385/26436247304_f9c6c65d95_z.jpg" width="640" height="429" alt="Sasquatch"></a>
 
-In this scintillating episode Chris and Ed shift gears and talk about their own
-experiences working "in the open". Chris is very fortunate that everything he
-does at Mozilla gets open-sourced while Ed talks about his experiences back
-when he was running Spaz.
+Pacific Northwest PHP co-organizer Tess Mero joins Ed and Chris to discuss her work organizing one of the newer regional conferences, Joomla, and what the hell does Cisco have to offer PHP developers.
 
 
 ## Do these things!
