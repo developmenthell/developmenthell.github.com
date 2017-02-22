@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Episode 88: Ocho Ocho"
+date: 2017-02-21 19:13
+comments: true
+categories: Podcast
+---
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hacedoraweb/4103696357/in/photolist-7fCvXt-9ggVTF-qWGSFR-b5ukxH-duBNhS-5ZZyJH-RuCwQA-oxYCH6-wVCovR-ntEupv-8127mq-9xPbT1-c53Wvs-6RkSCN-61Z4Sp-RPPCrk-evPVSd-6RkyZQ-ogWkAm-624hws-evQ191-6hMwtW-6RgqCc-6Rgp5B-5yJdns-9gk17W-qpacBx-6RgNCH-9gk1vo-eAbLzM-4FRsWA-9ggVr4-pfAsFz-6RgsqZ-RPQoWc-9G9L61-ncrvi5-6RkNw9-6RgMhp-4TC2B7-aHMrq2-5rHenn-7cNnsi-aHMsYM-6fPVRY-9gk1fd-QJgqmU-9gk1ow-aJuQuT-6RgADX" title="ocho 8"><img src="https://c1.staticflickr.com/3/2558/4103696357_5435ba55f7_z.jpg?zz&#x3D;1" width="640" height="480" alt="ocho 8"></a>
+
+A short-ish episode this time out where our Dynamic Duo went guestless and
+talked about their recent conference experiences in Salt Lake City, Antwerp,
+and Miami.
+
+* Check out our **sponsors** [WonderNetwork](https://wondernetwork.com/), [OSMI](https://osmihelp.org),  and [Grumpy Learning](https://grumpy-learning.com)
+* Buy stickers at [devhell.info/shop](http://devhell.info/shop)
+* Follow us on **Twitter** [here](https://twitter.com/dev_hell)
+* **Rate us** on iTunes [here](http://itunes.apple.com/us/podcast/dev-hell/id489840699)
+
+## Listen
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/60946?style=dark' width='100%'></iframe>
+<a href="http://audio.simplecast.com/60946.mp3" rel="enclosure">Download now (MP3)</a>
+
+# Links and Notes
+* Eric Lindros gets [wiped out](https://youtu.be/7JC7xyBuHrc) by Scott Stevens, never to be an elite-level player again
+* Chris and Ed spoke at [SunshinePHP](http://2017.sunshinephp.com), enjoying the crazy happy-hour scene and tropical drinks
+* Ed spoke at [LoopConf](https://loopconf.com/)
+* The video of Ed's talk is up on [YouTube](https://youtu.be/e8OVyjtz1uc) where he dressed like Emo Ernie
+* Chris spoke at [PHP Benelux](https://conference.phpbenelux.eu/2017)
