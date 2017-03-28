@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2017-02-21T19:22:53-05:00</updated>
+  <updated>2017-03-28T16:33:50-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 89: Selling Out Never Felt So Good]]></title>
+    <link href="http://devhell.info/post/2017-03-28/selling-out-never-felt-so-good/"/>
+    <updated>2017-03-28T13:52:00-04:00</updated>
+    <id>http://devhell.info/post/2017-03-28/selling-out-never-felt-so-good</id>
+    <content type="html"><![CDATA[<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/quinnanya/12573610804/in/photolist-ka63rb-hXBz3D-6JX5vu-am9RM2-4XTx2u-NZFxHc-sYYTJ-9dAY3w-RG8zFc-ShQvth-8qU8TQ-DcHEzw-a9TunL-9xSTCc-ojUyH8-e6k9s6-dfs43T-jrYASc-eENFwN-nUzDwN-8Ugj9o-e5KhTS-8fwrsg-xSB1c-bqGopP-3qBAHu-8gQjz6-7epEiP-3NxVmi-daLCCU-7NR1RA-s92KDX-5GxJ29-5qB3V6-7qfEuT-9u9k5r-fAXpoZ-SCUuQY-5ynKUq-qzm9ZK-8Y9HVt-QAx3cE-kEn518-e6k22v-m4woxm-6fSXcE-6ES7yi-e6qLys-fz632J-dyViQn" title="Sold out"><img src="https://c1.staticflickr.com/8/7448/12573610804_5a95517874_z.jpg" width="640" height="427" alt="Sold out"></a></p>
+
+<p>Chris and Ed decided to push themselves out of their comfort zone and talked to Laravel community superstar Matt Stauffer. We talked about Matt&rsquo;s experience writing a book for a major publish (with an animal on the cover and everything), asked the question &ldquo;does consistency in code matter for OSS projects&rdquo; and Chris sadly muted his mic while Matt and Ed discussed the Analogue NT Mini gaming console.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="https://wondernetwork.com/">WonderNetwork</a>, <a href="https://osmihelp.org">OSMI</a>,  and <a href="https://grumpy-learning.com">Grumpy Learning</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/64477?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/64477.mp3" rel="enclosure">Download now (MP3)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>Matt&rsquo;s book <a href="http://laravelupandrunning.com">Laravel Up And Running</a></li>
+<li>Chris hacks away on <a href="https://github.com/opencfp/opencfp">OpenCFP</a></li>
+<li><a href="https://symposiumapp.com">Symposium</a> is an app designed to help speakers collect their talks</li>
+<li>The <a href="https://en.wikipedia.org/wiki/Analogues_Nt_mini">Anologue NT Mini</a> is Ed&rsquo;s latest console purchase</li>
+<li>How weird film <a href="https://www.quora.com/What-will-120-frames-per-second-do-for-movies?share=1">shot at 120fps</a> will look</li>
+<li>Matt is one of the big shots at <a href="https://tighten.co/">Tighten</a></li>
+<li>You can play video games in your browser thanks to the Internet Archive&rsquo;s <a href="https://archive.org/details/consolelivingroom">Console Living Room</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 88: Ocho Ocho]]></title>
@@ -2983,7 +3024,7 @@ A: &ldquo;$40k&rdquo;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&rsquo;s success.</p>
 
-<p>This episode&rsquo;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#105;&#108;&#x74;&#111;&#x3a;&#x74;&#x69;&#108;&#108;&#43;&#x70;&#x68;&#x70;&#x40;&#x69;&#x6d;&#97;&#x67;&#x69;&#x6e;&#x65;&#101;&#x61;&#x73;&#121;&#x2e;&#x63;&#111;&#x6d;">&#x74;&#x69;&#108;&#x6c;&#43;&#112;&#x68;&#x70;&#x40;&#x69;&#109;&#x61;&#103;&#x69;&#x6e;&#101;&#x65;&#97;&#115;&#121;&#x2e;&#x63;&#x6f;&#x6d;</a>.</p>
+<p>This episode&rsquo;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#x6f;&#58;&#116;&#105;&#108;&#108;&#x2b;&#x70;&#x68;&#x70;&#x40;&#105;&#x6d;&#x61;&#103;&#x69;&#110;&#101;&#101;&#97;&#115;&#x79;&#46;&#99;&#x6f;&#x6d;">&#x74;&#x69;&#x6c;&#108;&#x2b;&#112;&#104;&#x70;&#x40;&#x69;&#109;&#97;&#103;&#x69;&#x6e;&#101;&#101;&#97;&#x73;&#121;&#x2e;&#x63;&#x6f;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -3040,7 +3081,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs' suicide, both in the context of governmental power and mental illness. We also talk about Ed&rsquo;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#x3a;&#x74;&#105;&#x6c;&#108;&#43;&#x70;&#104;&#x70;&#x40;&#x69;&#x6d;&#x61;&#103;&#105;&#110;&#x65;&#x65;&#97;&#115;&#121;&#46;&#x63;&#x6f;&#x6d;">&#x74;&#x69;&#x6c;&#x6c;&#43;&#112;&#x68;&#x70;&#64;&#105;&#x6d;&#x61;&#x67;&#105;&#110;&#101;&#x65;&#97;&#115;&#x79;&#46;&#99;&#111;&#109;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#116;&#x69;&#108;&#108;&#x2b;&#x70;&#104;&#x70;&#64;&#x69;&#x6d;&#97;&#x67;&#x69;&#x6e;&#x65;&#x65;&#x61;&#115;&#x79;&#46;&#x63;&#111;&#109;">&#x74;&#x69;&#108;&#108;&#x2b;&#x70;&#x68;&#x70;&#64;&#x69;&#109;&#x61;&#103;&#105;&#x6e;&#101;&#x65;&#97;&#115;&#x79;&#x2e;&#x63;&#111;&#x6d;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
