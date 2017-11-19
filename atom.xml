@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2017-08-25T15:03:43-04:00</updated>
+  <updated>2017-11-19T14:46:05-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 94: Shaking Off The Rust]]></title>
+    <link href="http://devhell.info/post/2017-11-19/shaking-off-the-rust/"/>
+    <updated>2017-11-19T14:28:00-05:00</updated>
+    <id>http://devhell.info/post/2017-11-19/shaking-off-the-rust</id>
+    <content type="html"><![CDATA[<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/jaymedr/5751690734/in/photolist-5fwJLH-SQGW9Q-6tEt1x-hruT-6tJARh-6tJASG-4foypJ-9LfVgC-tnhBU" title="Rust and Fire"><img src="https://farm4.staticflickr.com/3599/5751690734_c77debed9c_z.jpg" width="640" height="448" alt="Rust and Fire"></a></p>
+
+<p>It&rsquo;s been a while since our last episode, but this time Chris and Ed go together in the same room down in Pawnee, Indiana to record an episode. Between Ed making faces at Chris while recording and Chris' totally messing up who wrote the testing blog post he went on and on, it was clear /dev/hell is not in the groove.</p>
+
+<p>In this episode Ed talks about some of his personal struggles that led to a long absence, Chris asks about what to do when the time frame for your goals doesn&rsquo;t align with the types of places you work, and Chris and Ed try to enjoy being together in the same place while hoping the noise from the hand dryer in the bathroom on the other side of the wall from them doesn&rsquo;t cause a ton of noise.</p>
+
+<p>Don&rsquo;t worry, the podcast isn&rsquo;t dead! Ed and Chris intend on talking to each other for a very very long time to come. However, you can expect to see less of us on the conference circuit in 2018. Both Chris and Ed have decided that for personal reasons they need to reduce their travel schedules.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Support us via our <a href="https://patreon.com/devhell">Patreon</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/4c4fd48e?color=f5f5f5' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/4c4fd48e.mp3" rel="enclosure">Download now (MP3)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li><a href="http://matchboxstudio.org/">Matchbox Cowork Studio</a></li>
+<li><a href="http://blacksparrowpub.com/">The Black Sparrow</a></li>
+<li>Apologies to Martin Fowler for attributing this awesome post about <a href="https://www.martinfowler.com/articles/testing-culture.html">testing at Google</a> hosted by Mr. Fowler and written by Mike Bland to Michael Feathers</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 93: 40 Attendees Enter, None Leave]]></title>
@@ -3208,7 +3249,7 @@ A: &ldquo;$40k&rdquo;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&rsquo;s success.</p>
 
-<p>This episode&rsquo;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#105;&#108;&#116;&#x6f;&#58;&#x74;&#x69;&#108;&#108;&#43;&#x70;&#104;&#112;&#x40;&#x69;&#x6d;&#x61;&#103;&#105;&#110;&#101;&#101;&#97;&#115;&#121;&#46;&#99;&#111;&#109;">&#x74;&#105;&#108;&#x6c;&#43;&#x70;&#x68;&#x70;&#64;&#x69;&#x6d;&#97;&#103;&#105;&#x6e;&#x65;&#x65;&#97;&#x73;&#x79;&#46;&#x63;&#x6f;&#109;</a>.</p>
+<p>This episode&rsquo;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#111;&#x3a;&#x74;&#x69;&#x6c;&#108;&#43;&#112;&#x68;&#112;&#x40;&#x69;&#x6d;&#97;&#103;&#105;&#110;&#x65;&#x65;&#x61;&#x73;&#121;&#46;&#99;&#x6f;&#109;">&#x74;&#105;&#x6c;&#108;&#43;&#x70;&#x68;&#x70;&#64;&#x69;&#x6d;&#x61;&#x67;&#x69;&#x6e;&#101;&#101;&#97;&#x73;&#121;&#x2e;&#x63;&#x6f;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -3265,7 +3306,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs' suicide, both in the context of governmental power and mental illness. We also talk about Ed&rsquo;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#x6f;&#58;&#x74;&#105;&#108;&#108;&#x2b;&#112;&#x68;&#112;&#x40;&#105;&#x6d;&#x61;&#x67;&#105;&#110;&#x65;&#101;&#x61;&#x73;&#121;&#x2e;&#99;&#x6f;&#109;">&#x74;&#105;&#108;&#108;&#x2b;&#x70;&#104;&#112;&#x40;&#105;&#109;&#97;&#x67;&#x69;&#x6e;&#101;&#x65;&#97;&#x73;&#121;&#46;&#99;&#111;&#109;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#x69;&#108;&#x74;&#111;&#x3a;&#116;&#x69;&#108;&#108;&#x2b;&#x70;&#x68;&#112;&#64;&#105;&#109;&#97;&#103;&#x69;&#x6e;&#101;&#101;&#97;&#115;&#x79;&#46;&#99;&#x6f;&#109;">&#x74;&#105;&#108;&#x6c;&#x2b;&#112;&#x68;&#x70;&#x40;&#x69;&#x6d;&#x61;&#x67;&#x69;&#x6e;&#x65;&#x65;&#x61;&#x73;&#x79;&#x2e;&#x63;&#x6f;&#x6d;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
