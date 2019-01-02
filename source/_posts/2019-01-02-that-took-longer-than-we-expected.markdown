@@ -3,8 +3,7 @@ layout: post
 title: "Episode 95: That Took Longer Than We Expected"
 date: 2019-01-02 15:57
 comments: true
-categories: 
-- podcast
+categories: Podcast
 
 ---
 
