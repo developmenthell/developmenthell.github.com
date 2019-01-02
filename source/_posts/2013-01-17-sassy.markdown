@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Episode 26: Sassy!"
+date: 2013-01-17 08:51
+comments: true
+categories: podcast
+---
+
+<a href="http://www.flickr.com/photos/roadsidepictures/313680465/" title="Sassy by Roadsidepictures, on Flickr"><img src="http://farm1.staticflickr.com/120/313680465_73e6ede973_o.jpg" width="850" height="680" alt="Sassy"></a>
+
+The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs' suicide, both in the context of governmental power and mental illness. We also talk about Ed's favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.
+
+We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. [Check out the job description](http://gun.io/careers/1157/junior-senior-php-developers) and email stuff to <mailto:till+php@imagineeasy.com>.
+
+As always, thank you to our awesome sponsors at [Engine Yard](http://engineyard.com)
+and [Wonder Network](http://wondernetworks.com) for providing 
+cashmoney and bandwidth for our live stream, respectively.
+
+* Rate us on iTunes [here](http://itunes.apple.com/us/podcast/dev-hell/id489840699)
+* Follow us on Twitter [here](https://twitter.com/dev_hell).
+* Like us on Facebook [here](https://www.facebook.com/devhellpodcast)
+
+### Listen
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35285?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35285.mp3" rel="enclosure">Download now (MP3, 29MB, 1:02:33)</a>
+
+## Links and Notes
+
+* [Lincoln Park Chicago Appl store](http://i.imgur.com/RIfMK.jpg)
+* [Linkin Park's Mysterious Cyberstalker](http://www.wired.com/entertainment/music/news/2007/05/ff_linkinpark?currentPage=all)
+* [Aaron Swartz](http://en.wikipedia.org/wiki/Aaron_Swartz)
+  * [How to Get a Job Like Mine](https://aaronsw.jottit.com/howtoget). "I followed these rules. And here I am today, with a dozen projects on my plate and my stress level through the roof once again."
+  * [Jacob Applebaum (IOError)](http://en.wikipedia.org/wiki/Jacob_Appelbaum)
+  * [Centre for Addiction and Mental Health](https://www.supportcamh.ca/donations)
+  * [National Alliance on Mental Illness](http://www.nami.org/)
+* [Hypercritical podcast](http://5by5.tv/hypercritical)
+* [Mike Wilner](http://en.wikipedia.org/wiki/Mike_Wilner)
+* [SASS](http://sass-lang.com/)
+* [SMACSS - Scalable and Modular Architecture for CSS](http://smacss.com/)

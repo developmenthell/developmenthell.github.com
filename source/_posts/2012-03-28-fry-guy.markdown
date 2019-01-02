@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Episode 8: Fry Guy, Cleanup in Aisle App"
+date: 2012-03-28 09:56
+comments: true
+categories: podcast
+---
+
+[![fry guy 4 tutter](http://farm2.staticflickr.com/1134/721652533_dc4b7449c5.jpg)](http://www.flickr.com/photos/softestthing/721652533/ "fry guy 4 tutter by Bokeh Burger")
+
+First off, we now have a sponsor for the podcast: [Engine Yard](http://engineyard.com). This is something they will surely regret after listening to this episode.
+
+We started off with the idea of talking about technologies we wish we had time to play with. Ed was talking about his attempts at exploring Clojure, and how it's likely he'll be using Python for work in the near future. This leads into a discussion of what attracts us to certain languages and technologies, and when to try to work a personal interest in to your day job. Then Chris talks about how he will likely mess around with evented stuff like Node.js or Twisted for his next book about HTTP APIs or whatever.
+
+We also go off on a discussion about HTPC stuff. I can't really remember how we got there.
+
+In reality we mostly bullshitted through the whole thing, and made fun of Engine Yard a bunch. Hopefully they know that they have awesome products and don't hate us now.
+
+Feel free to hit us up on Twitter at [@dev_hell](https://twitter.com/dev_hell) or harass [Ed](https://twitter.com/funkatron) and [Chris](https://twitter.com/grmpyprogrammer) directly.
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35265?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35265.mp3" rel="enclosure">Download now (MP3, 38.7MB, 1:20)</a>
+
+### Links
+
+* [Engine Yard Video](http://vimeo.com/36928564)
+* [Engine Yard's Orchestra product](http://www.engineyard.com/products/orchestra)
+* [Clojure](http://clojure.org/)
+* [Kohana](http://kohanaframework.org/)
+* [Node.js](http://nodejs.org/)
+* [Twisted](http://twistedmatrix.com/)
+* [Gunicorn](http://gunicorn.org/)
+* [WSGI](http://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)
+* [MIT](http://web.mit.edu/)
+* [Fry Guy (actually "The Fry Kids")](https://en.wikipedia.org/wiki/The_Fry_Kids)
+* [HTPC](http://en.wikipedia.org/wiki/Home_theater_PC)
+* [XBMC](http://xbmc.org/)
+* [Raspberry Pi](http://www.raspberrypi.org/)
+* [Paleo Diet](http://en.wikipedia.org/wiki/Paleolithic_diet)

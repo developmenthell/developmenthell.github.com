@@ -1,0 +1,26 @@
+---
+layout: bare
+title: Development Hell Popup Player
+---
+
+<div id="audio-player"></div>
+<div id="download-link"></div>
+<script>
+$(document).ready(function() {
+  var $container = $('#audio-player');
+  var $dl_link = $('#download-link');
+  var file = window.location.search.slice(1) || "";
+  // try to make sure nothing too nasty gets injected
+  if (file.match(/[a-z\-0-9\.]+/i)) {
+    $container
+      .append('<audio class="popup-player" controls src="http://devhell.s3.amazonaws.com/'+file+'">');
+    $dl_link
+      .append('<a href="http://devhell.s3.amazonaws.com/'+file+'">Download</a>');
+  }
+  // var as = audiojs.createAll({
+  //     'autoplay': true
+  //   }, $('audio.popup-player')
+  // );
+});
+</script>
+<noscript>This is not gonna work without JavaScript. Sorry.</noscript>

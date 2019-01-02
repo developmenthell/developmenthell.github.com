@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Episode 46: php[tek] 2014"
+date: 2014-06-04 21:11
+comments: true
+categories: podcast, phptek
+---
+<a href="https://www.flickr.com/photos/nasacommons/7944896808" title="New York City Welcomes the Apollo 11 Astronauts by NASA on The Commons, on Flickr"><img src="https://farm9.staticflickr.com/8032/7944896808_07d60a5060_z.jpg" width="640" height="493" alt="New York City Welcomes the Apollo 11 Astronauts"></a>
+
+[php[tek]](http://tek.phparch.com) was once again upon us, so we did our annual live show! Special guest Paul Reinheimer of WonderNetwork joins us for much frivolity!
+
+Also check out our new sponsor **Watch Me Code**. You can get ***35% OFF*** as a Development Hell listener by going to **[watchmecode.net/devhell](http://www.watchmecode.net/devhell?utm_source=devhell&utm_medium=banner&utm_campaign=sponsor)**.
+
+* Check out our **sponsors**, [Watch Me Code](http://www.watchmecode.net/devhell?utm_source=devhell&utm_medium=banner&utm_campaign=sponsor), [Roave](http://roave.com/) and [WonderNetwork](https://wondernetwork.com/)
+* Follow us on **Twitter** [here](https://twitter.com/dev_hell).
+* **Rate us** on iTunes [here](http://itunes.apple.com/us/podcast/dev-hell/id489840699)
+* Sign up for our **mailing list** [here](/subscribe-email.html)
+
+### Listen
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35306?style=dark" width="100%"></iframe>
+<a href="http://audio.simplecast.com/35306.mp3" rel="enclosure">Download now (MP3, 27.1MB, 1:00:53)</a>
+
+## Links and Notes
+
+- [Paul Reinheimer](http://blog.preinheimer.com/)
+- [KISS at tek](https://www.flickr.com/photos/rbowen/sets/72157605257536663/)
+- [CoPilot](https://www.copilot.com/)
+- [Where's It Up?](http://wheresitup.com/)
+- [REM statement](http://plus4world.powweb.com/plus4encyclopedia/500100)
+- [BYTE magazine](https://en.wikipedia.org/wiki/Byte_%28magazine%29)
+- [COMPUTE! Magazine](http://www.atarimagazines.com/compute/)
+- [Commodore C-64](https://en.wikipedia.org/wiki/Commodore_64)
+- [VIC-20](https://en.wikipedia.org/wiki/VIC-20)
+- [Commodore Datasette](https://en.wikipedia.org/wiki/Commodore_Datasette)
+- [XHProf](http://xhprof.io/) and [XHProfUI](https://github.com/preinheimer/xhprof)
+- [Poutine](https://en.wikipedia.org/wiki/Poutine)
+- [Quebec banning religious displays](http://www.thestar.com/news/canada/2013/08/26/proposed_quebec_ban_on_religious_symbols_takes_step_forward.html)
+- [French signage laws in Quebec](http://news.nationalpost.com/2013/02/21/quebec-language-police/)
+- [Greg Baugues's talk at tek about hacking convos](https://joind.in/talk/view/10654)
+- [Black Books](https://en.wikipedia.org/wiki/Black_Books)
