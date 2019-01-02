@@ -1,0 +1,1093 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>The Development Hell Podcast - /dev/hell</title>
+  <meta name="author" content="Chris Hartjes and Ed Finkler">
+
+  
+  <meta name="description" content="An uncensored, freewheeling podcast that generally focuses on JavaScript, PHP, Python, Ruby, and other tech as they relate to web development.">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://devhell.info/page/3/">
+  <link href="/favicon.png" rel="icon">
+  <meta name="msapplication-TileColor" content="#666666">
+  <meta name="msapplication-TileImage" content="/favicon_tile.png">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="http://feeds.devhell.info/devhell-podcast" rel="alternate" title="/dev/hell" type="application/atom+xml">
+  <link rel="stylesheet" href="/assets/fonts/League_Gothic-stylesheet.css" type="text/css" charset="utf-8">
+<script src="/assets/audiojs/audio.min.js"></script>
+<script>
+var player_win = null; // used in handler below
+$(document).ready(function() {
+	$('a.audio-player-popup').on('click', function(e) {
+		$el = $(this);
+		var link = $el.attr('href');
+		if (!player_win || player_win.closed) {
+			player_win = window.open(link,
+				"player_win", "resizable=yes,scrollbars=yes,status=no,height=60,width=460");
+		} else {
+			player_win.focus();
+		};
+	});
+
+	// load audiojs on audio.audiojs elements
+	audiojs.events.ready(function() {
+		var as = audiojs.createAll({
+			'preload': false,
+			'autoplay': false
+		}, $('audio.audiojs'));
+	});
+
+})
+</script>
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+	<div id="sharing">
+		<div id="fb-sharing" class="button-container">
+			<div class="fb-like" data-send="false" data-layout="box_count" data-width="63" data-show-faces="false"></div>
+		</div>
+
+		<div id="google-sharing" class="button-container">
+			<!-- Place this tag where you want the +1 button to render. -->
+			<div class="g-plusone" data-size="tall" data-annotation="none"></div>
+
+			<!-- Place this tag after the last +1 button tag. -->
+			<script type="text/javascript">
+			  (function() {
+			    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			    po.src = 'https://apis.google.com/js/plusone.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			  })();
+			</script>
+		</div>
+
+		<div id="twitter-sharing" class="button-container">
+			<a href="https://twitter.com/share" class="twitter-share-button" data-related="dev_hell" data-lang="en" data-size="small" data-count="none">Tweet</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</div>
+
+	</div>
+
+  <h1><a href="/">/<span class="title-color-2">dev</span>/<span class="title-color-2">hell</span></a> <div class="logo"></div></h1>
+  
+    <h2>The Development Hell Podcast</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss email">
+  <li><a href="http://feeds.devhell.info/devhell-podcast" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+    <li><a href="http://devhell.info/subscribe-email.html" rel="subscribe-email" title="subscribe via email">Email</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:devhell.info" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Newest</a></li>
+  <li><a href="/sponsors">Sponsors</a></li>
+  <li><a href="/shop">Swag Shop</a></li>
+  <li><a href="/irc">Chat</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2016-04-15/together-but-alone/">Episode 75: Together but Alone</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-04-15T12:51:00-04:00" pubdate data-updated="true">Apr 15<span>th</span>, 2016</time>
+        
+         | <a href="/post/2016-04-15/together-but-alone/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a  href="https://www.flickr.com/photos/rickymontalvo/3499466874/in/photolist-6keFzL-9UXiug-j9N9Na-6UXm7Z-ebk8aF-b599cV-2yCehK-djcNUm-8sWZWZ-oboGRb-dqEynG-qHJzvU-3W2CU5-dqEyjq-eQg9Fg-9V17R7-hAVcab-dqEoXB-9AeWP8-dqEoQz-7x4G6h-r1pn5P-5zQ78W-43CTcB-qHRacC-KBjcJ-ehszFs-2Fstvd-pJf7gT-a2MeTg-44tN1-a9haWm-95cPzb-7ggbbZ-4Py87s-bptp3u-nsD7w1-2XHHNV-93R4km-8qCCLW-rZFVg-oT8SEF-rgvvsR-4Jfcdh-ddARp9-rv6kaa-8p3ZjH-b7EZkk-ndhCC5-6XBzRW" title="Alone."><img src="https://farm4.staticflickr.com/3651/3499466874_2b17cba11e_z.jpg" width="640" height="449" alt="Alone."></a></p>
+
+<p>We&rsquo;re three-quarters of the way through to The End! In this episode it was just Ed and Chris talking about two issues that are very important to them. We go over the early results from Ed&rsquo;s Open Sourcing Mental Illness survey and then have a very long discussion about the events surrounding LambdaConf 2016.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="http://backup-pro.com">Backup Pro</a>, <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Get 50% off Backup Pro&rsquo;s services by using the promo code &lsquo;devhell&rsquo;</li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/35490?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35490.mp3" rel="enclosure">Download now (MP3, 89.4MB, 1:34:09)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>Please fill out the <a href="http://j.mp/osmisurvey2016">OSMI survey</a></li>
+<li>LambdaConf <a href="http://degoes.net/articles/lambdaconf-inclusion">organizer&rsquo;s</a> <a href="http://degoes.net/articles/lambdaconf-controversy">explanations</a></li>
+<li>Brendan Eich <a href="https://blog.mozilla.org/blog/2014/04/05/faq-on-ceo-resignation/">resigning as Mozilla CEO after 9 days</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Body_Count">Body Count</a>&rsquo;s &ldquo;Cop Killer&rdquo; <a href="https://en.wikipedia.org/wiki/Cop_Killer_%28song%29">controversy</a></li>
+<li>Ed spoke at <a href="http://thecombine.org/">The Combine</a></li>
+<li>Ed will be speaking at <a href="http://www.kalamazoox.org/">Kalamazoo X</a></li>
+<li>Chris spent 27 hours flying each way to speak at <a href="http://http://www.phpconference.com.au/">PHP Austrailia Conference</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2016-03-25/raise-mentalhealtherror/">Episode 74: Raise MentalHealthError</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-03-25T10:24:00-04:00" pubdate data-updated="true">Mar 25<span>th</span>, 2016</time>
+        
+         | <a href="/post/2016-03-25/raise-mentalhealtherror/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="https://commons.wikimedia.org/wiki/File:GuruMeditationErrorinDSOrganize_01.jpg" title="A Guru Meditation Error screen in DSOrganize on a pink DS Lite."><img src="/images/posts-images/GuruMeditationErrorinDSOrganize_01.jpg" width="600" height="450" alt="A Guru Meditation Error screen in DSOrganize on a pink DS Lite."></a></p>
+
+<p class="photo-credit">Photo by Kittenlive - <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a></p>
+
+
+<p>In this episode we were extremely lucky to get <a href="http://www.kennethreitz.org/">Kenneth Reitz</a>
+on the show to discuss his experiences when he had a mental health event that
+resulted in a stay in the hospital and some major life changes as a result.</p>
+
+<p>Normally we&rsquo;re a comedy podcast that focusses on technology, but issues
+surrounding mental health are very important to us. We&rsquo;re extremely grateful
+that Kenneth came on and was very open about what happened to him.</p>
+
+<p>We hope you enjoy what was a great, open, freewheeling discussion about
+how the symptoms of some mental illnesses appear beneficial from the outside.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="http://backup-pro.com">Backup Pro</a>, <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Get 50% off Backup Pro&rsquo;s services by using the promo code &lsquo;devhell&rsquo;</li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/35335?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35335.mp3" rel="enclosure">Download now (MP3, 97.2MB, 1:43:49)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>Kenneth on <a href="https://twitter.com/kennethreitz">Twitter</a></li>
+<li><a href="http://docs.python*requests.org/en/master/">Requests</a> Python HTTP library</li>
+<li><a href="https://www.heroku.com/">Heroku</a></li>
+<li>Kenneth&rsquo;s post about <a href="http://www.kennethreitz.org/essays/">his mental health event</a></li>
+<li><a href="http://www.mayoclinic.org/diseases-conditions/bipolar-disorder/basics/symptoms/CON-20027544">Bipolar Disorder</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Haloperidol">Haldol</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lithium_%28medication%29">Lithium</a> (not the <a href="http://li3.me/">framework</a>)</li>
+<li><a href="http://www.hypomanicedge.com/">The Hypomanic Edge</a></li>
+<li>Kanye West <a href="http://globalgrind.com/2013/10/23/kanye-west-car-accident-11-years-ago-full-story-photos/">car accident</a></li>
+<li><a href="http://j.mp/osmisurvey2016">2016 Mental Health in Tech Survey</a></li>
+<li><a href="https://devcenter.heroku.com/articles/python-support">Python support on Heroku</a></li>
+<li><a href="https://twitter.com/dzuelke">David Zuelke</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Prison_Architect">Prison Architect</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SimCity">SimCity</a> franchise</li>
+<li><a href="https://en.wikipedia.org/wiki/Football_Manager">Football Manager</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dungeon_Keeper_2">Dungeon Keeper II</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bejeweled_%28series%29">Bejwelled</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cities:_Skylines">Skylines</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.bcs.tinybird">Tiny Bird</a></li>
+<li><a href="http://www.arcaderx.com/">Louisville Arcade Expo</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Gold_farming">Gold farming</a></li>
+<li><a href="http://www.youtube.com/watch?v=8PBvOxicz-0">Video of Bo Jackson</a> from Tecmo Bowl</li>
+<li><a href="http://www.arcadecab.com/">MAME cabinets</a></li>
+<li><a href="https://soundcloud.com/infinitestate">Kenneth Reitz&rsquo;s Music</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2016-03-12/old-guys-last-longer/">Episode 73: Old Guys Last Longer</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-03-12T15:56:00-05:00" pubdate data-updated="true">Mar 12<span>th</span>, 2016</time>
+        
+         | <a href="/post/2016-03-12/old-guys-last-longer/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="https://www.flickr.com/photos/pagedooley/8234189233/in/photolist-dxCnzT-b2MKut-awAwWu-eBWbNx-7L7zys-7Pjqfb-4ZKNWK-nQBHWY-iJkfN4-qj4kzg-fkr4Fc-s99ny5-9AMvZL-88uX6a-e3QKNZ-a7DaaP-88sn2o-mBJT1r-bgR6qa-atxTHd-55bVS4-5P5zuQ-eSHHG5-dyVNvi-JgG87-fsge1t-qg69YU-dicLT-paUueu-76SLpL-5n7Yev-7xFs9h-2bJbk-dn4cXR-7J97Xv-3Ko1Ex-bqHuBg-612ao-AicA-qCQaKH-q3wvLA-9LSkMz-qe5oa5-f4tmGt-ra86NY-7mRrdU-gWHQpH-5kEhj-4FWauR-2925Pn" title="Christmas decorations - Statler and Waldorf from the Muppets"><img src="https://farm9.staticflickr.com/8062/8234189233_ba28610f0e_z.jpg" width="640" height="427" alt="Christmas decorations - Statler and Waldorf from the Muppets"></a></p>
+
+<p>This time out we had PHP community icon Cal &ldquo;Doesn&rsquo;t Follow Chris On Twitter&rdquo;
+Evans on to discuss the traveling minstrel show known as NomadPHP, the awesomeness of Day Camp 4 Developers, his thoughts on how Mailchimp handled The Mandrill Issue, and helped trigger Chris in to an epic rant. Chris also hopes that Cal has not noticed he hadn&rsquo;t finished that thing he was supposed to do for him yet. It will be done really soon!</p>
+
+<p>We&rsquo;ll be giving away 4 free tickets to <a href="https://daycamp4developers.com/">the Day Camp 4 Developers on Modern PHP on April 22, 2016</a>! <strong><a href="http://devhell.info/subscribe-email.html">Sign up for our mailing list now</a></strong> to enter the drawing!</p>
+
+<p>Don&rsquo;t forget about our special offer for listeners! Get <strong>50% off <a href="http://backup-pro.com">Backup Pro&rsquo;s</a> CMS plugins</strong> by using the promo code <code>devhell</code>! And get trials of Backup Pro for <a href="http://mithra62.com/download_files/eecms_demos/backup_pro.ee2.3.2.3.zip">ExpressionEngine 2</a>, <a href="http://mithra62.com/download_files/ee3_demos/backup_pro.ee3.3.2.3.zip">ExpressionEngine 3</a>, <a href="http://mithra62.com/download_files/craft_demos/backuppro.craft.3.2.3.zip">Craft</a>, <a href="http://mithra62.com/download_files/wp_demos/backup_pro.wp.3.2.3.zip">WordPress</a>, <a href="http://mithra62.com/download_files/prestashop_demos/backup_pro.prestashop.3.2.3.zip">PrestaShop</a>, and <a href="http://mithra62.com/download_files/c5_demos/backup_pro.c5.3.2.3.0.zip">Concrete5</a>!</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="http://backup-pro.com">Backup Pro</a>, <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Get 50% off Backup Pro&rsquo;s services by using the promo code <code>devhell</code></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/35334?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35334.mp3" rel="enclosure">Download now (MP3, 59.9MB, 1:23:23)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>One of Sean Connery&rsquo;s <a href="https://www.youtube.com/watch?v=IPjvDE-rKo0">finest scenes</a></li>
+<li>Chris' <a href="https://en.wikipedia.org/wiki/Ferris_Bueller's_Day_Off">favourite movie</a></li>
+<li>Guy who harpooned the <a href="https://en.wikipedia.org/wiki/Federal_Express_Flight_705">FedEx pilots</a></li>
+<li><a href="http://nomadphp.com">NomadPHP</a></li>
+<li><a href="https://daycamp4developers.com/">Day Camp 4 Developers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Packed_lunch">Box Lunch</a></li>
+<li><a href="https://twitter.com/joshholmes">Josh Holmes</a></li>
+<li><a href="https://twitter.com/codeguy">Josh Lockhart</a></li>
+<li>Josh&rsquo;s Lockhart&rsquo;s <a href="http://shop.oreilly.com/product/0636920033868.do">Modern PHP Book</a></li>
+<li>The <a href="http://www.slimframework.com/">SlimPHP</a> microframework</li>
+<li>Lorna Jane&rsquo;s <a href="http://www.lornajane.net/about">website</a></li>
+<li><a href="https://akrabat.com/">Rob Allen</a> (who took a very popular picture of Chris)</li>
+<li>New Zealand developer <a href="https://twitter.com/assertchris">Chris Pitt</a></li>
+<li><a href="https://twitter.com/trowski2002">Aaron Piotrowski</a></li>
+<li><a href="http://icicle.io">Icicle</a></li>
+<li><a href="https://twitter.com/SaraMG">Sara Golemon</a></li>
+<li><a href="https://en.wikipedia.org/wiki/12th_man_%28football%29">The 12th Man</a></li>
+<li><a href="https://twitter.com/grmpyprogrammer/status/704140162733907968">I can&rsquo;t wait to use HHJVM</a></li>
+<li><a href="https://twtiter.com/patio10">Patrick McKenzie</a></li>
+<li>MailChimp&rsquo;s thought-provoking post about the <a href="https://blog.mailchimp.com/important-changes-to-mandrill/">future of Mandrill</a></li>
+<li><a href="https://aws.amazon.com/ses/">Amazon SES</a></li>
+<li><a href="https://www.mailgun.com/">Mailgun</a></li>
+<li><a href="https://sendgrid.com/">SendGrid</a></li>
+<li><a href="https://www.sparkpost.com/">SparkPost</a></li>
+<li><a href="https://feedbin.com/">Feedbin</a></li>
+<li><a href="https://feedly.com/i/welcome">Feedly</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2016-02-26/hermits-and-horses/">Episode 72: Hermits and Horses</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-02-26T18:59:00-05:00" pubdate data-updated="true">Feb 26<span>th</span>, 2016</time>
+        
+         | <a href="/post/2016-02-26/hermits-and-horses/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="https://www.flickr.com/photos/grand_canyon_nps/7421685730/in/photolist-dNGawg-51o8Rp-6QuCQ-CJvY2q-9dxZK-9dy3c-9dxSY-5Toc5N-9dxQN-dDnF7o-ciQ5AN-6WsXC-aewVMp-bbPVUB-9dxPF-NN94M-9dxUR-9dy2p-6QuCT-9dy1x-9dxP5-79s1X-9dxSi-9dxRE-9dy4H-9dxX3-79s3t-9dxVr-9dxMB-9dxQg-9dxY2-9dxUf-9dxTD-6QuCR-9dxYQ-9dy4a-9dxLM-9dxW9-9dxNh-rSaQGT-rDNDjf" title="18240 Grand Canyon Historic Hermit Trail"><img src="https://farm8.staticflickr.com/7256/7421685730_a851e4101f_z.jpg" width="640" height="441" alt="18240 Grand Canyon Historic Hermit Trail"></a></p>
+
+<p>Jason Myers came on the show to talk about his experiences running not one but
+TWO conferences in the Nashville, Tennessee area, along with how he ended up
+writing a book about a popular Python database abstraction tool, and why he
+prefers the hermetic lifestyle. Along the way Chris and Jason also managed to
+beat a dead horse for a few minutes.</p>
+
+<p>Special offer for listeners! Get <strong>50% off <a href="http://backup-pro.com">Backup Pro&rsquo;s</a> CMS plugins</strong> by using the promo code <code>devhell</code>! And get trials of Backup Pro for <a href="http://mithra62.com/download_files/eecms_demos/backup_pro.ee2.3.2.3.zip">ExpressionEngine 2</a>, <a href="http://mithra62.com/download_files/ee3_demos/backup_pro.ee3.3.2.3.zip">ExpressionEngine 3</a>, <a href="http://mithra62.com/download_files/craft_demos/backuppro.craft.3.2.3.zip">Craft</a>, <a href="http://mithra62.com/download_files/wp_demos/backup_pro.wp.3.2.3.zip">WordPress</a>, <a href="http://mithra62.com/download_files/prestashop_demos/backup_pro.prestashop.3.2.3.zip">PrestaShop</a>, and <a href="http://mithra62.com/download_files/c5_demos/backup_pro.c5.3.2.3.0.zip">Concrete5</a>!</p>
+
+<p>Also! Listeners can get a <a href="http://oreil.ly/1PXlMOE">50% discount on Jason Myers' book <strong>Essential SQLAlchemy, 2nd Edition</strong></a>! Discount will show when you add it to your cart. <a href="http://oreil.ly/1PXlMOE">Go buy it now</a>!</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="http://backup-pro.com">Backup Pro</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/35333?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35333.mp3" rel="enclosure">Download now (MP3, 68.4MB, 1:35:57)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>Jason on <a href="https://twitter.com/jasonamyers">Twitter</a></li>
+<li>Jason&rsquo;s <a href="http://oreil.ly/1PXlMOE">book on SQLAlchemy</a></li>
+<li><a href="https://www.pytennessee.org">PyTennessee</a></li>
+<li><a href="http://nodevember">Nodevember</a></li>
+<li><a href="https://pygotham.org">PyGotham</a></li>
+<li><a href="http://www.pyohio.org">PyOhio</a></li>
+<li>Adam Culp&rsquo;s write-up about <a href="http://www.geekyboy.com/archives/1179">SunshinePHP and CoC violations</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Maus">Maus</a></li>
+<li><a href="http://www.phpconference.com.au">PHP Conference Australia</a></li>
+<li><a href="http://thecombine.org">The Combine</a></li>
+<li><a href="http://www.kalamazoox.org">Kalamazoo X</a></li>
+<li><a href="http://osmihelp.org">OSMIHelp</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2016-02-01/bespoke-tokens/">Episode 71: Bespoke Tokens</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-02-01T18:19:00-05:00" pubdate data-updated="true">Feb 1<span>st</span>, 2016</time>
+        
+         | <a href="/post/2016-02-01/bespoke-tokens/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/ketmonkey/1285305392/in/photolist-2XzwvN-5gTZHP-65cTss-8kHf1J-ds5ayo-mYMug-rqz9V-rqz9U-8zQ7JS-5rRHr2-5SyNsf-noJE3d-9man97-dAi7pp-noG28X-Npz2n-es2FM9-puSHYS-9iYCYQ-4G4E2E-bZDYhw-qScAH-rFckuU-8w2twB-NpyFR-eahGnd-6WGA64-4f2WcW-GkXAN-xvwb-GkXvC-8iTium-6f1e4u-8CEVq-8iQ5h6-8iQ5jF-7xQvKX-zarJ1r-d3x6xL-51za7b-8AQzBb-bwLNPV-acng4w-aCo8D9-at8Lc4-nwyjsP-5jKLuD-6QiNkA-6QeBfR" title="Yay Token-Ring"><img src="https://farm2.staticflickr.com/1329/1285305392_0532fd2bf6_z.jpg" width="640" height="480" alt="Yay Token-Ring"></a></p>
+
+<p>We really do appreciate our sponsors so when we get a chance to thank them in a way other than our awesome ad reads, we do it! On this episode you get twice the guest because we invited two of the three folks behind WonderNetworks to join us.</p>
+
+<p>Paul Reinheimer and Gemma Anible came on (and even did video via Skype so they could tell when we were getting bored) and talked about how WonderNetworks got started, Paul and Gemma&rsquo;s preferred development style and Paul seemed determined (as he always is) to tweak Chris.</p>
+
+<h2>Corrections and Updates</h2>
+
+<ul>
+<li>From Episode 70 &ndash; Chris was wrong about the French legal system</li>
+<li>From Episode 70 &ndash; Chris was wrong about who played the creature in <a href="https://en.wikipedia.org/wiki/The_Thing_from_Another_World">&ldquo;The Thing From Another World&rdquo;</a></li>
+</ul>
+
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35332?style=dark" width="100%"></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35332.mp3" rel="enclosure">Download now (MP3, 68.5MB, 1:35:12)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>Paul on <a href="https://twitter.com/preinheimer">Twitter</a></li>
+<li>Gemma on <a href="https://twitter.com/ellotheth">Twitter</a></li>
+<li><a href="https://wondernetwork.com/wonderproxy">WonderProxy</a></li>
+<li><a href="https://wondernetwork.com/wheresitup">Where&rsquo;s It Up</a></li>
+<li><a href="http://www.amazon.com/s?ie=UTF8&amp;page=1&amp;rh=i%3Aaps%2Ck%3Aspace%20leggings">Space leggings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_Ziggy_Stardust_and_the_Spiders_from_Mars">Ziggy Stardust</a></li>
+<li>The <a href="http://research.microsoft.com/en-us/groups/ese/nagappan_tdd.pdf">TDD study</a> from Gemma&rsquo;s talk</li>
+<li><a href="https://phalconphp.com/en">Phalcon</a> web framework</li>
+<li><a href="http://bulletphp.com">BulletPHP</a> web framework</li>
+<li><a href="http://www.slimframework.com/">Slim 3</a> web framework</li>
+<li><a href="http://trailblazer.to/">Trailblazer</a> Ruby on Rails architecture</li>
+<li><a href="http://gtk.php.net/">PHP-GTK</a></li>
+<li>Elizabeth Marie Smith on <a href="https://twitter.com/auroraeosrose">Twitter</a></li>
+<li>How Chris looks like <a href="https://twitter.com/funkatron/status/691446605661122560">Lobot</a> during Skype chats</li>
+<li>How few <a href="http://img.spz.im/IzvYO.png">followers</a> Ed has on Twitter</li>
+<li>The <a href="https://golang.org">Go</a> programming language</li>
+<li>How Ed personifies a <a href="https://twitter.com/funkatron/status/691468681960755204">level of explaining things</a></li>
+<li>&ldquo;Is it <a href="https://graphstory.com">Graph scale</a>?&rdquo;</li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2016-01-20/anti-canuckite-leanings/">Episode 70: Anti-Canuckite Leanings</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-01-20T13:41:00-05:00" pubdate data-updated="true">Jan 20<span>th</span>, 2016</time>
+        
+         | <a href="/post/2016-01-20/anti-canuckite-leanings/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/statephotos/8639238213/in/photolist-eaqmwZ-d2FbAf-d2FbEG-cSP8NL-d5G3Fy-c5dfS7-ctTiwm-r2PKKN-qKjLkA-gnW9yT-p7vfKX-tRiTg1-xgjQMa-bWNKuK-6Tvb1i-oCnN4S-oiHuNt-edfgbc-iEsZyK-6PmqmU-7xqTHa-fNTa9f-tkg6Pq-nD9JSp-fJAcMX-cAr525-bVhpaS-oktoBf-6iWDAd-bVNjtY-wYGXbU-6v9gmA-hZTHpp-75U3dF-ncfM4k-suR9Ja-8f1pL4-crZKgb-8f1tmx-naej4u-6Th7UD-oR5NQt-ocPZqm-6XgBgT-pMDyJv-oR2K59-63nEiZ-9u7f8V-dePNwY-dePNFc" title="Secretary Kerry Receives a Case of Beer from Canadian Foreign Minister John Baird"><img src="https://farm9.staticflickr.com/8521/8639238213_dd605bae23_z.jpg" width="640" height="427" alt="Secretary Kerry Receives a Case of Beer from Canadian Foreign Minister John Baird"></a></p>
+
+<p>Welcome to a new year and hopefully a more frequent podcasting schedule of
+recording on the 2nd and 4th Sundays of every month. Can your favourite
+old-but-lazy duo maintain such a punishing pace?</p>
+
+<p>During the discussions for topics for this episode, Chris went to the bathroom
+for some quiet time. When he came back Ed had asked dedicated
+grumpy-Canadian hater Amanda Folson to join this episode to talk a bit about
+the life of a developer evangelist, Greg LeMonde, the Battle for PHP CoC, how
+Composer saved PHP, and CodeMash.</p>
+
+<p>Along the way Amanda and Ed ganged up on Chris showing their hatred for their
+peace-loving neighbours north of the 49th parallel and during the aftershow drove him away with talk about audio recording equipment.</p>
+
+<h3>Do these things!</h3>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35331?style=dark" width="100%"></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35331.mp3" rel="enclosure">Download now (MP3, 68.5MB, 1:35:12)</a></p>
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li>Amanda on <a href="https://twitter.com/AmbassadorAwsum">Twitter</a></li>
+<li>Amanda&rsquo;s employer <a href="https://pageduty.com">PagerDuty</a></li>
+<li><a href="http://www.24daysindecember.net/">24 Days In December</a></li>
+<li>RFC for a PHP <a href="https://wiki.php.net/rfc/adopt-code-of-conduct">code of conduct</a></li>
+<li><a href="http://www.24daysindecember.net/2015/12/19/why-i-still-use-php/">Why I Still Use PHP</a> by Ed</li>
+<li><a href="http://getcomposer.org">Composer</a></li>
+<li><a href="http://packagist.org">Packagist</a></li>
+<li>The best ever conference <a href="http://www.codemash.org/">held at a water park</a></li>
+<li><a href="https://twitter.com/madalynrose">Madalyn Parker</a> gave an awesome talk at CodeMash about &ldquo;Mental Health at Work&rdquo;</li>
+<li><a href="https://www.skiphp.com">SkiPHP</a></li>
+<li><a href="https://https://www.pytennessee.org/">PyTennesee</a></li>
+<li>Stay on top of what conferences are accepting papers with <a href="https://thecfpreport.com">The CFP Report</a></li>
+<li>The severely underrated <a href="https://en.wikipedia.org/wiki/Yul_Brynner">Yul Brenner</a></li>
+<li>The <a href="https://en.wikipedia.org/wiki/Matt_Dillon_%28Gunsmoke%29">Matt Dillon</a> with talent</li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2015-12-23/a-festivus-miracle-part-2/">Episode 69: A Festivus Miracle, Part 2</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-12-23T16:41:00-05:00" pubdate data-updated="true">Dec 23<span>rd</span>, 2015</time>
+        
+         | <a href="/post/2015-12-23/a-festivus-miracle-part-2/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="https://www.flickr.com/photos/cuyp/5979620340/in/photolist-bK9Uhp-du1yXr-acBG1g-8jy1Lw-8juLrg-iqig7y-djZ2SN-3522zm-8m4uq5-f9Wm2i-4M2LWa-7HfPF-8jxYCq-oDf9sH-93NVuJ-93NVuL-aFHcxa-6KNdAo-423Di-x852r-4XzP39-5nv6N7-rt4qpf-47qzVC-dygmY-7HfPG-2fUSiD-7XGXQg-bqMd13-4isk2T-4SZWJV-kXJai-a7p7Nq-8NiYmw-4HJ3Lv-9nzxj-5DzrM4-hnw4m-7jKupw-7QcN25-bm8sKg-5Gdsov" title="pissing in the bottle"><img src="https://farm7.staticflickr.com/6009/5979620340_7ecb746589_z.jpg" width="640" height="480" alt="pissing in the bottle"></a></p>
+
+<p>After some airing of grievances and snarky emails, we managed to get our long-
+time personal friend Elizabeth Naramore to come on the show and talk about
+how she was scared for her life the first time she ever met Chris.</p>
+
+<p>We also got to continue to show how immature the three of us are with our constant
+giggling and inappropriate comments due to the <a href="https://www.urbandictionary.com/define.php?term=69&amp;defid=385099">innuendo-laden</a> episode number.</p>
+
+<p>When we weren&rsquo;t giggling we did talk about Liz&rsquo;s studies into the psychology
+of open source communities and her work helping to teach more people how to
+use Gi-Thub. Ed and Chris discussed how the marketing efforts for their own
+products are different yet have the same end goal.</p>
+
+<p>Chris also talked about how he stupidly lost his passport while in Orlando for
+an all-hands meeting (1270 people!) for Mozilla. He was so stressed he didn&rsquo;t
+even use the free park passes to Epcot, Hollywood Studios, or the Animal Kingdom.</p>
+
+<h3>Do these things!</h3>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35330?style=dark" width="100%"></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35330.mp3" rel="enclosure">Download now (MP3, 93.2MB, 1:41:55)</a></p>
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li>Elizabeth on <a href="https://twitter.com/ElizabethN">Twitter</a></li>
+<li><a href="https://github.com">GitHub</a></li>
+<li><a href="http://pinecreekoutdoors.com/urboforcatrt.html">Urine storage</a></li>
+<li><a href="https://patchwork.github.com">GitHub Patchwork</a></li>
+<li>Elizabeth&rsquo;s slides for her <a href="https://speakerdeck.com/elizabethn/the-neuroscience-and-psychology-of-open-source">talk at TrueNorthPHP</a></li>
+<li>The downside of <a href="https://medium.com/life-tips/the-downside-of-being-nice-4f22fc3f65bf#.uzwijjs86">being nice</a></li>
+<li>OSMI artiste <a href="http://hellogeri.com">Geri Coady</a></li>
+<li>The soul stylings of <a href="https://en.wikipedia.org/wiki/Nitzer_Ebb">Nitzer Ebb</a></li>
+<li><a href="http://brandingbrand.com/">Branding Brand</a></li>
+<li><a href="https://mozlando2015.sched.org/">Mozlando</a></li>
+<li>Mozilla <a href="https://wiki.mozilla.org/FlyWeb">FlyWeb</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2015-12-23/a-festivus-miracle/">Episode 68: A Festivus Miracle, Part 1</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-12-23T16:32:00-05:00" pubdate data-updated="true">Dec 23<span>rd</span>, 2015</time>
+        
+         | <a href="/post/2015-12-23/a-festivus-miracle/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="https://www.flickr.com/photos/lazzarello/5454431231/in/photolist-9iZonM-cwEJW-2XPor-4etUft-2mVhh-8QPxYE-9szGkM-4rBUES-42vAS-4hFqf5-3589xQ-9dY7X2-ahhJMk-4mB6A9-4mx3zT-bYugtu-8ELvNk-9F2yz8-eFHY4o-KWTsn-6DAgq-5Aq65-nSr9P-ank3ZY-DuWZi-5X776q-4HMMLu-4i1stH-4i1sqF-4i5xQb-9sCGLu-dDjxb-ahkCCL-9szGav-6aKjY-7UGuTt-dG3EPh-4mB6Ao-4i5y3N-9uHLto-KWJEU-4uqiWU-3bBT3e-3bBSYV-3bBSUV-3bBSNB-gRLLi-gRLJ1-PiVjK-5h4QHo" title="An aol.com email address is the duncecap of the internet"><img src="https://farm6.staticflickr.com/5215/5454431231_f08148ea98_z.jpg" width="640" height="481" alt="An aol.com email address is the duncecap of the internet"></a></p>
+
+<p>In a great feat of strength we were lucky enough to have future <a href="https://duckduckgo.com/?q=aol+digital+prophet&amp;t=ffab">Digital Prophet</a> Samantha Quinones join us to
+talk about how she got involved with the PHP community and what it&rsquo;s like to
+work for a company who&rsquo;s office is constructed out of <a href="http://www.bitsandpieces.us/wp-content/uploads/2013/10/aol-cd.jpg">old CD&rsquo;s</a>.</p>
+
+<p>Along the way we talked about ways to discuss AOL with your millenial, her close
+personal relationship with the <a href="https://en.wikipedia.org/wiki/Elwood_Edwards">&ldquo;You&rsquo;ve Got Mail&rdquo; Guy</a>,
+and how to sell tampons using caching and firehoses. Ed also shared his latest
+updates about <a href="http://osmihelp.org/">OSMI</a>. Naturally there was also time to
+make fun of <a href="http://mozilla.org">Chris' new employer</a></p>
+
+<h3>Do these things!</h3>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35329?style=dark" width="100%"></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35329.mp3" rel="enclosure">Download now (MP3, 85.2MB, 1:34:25)</a></p>
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li>Samantha on <a href="https://twitter.com/ieatkillerbees">Twitter</a></li>
+<li>The benefits of <a href="https://www.youtube.com/watch?v=5IOXzpRJ714">Lava soap</a></li>
+<li>IT&rsquo;S PRONOUNCED <a href="https://www.youtube.com/watch?v=PKOX8Ur4oDE">ZED</a></li>
+<li>Slides from Samantha&rsquo;s <a href="https://speakerdeck.com/squinones/drinking-from-the-firehose-true-north-php">presentation at TrueNorthPHP</a></li>
+<li><a href="https://github.com/aol/offload">AOL offload</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tandem_bicycle">Tandem bicycles</a></li>
+<li><a href="https://github.com/Kinto/kinto">Kinto</a>, Chris' first Mozilla project</li>
+<li><a href="https://en.wikipedia.org/wiki/Jason_and_the_Argonauts_%281963_film%29">Jason and the Argonauts</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2015-10-27/working-for-the-weekend/">Episode 67: Working for the Weekend</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-10-27T17:07:00-04:00" pubdate data-updated="true">Oct 27<span>th</span>, 2015</time>
+        
+         | <a href="/post/2015-10-27/working-for-the-weekend/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="https://www.flickr.com/photos/cdhs/15081465161/in/photolist-oYGsap-6K6iNH-p3ruL8-bmGtDJ-oGtNCg-pjTNjm-oGtjUy-jWHgtD-qpQWec-qpHPJq-oeqAFu-ovdj4B-odHMqs-oGt3c4-o7VPQA-oddPEY-fbG3bA-5WXotx-odF7m8-nQyHst-xmfcau-oeNFrY-oeYu7q-of32A8-osbj6U-7vtgen-odHT1L-otbkgJ-oGtmMw-9PysdC-wSwffM-o7XzaY-8ELFcu-oePdQi-ocHrY8-owfX8d-oeYNZ3-ouKryQ-oeNJiP-qvidBg-oeLXEo-owd9TB-sHoKxr-ot1gpf-oy1TaR-occ3Q4-obVTse-v5zNHn-otGMLA-ovGBJr" title="Kirk Kove Water Show Ski Team - 1955"><img src="https://farm6.staticflickr.com/5559/15081465161_f287749550_z.jpg" width="640" height="427" alt="Kirk Kove Water Show Ski Team - 1955"></a></p>
+
+<p>Super special guest Gary Hockin of JetBrains, and previously dog wrangler at Roave, joins us for much fun discussion and blame-taking. We babble about Slack vs IRC, the dev evangelism life, software subscription models, and video games. Also we make the <code>say</code> command in OS X utter profane phrases.</p>
+
+<h3>Do these things!</h3>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>: <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35328?style=dark" width="100%"></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35328.mp3" rel="enclosure">Download now (MP3, 72.5MB, 1:35:53)</a></p>
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="https://twitter.com/GeeH">Gary Hockin</a></li>
+<li><a href="http://www.netflix.com/title/80025172">Narcos (netflix)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ministry_%28band%29">Ministry</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lead_into_Gold">Lead into Gold</a></li>
+<li><a href="https://www.jetbrains.com/">JetBrains</a></li>
+<li><a href="https://www.jetbrains.com/phpstorm/">PHPStorm</a>
+ <em> <a href="https://www.irccloud.com/">irccloud.com</a>
+ </em> <a href="http://slackhq.com/">slackhq.com</a>
+ * <a href="http://developer-evangelism.com/">developer-evangelism.com</a></li>
+<li><a href="http://blog.jetbrains.com/blog/2015/09/18/final-update-on-the-jetbrains-toolbox-announcement/">JetBrains subscription pricing announcement</a></li>
+<li><a href="http://plugins.jetbrains.com/plugin/164">Vim bindings in PHPSTorm</a></li>
+<li><a href="http://store.steampowered.com/app/7760/">X-COM UFO Defense</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Baldur's_Gate">Baldur&rsquo;s Gate</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Metal_Gear">MGS series</a></li>
+<li><a href="http://shirtoid.com/75393/grammar-dalek/">Grammar Dalek (I do believe you mean Dr Whom)</a></li>
+<li><a href="http://www.visitwales.com/holiday-accommodation/unusual-places-to-stay/romany-caravans">Romany Gypsy Caravan</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2015-10-07/aquinas-on-customer-service/">Episode 66: Aquinas on Customer Service</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2015-10-07T13:23:00-04:00" pubdate data-updated="true">Oct 7<span>th</span>, 2015</time>
+        
+         | <a href="/post/2015-10-07/aquinas-on-customer-service/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="https://www.flickr.com/photos/e3000/2413197951/in/photolist-4FfgFe-7kKyij-3aGaRB-aCnk8V-6JszQu-6JszNN-6JotDa-6JszGG-7kKxFy-7kFE3z-oUDhLD-6JotiF-BLacU-6JszeA-6Jotar-8s5YGC-7e8Y16-7e8XJe-7e8XtF-oUnC9V-7XahMG-6Jotfp-7MWmec-oVsCab-oVus6n-dzWAZM-oUnB1T-oCabxR-oSBp3d-oCa9r6-oCa7ua-oUDjZg-oC9ehn-oUnBZB-oUBq5h-oC9Bej-oUDgBe-oUDeLR-oUBqWs-oUDfVp-7XahGm-8s5Z1o-8s2VZk-8s5YRN-8s2VsH-oC9T67-oSBods-oCa7TM-7N1muo-aCmeLx" title="the good, the hot and the ugly or : verbum caro, panem verum verbo carnem efficit"><img src="https://farm3.staticflickr.com/2347/2413197951_ce71253a8a_z.jpg" width="640" height="480" alt="the good, the hot and the ugly or : verbum caro, panem verum verbo carnem efficit"></a></p>
+
+<p>Episode 66 was recorded live right after the inaugural Pacific Northwest PHP Conference. We make fun of our sponsors, talk about smelly tests, Thomas Aquinas, remote pairing with juniors, and new stuff happening with OSMI.</p>
+
+<h3>Do these things!</h3>
+
+<ul>
+<li>Check out our <strong>sponsors</strong>: <a href="http://roave.com/">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35327?style=dark" width="100%"></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35327.mp3" rel="enclosure">Download now (MP3, 51.1MB, 55:41)</a></p>
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://pnwphp.com/">PNWPHP Conference</a></li>
+<li><a href="https://twitter.com/jeremeamia">Jeremy Lindblom</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Seattle_Underground">The Seattle Underground</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Thomas_Aquinas">Thomas Aquinas</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Benito_Mussolini">Mussolini</a></li>
+<li><a href="http://blog.golemon.com/">Sara Golemon</a></li>
+<li><a href="http://www.imdb.com/title/tt0097138/">Cyborg</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Elephant_meat">Elephant Meat</a></li>
+<li><a href="http://www.usatoday.com/story/life/2015/09/08/judy-carne-sock---me-girl-1970s-has-died-age-76/71903270/">&ldquo;Sock it to me!&rdquo;</a></li>
+<li><a href="http://joind.in/talk/view/14937">Smelly Tests</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CuteFTP">CuteFTP</a></li>
+<li><a href="http://docs.seleniumhq.org/">Selenium</a></li>
+<li><a href="http://www.imdb.com/title/tt0087597/">The Last Starfighter</a></li>
+<li><a href="http://funkatron.com/osmi/">Open Sourcing Mental Illness</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+      <a class="prev" href="4">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+    <a class="next" href="2">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Sponsors</h1>
+  <ul id="sponsors">
+    <li>
+        <a href="http://wondernetwork.com"><img src="/images/wonderlogo.png" alt="WonderNetwork"></a>
+    </li>
+  </ul>
+
+  <p><a href="/sponsors">Sponsor Development Hell &raquo;</a></p>
+</section>
+<section>
+  <h1>About /dev/hell</h1>
+  <p><a href="http://www.littlehart.net/atthekeyboard/">Chris Hartjes</a> and <a href="http://funkatron.com">Ed Finkler</a> are trapped in <strong>Development Hell</strong>. They record their freewheeling, uncensored discussions on programming the web, so future generations can learn from their failures.</p>
+</section>
+<section>
+<h1>Subscribe Now!</h1>
+<ul>
+	<li>
+		<!-- Begin MailChimp Signup Form -->
+		<div id="mc_embed_signup">
+		<form action="http://devhell.us6.list-manage2.com/subscribe/post?u=620f181d5f3c80cf4a4e08bdb&amp;id=c9367a4faf" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate quick-email-form" target="_blank" novalidate>
+		<div class="mc-field-group">
+			<label for="mce-EMAIL">Email Newsletter</label>
+			<div>
+				<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="your@email.com">
+				<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+			</div>
+		</div>
+			<div id="mce-responses" class="clear">
+				<div class="response" id="mce-error-response" style="display:none"></div>
+				<div class="response" id="mce-success-response" style="display:none"></div>
+			</div>	<div class="clear"> <a href="/subscribe-email.html">more &raquo;</a></div>
+		</form>
+		</div>
+
+		<!--End mc_embed_signup-->
+	</li>
+	<li><a href="https://geo.itunes.apple.com/us/podcast/dev-hell/id489840699?mt=2" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a></li>
+	<li><a href='https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Imprmrskff7gy2whw2f75ox3tvm?t%3D/dev/hell&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-mu-PartBadge-Mar2515-1' style="display:inline-block; overflow:hidden; background-image:url(https://play.google.com/intl/en_us/badges-music/images/badges/en_badge_web_music.png);  background-repeat: no-repeat; width:110px;height:40px; background-size:contain"></a></li>
+	<li><a href="http://feeds.devhell.info/devhell-podcast">RSS Feed</a></li>
+</ul>
+</section>
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2011 - 2019 Chris Hartjes and Ed Finkler -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'devhell';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

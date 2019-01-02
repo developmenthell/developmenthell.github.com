@@ -1,0 +1,1013 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>The Development Hell Podcast - /dev/hell</title>
+  <meta name="author" content="Chris Hartjes and Ed Finkler">
+
+  
+  <meta name="description" content="An uncensored, freewheeling podcast that generally focuses on JavaScript, PHP, Python, Ruby, and other tech as they relate to web development.">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://devhell.info/page/8/">
+  <link href="/favicon.png" rel="icon">
+  <meta name="msapplication-TileColor" content="#666666">
+  <meta name="msapplication-TileImage" content="/favicon_tile.png">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="http://feeds.devhell.info/devhell-podcast" rel="alternate" title="/dev/hell" type="application/atom+xml">
+  <link rel="stylesheet" href="/assets/fonts/League_Gothic-stylesheet.css" type="text/css" charset="utf-8">
+<script src="/assets/audiojs/audio.min.js"></script>
+<script>
+var player_win = null; // used in handler below
+$(document).ready(function() {
+	$('a.audio-player-popup').on('click', function(e) {
+		$el = $(this);
+		var link = $el.attr('href');
+		if (!player_win || player_win.closed) {
+			player_win = window.open(link,
+				"player_win", "resizable=yes,scrollbars=yes,status=no,height=60,width=460");
+		} else {
+			player_win.focus();
+		};
+	});
+
+	// load audiojs on audio.audiojs elements
+	audiojs.events.ready(function() {
+		var as = audiojs.createAll({
+			'preload': false,
+			'autoplay': false
+		}, $('audio.audiojs'));
+	});
+
+})
+</script>
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+	<div id="sharing">
+		<div id="fb-sharing" class="button-container">
+			<div class="fb-like" data-send="false" data-layout="box_count" data-width="63" data-show-faces="false"></div>
+		</div>
+
+		<div id="google-sharing" class="button-container">
+			<!-- Place this tag where you want the +1 button to render. -->
+			<div class="g-plusone" data-size="tall" data-annotation="none"></div>
+
+			<!-- Place this tag after the last +1 button tag. -->
+			<script type="text/javascript">
+			  (function() {
+			    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			    po.src = 'https://apis.google.com/js/plusone.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			  })();
+			</script>
+		</div>
+
+		<div id="twitter-sharing" class="button-container">
+			<a href="https://twitter.com/share" class="twitter-share-button" data-related="dev_hell" data-lang="en" data-size="small" data-count="none">Tweet</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</div>
+
+	</div>
+
+  <h1><a href="/">/<span class="title-color-2">dev</span>/<span class="title-color-2">hell</span></a> <div class="logo"></div></h1>
+  
+    <h2>The Development Hell Podcast</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss email">
+  <li><a href="http://feeds.devhell.info/devhell-podcast" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+    <li><a href="http://devhell.info/subscribe-email.html" rel="subscribe-email" title="subscribe via email">Email</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:devhell.info" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Newest</a></li>
+  <li><a href="/sponsors">Sponsors</a></li>
+  <li><a href="/shop">Swag Shop</a></li>
+  <li><a href="/irc">Chat</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2013-01-23/artisan-database-administration/">Episode 27: Artisan Database Administration</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-01-23T12:18:00-05:00" pubdate data-updated="true">Jan 23<span>rd</span>, 2013</time>
+        
+         | <a href="/post/2013-01-23/artisan-database-administration/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="http://www.flickr.com/photos/49333775@N00/2463025322/" title="Miniature knitted vest 2 by The Shopping Sherpa, on Flickr"><img src="http://farm4.staticflickr.com/3284/2463025322_d48a48e6fd_o.jpg" width="1000" height="750" alt="Miniature knitted vest 2"></a></p>
+
+<p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&rsquo;s success.</p>
+
+<p>This episode&rsquo;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#111;&#x3a;&#116;&#x69;&#108;&#108;&#43;&#112;&#x68;&#x70;&#64;&#105;&#109;&#97;&#103;&#x69;&#110;&#x65;&#x65;&#97;&#115;&#x79;&#46;&#99;&#x6f;&#x6d;">&#116;&#105;&#x6c;&#x6c;&#43;&#x70;&#104;&#112;&#64;&#105;&#x6d;&#x61;&#x67;&#105;&#110;&#x65;&#x65;&#97;&#115;&#x79;&#46;&#99;&#111;&#x6d;</a>.</p>
+
+<p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
+and <a href="http://wondernetworks.com">Wonder Network</a> for providing
+cashmoney and bandwidth for our live stream, respectively.</p>
+
+<ul>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Like us on Facebook <a href="https://www.facebook.com/devhellpodcast">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35286?style=dark" width="100%"></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35286.mp3" rel="enclosure">Download now (MP3, 33.2MB, 1:14:08)</a></p>
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://chesnok.com/">Selena Deckelmann</a></li>
+<li><a href="https://github.com/preinheimer/xhgui">XHGui</a></li>
+<li><a href="http://www.cerias.purdue.edu">Ed&rsquo;s old gig at Purdue</a></li>
+<li><a href="http://mxcl.github.com/homebrew/">Homebrew</a></li>
+<li><a href="http://www.macports.org/">MacPorts</a></li>
+<li><a href="http://www.finkproject.org/">Fink</a></li>
+<li><a href="http://www.vagrantup.com/">Vagrant</a></li>
+<li><a href="http://www.littlehart.net/atthekeyboard/2013/01/20/standards-soapboxes-and-shamans/">Standards, Soapboxes, and Shamans</a></li>
+<li><a href="http://en.wikipedia.org/wiki/BitKeeper">Bitkeeper Wikipedia page with history of usage on Linux kernel dev</a></li>
+<li><a href="https://leanpub.com/grumpy-testing">The Grumpy Programmer&rsquo;s Guide To Building Testable PHP Applications</a></li>
+<li><a href="http://www.youtube.com/watch?v=u4D3UdxM3OU">Deadwood&rsquo;s Favorite Word</a></li>
+<li><a href="http://openlife.cc/blogs/2012/august/froscon-how-big-corporations-play-open-source-game">How Big Corporations Play The Open Source Game</a>
+
+<ul>
+<li><a href="https://twitter.com/h_ingo">Henrik Ingo on Twitter</a></li>
+</ul>
+</li>
+<li><a href="http://actualfacebookgraphsearches.tumblr.com/">Actual Facebook Graph Searches</a></li>
+<li><a href="http://www.yiiframework.com/">Yii Framework</a></li>
+<li><a href="http://busycooks.about.com/od/chickenrecipe1/r/thaichickenthig.htm">Selena&rsquo;s curry recipe</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2013-01-17/sassy/">Episode 26: Sassy!</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-01-17T08:51:00-05:00" pubdate data-updated="true">Jan 17<span>th</span>, 2013</time>
+        
+         | <a href="/post/2013-01-17/sassy/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="http://www.flickr.com/photos/roadsidepictures/313680465/" title="Sassy by Roadsidepictures, on Flickr"><img src="http://farm1.staticflickr.com/120/313680465_73e6ede973_o.jpg" width="850" height="680" alt="Sassy"></a></p>
+
+<p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs' suicide, both in the context of governmental power and mental illness. We also talk about Ed&rsquo;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
+
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#111;&#x3a;&#x74;&#105;&#108;&#x6c;&#43;&#112;&#x68;&#x70;&#64;&#x69;&#x6d;&#x61;&#103;&#x69;&#x6e;&#x65;&#x65;&#x61;&#115;&#121;&#x2e;&#99;&#x6f;&#109;">&#x74;&#105;&#x6c;&#108;&#x2b;&#112;&#x68;&#112;&#64;&#x69;&#x6d;&#97;&#x67;&#x69;&#x6e;&#x65;&#101;&#97;&#x73;&#121;&#46;&#99;&#x6f;&#x6d;</a>.</p>
+
+<p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
+and <a href="http://wondernetworks.com">Wonder Network</a> for providing
+cashmoney and bandwidth for our live stream, respectively.</p>
+
+<ul>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Like us on Facebook <a href="https://www.facebook.com/devhellpodcast">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35285?style=dark" width="100%"></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35285.mp3" rel="enclosure">Download now (MP3, 29MB, 1:02:33)</a></p>
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://i.imgur.com/RIfMK.jpg">Lincoln Park Chicago Appl store</a></li>
+<li><a href="http://www.wired.com/entertainment/music/news/2007/05/ff_linkinpark?currentPage=all">Linkin Park&rsquo;s Mysterious Cyberstalker</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a>
+
+<ul>
+<li><a href="https://aaronsw.jottit.com/howtoget">How to Get a Job Like Mine</a>. &ldquo;I followed these rules. And here I am today, with a dozen projects on my plate and my stress level through the roof once again.&rdquo;</li>
+<li><a href="http://en.wikipedia.org/wiki/Jacob_Appelbaum">Jacob Applebaum (IOError)</a></li>
+<li><a href="https://www.supportcamh.ca/donations">Centre for Addiction and Mental Health</a></li>
+<li><a href="http://www.nami.org/">National Alliance on Mental Illness</a></li>
+</ul>
+</li>
+<li><a href="http://5by5.tv/hypercritical">Hypercritical podcast</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Mike_Wilner">Mike Wilner</a></li>
+<li><a href="http://sass-lang.com/">SASS</a></li>
+<li><a href="http://smacss.com/">SMACSS &ndash; Scalable and Modular Architecture for CSS</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2012-12-28/the-development-hell-guide-to-podcasting-on-the-cheap/">The Development Hell Guide to Podcasting on the Cheap, Part 1: Hardware, Software and Recording</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-12-28T13:55:00-05:00" pubdate data-updated="true">Dec 28<span>th</span>, 2012</time>
+        
+         | <a href="/post/2012-12-28/the-development-hell-guide-to-podcasting-on-the-cheap/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="http://www.flickr.com/photos/tetrad/5479425416" title="Microphone by Jesse Flanagan"><img src="/images/podcasting-guide/mic-photo.jpg" alt="Microphone by Jesse Flanagan" /></a></p>
+
+<p><em>We started recording <a href="http://devhell.info">/dev/hell</a> because we thought it would be fun. We wanted it to sound decent, but we didn’t want to work hard at making that happen, because we are lazy. And cheap.</em></p>
+
+<p><em><a href="http://funkatron.com">I’ve</a> had some experience with indie <a href="http://cultofjester.com">audio</a> <a href="http://deadagent.net">production</a>, so I know a few things about making stuff sound better than it should. That, and a lot of stuff I’ve picked up on the way, has helped make /dev/hell sound semi-decent on a very, very small budget.</em></p>
+
+<p><em>In this <a href="/blog/categories/podcasting-guide/">series of articles</a>, I’ll detail the hardware, software, and processes we use when we record /dev/hell. If you’re thinking about making your own podcasts, this will get you started with a minimum amount of cash and a maximum amount of awesome.</em></p>
+
+<p>All of the /dev/hell podcasts are recordings of voice chats between Chris and me, plus any guests who happen to be with us. This is actually a lot easier than recording in person, and lets us optimize a lot in terms of hardware and software expense. We record with pretty cheap hardware and software, and do a bit more post-production work to make stuff sound decent.</p>
+
+<p>Note that we do all our podcasting work on OS X, so hardware and software have only been tested there. Most of what we discuss should work with Windows, but I’m not sure about Linux support.</p>
+
+<h3>Hardware</h3>
+
+<p><a href="http://www.amazon.com/gp/product/B003NREDHS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B003NREDHS&amp;linkCode=as2&amp;tag=funkatroncom-20" title="Logitech H555 headset"><img src="/images/podcasting-guide/logitech-headset.jpg" alt="Logitech H555 headset" /></a></p>
+
+<p>I use a <a href="http://www.amazon.com/gp/product/B003NREDHS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B003NREDHS&amp;linkCode=as2&amp;tag=funkatroncom-20">Logitech H555 headset</a> to record on my side. It’s also my go-to headset for any voice chat. My speech sounds clear and intelligible through it, and it does a pretty good job of cancelling out ambient noise. It’s USB and wired, so I don’t have issues with connectivity there, and it has a physical mute switch, which is really handy when you have to cough or throw up. It’s not the cheapest headset you can find, but for the price, the voice fidelity is very good. The only significant issue I’ve found is that the mic will pick up the sound from the headphones if I have it really turned up, but I can mitigate that with a noise gate in post-production. I’ve carried this thing all around the country, and it has consistently Just Worked as soon as I plug it in.</p>
+
+<p>Alternately, you might check out the <a href="http://www.amazon.com/gp/product/B003NREDG4/ref=as_li_ss_tl?ie=UTF8&amp;tag=funkatroncom-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B003NREDG4">Logitech USB Headset H530</a>, which is similar, but looks like it would be a bit more comfortable (but less portable).</p>
+
+<p>I have messed some with bluetooth headsets and ear pieces, and they all have sucked. Constant pairing issues, audio quality problems, and battery drain. You don’t want to mess with this stuff just before you’re scheduled to record, let alone have it die in the middle of a sesson.</p>
+
+<p>I also avoid any cheap stuff that plugs into the 1/8” analog inputs on my computer, particularly microphones. That stuff is almost always garbage – poor quality, prone to clipping and picking up hums and noise. Don’t do it.</p>
+
+<p>You can get better quality mics than my headset has, but it also introduces a <em>lot</em> more hassle and expense. Decent-quality USB mics are going to run you at least $60, and they tie you to a desk or mic stand. If you want to have more flexibility, you can get XLR mics (I have a <a href="http://www.amazon.com/gp/product/B000CZ0R42/ref=as_li_ss_tl?ie=UTF8&amp;tag=funkatroncom-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000CZ0R42">Shure SM-58</a>), but then you’ll also need an outboard audio interface and mixer – more equipment to tie you down, and now we’re getting into at least a few hundred dollars in hardware.</p>
+
+<p>If you do get a separate mic, I’d recommend a <em>dynamic</em> mic, especially if you’re only recording yourself talking on Skype. Chris is currently using a <a href="http://www.amazon.com/gp/product/B002VA464S/ref=as_li_ss_tl?ie=UTF8&amp;tag=funkatroncom-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B002VA464S">Blue Yeti condenser mic</a>, and it picks up <em>tons</em> of ambient noise in the room. Condensers are great for doing in-person interviews where you just drop the mic on a table between everybody, but they&rsquo;re not well-suited for for voice chat. You&rsquo;ll end up muting yourself any time you&rsquo;re not talking, and spending time in post-production editing out squeaky chairs and keyboard typing.</p>
+
+<h3>Software</h3>
+
+<p><img src="/images/podcasting-guide/call-recorder.png" alt="Call Recorder screenshot" /></p>
+
+<p>We use Skype to talk to each other. It has the best audio quality of all the voice chat options I’ve tried, and it’s free and available on all major desktop platforms. It’s not perfect, but it’s the best option available.</p>
+
+<p>To record our Skype conversations, I recommend <a href="http://www.ecamm.com/mac/callrecorder/">Call Recorder</a>, a $20 add-on to Skype for Windows and OS X. The biggest win with Call Recorder is its ability to split the two sides of your conversation intp separate tracks, so you can process and edit them separately in post-production. It also has a simple, easy to use interface. There’s a 15-day fully functional trial, so it should work okay for one-off guests who don’t want to drop $20 just to be on your show.</p>
+
+<p>We’ve also used <a href="http://www.rogueamoeba.com/audiohijackpro/">Audio Hijack Pro</a>, a $32 application for OS X. AHP is <em>much</em> more flexible than Call Recorder: it can record any audio being generated by any application in OS X, do timed recordings, and lots of other cool stuff. It also can separate Skype conversations into the left and right sides of a stereo track, so you can treat them separately in post-production. But, being a significantly more complex application than Call Recorder, it’s also easier to screw stuff up, which I’ve done a few times.</p>
+
+<h3>Recording</h3>
+
+<p><a href="http://www.flickr.com/photos/quinnanya/5893297990/" title="Shriek by Quinn Dombrowski"><img src="/images/podcasting-guide/shriek-recording.jpg" alt="Shriek by Quinn Dombrowski" /></a></p>
+
+<p>Before you do any recording, use the Skype test call feature to record yourself speaking as you would in the session. Have a paragraph of text handy and recite it into the call. Alternately, call up your co-host and just shoot the breeze for a few minutes, recording it with Call Recorder. Listen to the recording, make note of issues, and address accordingly.</p>
+
+<p>All the session participants should be in a quiet area where they won’t get visitors and don’t get a lot of echo (carpeted areas are better in this regard). I always record in a big recliner in the corner of the living room with my laptop on my lap, and always wait until 9pm so the Kinder are in bed. Let folks in your home know that you’ll be recording, so they don’t bug you about stuff in the middle of the session.</p>
+
+<p>If you’re the person who will be doing post-production, have a notepad handy – physical or virtual – to write down possible edit spots. If you hear a big glitch/slip-up/disconnection/meltdown, it is <strong>much</strong> easier to find it if you have written down the time it happened. Listening through your entire podcast to find it will be <em>extremely</em> tedious, especially if you tend to ramble like we do.</p>
+
+<p>About 10 minutes before you’re scheduled to record, get everyone on the Skype call. This should allow you to hear potential issues and try to address them before you start recording, like excessive background noise or bandwidth problems.</p>
+
+<p>One thing I recommend is that you get people to record on a computer that’s connected via wired ethernet. WiFi gets really flakey, and can cause glitches in Skype that you wouldn’t anticipate. This is particularly problematic in more densely populated areas. You may not have much issue – I’m lucky in that my WiFi is very fast and consistent – but it’s definitely safer to be wired. If you’re not able to connect directly, at least sit where you have good, consistent WiFi reception, and <em>don’t move</em>.</p>
+
+<p>When you’re ready to start the podcast, the easiest thing to do is just have one person record using one of the above applications. This works okay if everyone involved has a very solid Internet connection and local network. The more people you have on the call, though, the more problems you’re likely to have.</p>
+
+<p>I recommend having every participant in the session record on their end. This can be a bit of a pain if you have frequent guests, but the 15-day trial version of Call Recorder should allow them to handle this without spending any cash. With everyone recording locally, you can get a high-quality local recording of each participant, mitigating the glitchiness that you’ll get with Skype. It also means you have backup recordings in case you forgot to hit Record (not that I’d ever do that). The relevant settings I use in Call Recorder&rsquo;s preferences are:</p>
+
+<ul>
+<li>Audio Encoding: AAC Compression</li>
+<li>Audio Quality: High</li>
+<li>Show Recording Controls At Launch</li>
+<li>Keep Recording Controls In Front During calls</li>
+</ul>
+
+
+<p><em>Note: normally you </em>never<em> want to record with &ldquo;lossy&rdquo; compression like AAC or MP3. But because we&rsquo;re recording speech, and our final format is relatively low-fidelity (64kbps mono MP3), I don&rsquo;t think there&rsquo;s any perceptible advantage. It&rsquo;s fine to record compressed files, though, and would be a good idea if you&rsquo;re striving for the best possible fidelity.</em></p>
+
+<p>When you’re done, have everyone upload their recordings in a shared space so you can grab them. A shared Dropbox folder has worked well for us.</p>
+
+<p>Note that you won’t be able to magically sync up all your recordings. You can and should try to start recording all at the same time (a little bit <em>before</em> you actually start the podcast), but you’ll have to manually line stuff up in post-production.</p>
+
+<p>That’s it for recording. Next time we’ll cover <strong>post-production</strong>, where you turn your separate audio tracks into something worth hearing.</p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2012-12-21/quarter-century/">Episode 25: Quarter Century</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-12-21T00:00:00-05:00" pubdate data-updated="true">Dec 21<span>st</span>, 2012</time>
+        
+         | <a href="/post/2012-12-21/quarter-century/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="http://www.flickr.com/photos/stephen_rees/8074598598" title="Quarter. Stephen Rees"><img src="http://farm8.staticflickr.com/7127/8074598598_50f7919e88_z.jpg" alt="Quarter. Photo by Stephen Rees" /></a></p>
+
+<p>It has now been 25 times that Ed and Chris have fired up Skype
+and talked to each other and some friends, old and new, about
+whatever the hell they felt like talking about.</p>
+
+<p>They would keep doing this even if nobody else listened, because
+developer misery loves company. Thank you to everyone who has
+been listening to us work out our own issues with the technologies
+that help shovel money into our bank accounts.</p>
+
+<p>In this episode Ed talked about his experiences at CodeConnex,
+Chris tried to goad Ed into further ranting and arguments about
+the latest round of push-backs against the microframework manifesto
+and people crying about other people crying about dependencies in
+their code.</p>
+
+<p>The show then ended with Ed speaking about the very real challenge
+of creating awesome infinite scrolling experiences, which made
+Chris realize he is better off learning Javascript just to use
+Node and avoid the mess that is the DOM.</p>
+
+<p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
+and <a href="http://wondernetworks.com">Wonder Network</a> for providing
+cashmoney and bandwidth for our live stream, respectively.</p>
+
+<h3>Listen</h3>
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35283?style=dark" width="100%"></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35283.mp3" rel="enclosure">Download now (MP3, 34MB, 1:15:58)</a></p>
+
+<h2>Links and Notes</h2>
+
+<ul>
+<li><a href="http://api.whereisitup.com">Where Is It Up API</a></li>
+<li><a href="http://codeconnex.org">CodeConnex</a></li>
+<li><a href="http://phpmentoring.org">PHP Mentoring</a></li>
+<li><a href="http://auraphp.github.com">Aura Framework</a></li>
+<li>Pretty much anything Paul Motherfucking Jones <a href="http://paul-m-jones.com">has written about programming</a></li>
+<li>Air BnB&rsquo;s <a href="http://airbnb.github.com/infinity/">infinite scrolling library</a></li>
+<li>Palm&rsquo;s <a href="https://developer.palm.com/content/api/reference/mojo/widgets/list.html">Mojo widget library</a></li>
+<li>HP&rsquo;s <a href="https://github.com/enyojs/enyo/wiki/Lists">Enyo list widgets</a></li>
+<li><a href="https://github.com/mleibman/SlickGrid">SlickGrid</a></li>
+<li><a href="http://addepar.github.com/ember-table">Ember Table</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2012-12-14/members-only/">Episode 24: Members Only</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-12-14T09:59:00-05:00" pubdate data-updated="true">Dec 14<span>th</span>, 2012</time>
+        
+         | <a href="/post/2012-12-14/members-only/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="http://www.flickr.com/photos/jarylcabuco/5452408001" title="_MG_4291. Jaryl Cabuco"><img src="http://farm6.staticflickr.com/5099/5452408001_67cd7d9397_z.jpg" alt="_MG_4291. Photo by Jaryl Cabuco" /></a></p>
+
+<p>Special guest Matt Turland joins us for episode 24, and tells us how much of an asshole Chris is in real life. We also talk a lot about team development processes, including ramping up new hires, documenting processes, and workflow tools. Lots of super smart stuff that we&rsquo;re usually too lazy to do.</p>
+
+<p>If you&rsquo;re the corncob on our picnic plate, you&rsquo;ll do these things:</p>
+
+<ul>
+<li>Check out our sponsors <a href="https://wondernetwork.com/">WonderNetwork</a> and <a href="http://www.engineyard.com/">Engine Yard</a></li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Like us on Facebook <a href="https://www.facebook.com/devhellpodcast">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35282?style=dark" width="100%"></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35282.mp3" rel="enclosure">Download now (MP3, 36.4MB, 1:20:31)</a></p>
+
+<h3>Links and Notes</h3>
+
+<ul>
+<li><a href="http://matthewturland.com/">Matthew Turland</a></li>
+<li><a href="http://phergie.org/">Phergie IRC bot</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Members_Only">Members Only jackets</a></li>
+<li><a href="http://synacor.com">Synacor</a></li>
+<li><a href="http://www.catalystframework.org/">Catalyst Framework</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Service-oriented_architecture">Service-oriented architecture on Wikipedia</a></li>
+<li><a href="https://www.varnish-cache.org/">Varnish</a></li>
+<li>Fred George &mdash; <a href="http://oredev.org/2012/sessions/micro-service-architecture">Micro Service Architecture talk</a>, <a href="http://oredev.org/2012/sessions/programmer-anarchy">Programmer Anarchy talk</a></li>
+<li><a href="http://www.slideshare.net/fehguy/scaling-with-swagger-11728693">Scaling With Swagger</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2012-11-28/episode-23-redux/">Episode 23 Redux</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-11-28T09:50:00-05:00" pubdate data-updated="true">Nov 28<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>Well crap. Episode 23 had a bad edit screwup in it, and the last 30m was basically unlistenable. This has been corrected below and at the original URL. For notes and comments, <a href="/post/2012-11-25/the-bozo-brush/">see the original post</a>.</p>
+
+<h3>Listen</h3>
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35281?style=dark" width="100%"></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35281.mp3" rel="enclosure">Download now (MP3, 40.1MB, 1:30:00)</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2012-11-25/the-bozo-brush/">Episode 23: The Bozo Brush</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-11-25T20:52:00-05:00" pubdate data-updated="true">Nov 25<span>th</span>, 2012</time>
+        
+         | <a href="/post/2012-11-25/the-bozo-brush/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="http://www.flickr.com/photos/mike_miley/8088535219" title="19 Bozo Costumes. H. Michael Miley"><img src="http://farm9.staticflickr.com/8472/8088535219_acc95ce9a8_z.jpg" alt="19 Bozo Costumes. Photo by H. Michael Miley" /></a></p>
+
+<p><strong>UPDATE Nov 28 2012:</strong> We fixed a bad error in the original audio file. Please <a href="http://audio.simplecast.com/35281.mp3">re-download</a> to get the corrected file</p>
+
+<p>Episode 23 is packed chock-full of awesome guests. We talk about the controversy around the cancellation of BritRuby, and the larger issues of diversity and inclusiveness at tech conferences, with <a href="http://ashedryden.com/">Ashe Dryden</a> and <a href="http://braythwayt.com/">Reg Braithwaite</a>. We also get into the goofiness of Star Trek and the wonder of railroad games.</p>
+
+<p>If you&rsquo;re the soul in the software, you&rsquo;ll do these things:</p>
+
+<ul>
+<li>Check out our sponsors <a href="https://wondernetwork.com/">WonderNetwork</a> and <a href="http://www.engineyard.com/">Engine Yard</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+<li>Like us on Facebook <a href="https://www.facebook.com/devhellpodcast">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35280?style=dark" width="100%"></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35280.mp3" rel="enclosure">Download now (MP3, 40.1MB, 1:30:00)</a></p>
+
+<h3>Links and Notes</h3>
+
+<ul>
+<li><a href="http://ashedryden.com/">Ashe Dryden</a></li>
+<li><a href="http://braythwayt.com/">Reg Braithwaite</a></li>
+<li><a href="http://gim.ie/_VK9">BritRuby 2013 site (screen cap of Google cache)</a></li>
+<li><a href="http://truenorthphp.ca/">True North PHP</a></li>
+<li><a href="http://weblog.raganwald.com/2008/01/billy-martins-technique-for-managing.html">Billy Martin&rsquo;s Technique for Managing his Manager</a></li>
+<li><a href="http://www.benetton.com/us/">United Colors of Benetton</a></li>
+<li><a href="http://www.etymonline.com/index.php?term=girl">&ldquo;Girls&rdquo; as a non-gendered term</a></li>
+<li><a href="https://itunes.apple.com/us/app/ticket-to-ride/id432504470?mt=8">Ticket to Ride on iOS</a></li>
+<li><a href="http://boardgamegeek.com/boardgame/822/carcassonne">Carcassonne</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Empire_Builder_%28board_game%29">Empire Builder</a></li>
+<li><a href="https://leanpub.com/coffeescript-ristretto">Coffeescript Ristretto</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2012-10-25/object-oriented-home-renovation/">Episode 22: Object-Oriented Home Renovation</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-10-25T16:05:00-04:00" pubdate data-updated="true">Oct 25<span>th</span>, 2012</time>
+        
+         | <a href="/post/2012-10-25/object-oriented-home-renovation/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="http://www.flickr.com/photos/usace-kcd/5967517006" title="First FEMA modular homes arrive in Joplin. Kansas City District U.S. Army Corps of Engineers"><img src="http://farm7.staticflickr.com/6029/5967517006_fac5db6ddd_z.jpg" alt="First FEMA modular homes arrive in Joplin. Photo by Kansas City District U.S. Army Corps of Engineers" /></a></p>
+
+<p>We hit the Double Deuce this week with special guest Jim Gay. Jim is the author of Clean Ruby, the upcoming book that applies &ldquo;Data, Context and Interaction&rdquo; (DCI) concepts to Ruby and Rails development. Jim is clearly much smarter than us, so we took this opportunity to attack him mercilessly as a representative of the sexist Ruby community. Jim also shares his experiences as a self-published author. In addition, we talk about how True North PHP planning is going for Chris, and Ed&rsquo;s experiences at Brooklyn Beta.</p>
+
+<p>If you&rsquo;re a true believer, you&rsquo;ll do these things:</p>
+
+<ul>
+<li>Check out our sponsors <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35279?style=dark" width="100%"></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35279.mp3" rel="enclosure">Download now (MP3, 33.1MB, 1:14:41)</a></p>
+
+<h3>Links and Notes</h3>
+
+<ul>
+<li><a href="http://twitter.com/saturnflyer">Jim Gay</a></li>
+<li><a href="http://www.clean-ruby.com/">Clean Ruby</a></li>
+<li><a href="http://brooklynbeta.org">Brooklyn Beta</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Cory_Booker">Cory Booker</a></li>
+<li><a href="http://truenorthphp.ca">True North PHP</a></li>
+<li><a href="http://twitter.com/pinboard">Maciej &ldquo;Pinboard guy&rdquo; Ceglowski</a></li>
+<li><a href="http://twitter.com/pieratt">Ben Pieratt</a></li>
+<li><a href="http://codeconnexx.com">Codeconnexx</a></li>
+<li><a href="http://unicornfree.com/30x500">30x500</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Data,_Context,_and_Interaction">DCI on Wikipedia</a></li>
+<li><a href="http://fulloo.info/">DCI web site</a></li>
+<li><a href="http://geekfeminism.wikia.com/wiki/CouchDB_talk">GeekFeminism Wiki article on CouchDB talk at the 2009 Golden Gate Ruby Conference</a></li>
+<li><a href="http://confreaks.com/videos/1089-madisonruby2012-anti-opression-101">Anti-Oppression 101</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2012-10-06/the-grace-hopper-rape-whistle/">Episode 21: The Grace Hopper Rape Whistle</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-10-06T22:24:00-04:00" pubdate data-updated="true">Oct 6<span>th</span>, 2012</time>
+        
+         | <a href="/post/2012-10-06/the-grace-hopper-rape-whistle/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="http://www.flickr.com/photos/funkatron/8061384680" title="The Grace Hopper Rape Whistle. Photo by Liene Verzemnieks"><img src="http://farm9.staticflickr.com/8042/8061384680_526555a42c_z.jpg" alt="The Grace Hopper Rape Whistle. Photo by Liene Verzemnieks" /></a></p>
+
+<p>Twenty-one. Like blackjack. Like the gun salute. <a href="http://www.youtube.com/watch?v=trVcO02nwAE">For those about to rock</a>.</p>
+
+<p>We recorded this episode just a few days after #20, because we were able to get Elizabeth Naramore as a super-special secret guest! She talks to us about Codeconnexx, an open source tech and life skills conference in Indianapolis Nov 8-9. We also talked a lot about getting women to submit talks to conferences, including the success that Jan Lehnardt has had in this area with JSConfEU. We then get into Chris&rsquo;s experiments with JS testing, and what we think of App.net from a developer perspective.</p>
+
+<p>If you&rsquo;re support the inalienable rights of all humans, you&rsquo;ll do these things:</p>
+
+<ul>
+<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35278?style=dark" width="100%"></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35278.mp3" rel="enclosure">Download now (MP3, 28.5MB, 1:06:42)</a></p>
+
+<h3>Links and Notes</h3>
+
+<ul>
+<li><a href="http://codeconnexx.com">Codeconnexx</a></li>
+<li><a href="http://truenorthphp.com">True North PHP</a></li>
+<li><a href="http://oredev.com">&Oslash;redev 2012</a></li>
+<li><a href="http://2012.jsconf.eu/2012/09/17/beating-the-odds-how-we-got-25-percent-women-speakers.html">How We Got 25% Women Speakers for JSConf EU 2012</a></li>
+<li><a href="http://naramore.net/blog/">Elizabeth Naramore&rsquo;s Blog</a></li>
+<li><a href="http://qunitjs.com/">Qunit</a></li>
+<li><a href="http://pivotal.github.com/jasmine/">Jasmine</a></li>
+<li><a href="http://chaijs.com/">Chai</a></li>
+<li><a href="http://visionmedia.github.com/mocha/">Mocha</a></li>
+<li><a href="http://sinonjs.org/">Sinon</a></li>
+<li><a href="https://join.app.net/">App.net</a></li>
+<li><a href="http://twitter.com/li3n3">Post photo by Liene Verzemnieks/@li3n3</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2012-10-01/chris-hartjess-kitchen-nightmare/">Episode 20: Chris Hartjes's Kitchen Nightmare</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-10-01T11:46:00-04:00" pubdate data-updated="true">Oct 1<span>st</span>, 2012</time>
+        
+         | <a href="/post/2012-10-01/chris-hartjess-kitchen-nightmare/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="http://www.flickr.com/photos/mercurialn/5074023349/" title="kitchen collapse by Nate Dorr"><img src="http://farm5.staticflickr.com/4071/5074023349_8eb3fe9b2d_z.jpg" alt="kitchen collapse by Nate Dorr" /></a></p>
+
+<p>EPISODE DOS EQUIS! Our 20th show goes out to all the haters. IN YOUR FACE HATERS.</p>
+
+<p>This week we talk about how Chris sucks at cooking food, which segues nicely into a discussion of the True North PHP conference that he&rsquo;s co-organizing in Toronto in November. Thankfully he will not be catering the event himself. We also talk about Ed&rsquo;s move from doing PHP to Python for day-to-day work, and the plusses and minuses he&rsquo;s encountered during the transition.</p>
+
+<p>If you&rsquo;re a Superfriend, you&rsquo;ll do these things:</p>
+
+<ul>
+<li>Check out our sponsors, <a href="http://www.engineyard.com/">Engine Yard</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Follow us on Twitter <a href="https://twitter.com/dev_hell">here</a>.</li>
+<li>Rate us on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h3>Listen</h3>
+
+<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35277?style=dark" width="100%"></iframe>
+
+
+<p><a href="http://audio.simplecast.com/35277.mp3" rel="enclosure">Download now (MP3, 35.4MB, 1:21:40)</a></p>
+
+<h3>Links and Notes</h3>
+
+<ul>
+<li><a href="http://truenorthphp.com">True North PHP</a></li>
+<li><a href="http://www.php2python.com/">php2python</a></li>
+<li><a href="http://hyperpolyglot.org/">Hyperpolyglot</a></li>
+<li><a href="http://cobra-language.com/">Cobra Language</a></li>
+<li><a href="http://docs.python.org/howto/argparse.html">Argparse Python lib</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+      <a class="prev" href="9">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+    <a class="next" href="7">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Sponsors</h1>
+  <ul id="sponsors">
+    <li>
+        <a href="http://wondernetwork.com"><img src="/images/wonderlogo.png" alt="WonderNetwork"></a>
+    </li>
+  </ul>
+
+  <p><a href="/sponsors">Sponsor Development Hell &raquo;</a></p>
+</section>
+<section>
+  <h1>About /dev/hell</h1>
+  <p><a href="http://www.littlehart.net/atthekeyboard/">Chris Hartjes</a> and <a href="http://funkatron.com">Ed Finkler</a> are trapped in <strong>Development Hell</strong>. They record their freewheeling, uncensored discussions on programming the web, so future generations can learn from their failures.</p>
+</section>
+<section>
+<h1>Subscribe Now!</h1>
+<ul>
+	<li>
+		<!-- Begin MailChimp Signup Form -->
+		<div id="mc_embed_signup">
+		<form action="http://devhell.us6.list-manage2.com/subscribe/post?u=620f181d5f3c80cf4a4e08bdb&amp;id=c9367a4faf" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate quick-email-form" target="_blank" novalidate>
+		<div class="mc-field-group">
+			<label for="mce-EMAIL">Email Newsletter</label>
+			<div>
+				<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="your@email.com">
+				<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+			</div>
+		</div>
+			<div id="mce-responses" class="clear">
+				<div class="response" id="mce-error-response" style="display:none"></div>
+				<div class="response" id="mce-success-response" style="display:none"></div>
+			</div>	<div class="clear"> <a href="/subscribe-email.html">more &raquo;</a></div>
+		</form>
+		</div>
+
+		<!--End mc_embed_signup-->
+	</li>
+	<li><a href="https://geo.itunes.apple.com/us/podcast/dev-hell/id489840699?mt=2" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a></li>
+	<li><a href='https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Imprmrskff7gy2whw2f75ox3tvm?t%3D/dev/hell&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-mu-PartBadge-Mar2515-1' style="display:inline-block; overflow:hidden; background-image:url(https://play.google.com/intl/en_us/badges-music/images/badges/en_badge_web_music.png);  background-repeat: no-repeat; width:110px;height:40px; background-size:contain"></a></li>
+	<li><a href="http://feeds.devhell.info/devhell-podcast">RSS Feed</a></li>
+</ul>
+</section>
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2011 - 2019 Chris Hartjes and Ed Finkler -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'devhell';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

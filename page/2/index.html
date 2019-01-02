@@ -1,0 +1,1053 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>The Development Hell Podcast - /dev/hell</title>
+  <meta name="author" content="Chris Hartjes and Ed Finkler">
+
+  
+  <meta name="description" content="An uncensored, freewheeling podcast that generally focuses on JavaScript, PHP, Python, Ruby, and other tech as they relate to web development.">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://devhell.info/page/2/">
+  <link href="/favicon.png" rel="icon">
+  <meta name="msapplication-TileColor" content="#666666">
+  <meta name="msapplication-TileImage" content="/favicon_tile.png">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="http://feeds.devhell.info/devhell-podcast" rel="alternate" title="/dev/hell" type="application/atom+xml">
+  <link rel="stylesheet" href="/assets/fonts/League_Gothic-stylesheet.css" type="text/css" charset="utf-8">
+<script src="/assets/audiojs/audio.min.js"></script>
+<script>
+var player_win = null; // used in handler below
+$(document).ready(function() {
+	$('a.audio-player-popup').on('click', function(e) {
+		$el = $(this);
+		var link = $el.attr('href');
+		if (!player_win || player_win.closed) {
+			player_win = window.open(link,
+				"player_win", "resizable=yes,scrollbars=yes,status=no,height=60,width=460");
+		} else {
+			player_win.focus();
+		};
+	});
+
+	// load audiojs on audio.audiojs elements
+	audiojs.events.ready(function() {
+		var as = audiojs.createAll({
+			'preload': false,
+			'autoplay': false
+		}, $('audio.audiojs'));
+	});
+
+})
+</script>
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+	<div id="sharing">
+		<div id="fb-sharing" class="button-container">
+			<div class="fb-like" data-send="false" data-layout="box_count" data-width="63" data-show-faces="false"></div>
+		</div>
+
+		<div id="google-sharing" class="button-container">
+			<!-- Place this tag where you want the +1 button to render. -->
+			<div class="g-plusone" data-size="tall" data-annotation="none"></div>
+
+			<!-- Place this tag after the last +1 button tag. -->
+			<script type="text/javascript">
+			  (function() {
+			    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			    po.src = 'https://apis.google.com/js/plusone.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			  })();
+			</script>
+		</div>
+
+		<div id="twitter-sharing" class="button-container">
+			<a href="https://twitter.com/share" class="twitter-share-button" data-related="dev_hell" data-lang="en" data-size="small" data-count="none">Tweet</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</div>
+
+	</div>
+
+  <h1><a href="/">/<span class="title-color-2">dev</span>/<span class="title-color-2">hell</span></a> <div class="logo"></div></h1>
+  
+    <h2>The Development Hell Podcast</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss email">
+  <li><a href="http://feeds.devhell.info/devhell-podcast" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+    <li><a href="http://devhell.info/subscribe-email.html" rel="subscribe-email" title="subscribe via email">Email</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:devhell.info" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Newest</a></li>
+  <li><a href="/sponsors">Sponsors</a></li>
+  <li><a href="/shop">Swag Shop</a></li>
+  <li><a href="/irc">Chat</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2016-12-18/brand-dilution-as-a-source-of-happiness/">Episode 85: Brand Dilution as a Source of Happiness</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-12-18T15:23:00-05:00" pubdate data-updated="true">Dec 18<span>th</span>, 2016</time>
+        
+         | <a href="/post/2016-12-18/brand-dilution-as-a-source-of-happiness/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/strupey/4181991084/in/photolist-7nxNfy-7kJBMX-93NKXG-qm2kX-7ntSgV-7ntVRT-ejH5TJ-aWoqPB-nxKAuT-58ZRGE-aPikPB-aPik84-aPikAz-pvzQ1D-aVVJLg-5M3TVP-irXppT-5LHo88-6nMzZV-7Qg7B1-aPiktv-qsgkCV-a4p1WN-iRjYW3-bMhwkP-qsgtQ6-bynRe1-iRqmZU-5KHCYf-5M875h-pz5Yxx-7Qe9ig-irYrVA-8fq6bE-j1iAYq-MbP6W-i4uVmU-9v3SFA-dUmpb-nxLNoS-okvPGZ-93WVTv-oiHEdA-oiyDJj-AaazD-oiHQzs-ngziLX-o2hn2c-7nxML5-7Qh6sq" title="Holiday Spectacular"><img src="https://c5.staticflickr.com/3/2629/4181991084_f9432b74f7_z.jpg" width="640" height="339" alt="Holiday Spectacular"></a></p>
+
+<p>Welcome to our end-of-year episode! It has been probably the most gratifying
+year in a long time for both Chris and Ed. Chris' work at Mozilla has really
+changed his perspective on the value of the open web and his future. Ed
+finally got the chance to sink his teeth into a true leadership role at
+GraphStory and with a lot of help OSMI became a non-profit poised to continue
+doing excellent work in the field of bringing awareness to mental health issues.</p>
+
+<p>Crazy travel schedules, the last TrueNorthPHP, Chris and Ed laughing about things more than usual, and a very passionate non-testing-related speech from Chris can be found in this final episode of 2016.</p>
+
+<p>We know 2016 sucked for a lot of people and 2017 is likely to suck worse.
+Hang in there, we will be here for you.</p>
+
+<p>Feel like helping OSMI raise some money this Christmas while consuming
+conspicuously? Please consider using <a href="https://smile.amazon.com/ch/81-3587896">Amazon Smile</a>
+to send a small portion of each purchase to OSMI.</p>
+
+<p>We&rsquo;ve included a large number of links below for things we have bought or
+considered buying for our loved ones (and often ourselves) with <a href="https://smile.amazon.com/ch/81-3587896">Smile affiliation</a>.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="https://wondernetwork.com/">WonderNetwork</a> and <a href="https://grumpy-learning.com">Grumpy Learning</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h1>Listen</h1>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/55390?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/55390.mp3" rel="enclosure">Download now (MP3)</a></p>
+
+<h1>Links and Notes</h1>
+
+<h2><a href="https://smile.amazon.com/ch/81-3587896">GO HERE FIRST BEFORE YOU BUY</a></h2>
+
+<p><a href="https://smile.amazon.com/ch/81-3587896">Amazon Smile</a> purchases all benefit <a href="https://osmihelp.org">Open Sourcing Mental Illness</a>.</p>
+
+<ul>
+<li><a href="https://www.tombihn.com/products/aeronaut-45?variant=16381010823">Tom Bihn AERONAUT 45</a></li>
+<li><a href="https://www.nomatic.com/pages/the-nomatic-travel-bag">NOMATIC Bag</a></li>
+<li><a href="https://smile.amazon.com/dp/B00ATH64EA/ref=smi_www_rco2_go_smi_2609328962?_encoding=UTF8&amp;ascsubtag=WC29498&amp;ie=UTF8&amp;linkCode=xm2&amp;tag=thewire06-20">eBags eTech 2.0 Weekender Convertible</a></li>
+<li><a href="https://smile.amazon.com/Travelpro-Platinum-Express-Rollaboard-Suitcase/dp/B00X6JRSMK?_encoding=UTF8&amp;ascsubtag=WC29498&amp;linkCode=xm2&amp;tag=thewire06-20">Travelpro Platinum Magna 2 22 Ince Express Rollaboard Suitcase</a></li>
+<li><a href="https://smile.amazon.com/Luggage-Business-Holder-TUFFTAAG-Options/dp/B00PNSNEBG?_encoding=UTF8&amp;ascsubtag=WC29498&amp;linkCode=xm2&amp;tag=thewire06-20">TUFFTAAG Travel ID Bag Tag</a></li>
+<li><a href="https://smile.amazon.com/Outdoor-Research-Ultralight-Z-Compression-Supernova/dp/B00ATNI56Y?_encoding=UTF8&amp;ascsubtag=WC29498&amp;linkCode=xm2&amp;tag=thewire06-20">Outdoor Research Ultralight Z-Compression Sac</a></li>
+<li><a href="https://smile.amazon.com/Eagle-Creek-Pack-Cube-Black/dp/B00F9S85CS?_encoding=UTF8&amp;ascsubtag=WC29498&amp;linkCode=xm2&amp;tag=thewire06-20">Eagle Creek Pack-It Cube Set</a></li>
+<li><a href="https://smile.amazon.com/Eagle-Creek-Toiletry-Organizer-Black/dp/B00F9S908Q?_encoding=UTF8&amp;ascsubtag=WC29498&amp;linkCode=xm2&amp;tag=thewire06-20">Eagle Creek Pack-It Slim Kit Toiletry Organizer</a></li>
+<li><a href="https://smile.amazon.com/BESTEK-Universal-Worldwide-worldwide-converter/dp/B00RBFK59I?_encoding=UTF8&amp;ascsubtag=WC29498&amp;linkCode=xm2&amp;tag=thewire06-20">BESTEK Grounded Universal Plug Worldwide Plug Travel Adapter</a></li>
+<li><a href="https://smile.amazon.com/Skooba-R750-300-Cable-Stable-Black/dp/B003D0ID8U?_encoding=UTF8&amp;ascsubtag=WC29498&amp;linkCode=xm2&amp;tag=thewire06-20">Skooba Design Cable Stable DLX</a></li>
+<li><a href="https://smile.amazon.com/Skooba-Cable-Stable-Mini-750-250/dp/B0058S883K/ref=sr_1_1?s=electronics&amp;ie=UTF8&amp;qid=1481734485&amp;sr=1-1&amp;keywords=skooba+design+cable+stable">Skooba Design Cable Stable Mini</a></li>
+<li><a href="https://smile.amazon.com/Certified-Jackery-Ultra-Compact-External-Lightning/dp/B01A6L85CC?_encoding=UTF8&amp;ascsubtag=WC29498&amp;linkCode=xm2&amp;tag=thewire06-20">Jackery Bolt 6,000 mAh Ultra-Compact External Battery Charger, Portable Power Bank and Travel Charger with Built-in Lightning &amp; Micro USB Cables</a></li>
+<li><a href="https://smile.amazon.com/Anker-PowerCore-20000mAh-Portable-Qualcomm/dp/B00VLNT9KW?_encoding=UTF8&amp;ascsubtag=WC29498&amp;linkCode=xm2&amp;tag=thewire06-20">Anker PowerCore 20000 with Quick Charge 3.0</a></li>
+<li><a href="https://smile.amazon.com/Nomader-Collapsible-Sports-Water-Bottle/dp/B016AX6PI6?_encoding=UTF8&amp;ascsubtag=WC29498&amp;linkCode=xm2&amp;tag=thewire06-20">Nomader Collapsible Water Bottle</a></li>
+<li><a href="https://smile.amazon.com/Samsung-2-5-Inch-Internal-MZ-75E500B-AM/dp/B00OBRE5UE?_encoding=UTF8&amp;ascsubtag=WC24023&amp;linkCode=xm2&amp;tag=thewire06-20">Samsung 850 EVO 500GB 2.5-Inch SATA III Internal SSD</a></li>
+<li><a href="https://smile.amazon.com/AUKEY-Adapter-MacBook-Google-OnePlus/dp/B01AUKU1OO?_encoding=UTF8&amp;ascsubtag=WC95831&amp;linkCode=xm2&amp;tag=thewire06-20">AUKEY USB-C to USB 3.0 Adapter (2 Pack)</a></li>
+<li><a href="https://smile.amazon.com/Satechi-Aluminum-Multi-Port-Adapter-Charging/dp/B01J4BO0RO?_encoding=UTF8&amp;ascsubtag=WC95831&amp;linkCode=xm2&amp;tag=thewire06-20&amp;th=1">Satechi Slim Aluminum Type-C Multi-Port Adapter with Type-C Charging Port, 4K HDMI (30Hz) Video Output, and 2 USB 3.0 Ports for MacBook 12 and New MacBook Pro 2016</a></li>
+<li><a href="https://smile.amazon.com/Blue-Yeti-USB-Microphone-Silver/dp/B002VA464S?_encoding=UTF8&amp;ascsubtag=WC23766&amp;linkCode=xm2&amp;tag=thewire06-20">Blue Yeti USB Microphone</a></li>
+<li><a href="https://smile.amazon.com/Shure-Digital-Condenser-Microphone-Lightning/dp/B010W6W9EQ?_encoding=UTF8&amp;ascsubtag=WC23766&amp;linkCode=xm2&amp;tag=thewire06-20&amp;th=1">Shure MV5 Digital Condenser Microphone (Gray) + USB &amp; Lightning Cable</a></li>
+<li><a href="https://smile.amazon.com/STM-Blazer-Padded-Sleeve-Screens/dp/B01C8PIAXS/ref=pd_sbs_309_2?_encoding=UTF8&amp;psc=1&amp;refRID=XP19Z1G5RS3DADR20VYZ">STM Blazer Padded Sleeve with Shoulder Strap</a></li>
+<li><a href="https://smile.amazon.com/NETGEAR-AC1750-Router-800MHz-Processor/dp/B00Z0V2NQ8?_encoding=UTF8&amp;ascsubtag=WC29013&amp;linkCode=xm2&amp;tag=thewire06-20">NETGEAR AC1750 Smart WiFi Router Dual Core 800MHz Processor &ndash; Router Only (R6400-100NAS)</a></li>
+<li><a href="https://smile.amazon.com/Audio-Technica-ATH-ANC7B-QuietPoint-Noise-Cancelling-Closed-Back/dp/B002HWJT1A?_encoding=UTF8&amp;ascsubtag=WC9210&amp;linkCode=xm2&amp;tag=thewire06-20">Audio-Technica ATH-ANC7B QuietPoint Active Noise-Cancelling Closed-Back Headphones &ndash; Wired</a></li>
+<li><a href="https://smile.amazon.com/Jabra-MOVE-Wireless-Bluetooth-Headphones/dp/B00MR8Z28S?_encoding=UTF8&amp;ascsubtag=WC27660&amp;linkCode=xm2&amp;tag=thewire06-20&amp;th=1">Jabra Move Wireless Stereo Headset &ndash; Black</a></li>
+<li><a href="https://www.yubico.com/">Yubi Key for hardware auth</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2016-10-22/whiny-feedback-loops/">Episode 84: Whiny Feedback Loops</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-10-22T14:11:00-04:00" pubdate data-updated="true">Oct 22<span>nd</span>, 2016</time>
+        
+         | <a href="/post/2016-10-22/whiny-feedback-loops/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/quinnanya/2585258297/in/photolist-4Ws8dV-9RS2Wc-fh6Ax2-i2Wdf5-4h15he-cDH16o-dYrYWy-dx3LuY-brVhKj-9pRvi7-6HdP3b-dNAdU-49rZUS-7rysUb-8HeHAH-86Tr8N-4B42ND-8aC9nm-6ahsFh-ddKNqQ-4BrQdJ-7e6sAR-aCcQF-4JqpsF-4zopte-jzXJT9-7Ci8nb-rbxw65-3K47Sp-7e6soc-8azwXk-6Rk6qt-4svYxN-dGr2Ek-dtA3xj-EZYmU-5cBK5K-5xjtGH-PNfL2-pGFsx-4N1y6-EHWEkT-vCi6Wj-ppixB-8ypxpQ-8QWVDV-2vPyei-LBUDW-5X9ceS-aJMfcg" title="The whiny shield"><img src="https://c2.staticflickr.com/4/3183/2585258297_9bd8d7975c_z.jpg" width="640" height="427" alt="The whiny shield"></a></p>
+
+<p>Chris and Ed record a very quick show to talk about Ed&rsquo;s latest conference
+adventure, the launch of some new stuff from OSMI, and Chris talks about
+feedback loops, hoodies that don&rsquo;t fit, and the end of TrueNorthPHP.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="https://wondernetwork.com/">WonderNetwork</a> and <a href="https://grumpy-learning.com">Grumpy Learning</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/50403?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/50403.mp3" rel="enclosure">Download now (MP3)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>Ed spoke at <a href="https://www.devspaceconf.com/">DevSpace 2016</a> in Huntsville</li>
+<li>There are now some <a href="https://leanpub.com/u/osmi">donations-welcome ebooks</a> available from <a href="https://osmihelp.org">OSMI</a></li>
+<li>Chris and Ed will have a rare meat-space meetup at <a href="http://www.cardtitan.com/eternal_weekend">Eternal Weekend</a></li>
+<li>All the OSMI t-shirts and hoodies are done through <a href="http://clockwise.io">Clockwise</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2016-10-11/sasquatch-uses-php/">Episode 83: Sasquatch Uses PHP</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-10-11T20:52:00-04:00" pubdate data-updated="true">Oct 11<span>th</span>, 2016</time>
+        
+         | <a href="/post/2016-10-11/sasquatch-uses-php/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/jimfischer/26436247304/in/photolist-Gh5Fij-s6xMwS-eaAVqU-auh9nW-4AdKEw-6s63KR-6s68Bp-4SDfm9-6sa7pN-6sakbC-6s6dxp-6u3jZp-eTZVAF-44E5de-6s61xD-8jdfZV-eUcbNY-3u27To-6sa6kN-87uzv1-6sajyb-cDfduC-6s6bw4-eQdSms-6fwFtJ-eUcgbN-9T1L1U-eTZSzt-6s6eEa-6s5WYH-5UR8AA-44Jb3S-6s6e4t-eTZQBt-4Sz3nH-eUcjw9-eTZR8D-eTZX7M-4RNcXx-8EjqQw-eTZTD6-bbQeHe-35UiHn-512Lya-7dHcRH-fvfAnb-ewgnAf-4RSwHS-eTZTpH-6fwJdA" title="Sasquatch"><img src="https://c1.staticflickr.com/8/7385/26436247304_f9c6c65d95_z.jpg" width="640" height="429" alt="Sasquatch"></a></p>
+
+<p>Pacific Northwest PHP co-organizer Tess Mero joins Ed and Chris to discuss her work organizing one of the newer regional conferences, Joomla, and what the hell does Cisco have to offer PHP developers.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="https://wondernetwork.com/">WonderNetwork</a> and <a href="https://grumpy-learning.com">Grumpy Learning</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/49655?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/49655.mp3" rel="enclosure">Download now (MP3)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>Tessa&rsquo;s <a href="http://tessamero.com">blog</a> and <a href="https://twitter.com/tessamero">Twitter account</a></li>
+<li><a href="http://www.imdb.com/title/tt1228953/">Big Fan</a> with Patton Oswalt</li>
+<li><a href="https://developer.cisco.com/site/devnet/home/index.gsp">Cisco DevNet</a></li>
+<li><a href="https://thinkful.com">Thinkful</a></li>
+<li>The always awesome <a href="https://twitter.com/jeremeamia">Jeremy Lindblom</a></li>
+<li><a href="https://www.joomla.org">Joomla</a></li>
+<li>Tessa learned a lot about Joomla via courses at <a href="https://ostraining.com">Open Source Training</a></li>
+<li>Fellow developer evangelist <a href="https://twitter.com/mikegstowe">Mike Stowe</a></li>
+<li><a href="https://www.ciscospark.com/">Cisco Spark</a></li>
+<li><a href="https://www.tropo.com/">Tropo</a></li>
+<li>The <a href="http://pnwphp.com/">Pacific Northwest PHP</a> conference</li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2016-09-09/open-24-hours-just-not-all-in-one-day/">Episode 82: Open 24 Hours, Just Not All in One Day</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-09-09T17:59:00-04:00" pubdate data-updated="true">Sep 9<span>th</span>, 2016</time>
+        
+         | <a href="/post/2016-09-09/open-24-hours-just-not-all-in-one-day/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="https://www.flickr.com/photos/internetarchivebookimages/14586355978/in/photolist-odWTsb-oeQ15Y-od7zVL-ov94Ht-ouqUL3-ow733v-ouAwhr-osnBAw-octbrU-odZKJt-ow5YqK-ouPnKk-ocUGPj-of1exP-oskRtW-oucmde-oeWXVA-ouhM4T-odi9Mz-owhL3L-oeRQUZ-odH7da-ow9J4a-owp8ci-tDfYce-od9M7P-qtS5iZ-obGPqd-osqpTC-odfzhf-owere9-tjfc3N-ocVQ32-ovch1h-owjL6M-ouowsh-otESPc-owy8rX-oy7V2z-ouAY4M-otmxZ4-oumXoA-ouxDb9-wP33CD-ocCiJw-owb4Ni-odqAtJ-ou46EZ-oeUL8F-x4ebYY" title="Image from page 64 of &quot;Time and its measurement&quot; (1909)"><img src="https://c3.staticflickr.com/3/2913/14586355978_68d19c3447_z.jpg" width="640" height="636" alt="Image from page 64 of &quot;Time and its measurement&quot; (1909)"></a></p>
+
+<p>In this scintillating episode Chris and Ed shift gears and talk about their own
+experiences working &ldquo;in the open&rdquo;. Chris is very fortunate that everything he
+does at Mozilla gets open-sourced while Ed talks about his experiences back
+when he was running Spaz.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="https://wondernetwork.com/">WonderNetwork</a> and <a href="https://grumpy-learning.com">Grumpy Learning</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/46639?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/46639.mp3" rel="enclosure">Download now (MP3)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>Chris' work at <a href="https://mozilla.org">Mozilla</a> generally ends up in their <a href="https://github.com/mozilla-services">Mozilla Services GitHub repo</a></li>
+<li>When Ed&rsquo;s <a href="https://graphstory.com">employer</a> does open source things, they fall under the <a href="https://github.com/graphstory">Graph Story repo</a></li>
+<li>Mozilla is using <a href="https://testpilot.firefox.com/">TestPilot</a> to test new features for their browsers</li>
+<li>Opera had a pretty nasty <a href="https://www.opera.com/blogs/security/2016/08/opera-server-breach-incident/">security breach</a></li>
+<li>Ed mentioned that one of Graph Story&rsquo;s open source projects is a <a href="https://github.com/GraphStory/neo4j-ios">iOS Neo4J library</a></li>
+<li>Ed is also getting better at branding &mdash; GLOSSY has been renamed <a href="https://www.meetup.com/hacklafayette">HackLafayette</a> despite Chris saying it should be called G-POSSY</li>
+<li>The last ever <a href="http://truenorthphp.ca">TrueNorthPHP</a> is coming up fast &mdash; November 3-5</li>
+<li>Ed was the lead on <a href="http://getspaz.com/">Spaz</a>, one of the first 3rd party Twitter clients</li>
+<li>Chris used to get great schadenfreude by reading about all sorts of stupid failed startups over at <a href="https://web.archive.org/web/20070323010419/http://fuckedcompany.com/">Fucked Company</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2016-08-28/it-feels-good-to-be-a-d-list-internet-superstar/">Episode 81: It Feels Good to Be a D-List Internet Superstar</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-08-28T19:34:00-04:00" pubdate data-updated="true">Aug 28<span>th</span>, 2016</time>
+        
+         | <a href="/post/2016-08-28/it-feels-good-to-be-a-d-list-internet-superstar/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="https://www.flickr.com/photos/noticeofmeowery/88789365/in/photolist-8R4Z8-9ytWTn-aqMd7-9ywXad-aqLdA-9cv9L-95jGKr-9ywY5N-6EKWRL-9ywWPJ-9ywYws-85Wb9b-9ywZ5U-6WUHqq-8R4Z9-cFAzks-hYtQv-6vSd1u-5m4Cyh-62v229-hNfJ7E-9poQaD-CJUek-7KCFde-7xY4cR-dQC6KJ-aqEpDb-4bkvDf-5TgruS-8xSb7p-buo8vo-7Uy6nP-9ywWxG-9ytYhp-9ywYpw-qzp2Da-b8xxPz-hYoziF-9XkErn-aqLAV-aqLxs-aqMfp-89rvbb-4dUA6w-7AeDBZ-vi9F1-68MFwS-9ywWro-9ytWCV-ay2Cf9" title="Hulk Hogan"><img src="https://c6.staticflickr.com/1/40/88789365_16f4b86404_z.jpg" width="640" height="418" alt="Hulk Hogan"></a></p>
+
+<p>This time around Chris and Ed attempt to shame you with their D-lister activities and ability to purchase things they want but don&rsquo;t need.</p>
+
+<p>We cover PyOhio, the long-anticipated php|cruise, and some useful gadgets they&rsquo;ve incorporated into their work flows.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="https://wondernetwork.com/">WonderNetwork</a> and <a href="https://grumpy-learning.com">Grumpy Learning</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/45485?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/45485.mp3" rel="enclosure">Download now (MP3)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>Ed spoke about his usual stuff at <a href="http://www.pyohio.org/">PyOhio</a> and Chris thought the event looked awesome</li>
+<li>Ed&rsquo;s <a href="https://www.youtube.com/watch?v=E6hU2b0mg18&amp;index=7&amp;list=PL2k6bbM_wgju204mCEyw3bmDH62dp_sLu">talk from PyOhio</a></li>
+<li>Chris got sucked in by the Facebook advertising for the <a href="https://www.hengedocks.com">Henge Dock</a></li>
+<li>Chris brought his long-suffering wife along with him for <a href="https://cruise.phparch.com">php|cruise</a> and highly recommends cruising as a vacation option</li>
+<li>Ed likes the <a href="http://amzn.to/2aN6j42">Roost Laptop Stand</a></li>
+<li>Chris bought some generic monitor-stand-and-USB hub at <a href="http://www.winners.ca/en/">Winners</a></li>
+<li>Ed had some UPS fun with his new <a href="https://www.tombihn.com/collections/travel-bags">Tom Bihn bag</a></li>
+<li>Both Chris and Ed highly recommend the Wirecutter&rsquo;s <a href="http://thewirecutter.com/reviews/travel-guide/">travel gear guide</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2016-08-02/lifestyles-of-the-moderately-privileged-and-internet-famous/">Episode 80: Lifestyles of the Moderately Privileged and Internet Famous</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-08-02T15:08:00-04:00" pubdate data-updated="true">Aug 2<span>nd</span>, 2016</time>
+        
+         | <a href="/post/2016-08-02/lifestyles-of-the-moderately-privileged-and-internet-famous/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="https://www.flickr.com/photos/nationaalarchief/4792808041/in/photolist-8iwoRp-f9Pa46-kMQFAi-7doxUH-bczRDP-4TnGue-65C679-pvzGaV-aXJCDp-hAkhor-c5c3my-gEZYGP-h6ngw5-sfL8rP-9FaSZX-hTHacW-dQi7dn-bsVuV1-ej7G17-a8JP2H-g2w4cb-aXJE5T-4i7rZn-9ioi54-qQgwpr-dRCgKq-dQhvXT-rsm8FF-c13ND7-dQpohE-e8TuLJ-fAjMUy-isod6a-9sHgSx-5Vt1Lg-nQBXLA-s9yosM-quxK9N-uSfAys-9FdGJY-jCrwU8-cunGEL-9kAmCc-h2HZPA-dQi83i-fqEzD1-bbEabe-qPGDPk-cnhv2W-cnhv61" title="Op reis met de trein / Traveling by train"><img src="https://c2.staticflickr.com/5/4139/4792808041_e2897bb4cc_z.jpg" width="640" height="467" alt="Op reis met de trein / Traveling by train"></a></script></p>
+
+<p>This episode, Chris remembers his feline companion and Office Manager who passed away recently. Then we get into an insanely long discussion of travel tips and horror stories.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>If you liked the Office Manager, please donate to <a href="http://omhs.ca/">http://omhs.ca/</a></li>
+<li>Check out our <strong>sponsors</strong> <a href="https://wondernetwork.com/">WonderNetwork</a> and <a href="https://grumpy-learning.com">Grumpy Learning</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/43720?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/43720.mp3" rel="enclosure">Download now (MP3)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li><a href="https://www.cbp.gov/travel/trusted-traveler-programs/nexus">Nexus</a></li>
+<li><a href="https://www.tsa.gov/precheck">TSA Pre-check</a></li>
+<li><a href="https://www.dhs.gov/e-passports">E-passport</a></li>
+<li><a href="http://www.lawa.org/welcome_lax.aspx?id=256">map of LAX</a></li>
+<li><a href="https://cruise.phparch.com">php[cruise] 2016</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2016-07-11/unlikely-hero-fails-to-press-mute/">Episode 79: Unlikely Hero Fails to Press Mute</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-07-11T15:51:00-04:00" pubdate data-updated="true">Jul 11<span>th</span>, 2016</time>
+        
+         | <a href="/post/2016-07-11/unlikely-hero-fails-to-press-mute/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="https://www.flickr.com/photos/adactio/2802074441/in/photolist-5gBn7i-5LGVv4-9xJZ9h-bd1xHr-qYY4AW-CAoPe-m7o3ta-48kfTa-5SeeSX-Ejr2H-48phJY-48kfWr-761wP3-48kfVr-48kg84-fgg9Su-6sYpPA-acDdsh-6wMtVG-UBnFB-48kfE4-6miLaL-7WT35E-drwWCj-8W11Av-2Hpw7y-6UVHua-5rsrfa-uhQ2My-poqzLv-bhUcPH-ocW5YU-5gFGFN-xFnSHZ-qrGLH2-ra6PFJ-qgXQTe-6WhpYB-3aPjK-bWPXCW-qftQqm-dvx4qL-mN1iRR-bXARY5-92thWG-bXANBY-bXACiw-ey6kqT-5UBxj6-duDjAX" title="Mute"><img src="https://c2.staticflickr.com/4/3217/2802074441_3b743e37b1_z.jpg" width="640" height="480" alt="Mute"></a></p>
+
+<p>This time out we spoke with Noelle Daley who shared her experiences at New Relic moving developer relations to being a developer via a programming bootcamp. We also discussed Ed&rsquo;s latest round of work promoting OSMI and Noelle&rsquo;s talk she gave at OSBridge in Portland.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="https://wondernetwork.com/">WonderNetwork</a> and <a href="https://grumpy-learning.com">Grumpy Learning</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/42006?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/42006.mp3" rel="enclosure">Download now (MP3)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li><a href="https://twitter.com/elnoelle">Noelle on Twitter</a></li>
+<li>Noelle polished up her developer skills at <a href="https://hackbrightacademy.com">HackBright</a></li>
+<li>She works on the <a href="https://newrelic.com/application-monitoring">New Relic APM</a> product</li>
+<li>It&rsquo;s pretty awesome that <a href="https://newrelic.com">New Relic</a> provides opportunities for people to transition into different types of jobs</li>
+<li>Ed&rsquo;s local newspaper <a href="http://www.jconline.com/story/opinion/columnists/dave-bangert/2016/06/24/bangert-unlikely-hero-mental-health-tech-world/86169292/">talked about his work on OSMI</a></li>
+<li>Chris had a great time at <a href="http://2016.phpsouthcoast.co.uk">PHP Southcoast</a></li>
+<li>He also got to hangout with 1300 fellow co-workers in <a href="https://mozillalondonallhands2016.sched.org/">London</a></li>
+<li>Perl 5&rsquo;s super-chill <a href="https://twitter.com/PerlSawyer">release manager</a></li>
+<li><a href="http://opensourcebridge.org/">Open Source Bridge</a></li>
+<li>Find out what conferences are accepting papers at <a href="https://thecfpreport.com">The CFP Report</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2016-06-08/who-leaves-velveeta-and-no-beer-in-a-fridge/">Episode 78: Who Leaves Velveeta and No Beer in a Fridge?</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-06-08T14:28:00-04:00" pubdate data-updated="true">Jun 8<span>th</span>, 2016</time>
+        
+         | <a href="/post/2016-06-08/who-leaves-velveeta-and-no-beer-in-a-fridge/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/statelibraryqueensland/7028283837/in/photolist-bH4MVx-4jCCJU-ouoAJh-qD3329-8JJDeP-kgYSo4-oePF8F-6nFAnw-jsuriV-fpS3bW-oixKH4-bos53m-4jyjim-idcPMu-kTMzaV-qs8rFx-bmTAsb-5xdSyw-8atDih-4jyxM4-qazCEw-iS75gF-4jyzxM-idVsa6-bH5ZGZ-6P85BB-hW64v9-brBvAY-6P86gn-6YYEjN-8cGDjz-boBteY-iZVgmH-oueUWL-a7Q7Gm-6PceZj-cqf1AE-i7EsZX-ouuaQs-ovpncq-oyd2kg-ouQMJa-4jyg1h-amTgs3-qdojp6-qaFVCg-6XgFnG-8LvAbP-kjSK8C-iS74Yg" title="Advertisement for Bulimba Beer brewed in Brisbane, 1900"><img src="https://c6.staticflickr.com/8/7133/7028283837_5556391425_b.jpg" width="726" height="1000" alt="Advertisement for Bulimba Beer brewed in Brisbane, 1900"></a></p>
+
+<p>It&rsquo;s rare that we have some folks who work for the same employer back-to-back
+on the show, but this time out we spoke with Jessica Rose. Jessica is <a href="https://twitter.com/limedaring">Tracy Osborne&rsquo;s</a> boss (Tracy was on the show in
+Episode 77) and talked about her own experiences creating a different kind of
+developer relations team at Dream Factory.</p>
+
+<p>Along the way we found out how much better Chris handled jet lag at the same
+Australian conference Jessica was at and how thankful she is her husband pays
+zero attention to Twitter.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/39206?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/39206.mp3" rel="enclosure">Download now (MP3)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li><a href="https://twitter.com/jesslynnrose">Jessica on Twitter</a></li>
+<li>Her employer <a href="https://twitter.com/dfsoftwarweinc">Dream Factory</a></li>
+<li>Jessica and Ed really enjoy <a href="https://airbnb.com">AirBnB</a> while Chris is a dedicated &ldquo;sharing economy&rdquo; hater. Meet the new middleman, same as the old middleman</li>
+<li>The famous <a href="http://wtftattoos.com/no-regerts-2/">&ldquo;no regerts&rdquo; tattoo</a></li>
+<li>The <a href="http://www.sjgames.com/car-wars/">Car Wars</a> game from Steve Jackson Games</li>
+<li>Read the crazy story of when Steve Jackson Games got a <a href="http://www.sjgames.com/SS/pdk-article.html">visit</a> from the U.S. Secret Service</li>
+<li><a href="https://en.wikipedia.org/wiki/Baseball_Stars">Baseball Stars</a></li>
+<li>Canadian hip-hop band <a href="https://www.youtube.com/watch?v=TEcjUE6XDeY">Dream Warriors</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Don_Rickles">Don Rickles</a></li>
+<li><a href="https://duckduckgo.com/?q=gap+jumpers&amp;t=ffab&amp;ia=web">Gap Jumpers</a></li>
+<li>Ian Banks <a href="https://en.wikipedia.org/wiki/The_Culture">&ldquo;The Culture&rdquo; series</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Basic_income">Univeral Basic Income</a></li>
+<li>Uber&rsquo;s plan to have <a href="https://www.theguardian.com/technology/2015/feb/03/are-driverless-cars-the-future-of-uber">driverless cars</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2016-05-24/escaping-to-the-canadian-hellscape/">Episode 77: Escaping to the Canadian Hellscape</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-05-24T09:14:00-04:00" pubdate data-updated="true">May 24<span>th</span>, 2016</time>
+        
+         | <a href="/post/2016-05-24/escaping-to-the-canadian-hellscape/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="https://www.flickr.com/photos/kurt-b/20613779190/in/photolist-xpz1o3-FV5XqA-7Y5Ye2-6yKFo5-7Y5XJM" title="HELLSCAPE"><img src="https://c7.staticflickr.com/1/672/20613779190_33170a954f_z.jpg" width="640" height="461" alt="HELLSCAPE"></a></p>
+
+<p>On the 77th episode of you favourite comedy podcast about technology and
+aging programmers, Chris and Ed spoke with Tracy Osborn about her new job
+in developer relations, living the sweet rent-free life in the Bay Area
+and how she is making the smart move of relocating with her Kanuckistanian
+husband to Toronto.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="http://backup-pro.com">Backup Pro</a>, <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Get 50% off Backup Pro&rsquo;s services by using the promo code &lsquo;devhell&rsquo;</li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/38252?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/38252.mp3" rel="enclosure">Download now (MP3)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>Tracy on <a href="https://twitter.com/limedaring">Twitter</a></li>
+<li>She works at <a href="https://dreamfactory.com">DreamFactory</a></li>
+<li>Her <a href="http://WeddingLovely.com">wedding startup</a></li>
+<li><a href="http://500.co/accelerator">500 Startups Accelerator</a></li>
+<li>Be sure to read the source at <a href="http://reportive.com">Reportive.com</a></li>
+<li><a href="https://www.docker.com">Docker</a></li>
+<li>The <a href="http://www.5drivein.com/">drive-in theatre near Chris</a></li>
+<li>Tracy went to <a href="http://calpoly.edu/">Cal Poly</a> for Computer Science but quickly switched</li>
+<li>Zed Shaw&rsquo;s <a href="http://learnpythonthehardway.org">Learn Python The Hard Way</a></li>
+<li>Tracy&rsquo;s <a href="https://hellowebapp.com/">Hello Web App books</a></li>
+<li>Both Chris and Tracy know <a href="https://unicornfree.com">Amy Hoy</a></li>
+<li>Ed&rsquo;s <a href="https://twitter.com/funkatron/status/730089189006528512">series</a> <a href="https://twitter.com/funkatron/status/730089742541463552">of</a> <a href="https://twitter.com/funkatron/status/730089990127005697">tweets</a> about a self-absorbed programmer giving up on <a href="http://rubyonrails.org">Rails</a></li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/post/2016-05-08/no-youre-a-tool/">Episode 76: No, YOU'RE a Tool</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2016-05-08T22:20:00-04:00" pubdate data-updated="true">May 8<span>th</span>, 2016</time>
+        
+         | <a href="/post/2016-05-08/no-youre-a-tool/#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><img src="/images/posts-images/episode-76.jpg" width="640" height="351" alt="Alone."></p>
+
+<p class="photo-credit">Photo by Sira Sara - <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></p>
+
+
+<p>Chris and Ed sit down to talk about their recent travels to conference both
+near and far and to also discuss what tools and languages they have been using
+at their day jobs.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Check out our <strong>sponsors</strong> <a href="http://backup-pro.com">Backup Pro</a>, <a href="http://roave.com">Roave</a> and <a href="https://wondernetwork.com/">WonderNetwork</a></li>
+<li>Get 50% off Backup Pro&rsquo;s services by using the promo code <code>devhell</code></li>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/37308?style=dark' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/37308.mp3" rel="enclosure">Download now (MP3, 89.6MB, 1:34:39)</a></p>
+
+<h1>Links and Notes</h1>
+
+<p>Tools we use:</p>
+
+<h3>Languages:</h3>
+
+<ul>
+<li>Ed: PHP, JavaScript, Python</li>
+<li>Chris: Python with a side of PHP</li>
+</ul>
+
+
+<h3>Editors:</h3>
+
+<ul>
+<li><a href="https://www.jetbrains.com/phpstorm/">PHPStorm</a>*</li>
+<li><a href="https://www.sublimetext.com/">Sublime Text</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GNU_nano">Nano</a></li>
+<li><a href="http://marked2app.com/">Marked</a> editor for previewing Markdown documents</li>
+<li><a href="https://atom.io">Atom</a></li>
+<li><a href="https://vim.org">Vim</a></li>
+</ul>
+
+
+<h3>Libraries and tools</h3>
+
+<ul>
+<li><a href="http://vuejs.org">Vue.js</a></li>
+<li><a href="https://github.com/jkbrzt/httpie">HTTPie</a></li>
+<li>Ed did not like <a href="https://webpack.github.io">Webpack</a></li>
+<li><a href="https://pytest.org">py.test</a></li>
+<li>Chris just got into the private beta for <a href="https://docker.com">Docker</a></li>
+<li><a href="https://luckymarmot.com/paw">Paw</a> HTTP client for OS-X</li>
+</ul>
+
+
+<h3>Things we wanted to use but never got into it</h3>
+
+<ul>
+<li>Ed: I bought multiple ruby and rails books</li>
+<li>Chris: Node, Emacs, step-through debuggers</li>
+</ul>
+
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+      <a class="prev" href="3">&larr; Older</a>
+    
+    <a href="/blog/archives">Blog Archives</a>
+    
+    <a class="next" href="1">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>Sponsors</h1>
+  <ul id="sponsors">
+    <li>
+        <a href="http://wondernetwork.com"><img src="/images/wonderlogo.png" alt="WonderNetwork"></a>
+    </li>
+  </ul>
+
+  <p><a href="/sponsors">Sponsor Development Hell &raquo;</a></p>
+</section>
+<section>
+  <h1>About /dev/hell</h1>
+  <p><a href="http://www.littlehart.net/atthekeyboard/">Chris Hartjes</a> and <a href="http://funkatron.com">Ed Finkler</a> are trapped in <strong>Development Hell</strong>. They record their freewheeling, uncensored discussions on programming the web, so future generations can learn from their failures.</p>
+</section>
+<section>
+<h1>Subscribe Now!</h1>
+<ul>
+	<li>
+		<!-- Begin MailChimp Signup Form -->
+		<div id="mc_embed_signup">
+		<form action="http://devhell.us6.list-manage2.com/subscribe/post?u=620f181d5f3c80cf4a4e08bdb&amp;id=c9367a4faf" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate quick-email-form" target="_blank" novalidate>
+		<div class="mc-field-group">
+			<label for="mce-EMAIL">Email Newsletter</label>
+			<div>
+				<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="your@email.com">
+				<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+			</div>
+		</div>
+			<div id="mce-responses" class="clear">
+				<div class="response" id="mce-error-response" style="display:none"></div>
+				<div class="response" id="mce-success-response" style="display:none"></div>
+			</div>	<div class="clear"> <a href="/subscribe-email.html">more &raquo;</a></div>
+		</form>
+		</div>
+
+		<!--End mc_embed_signup-->
+	</li>
+	<li><a href="https://geo.itunes.apple.com/us/podcast/dev-hell/id489840699?mt=2" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg) no-repeat;width:165px;height:40px;"></a></li>
+	<li><a href='https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Imprmrskff7gy2whw2f75ox3tvm?t%3D/dev/hell&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-mu-PartBadge-Mar2515-1' style="display:inline-block; overflow:hidden; background-image:url(https://play.google.com/intl/en_us/badges-music/images/badges/en_badge_web_music.png);  background-repeat: no-repeat; width:110px;height:40px; background-size:contain"></a></li>
+	<li><a href="http://feeds.devhell.info/devhell-podcast">RSS Feed</a></li>
+</ul>
+</section>
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2011 - 2019 Chris Hartjes and Ed Finkler -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'devhell';
+      
+        
+        var disqus_script = 'count.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
