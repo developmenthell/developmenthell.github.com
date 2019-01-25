@@ -10,7 +10,7 @@ Listen to a couple old dudes complain that they don't like PHP anymore. Yes, I k
 
 Feel free to hit [either](http://twitter.com/chartjes) of [us](http://twitter.com/funkatron) up on Twitter
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35258?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35258?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35258.mp3" rel="enclosure">Download now (MP3, 43MB, 01:26:19)</a>
 
 ### Links

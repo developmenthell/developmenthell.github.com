@@ -18,7 +18,7 @@ Big thanks to our new sponsor [**PancakeApp!**](http://pancakeapp.com?utm_source
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35310?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35310?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35310.mp3" rel="enclosure">Download now (MP3, 53.5MB, 1:54:03)</a>
 
 ## Links and Notes

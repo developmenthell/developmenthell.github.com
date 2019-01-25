@@ -10,5 +10,5 @@ Well crap. Episode 23 had a bad edit screwup in it, and the last 30m was basical
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35281?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35281?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35281.mp3" rel="enclosure">Download now (MP3, 40.1MB, 1:30:00)</a>

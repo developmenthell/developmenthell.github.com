@@ -33,7 +33,7 @@ even use the free park passes to Epcot, Hollywood Studios, or the Animal Kingdom
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35330?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35330?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35330.mp3" rel="enclosure">Download now (MP3, 93.2MB, 1:41:55)</a>
 
 ## Links and Notes

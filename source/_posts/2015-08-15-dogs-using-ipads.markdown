@@ -19,7 +19,7 @@ We recorded this ep with special guest Joe Ferguson about a month ago, but all s
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35325?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35325?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35325.mp3" rel="enclosure">Download now (MP3, 73.2MB, 1:23:12 )</a>
 
 ## Links and Notes

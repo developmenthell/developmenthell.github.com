@@ -20,7 +20,7 @@ Did you know **STICKERS ARE NOW AVAILABLE? BUY SOME NOW AT [devhell.info/shop](h
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35320?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35320?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35320.mp3" rel="enclosure">Download now (MP3, 50.5MB, 1:10:15 )</a>
 
 ## Links and Notes

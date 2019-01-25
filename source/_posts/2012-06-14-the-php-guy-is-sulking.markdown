@@ -19,7 +19,7 @@ If you love us, you will do these things:
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35271?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35271?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35271.mp3" rel="enclosure">Download now (MP3, 33.1MB, 1:16)</a>
 
 

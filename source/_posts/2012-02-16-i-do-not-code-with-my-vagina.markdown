@@ -16,7 +16,7 @@ Also, how awesome it is that she shares a birthday with a famous NFL player.
 
 Feel free to hit us up on [Twitter](https://twitter.com/dev_hell) or harass [Ed](https://twitter.com/funkatron) and [Chris](https://twitter.com/grmpyprogrammer) directly.
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35263?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35263?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35263.mp3" rel="enclosure">Download now (MP3, 65MB, 1:45)</a>
 
 ### Links

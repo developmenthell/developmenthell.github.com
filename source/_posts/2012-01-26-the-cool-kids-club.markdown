@@ -14,7 +14,7 @@ Oh yeah, you also find out our opinions on what constitutes a "well-written PHP 
 
 As always, we welcome your feedback. You can always hit us up on [Twitter](https://twitter.com/dev_hell) where we love to read what you say and promptly ignore it or privately mock it. 
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35261?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35261?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35261.mp3" rel="enclosure">Download now (MP3, 51MB, 1:20:18)</a>
 
 ### Links

@@ -17,7 +17,7 @@ In this podcast recorded AFTER True North PHP, Chris and Ed are joined by the es
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35298?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35298?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35298.mp3" rel="enclosure">Download now (MP3, 26.5MB, 59:40)</a>
 
 ## Links and Notes

@@ -18,7 +18,7 @@ If you value humanity, you'll do these things:
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35275?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35275?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35275.mp3" rel="enclosure">Download now (MP3, 25.3MB, 57:49)</a>
 
 ### Links

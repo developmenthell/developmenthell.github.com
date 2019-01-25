@@ -21,7 +21,7 @@ Summary of the show:
 * How being opinionated and objective about a topic is impossible
 * Building your online brand
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35259?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35259?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35259.mp3" rel="enclosure">Download now (MP3, 40MB, 1:12:50)</a>
 
 ### Links

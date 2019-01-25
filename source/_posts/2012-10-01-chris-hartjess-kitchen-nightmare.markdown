@@ -20,7 +20,7 @@ If you're a Superfriend, you'll do these things:
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35277?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35277?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35277.mp3" rel="enclosure">Download now (MP3, 35.4MB, 1:21:40)</a>
 
 ### Links and Notes

@@ -24,7 +24,7 @@ If you're interested in sponsoring Development Hell, **[let us know!](mailto:dev
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35288?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35288?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35288.mp3" rel="enclosure">Download now (MP3, 38.5MB, 1:25:55)</a>
 
 ## Links and Notes

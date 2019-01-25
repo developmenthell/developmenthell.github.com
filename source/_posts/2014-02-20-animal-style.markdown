@@ -19,7 +19,7 @@ Anyway, this was recorded the night before [SkiPHP](https://www.skiphp.com) star
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35299?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35299?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35299.mp3" rel="enclosure">Download now (MP3, 26.2MB, 59:45)</a>
 
 ## Links and Notes

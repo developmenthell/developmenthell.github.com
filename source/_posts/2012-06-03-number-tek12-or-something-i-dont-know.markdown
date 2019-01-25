@@ -23,7 +23,7 @@ Please do this so we don't have to burn you alive:
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35270?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35270?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35270.mp3" rel="enclosure">Download now (MP3, 42.4MB, 1:07)</a>
 
 ### Watch

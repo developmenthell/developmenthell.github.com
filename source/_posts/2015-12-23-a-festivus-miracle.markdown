@@ -27,7 +27,7 @@ make fun of [Chris' new employer](http://mozilla.org)
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35329?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35329?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35329.mp3" rel="enclosure">Download now (MP3, 85.2MB, 1:34:25)</a>
 
 ## Links and Notes

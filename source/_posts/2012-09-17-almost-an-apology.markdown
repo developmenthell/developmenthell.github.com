@@ -18,7 +18,7 @@ If you're more animal than man, you'll do these things:
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35276?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35276?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35276.mp3" rel="enclosure">Download now (MP3, 42.1MB, 1:37:04)</a>
 
 ### Links and Notes

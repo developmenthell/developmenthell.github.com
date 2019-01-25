@@ -17,7 +17,7 @@ This weeks brings us a new guest and a new sponsor! Paddy Foran is an old friend
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35304?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35304?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35304.mp3" rel="enclosure">Download now (MP3, 30.5MB, 1:05:53)</a>
 
 ## Links and Notes

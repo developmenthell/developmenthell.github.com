@@ -19,7 +19,7 @@ So we recorded this nearly two months ago, but some family stuff delayed the rel
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35324?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35324?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35324.mp3" rel="enclosure">Download now (MP3, 70.1MB, 1:20:05 )</a>
 
 ## Links and Notes

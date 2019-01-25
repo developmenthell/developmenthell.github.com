@@ -17,7 +17,7 @@ In this podcast recorded *before* True North PHP, we talk to Paul M Jones, creat
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35297?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35297?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35297.mp3" rel="enclosure">Download now (MP3, 27.9MB, 1:02:24)</a>
 
 ## Links and Notes

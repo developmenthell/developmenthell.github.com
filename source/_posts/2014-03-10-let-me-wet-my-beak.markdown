@@ -16,7 +16,7 @@ This week we're joined by David Rogers, aka [@al_the_x](https://twitter.com/al_t
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35301?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35301?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35301.mp3" rel="enclosure">Download now (MP3, 36.2MB, 1:21:23)</a>
 
 ## Links and Notes

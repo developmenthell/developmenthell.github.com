@@ -12,7 +12,7 @@ In this episode we talk about dealnews, how they use PHP (and how they also use 
 
 Feel free to hit us up on [Twitter](https://twitter.com/dev_hell) or harras [Ed](https://twitter.com/funkatron) and [Chris](https://twitter.com/grmpyprogrammer) directly.
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35262?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35262?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35262.mp3" rel="enclosure">Download now (MP3, 41MB, 1:14:37)</a>
 
 ### Links

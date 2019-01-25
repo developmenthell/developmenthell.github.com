@@ -17,7 +17,7 @@ Our guest this week is [Beth Tucker Long](http://www.alittleofboth.com/), the ed
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35309?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35309?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35309.mp3" rel="enclosure">Download now (MP3, 25.6MB, 54:58)</a>
 
 ## Links and Notes

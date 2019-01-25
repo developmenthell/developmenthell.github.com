@@ -16,7 +16,7 @@ Back in the saddle for the double-tres, Chris and Ed rap about the loss of trust
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35293?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35293?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35293.mp3" rel="enclosure">Download now (MP3, 28.3MB, 1:02:20)</a>
 
 ## Links and Notes

@@ -17,7 +17,7 @@ This week is all about PERSONAL BRANDING and WEB SCALE with special guest Steve 
 
 ### Listen
 
-<iframe frameborder="0" height="36px" scrolling="no" seamless src="https://simplecast.com/e/35305?style=dark" width="100%"></iframe>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/35305?color=f5f5f5' width='100%'></iframe>
 <a href="http://audio.simplecast.com/35305.mp3" rel="enclosure">Download now (MP3, 26.7MB, 56:30)</a>
 
 ## Links and Notes
