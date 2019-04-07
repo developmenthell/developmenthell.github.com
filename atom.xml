@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2019-01-24T19:02:40-05:00</updated>
+  <updated>2019-04-06T21:31:42-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 97: Hot For Teacher]]></title>
+    <link href="http://devhell.info/post/2019-04-06/hot-for-teacher/"/>
+    <updated>2019-04-06T21:23:00-04:00</updated>
+    <id>http://devhell.info/post/2019-04-06/hot-for-teacher</id>
+    <content type="html"><![CDATA[<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/gammaman/41197271930/in/photolist-25LsMDU-c1tGkL-7jTcKQ-okGd94-dedqob-c1tbQE-5d4u2Y-bZuTvA-SFG7UW-5aK8jA-C1N8fb-bDPx79-c1tboW-4fk39U-2eZwJot-eUDjoV-24tuTre-nJ8tLo-9Mkcvk-XNWXmw-9RraXd-aexyos-2eZwJme-2e3rRM7-27Ua5Bp-2e3rQmb-aeuJVn-YCzFLW-2d4fNuw-Kzbc9-2dacZhK-2e3rR6h-SqNRXC-QR479X-SWQcc7-2e3rShf-bDPK8E-bSJCxe-s8PF7-5Cj3VK-zR8Mu-bSJBWH-bDPvfE-bDQ7Hu-SSj1r3-BMx1VJ-2e7iFzz-QR47QX-4fEAQo-aexBBC" title="Hot For Teacher (Van Halen)"><img src="https://live.staticflickr.com/1772/41197271930_0dbf15626f_z.jpg" width="640" height="480" alt="Hot For Teacher (Van Halen)"></a></p>
+
+<p>As we slouch along towards episode 100, we do something we normally don&rsquo;t do and have a guest on to try and sell a book they&rsquo;ve written.</p>
+
+<p>This time out we spoke with Dane Hillard, who is in the process of finishing a book about Python programming for folks who are new to programming. Dane shared his experiences writing the book and why he feels there is a gap in help out there for folks who are looking to add programming to their problem-solving toolkit.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/926ec1ba?color=f5f5f5' width='100%'></iframe>
+
+
+<p><a href="http://audio.simplecast.com/926ec1ba.mp3" rel="enclosure">Download now (MP3)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>You can find <a href="https://www.manning.com/books/code-like-a-pro">&ldquo;Code Like A Pro&rdquo;</a> at Manning books</li>
+<li>You can use the promo code <em>poddevhell19</em> to get 40% the book (and maybe others?)</li>
+<li>Dane used <a href="http://asciidoc.org/">ASCIIDOC</a> to format the book</li>
+<li>You can find Dane on The Twitters at <a href="https://twitter.com/easypython">@easypython</a></li>
+<li>Chris talks about how he is learning about <a href="https://pilsniak.com/cqrs-es-php-prooph/">CQRS and Event Sourcing</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 96: Chimps and Snakes and Boots]]></title>
@@ -3478,7 +3518,7 @@ A: &ldquo;$40k&rdquo;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&rsquo;s success.</p>
 
-<p>This episode&rsquo;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#x3a;&#116;&#105;&#x6c;&#108;&#43;&#112;&#x68;&#x70;&#64;&#105;&#109;&#x61;&#x67;&#x69;&#x6e;&#101;&#x65;&#97;&#x73;&#121;&#x2e;&#x63;&#x6f;&#109;">&#x74;&#105;&#108;&#108;&#x2b;&#x70;&#x68;&#x70;&#x40;&#x69;&#x6d;&#97;&#x67;&#x69;&#x6e;&#x65;&#x65;&#x61;&#x73;&#x79;&#46;&#99;&#x6f;&#x6d;</a>.</p>
+<p>This episode&rsquo;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#x74;&#105;&#x6c;&#108;&#x2b;&#112;&#104;&#x70;&#x40;&#x69;&#109;&#97;&#103;&#105;&#110;&#101;&#x65;&#x61;&#115;&#x79;&#46;&#99;&#111;&#109;">&#116;&#105;&#x6c;&#x6c;&#x2b;&#112;&#x68;&#112;&#64;&#105;&#x6d;&#x61;&#103;&#x69;&#110;&#101;&#101;&#x61;&#115;&#121;&#x2e;&#99;&#111;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -3535,7 +3575,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs' suicide, both in the context of governmental power and mental illness. We also talk about Ed&rsquo;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#111;&#58;&#116;&#105;&#x6c;&#108;&#43;&#112;&#104;&#112;&#64;&#x69;&#109;&#x61;&#103;&#x69;&#110;&#x65;&#x65;&#x61;&#x73;&#x79;&#x2e;&#x63;&#x6f;&#109;">&#116;&#x69;&#108;&#x6c;&#43;&#x70;&#x68;&#112;&#x40;&#x69;&#x6d;&#x61;&#x67;&#x69;&#110;&#x65;&#101;&#97;&#115;&#x79;&#x2e;&#99;&#111;&#x6d;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#x69;&#108;&#116;&#111;&#58;&#x74;&#x69;&#x6c;&#x6c;&#43;&#112;&#104;&#112;&#64;&#105;&#109;&#x61;&#103;&#x69;&#x6e;&#x65;&#x65;&#97;&#x73;&#x79;&#46;&#x63;&#111;&#x6d;">&#x74;&#105;&#x6c;&#x6c;&#x2b;&#x70;&#x68;&#112;&#x40;&#x69;&#x6d;&#x61;&#x67;&#x69;&#x6e;&#x65;&#x65;&#x61;&#115;&#x79;&#46;&#99;&#x6f;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
