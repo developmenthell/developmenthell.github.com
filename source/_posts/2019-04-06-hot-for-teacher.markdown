@@ -30,5 +30,5 @@ This time out we spoke with Dane Hillard, who is in the process of finishing a b
 * You can find ["Code Like A Pro"](https://www.manning.com/books/code-like-a-pro) at Manning books
 * You can use the promo code _poddevhell19_ to get 40% the book (and maybe others?)
 * Dane used [ASCIIDOC](http://asciidoc.org/) to format the book
-* You can find Dane on The Twitters at [@easypython](https://twitter.com/easypython)
+* You can find Dane on The Twitters at [@easyaspython](https://twitter.com/easyaspython)
 * Chris talks about how he is learning about [CQRS and Event Sourcing](https://pilsniak.com/cqrs-es-php-prooph/)
