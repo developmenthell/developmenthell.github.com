@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Episode 98: No Hair, Don't Care"
+date: 2019-10-26 15:49
+comments: true
+categories: podcast
+---
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/internetarchivebookimages/14781840514/in/photolist-owdNcd-6iktm2-owXqvk-92zWtA-odHkgJ-odiFLj-e8kxhp-ov4VD1-owjmoi-owrPUy-oeR5wF-od6NjA-oydHrZ-6B46i2-owbacA-oeX1Lx-ouBLzw-ouYb9x-oyad8e-ove4aW-oc6UN1-oygrjT-23ZJsVD-oukRZJ-odXZX4-oujjM5-ouBRaS-obYH3T-ocAcXX-ouBW7h-oupXom-owjwbb-odop6r-2fz3nBv-ouAzsU-e6Es2T-oeVGLM-otjsxg-orStKj-67PfNx-oeWye6-otjp4C-odYRCp-owvU7M-oup7K7-od8sFF-ocqWuP-ouDYie-odmEpY-qeRqkw" title="Image from page 478 of &quot;A practical treatise on diseases of the skin, for the use of students and practitioners&quot; (1897)"><img src="https://live.staticflickr.com/3863/14781840514_55997b46e2_c.jpg" width="769" height="800" alt="Image from page 478 of &quot;A practical treatise on diseases of the skin, for the use of students and practitioners&quot; (1897)"></a>
+
+
+This was recorded way too long ago. We even lost the episode notes that had been so carefully curated. What do you want from us?!?
+
+**BLINK TWICE IF YOU WANT MORE EPISODES.**
+
+
+## Do these things!
+
+* Buy stickers at [devhell.info/shop](http://devhell.info/shop)
+* Follow us on **Twitter** [here](https://twitter.com/dev_hell)
+* **Rate us** on iTunes [here](http://itunes.apple.com/us/podcast/dev-hell/id489840699)
+
+## Listen
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/d45a80e8-65b1-4907-af44-5dea03dbce5b?dark=false"></iframe>
+<a href="https://cdn.simplecast.com/audio/ccd866/ccd86610-7d0a-4103-8187-4ab21b1bbe8c/d45a80e8-65b1-4907-af44-5dea03dbce5b/ep98-128stereo_tc.mp3?aid=rss_feed" rel="enclosure">Download now (MP3)</a>
+
+
+# Links and Notes
+* Check out Ed's musical project [Dead Agent](https://deadagent.net)
+* Check out Chris' latest book ["The Grumpy Programmer's Guide To Testing PHP Applications"](https://leanpub.com/grumpy-guide)
