@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2019-10-26T16:15:08-04:00</updated>
+  <updated>2020-01-26T13:02:27-05:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 99: Can I Keep Flexing (Extended Mix)]]></title>
+    <link href="http://devhell.info/post/2020-01-26/can-i-keep-flexing-extended-mix/"/>
+    <updated>2020-01-26T12:47:00-05:00</updated>
+    <id>http://devhell.info/post/2020-01-26/can-i-keep-flexing-extended-mix</id>
+    <content type="html"><![CDATA[<p>Ed: &ldquo;Who do you think was our best guest over the years?&rdquo;
+Chris (without hesitating): &ldquo;Paul Reinheimer&rdquo;</p>
+
+<p>Friend-of-the-podcast Paul Reinheimer has know Ed and Chris for many years and has shared many wonderful stories about himself and his side-gig-turned-primary-gig <a href="https://wondernetwork.com">WonderNetwork</a> both in person and on previous episodes. Who else could tell us about their experiences of dealing with apathetic corporations who are hosting hardware for them in locations around there world?</p>
+
+<p>We jumped all over the place so dig into the show notes for some interesting content.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/0f4988c6-3352-4414-a243-74ed2c10bbc2?dark=false"></iframe>
+
+
+<p><a href="https://cdn.simplecast.com/audio/ccd866/ccd86610-7d0a-4103-8187-4ab21b1bbe8c/0f4988c6-3352-4414-a243-74ed2c10bbc2/ep99-128stereo_tc.mp3" rel="enclosure">Download now (MP3)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li>Paul likes using <a href="https://aws.amazon.com/athena/">Amazon Athena</a> for storing WonderNetwork&rsquo;s information-rich log files</li>
+<li>What to do when an <a href="https://en.wikipedia.org/wiki/HTC_Vive">HTC Vive</a> breaks before you even use it</li>
+<li><a href="https://www.spacepiratetrainer.com">Space Pirate Trainer</a></li>
+<li><a href="https://www.epicgames.com/store/en-US/product/control/home">Control (the game)</a></li>
+<li><a href="https://outerworlds.obsidian.net/en">The Outer Worlds</a></li>
+<li>The <a href="https://footballmanager.com">Football Manager</a> series of games</li>
+<li><a href="https://www.yoyogames.com/gamemaker">Game Maker Studio</a></li>
+<li><a href="https://raku.org/">Raku</a> is what Perl 6 ended up becoming</li>
+<li>The <a href="https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/">&ldquo;leftpad incident&rdquo;</a></li>
+<li>What is the <a href="https://en.wikipedia.org/wiki/Commonwealth_of_Nations">Commonwealth</a></li>
+<li>Chris uses <a href="https://wondernetwork.com/wondervpn">WonderVPN</a> for all his adult-content watching needs</li>
+<li>Ed is still making music over at <a href="https://deadagent.net/">Dead Agent</a></li>
+<li>We argued about <a href="https://blog.songtrust.com/publishing-tips-2/what-you-didnt-know-about-radio-royalties">radio royalties</a></li>
+<li>The well-off-but-not-elite people of Ontario often lust after properties in <a href="https://en.wikipedia.org/wiki/Cottage_country">Cottage country</a></li>
+<li><a href="https://microconf.com/">Microconf</a> is a conference for small business owners who don&rsquo;t intend on taking VC money</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 98: No Hair, Don't Care]]></title>
@@ -3555,7 +3606,7 @@ A: &ldquo;$40k&rdquo;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&rsquo;s success.</p>
 
-<p>This episode&rsquo;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#x74;&#x69;&#x6c;&#x6c;&#x2b;&#112;&#104;&#112;&#x40;&#x69;&#109;&#97;&#x67;&#105;&#x6e;&#x65;&#101;&#97;&#115;&#x79;&#x2e;&#x63;&#x6f;&#109;">&#116;&#105;&#x6c;&#x6c;&#43;&#112;&#104;&#x70;&#x40;&#x69;&#109;&#97;&#x67;&#x69;&#x6e;&#101;&#101;&#x61;&#115;&#x79;&#46;&#99;&#x6f;&#109;</a>.</p>
+<p>This episode&rsquo;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#111;&#x3a;&#x74;&#105;&#x6c;&#108;&#x2b;&#112;&#x68;&#x70;&#x40;&#105;&#109;&#x61;&#103;&#x69;&#x6e;&#101;&#x65;&#x61;&#115;&#121;&#46;&#99;&#x6f;&#x6d;">&#116;&#105;&#108;&#108;&#x2b;&#x70;&#x68;&#x70;&#x40;&#x69;&#x6d;&#97;&#x67;&#x69;&#110;&#x65;&#x65;&#97;&#115;&#121;&#x2e;&#99;&#111;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -3612,7 +3663,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs' suicide, both in the context of governmental power and mental illness. We also talk about Ed&rsquo;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#97;&#105;&#108;&#116;&#x6f;&#58;&#x74;&#105;&#x6c;&#108;&#43;&#112;&#104;&#112;&#x40;&#x69;&#x6d;&#97;&#103;&#105;&#110;&#101;&#101;&#97;&#115;&#121;&#46;&#x63;&#111;&#109;">&#x74;&#105;&#108;&#x6c;&#43;&#x70;&#x68;&#x70;&#x40;&#x69;&#109;&#x61;&#x67;&#105;&#x6e;&#101;&#x65;&#x61;&#x73;&#x79;&#x2e;&#x63;&#111;&#x6d;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#x6f;&#58;&#116;&#105;&#108;&#108;&#x2b;&#x70;&#x68;&#112;&#x40;&#105;&#x6d;&#97;&#103;&#x69;&#110;&#x65;&#101;&#x61;&#115;&#121;&#x2e;&#99;&#x6f;&#109;">&#116;&#x69;&#108;&#x6c;&#x2b;&#x70;&#x68;&#112;&#x40;&#x69;&#109;&#97;&#103;&#x69;&#110;&#x65;&#x65;&#x61;&#115;&#x79;&#x2e;&#99;&#111;&#x6d;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
