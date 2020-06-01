@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/hell]]></title>
   <link href="http://devhell.info/atom.xml" rel="self"/>
   <link href="http://devhell.info/"/>
-  <updated>2020-01-26T13:05:03-05:00</updated>
+  <updated>2020-05-31T21:59:20-04:00</updated>
   <id>http://devhell.info/</id>
   <author>
     <name><![CDATA[Chris Hartjes and Ed Finkler]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 100: The Final Rant]]></title>
+    <link href="http://devhell.info/post/2020-05-31/the-final-rant/"/>
+    <updated>2020-05-31T21:27:00-04:00</updated>
+    <id>http://devhell.info/post/2020-05-31/the-final-rant</id>
+    <content type="html"><![CDATA[<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/nlireland/32699111397/in/photolist-RPvuAH-264sH3P-2ghAqSq-2ckM4bA-QY6SAN-27hMtAY-RUXfPv-2a7EzKT-LJjoYU-23JdR7L-2dASPev-5E67fz-25rfAEY-JNcVgS-egd6EL-JFgLQm-PsSx6q-pEL4R2-N674rJ-6rVi64-NrDvCc-fpLNfk-2hzb1Qk-YMiPuY-HUZwoG-2gTtMeE-GSCxvD-4jz9tq-H7sTJ5-fpNhLK-2j4xiVn-JocSjd-GhQyNs-7VWmZ5-5JKxbX-HC6Unz-uaL76u-RxjjT7-HUoM8Y-2ip2sE4-oeTTwj-6P3Azt-pqMcEP-6Bk91T-GtMadt-otnzf9-qm2yXL-odnaBy-JTZUpL-ocU67C" title="The Queen is dead, long live the King!"><img src="https://live.staticflickr.com/65535/32699111397_ed6f510aca_c.jpg" width="617" height="800" alt="The Queen is dead, long live the King!"></a></p>
+
+<p>Hello friends. We have reached the end of the podcast. At least 100 times Ed and I got together to talk about our thoughts, mostly about technical things, sometimes it was funny, sometimes it was serious. But people change and decide to put their energies into other activities. It is neither good nor bad, it is just how people grow and evolve. If Ed and Chris had not grown and changed as people since we shared the first episode on December 11, 2011, that would’ve been a huge failure.</p>
+
+<p>Thank you to everyone that supported this podcast over the years and reached out to us and became friends with us. Ed and Chris might do something else in the future, but it will not be /dev/hell.</p>
+
+<p>If there is one constant theme, it has been how programming slides towards being complex and fails instead of the majority of people working hard towards making it simple. We end the same way we started &mdash; with Ed complaining about the developer experience being so terrible for so many people.</p>
+
+<p>Take care of yourselves and always be pushing to make things better for everyone around you, not just yourselves.</p>
+
+<h2>Do these things!</h2>
+
+<ul>
+<li>Buy stickers at <a href="http://devhell.info/shop">devhell.info/shop</a></li>
+<li>Follow us on <strong>Twitter</strong> <a href="https://twitter.com/dev_hell">here</a></li>
+<li><strong>Rate us</strong> on iTunes <a href="http://itunes.apple.com/us/podcast/dev-hell/id489840699">here</a></li>
+</ul>
+
+
+<h2>Listen</h2>
+
+<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/8e92122c-5541-49be-8929-4d5f2e5d1a44?dark=false"></iframe>
+
+
+<p><a href="https://cdn.simplecast.com/audio/ccd866/ccd86610-7d0a-4103-8187-4ab21b1bbe8c/8e92122c-5541-49be-8929-4d5f2e5d1a44/ep100-128stereo_tc.mp3" rel="enclosure">Download now (MP3)</a></p>
+
+<h1>Links and Notes</h1>
+
+<ul>
+<li><a href="http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf">How Complex Systems Fail</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 99: Can I Keep Flexing (Extended Mix)]]></title>
@@ -43,7 +83,7 @@ Chris (without hesitating): &ldquo;Paul Reinheimer&rdquo;</p>
 
 <p><a href="https://cdn.simplecast.com/audio/ccd866/ccd86610-7d0a-4103-8187-4ab21b1bbe8c/0f4988c6-3352-4414-a243-74ed2c10bbc2/ep99-128stereo_tc.mp3" rel="enclosure">Download now (MP3)</a></p>
 
-<h1>Links and Notesqz</h1>
+<h1>Links and Notes</h1>
 
 <ul>
 <li>Paul likes using <a href="https://aws.amazon.com/athena/">Amazon Athena</a> for storing WonderNetwork&rsquo;s information-rich log files</li>
@@ -3608,7 +3648,7 @@ A: &ldquo;$40k&rdquo;</p></blockquote>
 
 <p>This episode marks a return, both for special guest Selena Deckelmann, and our special hand-made artisan podcasting. Know that this episode was made with locally-sourced bytes, harvested with care and respect for the Earth. We talk with Selena about working at Mozilla, her switch to Linux on the desktop, and how marketing is weightier than merit in determining a product&rsquo;s success.</p>
 
-<p>This episode&rsquo;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#109;&#x61;&#x69;&#108;&#x74;&#x6f;&#58;&#x74;&#x69;&#x6c;&#108;&#x2b;&#x70;&#104;&#x70;&#x40;&#x69;&#109;&#97;&#x67;&#105;&#x6e;&#x65;&#x65;&#x61;&#115;&#x79;&#x2e;&#99;&#111;&#109;">&#116;&#x69;&#x6c;&#108;&#43;&#x70;&#104;&#x70;&#64;&#x69;&#x6d;&#97;&#103;&#x69;&#x6e;&#101;&#x65;&#x61;&#115;&#121;&#46;&#x63;&#111;&#x6d;</a>.</p>
+<p>This episode&rsquo;s super-special sponsor is EasyBib! They are looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#111;&#x3a;&#116;&#x69;&#108;&#108;&#43;&#112;&#x68;&#112;&#64;&#x69;&#x6d;&#x61;&#x67;&#x69;&#x6e;&#101;&#x65;&#x61;&#115;&#x79;&#46;&#99;&#x6f;&#x6d;">&#x74;&#x69;&#x6c;&#108;&#43;&#x70;&#x68;&#112;&#64;&#x69;&#109;&#97;&#x67;&#105;&#x6e;&#x65;&#x65;&#97;&#115;&#121;&#46;&#x63;&#111;&#x6d;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
@@ -3665,7 +3705,7 @@ cashmoney and bandwidth for our live stream, respectively.</p>
 
 <p>The first episode of 2013 find Chris and Ed talking about the tragedy of Aaron Swartzs' suicide, both in the context of governmental power and mental illness. We also talk about Ed&rsquo;s favorite (and only tolerable) Apple-related podcast ending. Finally, Ed rambles about SASS, a superset of CSS3 that makes writing CSS less painful.</p>
 
-<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#116;&#105;&#x6c;&#108;&#43;&#112;&#104;&#x70;&#64;&#105;&#109;&#97;&#103;&#x69;&#110;&#101;&#101;&#x61;&#115;&#121;&#46;&#99;&#111;&#109;">&#x74;&#105;&#x6c;&#x6c;&#43;&#112;&#104;&#112;&#64;&#x69;&#109;&#97;&#103;&#105;&#x6e;&#101;&#101;&#x61;&#115;&#121;&#46;&#99;&#111;&#x6d;</a>.</p>
+<p>We have a new sponsor! EasyBib is looking for junior and senior PHP devs to work on their awesome academic web app. <a href="http://gun.io/careers/1157/junior-senior-php-developers">Check out the job description</a> and email stuff to <a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#x6f;&#58;&#x74;&#105;&#108;&#108;&#x2b;&#x70;&#x68;&#x70;&#x40;&#x69;&#109;&#x61;&#x67;&#x69;&#x6e;&#x65;&#x65;&#x61;&#115;&#121;&#46;&#99;&#x6f;&#109;">&#116;&#x69;&#108;&#x6c;&#x2b;&#112;&#x68;&#112;&#64;&#105;&#x6d;&#x61;&#x67;&#105;&#110;&#x65;&#x65;&#97;&#115;&#121;&#x2e;&#x63;&#111;&#109;</a>.</p>
 
 <p>As always, thank you to our awesome sponsors at <a href="http://engineyard.com">Engine Yard</a>
 and <a href="http://wondernetworks.com">Wonder Network</a> for providing
